@@ -11,4 +11,10 @@ RAW = [
 tables = [pd.read_csv(path) for path in RAW]
 
 out = functools.reduce(lambda a, b: a.merge(b), tables)
+
+years = [f"{i} [YR{i}]" for i in range(2003, 2023)]
+for year in years:
+    out.loc[out[year] == "..", year] = ""
+    out[year] = pd.to_numeric(out[year])
+
 out.to_csv("./data/worldbank/2022-2003_worldbank_data.csv")
