@@ -9,8 +9,8 @@ RAW = [
 
 LINKS = [["Country Name", "Country Code"], ["Series Name", "Series Code"]]
 OUT = [
-    "./data/worldbank/Country_Name_Country_Code.csv",
-    "./data/worldbank/Series_Name_Series_Code.csv",
+    "./data/worldbank/links/Country_Name_Country_Code.csv",
+    "./data/worldbank/links/Series_Name_Series_Code.csv",
 ]
 
 tables = [pd.read_csv(path) for path in RAW]
