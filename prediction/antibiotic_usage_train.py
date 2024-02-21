@@ -6,7 +6,7 @@ from torch.utils.data import Dataset, DataLoader
 
 
 WORLDBANK = "./data/worldbank/2022-2000_worldbank_data.csv"
-ANTIBIOTICS = "./data/antibiotics/2018-2000_total_antibiotic_consumption_estimates.csv"
+ANTIBIOTICS = "./data/antibiotics/2018-2000_antiobiotic_consumption_estimates_atc3.csv"
 
 
 class AntibioticDataset(Dataset):

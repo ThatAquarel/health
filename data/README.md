@@ -20,4 +20,10 @@ Export to `2022-2000_worldbank_data.csv`
 
 ## Antibiotics
 
-Rename to `2018-2000_total_antibiotic_consumption_estimates.csv`
+Create link files manually
+- `ATC level 3 class`
+- `Location` to `Country Name`
+
+### `transform_compatible.py`
+
+- Merge `Location` to `Country Name` for compatibility
