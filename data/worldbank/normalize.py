@@ -24,9 +24,7 @@ worldbank = pd.melt(
 worldbank = worldbank[["Country Name", "Series Name", "Year", "Indicator"]]
 
 for indicator in tqdm(worldbank["Series Name"].drop_duplicates()):
-    values = worldbank.loc[worldbank["Series Name"] == indicator]
-
-    x = values["Indicator"]
-    values.loc[:, "Indicator"] = (x-x.mean())/x.std()
+    x = worldbank.loc[worldbank["Series Name"] == indicator, "Indicator"]
+    worldbank.loc[worldbank["Series Name"] == indicator, "Indicator"] = (x-x.mean())/x.std()
 
 worldbank.to_csv("./data/worldbank/2022-2000_worldbank_normalized.csv")
