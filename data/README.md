@@ -18,6 +18,13 @@ Combine world_dev and health
 Export to `2022-2000_worldbank_data.csv`
 
 
+### `normalize.py`
+
+Normalize every indicator by longitude
+
+Export to `2022-2000_worldbank_normalized.csv`
+
+
 ## Antibiotics
 
 Create link files manually
