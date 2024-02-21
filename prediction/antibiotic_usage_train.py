@@ -20,20 +20,26 @@ class AntibioticDataset(Dataset):
 
         self._antibiotics = pd.read_csv(ANTIBIOTICS)
 
-    def _format_worldbank_year(self, year):
-        return f"{year} [YR{year}]"
+        ...
 
-    def _prep_worldbank(self, start_year, end_year): 
+    def _prep_worldbank(self, start_year, end_year):
         keys = ["Country Name", "Country Code", "Series Name", "Series Code"]
-        years = [self._format_worldbank_year(i) for i in range(start_year, end_year)]
-        year_key = "Year"
+        years = {f"{i} [YR{i}]": f"{i}" for i in range(start_year, end_year)}
 
-        self._worldbank = self._worldbank[[*keys, *years]]
-        self._worldbank = pd.melt(self._worldbank, id_vars=keys, value_vars=years, var_name=year_key)
+        self._worldbank = self._worldbank[[*keys, *list(years.keys())]]
+        self._worldbank = self._worldbank.rename(columns=years)
 
+        var_key = "Year"
+        val_key = "Indicator"
+        self._worldbank = pd.melt(
+            self._worldbank,
+            id_vars=keys,
+            value_vars=list(years.values()),
+            var_name=var_key,
+            value_name=val_key,
+        )
 
     def __len__(self): ...
 
 
 train_dataloader = DataLoader(AntibioticDataset(), batch_size=64)
-
