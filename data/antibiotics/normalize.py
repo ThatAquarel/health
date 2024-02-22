@@ -16,4 +16,4 @@ for drug in tqdm(antibiotics[ATC3].drop_duplicates()):
     x = antibiotics.loc[antibiotics[ATC3] == drug, CONSUMPTION]
     antibiotics.loc[antibiotics[ATC3] == drug, CONSUMPTION] = (x-x.mean())/x.std()
 
-antibiotics.to_csv("./data/antibiotics/2022-2000_antibiotic_normalized.csv")
+antibiotics.to_csv("./data/antibiotics/2018-2000_antibiotic_normalized.csv")
