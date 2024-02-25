@@ -51,7 +51,7 @@ class AntibioticPredictor(nn.Module):
 
 BATCH_SIZE = 64
 LEARNING_RATE = 1e-3
-EPOCHS = 100
+EPOCHS = 30
 
 model = AntibioticPredictor()
 
@@ -65,7 +65,7 @@ model = AntibioticPredictor()
 
 class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
 loss_fn = nn.CrossEntropyLoss(weight=class_weights)
-optimizer = torch.optim.SGD(model.parameters(), lr=LEARNING_RATE)
+optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
 train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
 test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
