@@ -55,6 +55,14 @@ EPOCHS = 100
 
 model = AntibioticPredictor()
 
+
+# np.unique(
+# pd.cut(
+# self._antibiotics["Antibiotic consumption (DDD/1,000/day)"], 5, labels=[0,1,2,3,4]
+# ), return_counts=True)
+# a = array([2658, 1027,  164,   17,   11], dtype=int64)
+# 3877/a
+
 class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
 loss_fn = nn.CrossEntropyLoss(weight=class_weights)
 optimizer = torch.optim.SGD(model.parameters(), lr=LEARNING_RATE)
