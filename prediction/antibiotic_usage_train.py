@@ -55,7 +55,7 @@ EPOCHS = 100
 
 model = AntibioticPredictor()
 
-class_weights = torch.tensor([0.37748772, 1.3284197, 3.1629505, 5.4296036, 5.8649216])
+class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
 loss_fn = nn.CrossEntropyLoss(weight=class_weights)
 optimizer = torch.optim.SGD(model.parameters(), lr=LEARNING_RATE)
 
