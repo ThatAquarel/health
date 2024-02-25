@@ -40,6 +40,9 @@ class AntibioticPredictor(nn.Module):
         super().__init__()
 
         self.linear_relu_stack = nn.Sequential(
+            nn.Dropout(),
+            nn.Linear(in_features=N_INDICATOR, out_features=N_INDICATOR),
+            nn.ReLU(),
             nn.Linear(in_features=N_INDICATOR, out_features=N_INDICATOR),
             nn.ReLU(),
             nn.Linear(in_features=N_INDICATOR, out_features=5),
@@ -51,7 +54,7 @@ class AntibioticPredictor(nn.Module):
 
 BATCH_SIZE = 64
 LEARNING_RATE = 1e-3
-EPOCHS = 30
+EPOCHS = 100
 
 model = AntibioticPredictor()
 
