@@ -119,8 +119,8 @@ class AntibioticDataset(Dataset):
         self.db_y = self.db_y.float()
 
     def save(self):
-        torch.save(self.db_x, "./prediction/db_x.pt")
-        torch.save(self.db_y, "./prediction/db_y.pt")
+        torch.save(self.db_x, f"./prediction/db_x{"" if self.train else "_test"}.pt")
+        torch.save(self.db_y, f"./prediction/db_y{"" if self.train else "_test"}.pt")
 
     def __len__(self):
         return len(self._db_idx)
@@ -130,4 +130,7 @@ class AntibioticDataset(Dataset):
 
 
 a = AntibioticDataset()
+a.save()
+
+a = AntibioticDataset(train=False)
 a.save()
