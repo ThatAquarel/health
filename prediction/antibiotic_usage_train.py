@@ -24,8 +24,9 @@ class AntibioticDataset(Dataset):
         self.load_db()
 
     def load_db(self):
-        self.db_x = torch.load(f"./prediction/db_x{"" if self.train else "_test"}.pt")
-        self.db_y = torch.load(f"./prediction/db_y{"" if self.train else "_test"}.pt")
+        x = "" if self.train else "_test"
+        self.db_x = torch.load(f"./prediction/db_x{x}.pt")
+        self.db_y = torch.load(f"./prediction/db_y{x}.pt")
 
     def __len__(self):
         return len(self.db_x)
