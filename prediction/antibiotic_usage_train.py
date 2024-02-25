@@ -77,33 +77,37 @@ class AntibioticDataset(Dataset):
     def _build_db_idx(self):
         a = self._antibiotics[["Country Name"]].drop_duplicates()
         b = self._worldbank[["Country Name"]].drop_duplicates()
-        ax1 = a.merge(b)["Country Name"]
+        self.ax1 = a.merge(b)["Country Name"]
 
         a = self._antibiotics[["Year"]].drop_duplicates()
         b = self._worldbank[["Year"]].drop_duplicates()
-        ax2 = a.merge(b)["Year"] if self.train else [self._test_year]
+        self.ax2 = a.merge(b)["Year"] if self.train else [self._test_year]
 
-        self._db_idx = list(itertools.product(ax1, ax2))
+        self._db_idx = list(itertools.product(self.ax1, self.ax2))
 
     def _build_db(self):
         self.db_x = torch.zeros(len(self), N_INDICATOR)
         self.db_y = torch.zeros(len(self), self.n_bins)
 
-        for idx in tqdm(range(len(self))):
-            ax1, ax2 = self._db_idx[idx]
+        pivoted_worldbank = pd.pivot_table(
+            self._worldbank,
+            values="Indicator",
+            index=["Country Name", "Year"],
+            columns=["Series Name"],
+        )
 
-            a_country = self._antibiotics["Country Name"] == ax1
-            a_year = self._antibiotics["Year"] == ax2
-            (c,) = self._antibiotics.loc[a_country & a_year, self.CONSUMPTION].values
-            y = self._one_hot[c]
+        combined = pivoted_worldbank.merge(
+            self._antibiotics.drop_duplicates(subset=["Country Name", "Year"]),
+            on=["Country Name", "Year"],
+        )
 
-            b_country = self._worldbank["Country Name"] == ax1
-            b_year = self._worldbank["Year"] == ax2
-            i = self._worldbank.loc[b_country & b_year, "Indicator"].values
-            x = torch.tensor(i).float()
-
-            self.db_x[idx] = x
-            self.db_y[idx] = y
+        self.db_x = torch.tensor(
+            combined[combined.columns.values[2:-1]].to_numpy()
+        ).float()
+        self.db_y[
+            list(range(len(self))), combined[combined.columns.values[-1]].to_numpy()
+        ] = 1.0
+        self.db_y = self.db_y.float()
 
     def __len__(self):
         return len(self._db_idx)
