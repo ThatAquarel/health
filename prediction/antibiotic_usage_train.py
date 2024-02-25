@@ -86,6 +86,15 @@ class AntibioticDataset(Dataset):
         self._db_idx = list(itertools.product(self.ax1, self.ax2))
 
     def _build_db(self):
+        self._antibiotics = self._antibiotics[
+            self._antibiotics["Country Name"].isin(self.ax1)
+            & self._antibiotics["Year"].isin(self.ax2)
+        ]
+        self._worldbank = self._worldbank[
+            self._worldbank["Country Name"].isin(self.ax1)
+            & self._worldbank["Year"].isin(self.ax2)
+        ]
+
         self.db_x = torch.zeros(len(self), N_INDICATOR)
         self.db_y = torch.zeros(len(self), self.n_bins)
 
@@ -126,6 +135,7 @@ class AntibioticPredictor(nn.Module):
             nn.Linear(in_features=N_INDICATOR, out_features=500),
             nn.ReLU(),
             nn.Linear(in_features=500, out_features=5),
+            nn.Softmax(dim=0),
         )
 
     def forward(self, x):
@@ -179,7 +189,7 @@ def test_loop(dataloader, model, loss_fn):
         for X, y in dataloader:
             pred = model(X)
             test_loss += loss_fn(pred, y).item()
-            correct += (pred.argmax(1) == y).type(torch.float).sum().item()
+            correct += (pred.argmax(1) == y.argmax(1)).type(torch.float).sum().item()
 
     test_loss /= num_batches
     correct /= size
@@ -191,7 +201,7 @@ def test_loop(dataloader, model, loss_fn):
 for t in range(EPOCHS):
     print(f"Epoch {t+1}\n-------------------------------")
     train_loop(train_dataloader, model, loss_fn, optimizer)
-    test_loop(test_dataloader, model, loss_fn, optimizer)
-test_loop(test_dataloader, model, loss_fn, optimizer)
+    test_loop(test_dataloader, model, loss_fn)
+test_loop(test_dataloader, model, loss_fn)
 
 ...
