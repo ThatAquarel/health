@@ -7,6 +7,9 @@ from tqdm import tqdm
 from torch import nn
 from torch.utils.data import Dataset, DataLoader
 
+from torch.utils.tensorboard import SummaryWriter
+
+
 torch.set_default_device("cuda")
 
 WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
@@ -73,8 +76,10 @@ optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
 test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
 
+writer = SummaryWriter("runs/antibiotic_predictor_99acc")
 
-def train_loop(dataloader, model, loss_fn, optimizer):
+
+def train_loop(dataloader, model, loss_fn, optimizer, epoch):
     size = len(dataloader.dataset)
     # Set the model to training mode - important for batch normalization and dropout layers
     # Unnecessary in this situation but added for best practices
@@ -88,6 +93,8 @@ def train_loop(dataloader, model, loss_fn, optimizer):
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()
+
+        writer.add_scalar("Loss/train", loss, epoch)
 
         if batch % 8 == 0:
             loss, current = loss.item(), batch * BATCH_SIZE + len(X)
@@ -119,8 +126,15 @@ def test_loop(dataloader, model, loss_fn):
 
 for t in range(EPOCHS):
     print(f"Epoch {t+1}\n-------------------------------")
-    train_loop(train_dataloader, model, loss_fn, optimizer)
+    train_loop(train_dataloader, model, loss_fn, optimizer, t)
     test_loop(test_dataloader, model, loss_fn)
 test_loop(test_dataloader, model, loss_fn)
 
-...
+dataiter = iter(train_dataloader)
+inputs, labels = next(dataiter)
+
+writer.add_graph(model, inputs)
+writer.close()
+
+writer.flush()
+writer.close()
