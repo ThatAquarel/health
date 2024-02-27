@@ -17,13 +17,13 @@ N_INDICATOR = 1683
 
 
 class AntibioticDataset(Dataset):
-    def __init__(self, train=True) -> None:
+    def __init__(self, train=True, end_year=2019) -> None:
         super().__init__()
 
         self.train = train
 
         self._worldbank = pd.read_csv(WORLDBANK)
-        self._prep_worldbank(2003, 2019)
+        self._prep_worldbank(2003, end_year)
         self._test_year = 2018
 
         self._antibiotics = pd.read_csv(ANTIBIOTICS)
@@ -129,8 +129,8 @@ class AntibioticDataset(Dataset):
         return (self.db_x[idx], self.db_y[idx])
 
 
-a = AntibioticDataset()
+a = AntibioticDataset(train=True, end_year=2018)
 a.save()
 
-a = AntibioticDataset(train=False)
+a = AntibioticDataset(train=False, end_year=2019)
 a.save()
