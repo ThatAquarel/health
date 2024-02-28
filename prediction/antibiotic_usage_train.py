@@ -44,11 +44,9 @@ class AntibioticPredictor(nn.Module):
 
         self.linear_relu_stack = nn.Sequential(
             nn.Dropout(),
-            nn.Linear(in_features=N_INDICATOR, out_features=5),
+            nn.Linear(in_features=N_INDICATOR, out_features=844),
             nn.ReLU(),
-            nn.Linear(in_features=5, out_features=5),
-            nn.ReLU(),
-            nn.Softmax(),
+            nn.Linear(in_features=844, out_features=5),
         )
 
     def forward(self, x):
