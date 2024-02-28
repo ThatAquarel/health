@@ -1,13 +1,12 @@
 import torch
-import itertools
 
 import pandas as pd
 
-from tqdm import tqdm
 from torch import nn
 from torch.utils.data import Dataset, DataLoader
 
-from torch.utils.tensorboard import SummaryWriter
+from hyperopt import hp
+from hyperopt import fmin, tpe, space_eval
 
 
 torch.set_default_device("cuda")
@@ -38,45 +37,15 @@ class AntibioticDataset(Dataset):
         return (self.db_x[idx], self.db_y[idx])
 
 
-class AntibioticPredictor(nn.Module):
-    def __init__(self):
-        super().__init__()
-
-        self.linear_relu_stack = nn.Sequential(
-            nn.Dropout(),
-            nn.Linear(in_features=N_INDICATOR, out_features=5),
-            nn.ReLU(),
-            nn.Linear(in_features=5, out_features=5),
-            nn.ReLU(),
-            nn.Softmax(),
-        )
-
-    def forward(self, x):
-        return self.linear_relu_stack(x)
-
-
 BATCH_SIZE = 64
 LEARNING_RATE = 1e-3
-EPOCHS = 100
-
-model = AntibioticPredictor()
-
-
-# np.unique(
-# pd.cut(
-# self._antibiotics["Antibiotic consumption (DDD/1,000/day)"], 5, labels=[0,1,2,3,4]
-# ), return_counts=True)
-# a = array([2658, 1027,  164,   17,   11], dtype=int64)
-# 3877/a
+EPOCHS = 50
 
 class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
 loss_fn = nn.CrossEntropyLoss(weight=class_weights)
-optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
 train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
 test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
-
-writer = SummaryWriter("runs/antibiotic_predictor_99acc")
 
 
 def train_loop(dataloader, model, loss_fn, optimizer, epoch):
@@ -94,11 +63,9 @@ def train_loop(dataloader, model, loss_fn, optimizer, epoch):
         optimizer.step()
         optimizer.zero_grad()
 
-        writer.add_scalar("Loss/train", loss, epoch)
-
         if batch % 8 == 0:
             loss, current = loss.item(), batch * BATCH_SIZE + len(X)
-            print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
+            # print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
 
 
 def test_loop(dataloader, model, loss_fn):
@@ -119,22 +86,54 @@ def test_loop(dataloader, model, loss_fn):
 
     test_loss /= num_batches
     correct /= size
-    print(
-        f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
-    )
+
+    return correct
+    # print(
+    #     f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
+    # )
 
 
-for t in range(EPOCHS):
-    print(f"Epoch {t+1}\n-------------------------------")
-    train_loop(train_dataloader, model, loss_fn, optimizer, t)
-    test_loop(test_dataloader, model, loss_fn)
-test_loop(test_dataloader, model, loss_fn)
+def objective(params):
+    n_features, n_layers = params["n_features"], params["n_layers"]
 
-dataiter = iter(train_dataloader)
-inputs, labels = next(dataiter)
+    class AntibioticPredictor(nn.Module):
+        def __init__(self):
+            super().__init__()
 
-writer.add_graph(model, inputs)
-writer.close()
+            self.linear_relu_stack = nn.Sequential(
+                nn.Dropout(),
+                nn.ReLU(),
+                nn.Linear(in_features=N_INDICATOR, out_features=n_features),
+                *[
+                    nn.Linear(in_features=n_features, out_features=n_features)
+                    for n in range(n_layers)
+                ],
+                nn.Linear(in_features=n_features, out_features=5),
+            )
 
-writer.flush()
-writer.close()
+        def forward(self, x):
+            return self.linear_relu_stack(x)
+
+    model = AntibioticPredictor()
+    optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
+
+    for t in range(EPOCHS):
+        # print(f"Epoch {t+1}\n-------------------------------")
+        train_loop(train_dataloader, model, loss_fn, optimizer, t)
+        test_loop(test_dataloader, model, loss_fn)
+
+    return 1 / test_loop(test_dataloader, model, loss_fn)
+
+
+search_space = {
+    "n_features": hp.randint("n_features", 500, 3000),
+    "n_layers": hp.randint("n_layers", 0, 5),
+}
+
+best = fmin(objective, space=search_space, algo=tpe.suggest, max_evals=1000)
+
+print(best)
+...
+
+# 100%|█████████████████████| 1000/1000 [2:46:15<00:00,  9.98s/trial, best loss: 1.108695652173913]
+# {'n_features': 788, 'n_layers': 0}
