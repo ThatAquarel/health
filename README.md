@@ -43,3 +43,7 @@ by year (<200 * 20 datapoints)
 
 
 https://data.worldbank.org/indicator?tab=all
+
+## Neural network design
+
+https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw/1097#1097
