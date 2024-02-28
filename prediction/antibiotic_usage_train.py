@@ -15,6 +15,9 @@ torch.set_default_device("cuda")
 WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
 ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
 
+RUNS = "./runs/"
+MODEL = "./model/2024_02_28_AntibioticPredictor.pt"
+
 
 N_INDICATOR = 1683
 
@@ -74,7 +77,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
 test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
 
-writer = SummaryWriter("runs/antibiotic_predictor_99acc")
+writer = SummaryWriter(RUNS)
 
 
 def train_loop(dataloader, model, loss_fn, optimizer, epoch):
@@ -136,3 +139,5 @@ writer.close()
 
 writer.flush()
 writer.close()
+
+torch.save(model.state_dict(), MODEL)
