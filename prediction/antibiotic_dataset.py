@@ -3,9 +3,7 @@ import itertools
 
 import pandas as pd
 
-from tqdm import tqdm
-from torch import nn
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 
 torch.set_default_device("cuda")
 
