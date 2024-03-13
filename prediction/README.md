@@ -28,10 +28,10 @@ Compute attributions for each factor and save
 
 ## Results
 
-Accuracy for testing
-
-Accuracy for training
+Accuracy for testing 2018
+Accuracy for training 2003-2017
 
 Importance of factors in 2003-2018
-
 Importance of factors in 2022
+
+Estimates for 2003-2022
