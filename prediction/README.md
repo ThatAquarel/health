@@ -32,6 +32,6 @@ Accuracy for testing
 
 Accuracy for training
 
-Importance of factors in 2018
+Importance of factors in 2003-2018
 
 Importance of factors in 2022
