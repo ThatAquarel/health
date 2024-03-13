@@ -20,8 +20,11 @@ Confirm neural network design of averaging in and out
 
 Train model and save as `2024_02_28_AntitiobicPredictor.pt`
 
-### 
+### `integrated_gradients.py`
 
+Compute attributions for each factor and save
+- `results/ordered_factors_2018_high.csv`
+- `results/ordered_factors_2018_low.csv`
 
 ## Results
 
