@@ -57,8 +57,8 @@ class AntibioticPredictor(nn.Module):
         return self.linear_relu_stack(x)
 
 
-BATCH_SIZE = 64
-LEARNING_RATE = 1e-3
+BATCH_SIZE = 256
+LEARNING_RATE = 1e-4
 EPOCHS = 100
 
 
@@ -102,7 +102,7 @@ def train():
                 loss, current = loss.item(), batch * BATCH_SIZE + len(X)
                 print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
 
-    def test_loop(dataloader, model, loss_fn):
+    def test_loop(dataloader, model, loss_fn, epoch=None):
         # Set the model to evaluation mode - important for batch normalization and dropout layers
         # Unnecessary in this situation but added for best practices
         model.eval()
@@ -120,6 +120,9 @@ def train():
                     (pred.argmax(1) == y.argmax(1)).type(torch.float).sum().item()
                 )
 
+        if epoch:
+            writer.add_scalar("Loss/test", test_loss, epoch)
+
         test_loss /= num_batches
         correct /= size
         print(
@@ -129,7 +132,7 @@ def train():
     for t in range(EPOCHS):
         print(f"Epoch {t+1}\n-------------------------------")
         train_loop(train_dataloader, model, loss_fn, optimizer, t)
-        test_loop(test_dataloader, model, loss_fn)
+        test_loop(test_dataloader, model, loss_fn, t)
     test_loop(test_dataloader, model, loss_fn)
 
     dataiter = iter(train_dataloader)
