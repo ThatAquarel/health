@@ -16,7 +16,7 @@ WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
 ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
 
 RUNS = "./runs/"
-MODEL = "./model/2024_02_28_AntibioticPredictor.pt"
+MODEL = "./model/2024_03_15_AntibioticPredictor1Year.pt"
 
 
 N_INDICATOR = 1683

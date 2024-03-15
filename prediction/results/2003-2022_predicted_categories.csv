@@ -9,7 +9,7 @@
 7,Afghanistan,2010,0
 8,Afghanistan,2011,0
 9,Afghanistan,2012,0
-10,Afghanistan,2013,0
+10,Afghanistan,2013,1
 11,Afghanistan,2014,1
 12,Afghanistan,2015,1
 13,Afghanistan,2016,1
@@ -41,15 +41,15 @@
 39,Albania,2022,1
 40,Algeria,2003,1
 41,Algeria,2004,1
-42,Algeria,2005,1
+42,Algeria,2005,2
 43,Algeria,2006,2
 44,Algeria,2007,2
 45,Algeria,2008,2
 46,Algeria,2009,2
 47,Algeria,2010,2
-48,Algeria,2011,2
+48,Algeria,2011,3
 49,Algeria,2012,3
-50,Algeria,2013,3
+50,Algeria,2013,4
 51,Algeria,2014,4
 52,Algeria,2015,4
 53,Algeria,2016,4
@@ -81,7 +81,7 @@
 79,American Samoa,2022,0
 80,Andorra,2003,0
 81,Andorra,2004,0
-82,Andorra,2005,0
+82,Andorra,2005,1
 83,Andorra,2006,1
 84,Andorra,2007,1
 85,Andorra,2008,1
@@ -118,7 +118,7 @@
 116,Angola,2019,0
 117,Angola,2020,0
 118,Angola,2021,0
-119,Angola,2022,1
+119,Angola,2022,0
 120,Antigua and Barbuda,2003,0
 121,Antigua and Barbuda,2004,0
 122,Antigua and Barbuda,2005,0
@@ -129,8 +129,8 @@
 127,Antigua and Barbuda,2010,0
 128,Antigua and Barbuda,2011,0
 129,Antigua and Barbuda,2012,0
-130,Antigua and Barbuda,2013,0
-131,Antigua and Barbuda,2014,1
+130,Antigua and Barbuda,2013,1
+131,Antigua and Barbuda,2014,0
 132,Antigua and Barbuda,2015,1
 133,Antigua and Barbuda,2016,1
 134,Antigua and Barbuda,2017,1
@@ -141,7 +141,7 @@
 139,Antigua and Barbuda,2022,1
 140,Argentina,2003,0
 141,Argentina,2004,0
-142,Argentina,2005,0
+142,Argentina,2005,1
 143,Argentina,2006,1
 144,Argentina,2007,1
 145,Argentina,2008,1
@@ -178,7 +178,7 @@
 176,Armenia,2019,0
 177,Armenia,2020,0
 178,Armenia,2021,0
-179,Armenia,2022,0
+179,Armenia,2022,1
 180,Australia,2003,1
 181,Australia,2004,1
 182,Australia,2005,1
@@ -190,17 +190,17 @@
 188,Australia,2011,1
 189,Australia,2012,1
 190,Australia,2013,1
-191,Australia,2014,1
+191,Australia,2014,2
 192,Australia,2015,2
 193,Australia,2016,2
-194,Australia,2017,1
+194,Australia,2017,2
 195,Australia,2018,2
 196,Australia,2019,2
-197,Australia,2020,1
+197,Australia,2020,2
 198,Australia,2021,0
-199,Australia,2022,1
+199,Australia,2022,0
 200,Austria,2003,1
-201,Austria,2004,0
+201,Austria,2004,1
 202,Austria,2005,1
 203,Austria,2006,1
 204,Austria,2007,1
@@ -218,7 +218,7 @@
 216,Austria,2019,1
 217,Austria,2020,1
 218,Austria,2021,1
-219,Austria,2022,1
+219,Austria,2022,0
 220,Azerbaijan,2003,0
 221,Azerbaijan,2004,0
 222,Azerbaijan,2005,0
@@ -250,7 +250,7 @@
 248,"Bahamas, The",2011,0
 249,"Bahamas, The",2012,0
 250,"Bahamas, The",2013,0
-251,"Bahamas, The",2014,0
+251,"Bahamas, The",2014,1
 252,"Bahamas, The",2015,1
 253,"Bahamas, The",2016,1
 254,"Bahamas, The",2017,1
@@ -309,14 +309,14 @@
 307,Barbados,2010,0
 308,Barbados,2011,0
 309,Barbados,2012,0
-310,Barbados,2013,0
+310,Barbados,2013,1
 311,Barbados,2014,1
 312,Barbados,2015,1
 313,Barbados,2016,1
 314,Barbados,2017,1
 315,Barbados,2018,1
 316,Barbados,2019,1
-317,Barbados,2020,0
+317,Barbados,2020,1
 318,Barbados,2021,1
 319,Barbados,2022,1
 320,Belarus,2003,0
@@ -329,7 +329,7 @@
 327,Belarus,2010,0
 328,Belarus,2011,0
 329,Belarus,2012,0
-330,Belarus,2013,0
+330,Belarus,2013,1
 331,Belarus,2014,1
 332,Belarus,2015,1
 333,Belarus,2016,1
@@ -342,7 +342,7 @@
 340,Belgium,2003,1
 341,Belgium,2004,1
 342,Belgium,2005,1
-343,Belgium,2006,1
+343,Belgium,2006,2
 344,Belgium,2007,2
 345,Belgium,2008,2
 346,Belgium,2009,2
@@ -350,13 +350,13 @@
 348,Belgium,2011,2
 349,Belgium,2012,2
 350,Belgium,2013,2
-351,Belgium,2014,2
-352,Belgium,2015,3
+351,Belgium,2014,3
+352,Belgium,2015,2
 353,Belgium,2016,2
 354,Belgium,2017,2
 355,Belgium,2018,2
-356,Belgium,2019,3
-357,Belgium,2020,1
+356,Belgium,2019,2
+357,Belgium,2020,2
 358,Belgium,2021,2
 359,Belgium,2022,0
 360,Belize,2003,0
@@ -410,7 +410,7 @@
 408,Bermuda,2011,0
 409,Bermuda,2012,0
 410,Bermuda,2013,0
-411,Bermuda,2014,0
+411,Bermuda,2014,1
 412,Bermuda,2015,1
 413,Bermuda,2016,1
 414,Bermuda,2017,1
@@ -449,14 +449,14 @@
 447,Bolivia,2010,0
 448,Bolivia,2011,0
 449,Bolivia,2012,0
-450,Bolivia,2013,0
+450,Bolivia,2013,1
 451,Bolivia,2014,1
 452,Bolivia,2015,1
-453,Bolivia,2016,1
+453,Bolivia,2016,0
 454,Bolivia,2017,0
-455,Bolivia,2018,1
+455,Bolivia,2018,0
 456,Bolivia,2019,1
-457,Bolivia,2020,1
+457,Bolivia,2020,0
 458,Bolivia,2021,0
 459,Bolivia,2022,1
 460,Bosnia and Herzegovina,2003,1
@@ -466,8 +466,8 @@
 464,Bosnia and Herzegovina,2007,1
 465,Bosnia and Herzegovina,2008,1
 466,Bosnia and Herzegovina,2009,1
-467,Bosnia and Herzegovina,2010,1
-468,Bosnia and Herzegovina,2011,2
+467,Bosnia and Herzegovina,2010,2
+468,Bosnia and Herzegovina,2011,1
 469,Bosnia and Herzegovina,2012,1
 470,Bosnia and Herzegovina,2013,1
 471,Bosnia and Herzegovina,2014,1
@@ -516,7 +516,7 @@
 514,Brazil,2017,1
 515,Brazil,2018,1
 516,Brazil,2019,1
-517,Brazil,2020,1
+517,Brazil,2020,0
 518,Brazil,2021,0
 519,Brazil,2022,0
 520,Brunei Darussalam,2003,0
@@ -539,8 +539,8 @@
 537,Brunei Darussalam,2020,0
 538,Brunei Darussalam,2021,0
 539,Brunei Darussalam,2022,1
-540,Bulgaria,2003,0
-541,Bulgaria,2004,0
+540,Bulgaria,2003,1
+541,Bulgaria,2004,1
 542,Bulgaria,2005,1
 543,Bulgaria,2006,1
 544,Bulgaria,2007,1
@@ -609,7 +609,7 @@
 607,Cabo Verde,2010,0
 608,Cabo Verde,2011,0
 609,Cabo Verde,2012,0
-610,Cabo Verde,2013,0
+610,Cabo Verde,2013,1
 611,Cabo Verde,2014,1
 612,Cabo Verde,2015,1
 613,Cabo Verde,2016,1
@@ -658,7 +658,7 @@
 656,Cameroon,2019,0
 657,Cameroon,2020,0
 658,Cameroon,2021,0
-659,Cameroon,2022,1
+659,Cameroon,2022,2
 660,Canada,2003,0
 661,Canada,2004,0
 662,Canada,2005,0
@@ -673,8 +673,8 @@
 671,Canada,2014,0
 672,Canada,2015,0
 673,Canada,2016,1
-674,Canada,2017,1
-675,Canada,2018,1
+674,Canada,2017,0
+675,Canada,2018,0
 676,Canada,2019,0
 677,Canada,2020,0
 678,Canada,2021,0
@@ -849,14 +849,14 @@
 847,Croatia,2010,1
 848,Croatia,2011,1
 849,Croatia,2012,1
-850,Croatia,2013,1
+850,Croatia,2013,2
 851,Croatia,2014,2
 852,Croatia,2015,2
 853,Croatia,2016,2
 854,Croatia,2017,2
 855,Croatia,2018,2
 856,Croatia,2019,2
-857,Croatia,2020,2
+857,Croatia,2020,1
 858,Croatia,2021,2
 859,Croatia,2022,2
 860,Cuba,2003,0
@@ -877,7 +877,7 @@
 875,Cuba,2018,0
 876,Cuba,2019,0
 877,Cuba,2020,0
-878,Cuba,2021,0
+878,Cuba,2021,1
 879,Cuba,2022,1
 880,Cyprus,2003,1
 881,Cyprus,2004,1
@@ -893,15 +893,15 @@
 891,Cyprus,2014,1
 892,Cyprus,2015,1
 893,Cyprus,2016,1
-894,Cyprus,2017,1
+894,Cyprus,2017,2
 895,Cyprus,2018,1
 896,Cyprus,2019,1
 897,Cyprus,2020,1
-898,Cyprus,2021,1
+898,Cyprus,2021,2
 899,Cyprus,2022,1
-900,Czechia,2003,1
+900,Czechia,2003,0
 901,Czechia,2004,1
-902,Czechia,2005,1
+902,Czechia,2005,0
 903,Czechia,2006,1
 904,Czechia,2007,1
 905,Czechia,2008,1
@@ -926,14 +926,14 @@
 924,Denmark,2007,1
 925,Denmark,2008,1
 926,Denmark,2009,1
-927,Denmark,2010,1
-928,Denmark,2011,2
+927,Denmark,2010,2
+928,Denmark,2011,1
 929,Denmark,2012,1
 930,Denmark,2013,1
-931,Denmark,2014,1
-932,Denmark,2015,2
+931,Denmark,2014,2
+932,Denmark,2015,1
 933,Denmark,2016,1
-934,Denmark,2017,1
+934,Denmark,2017,2
 935,Denmark,2018,1
 936,Denmark,2019,1
 937,Denmark,2020,1
@@ -1044,20 +1044,20 @@
 1042,"Egypt, Arab Rep.",2005,0
 1043,"Egypt, Arab Rep.",2006,0
 1044,"Egypt, Arab Rep.",2007,0
-1045,"Egypt, Arab Rep.",2008,0
+1045,"Egypt, Arab Rep.",2008,1
 1046,"Egypt, Arab Rep.",2009,1
 1047,"Egypt, Arab Rep.",2010,1
 1048,"Egypt, Arab Rep.",2011,1
 1049,"Egypt, Arab Rep.",2012,1
 1050,"Egypt, Arab Rep.",2013,1
 1051,"Egypt, Arab Rep.",2014,1
-1052,"Egypt, Arab Rep.",2015,1
+1052,"Egypt, Arab Rep.",2015,2
 1053,"Egypt, Arab Rep.",2016,2
 1054,"Egypt, Arab Rep.",2017,2
 1055,"Egypt, Arab Rep.",2018,2
 1056,"Egypt, Arab Rep.",2019,2
 1057,"Egypt, Arab Rep.",2020,2
-1058,"Egypt, Arab Rep.",2021,2
+1058,"Egypt, Arab Rep.",2021,0
 1059,"Egypt, Arab Rep.",2022,2
 1060,El Salvador,2003,0
 1061,El Salvador,2004,0
@@ -1098,7 +1098,7 @@
 1096,Equatorial Guinea,2019,0
 1097,Equatorial Guinea,2020,0
 1098,Equatorial Guinea,2021,0
-1099,Equatorial Guinea,2022,1
+1099,Equatorial Guinea,2022,0
 1100,Eritrea,2003,0
 1101,Eritrea,2004,0
 1102,Eritrea,2005,0
@@ -1178,7 +1178,7 @@
 1176,Ethiopia,2019,0
 1177,Ethiopia,2020,0
 1178,Ethiopia,2021,0
-1179,Ethiopia,2022,2
+1179,Ethiopia,2022,0
 1180,Europe & Central Asia,2003,0
 1181,Europe & Central Asia,2004,0
 1182,Europe & Central Asia,2005,0
@@ -1231,9 +1231,9 @@
 1229,Finland,2012,0
 1230,Finland,2013,0
 1231,Finland,2014,1
-1232,Finland,2015,1
+1232,Finland,2015,0
 1233,Finland,2016,0
-1234,Finland,2017,0
+1234,Finland,2017,1
 1235,Finland,2018,0
 1236,Finland,2019,1
 1237,Finland,2020,0
@@ -1250,15 +1250,15 @@
 1248,France,2011,2
 1249,France,2012,2
 1250,France,2013,2
-1251,France,2014,2
+1251,France,2014,3
 1252,France,2015,3
 1253,France,2016,3
 1254,France,2017,3
-1255,France,2018,3
+1255,France,2018,2
 1256,France,2019,3
-1257,France,2020,3
+1257,France,2020,2
 1258,France,2021,2
-1259,France,2022,2
+1259,France,2022,0
 1260,Gabon,2003,0
 1261,Gabon,2004,0
 1262,Gabon,2005,0
@@ -1302,14 +1302,14 @@
 1300,Georgia,2003,0
 1301,Georgia,2004,0
 1302,Georgia,2005,0
-1303,Georgia,2006,0
-1304,Georgia,2007,1
+1303,Georgia,2006,1
+1304,Georgia,2007,0
 1305,Georgia,2008,0
 1306,Georgia,2009,0
 1307,Georgia,2010,0
 1308,Georgia,2011,0
 1309,Georgia,2012,0
-1310,Georgia,2013,0
+1310,Georgia,2013,1
 1311,Georgia,2014,1
 1312,Georgia,2015,1
 1313,Georgia,2016,1
@@ -1317,7 +1317,7 @@
 1315,Georgia,2018,1
 1316,Georgia,2019,1
 1317,Georgia,2020,1
-1318,Georgia,2021,1
+1318,Georgia,2021,0
 1319,Georgia,2022,1
 1320,Germany,2003,0
 1321,Germany,2004,0
@@ -1389,7 +1389,7 @@
 1387,Greenland,2010,0
 1388,Greenland,2011,0
 1389,Greenland,2012,0
-1390,Greenland,2013,0
+1390,Greenland,2013,1
 1391,Greenland,2014,1
 1392,Greenland,2015,1
 1393,Greenland,2016,1
@@ -1419,8 +1419,8 @@
 1417,Grenada,2020,0
 1418,Grenada,2021,0
 1419,Grenada,2022,0
-1420,Guam,2003,0
-1421,Guam,2004,2
+1420,Guam,2003,2
+1421,Guam,2004,0
 1422,Guam,2005,0
 1423,Guam,2006,0
 1424,Guam,2007,0
@@ -1478,7 +1478,7 @@
 1476,Guinea,2019,0
 1477,Guinea,2020,0
 1478,Guinea,2021,0
-1479,Guinea,2022,1
+1479,Guinea,2022,0
 1480,Guinea-Bissau,2003,0
 1481,Guinea-Bissau,2004,0
 1482,Guinea-Bissau,2005,0
@@ -1517,7 +1517,7 @@
 1515,Guyana,2018,0
 1516,Guyana,2019,0
 1517,Guyana,2020,0
-1518,Guyana,2021,0
+1518,Guyana,2021,1
 1519,Guyana,2022,1
 1520,Haiti,2003,0
 1521,Haiti,2004,0
@@ -1588,7 +1588,7 @@
 1586,Hungary,2009,1
 1587,Hungary,2010,1
 1588,Hungary,2011,1
-1589,Hungary,2012,0
+1589,Hungary,2012,1
 1590,Hungary,2013,1
 1591,Hungary,2014,1
 1592,Hungary,2015,1
@@ -1617,7 +1617,7 @@
 1615,Iceland,2018,1
 1616,Iceland,2019,1
 1617,Iceland,2020,1
-1618,Iceland,2021,1
+1618,Iceland,2021,2
 1619,Iceland,2022,1
 1620,India,2003,0
 1621,India,2004,0
@@ -1670,18 +1670,18 @@
 1668,"Iran, Islamic Rep.",2011,1
 1669,"Iran, Islamic Rep.",2012,1
 1670,"Iran, Islamic Rep.",2013,1
-1671,"Iran, Islamic Rep.",2014,1
+1671,"Iran, Islamic Rep.",2014,2
 1672,"Iran, Islamic Rep.",2015,2
 1673,"Iran, Islamic Rep.",2016,2
 1674,"Iran, Islamic Rep.",2017,2
-1675,"Iran, Islamic Rep.",2018,2
+1675,"Iran, Islamic Rep.",2018,1
 1676,"Iran, Islamic Rep.",2019,2
 1677,"Iran, Islamic Rep.",2020,2
 1678,"Iran, Islamic Rep.",2021,2
 1679,"Iran, Islamic Rep.",2022,2
 1680,Iraq,2003,1
-1681,Iraq,2004,1
-1682,Iraq,2005,0
+1681,Iraq,2004,0
+1682,Iraq,2005,1
 1683,Iraq,2006,1
 1684,Iraq,2007,1
 1685,Iraq,2008,1
@@ -1706,7 +1706,7 @@
 1704,Ireland,2007,1
 1705,Ireland,2008,1
 1706,Ireland,2009,1
-1707,Ireland,2010,1
+1707,Ireland,2010,2
 1708,Ireland,2011,2
 1709,Ireland,2012,2
 1710,Ireland,2013,2
@@ -1716,7 +1716,7 @@
 1714,Ireland,2017,2
 1715,Ireland,2018,2
 1716,Ireland,2019,2
-1717,Ireland,2020,1
+1717,Ireland,2020,2
 1718,Ireland,2021,2
 1719,Ireland,2022,0
 1720,Israel,2003,1
@@ -1738,7 +1738,7 @@
 1736,Israel,2019,1
 1737,Israel,2020,1
 1738,Israel,2021,1
-1739,Israel,2022,1
+1739,Israel,2022,0
 1740,Italy,2003,1
 1741,Italy,2004,1
 1742,Italy,2005,1
@@ -1810,15 +1810,15 @@
 1808,Jordan,2011,0
 1809,Jordan,2012,0
 1810,Jordan,2013,0
-1811,Jordan,2014,0
-1812,Jordan,2015,1
-1813,Jordan,2016,0
-1814,Jordan,2017,1
-1815,Jordan,2018,1
-1816,Jordan,2019,1
-1817,Jordan,2020,1
-1818,Jordan,2021,1
-1819,Jordan,2022,0
+1811,Jordan,2014,1
+1812,Jordan,2015,0
+1813,Jordan,2016,1
+1814,Jordan,2017,2
+1815,Jordan,2018,2
+1816,Jordan,2019,2
+1817,Jordan,2020,2
+1818,Jordan,2021,2
+1819,Jordan,2022,2
 1820,Kazakhstan,2003,0
 1821,Kazakhstan,2004,0
 1822,Kazakhstan,2005,0
@@ -1829,7 +1829,7 @@
 1827,Kazakhstan,2010,0
 1828,Kazakhstan,2011,0
 1829,Kazakhstan,2012,0
-1830,Kazakhstan,2013,0
+1830,Kazakhstan,2013,1
 1831,Kazakhstan,2014,1
 1832,Kazakhstan,2015,1
 1833,Kazakhstan,2016,1
@@ -1838,26 +1838,26 @@
 1836,Kazakhstan,2019,1
 1837,Kazakhstan,2020,1
 1838,Kazakhstan,2021,1
-1839,Kazakhstan,2022,0
-1840,Kenya,2003,1
+1839,Kazakhstan,2022,1
+1840,Kenya,2003,0
 1841,Kenya,2004,0
 1842,Kenya,2005,0
 1843,Kenya,2006,0
-1844,Kenya,2007,0
+1844,Kenya,2007,1
 1845,Kenya,2008,1
 1846,Kenya,2009,1
 1847,Kenya,2010,1
 1848,Kenya,2011,1
 1849,Kenya,2012,1
-1850,Kenya,2013,1
+1850,Kenya,2013,0
 1851,Kenya,2014,0
-1852,Kenya,2015,0
+1852,Kenya,2015,1
 1853,Kenya,2016,1
-1854,Kenya,2017,1
+1854,Kenya,2017,2
 1855,Kenya,2018,1
 1856,Kenya,2019,1
 1857,Kenya,2020,1
-1858,Kenya,2021,1
+1858,Kenya,2021,0
 1859,Kenya,2022,0
 1860,Kiribati,2003,0
 1861,Kiribati,2004,0
@@ -1903,7 +1903,7 @@
 1901,"Korea, Rep.",2004,0
 1902,"Korea, Rep.",2005,0
 1903,"Korea, Rep.",2006,0
-1904,"Korea, Rep.",2007,0
+1904,"Korea, Rep.",2007,1
 1905,"Korea, Rep.",2008,1
 1906,"Korea, Rep.",2009,1
 1907,"Korea, Rep.",2010,1
@@ -1929,15 +1929,15 @@
 1927,Kuwait,2010,0
 1928,Kuwait,2011,0
 1929,Kuwait,2012,0
-1930,Kuwait,2013,0
+1930,Kuwait,2013,1
 1931,Kuwait,2014,1
-1932,Kuwait,2015,1
-1933,Kuwait,2016,2
-1934,Kuwait,2017,1
+1932,Kuwait,2015,2
+1933,Kuwait,2016,1
+1934,Kuwait,2017,2
 1935,Kuwait,2018,1
 1936,Kuwait,2019,1
 1937,Kuwait,2020,1
-1938,Kuwait,2021,1
+1938,Kuwait,2021,0
 1939,Kuwait,2022,0
 1940,Kyrgyz Republic,2003,0
 1941,Kyrgyz Republic,2004,0
@@ -1950,7 +1950,7 @@
 1948,Kyrgyz Republic,2011,0
 1949,Kyrgyz Republic,2012,0
 1950,Kyrgyz Republic,2013,0
-1951,Kyrgyz Republic,2014,0
+1951,Kyrgyz Republic,2014,1
 1952,Kyrgyz Republic,2015,1
 1953,Kyrgyz Republic,2016,1
 1954,Kyrgyz Republic,2017,1
@@ -1958,7 +1958,7 @@
 1956,Kyrgyz Republic,2019,1
 1957,Kyrgyz Republic,2020,1
 1958,Kyrgyz Republic,2021,1
-1959,Kyrgyz Republic,2022,1
+1959,Kyrgyz Republic,2022,0
 1960,Lao PDR,2003,0
 1961,Lao PDR,2004,0
 1962,Lao PDR,2005,0
@@ -1978,7 +1978,7 @@
 1976,Lao PDR,2019,0
 1977,Lao PDR,2020,0
 1978,Lao PDR,2021,0
-1979,Lao PDR,2022,1
+1979,Lao PDR,2022,0
 1980,Latin America & Caribbean,2003,0
 1981,Latin America & Caribbean,2004,0
 1982,Latin America & Caribbean,2005,0
@@ -2010,8 +2010,8 @@
 2008,Latvia,2011,0
 2009,Latvia,2012,0
 2010,Latvia,2013,0
-2011,Latvia,2014,0
-2012,Latvia,2015,1
+2011,Latvia,2014,1
+2012,Latvia,2015,0
 2013,Latvia,2016,0
 2014,Latvia,2017,0
 2015,Latvia,2018,1
@@ -2024,20 +2024,20 @@
 2022,Lebanon,2005,0
 2023,Lebanon,2006,0
 2024,Lebanon,2007,0
-2025,Lebanon,2008,0
+2025,Lebanon,2008,1
 2026,Lebanon,2009,1
 2027,Lebanon,2010,1
 2028,Lebanon,2011,1
 2029,Lebanon,2012,1
 2030,Lebanon,2013,1
 2031,Lebanon,2014,1
-2032,Lebanon,2015,1
+2032,Lebanon,2015,2
 2033,Lebanon,2016,2
 2034,Lebanon,2017,2
 2035,Lebanon,2018,2
-2036,Lebanon,2019,1
+2036,Lebanon,2019,2
 2037,Lebanon,2020,1
-2038,Lebanon,2021,0
+2038,Lebanon,2021,1
 2039,Lebanon,2022,0
 2040,Lesotho,2003,0
 2041,Lesotho,2004,0
@@ -2079,8 +2079,8 @@
 2077,Liberia,2020,0
 2078,Liberia,2021,0
 2079,Liberia,2022,0
-2080,Libya,2003,0
-2081,Libya,2004,0
+2080,Libya,2003,1
+2081,Libya,2004,1
 2082,Libya,2005,1
 2083,Libya,2006,1
 2084,Libya,2007,1
@@ -2133,12 +2133,12 @@
 2131,Luxembourg,2014,2
 2132,Luxembourg,2015,2
 2133,Luxembourg,2016,2
-2134,Luxembourg,2017,1
-2135,Luxembourg,2018,2
-2136,Luxembourg,2019,2
-2137,Luxembourg,2020,1
+2134,Luxembourg,2017,2
+2135,Luxembourg,2018,1
+2136,Luxembourg,2019,1
+2137,Luxembourg,2020,2
 2138,Luxembourg,2021,2
-2139,Luxembourg,2022,2
+2139,Luxembourg,2022,1
 2140,Madagascar,2003,0
 2141,Madagascar,2004,0
 2142,Madagascar,2005,0
@@ -2198,7 +2198,7 @@
 2196,Malaysia,2019,0
 2197,Malaysia,2020,0
 2198,Malaysia,2021,0
-2199,Malaysia,2022,2
+2199,Malaysia,2022,0
 2200,Maldives,2003,1
 2201,Maldives,2004,1
 2202,Maldives,2005,1
@@ -2339,7 +2339,7 @@
 2337,Mexico,2020,0
 2338,Mexico,2021,0
 2339,Mexico,2022,0
-2340,Middle East & North Africa,2003,0
+2340,Middle East & North Africa,2003,1
 2341,Middle East & North Africa,2004,1
 2342,Middle East & North Africa,2005,1
 2343,Middle East & North Africa,2006,1
@@ -2349,7 +2349,7 @@
 2347,Middle East & North Africa,2010,1
 2348,Middle East & North Africa,2011,1
 2349,Middle East & North Africa,2012,1
-2350,Middle East & North Africa,2013,1
+2350,Middle East & North Africa,2013,2
 2351,Middle East & North Africa,2014,2
 2352,Middle East & North Africa,2015,2
 2353,Middle East & North Africa,2016,2
@@ -2408,7 +2408,7 @@
 2406,Mongolia,2009,0
 2407,Mongolia,2010,0
 2408,Mongolia,2011,0
-2409,Mongolia,2012,0
+2409,Mongolia,2012,1
 2410,Mongolia,2013,1
 2411,Mongolia,2014,1
 2412,Mongolia,2015,1
@@ -2417,8 +2417,8 @@
 2415,Mongolia,2018,1
 2416,Mongolia,2019,1
 2417,Mongolia,2020,1
-2418,Mongolia,2021,1
-2419,Mongolia,2022,1
+2418,Mongolia,2021,0
+2419,Mongolia,2022,0
 2420,Montenegro,2003,1
 2421,Montenegro,2004,1
 2422,Montenegro,2005,1
@@ -2427,7 +2427,7 @@
 2425,Montenegro,2008,1
 2426,Montenegro,2009,1
 2427,Montenegro,2010,1
-2428,Montenegro,2011,1
+2428,Montenegro,2011,2
 2429,Montenegro,2012,2
 2430,Montenegro,2013,2
 2431,Montenegro,2014,2
@@ -2445,7 +2445,7 @@
 2443,Morocco,2006,0
 2444,Morocco,2007,0
 2445,Morocco,2008,0
-2446,Morocco,2009,0
+2446,Morocco,2009,1
 2447,Morocco,2010,1
 2448,Morocco,2011,1
 2449,Morocco,2012,1
@@ -2478,7 +2478,7 @@
 2476,Mozambique,2019,0
 2477,Mozambique,2020,0
 2478,Mozambique,2021,0
-2479,Mozambique,2022,0
+2479,Mozambique,2022,2
 2480,Myanmar,2003,0
 2481,Myanmar,2004,0
 2482,Myanmar,2005,0
@@ -2557,7 +2557,7 @@
 2555,Nepal,2018,0
 2556,Nepal,2019,0
 2557,Nepal,2020,0
-2558,Nepal,2021,0
+2558,Nepal,2021,1
 2559,Nepal,2022,0
 2560,Netherlands,2003,0
 2561,Netherlands,2004,0
@@ -2582,7 +2582,7 @@
 2580,New Zealand,2003,1
 2581,New Zealand,2004,1
 2582,New Zealand,2005,1
-2583,New Zealand,2006,1
+2583,New Zealand,2006,2
 2584,New Zealand,2007,2
 2585,New Zealand,2008,2
 2586,New Zealand,2009,2
@@ -2598,7 +2598,7 @@
 2596,New Zealand,2019,2
 2597,New Zealand,2020,2
 2598,New Zealand,2021,2
-2599,New Zealand,2022,1
+2599,New Zealand,2022,2
 2600,Nicaragua,2003,0
 2601,Nicaragua,2004,0
 2602,Nicaragua,2005,0
@@ -2649,7 +2649,7 @@
 2647,Nigeria,2010,0
 2648,Nigeria,2011,0
 2649,Nigeria,2012,0
-2650,Nigeria,2013,0
+2650,Nigeria,2013,1
 2651,Nigeria,2014,1
 2652,Nigeria,2015,1
 2653,Nigeria,2016,1
@@ -2657,7 +2657,7 @@
 2655,Nigeria,2018,1
 2656,Nigeria,2019,1
 2657,Nigeria,2020,1
-2658,Nigeria,2021,1
+2658,Nigeria,2021,0
 2659,Nigeria,2022,0
 2660,North Macedonia,2003,1
 2661,North Macedonia,2004,1
@@ -2679,12 +2679,12 @@
 2677,North Macedonia,2020,1
 2678,North Macedonia,2021,1
 2679,North Macedonia,2022,1
-2680,Northern Mariana Islands,2003,0
+2680,Northern Mariana Islands,2003,2
 2681,Northern Mariana Islands,2004,0
 2682,Northern Mariana Islands,2005,0
 2683,Northern Mariana Islands,2006,0
 2684,Northern Mariana Islands,2007,0
-2685,Northern Mariana Islands,2008,0
+2685,Northern Mariana Islands,2008,1
 2686,Northern Mariana Islands,2009,0
 2687,Northern Mariana Islands,2010,0
 2688,Northern Mariana Islands,2011,0
@@ -2717,7 +2717,7 @@
 2715,Norway,2018,1
 2716,Norway,2019,1
 2717,Norway,2020,1
-2718,Norway,2021,1
+2718,Norway,2021,2
 2719,Norway,2022,0
 2720,Oman,2003,1
 2721,Oman,2004,1
@@ -2738,7 +2738,7 @@
 2736,Oman,2019,1
 2737,Oman,2020,1
 2738,Oman,2021,1
-2739,Oman,2022,1
+2739,Oman,2022,0
 2740,Pakistan,2003,0
 2741,Pakistan,2004,0
 2742,Pakistan,2005,0
@@ -2759,13 +2759,13 @@
 2757,Pakistan,2020,0
 2758,Pakistan,2021,0
 2759,Pakistan,2022,0
-2760,Palau,2003,0
+2760,Palau,2003,1
 2761,Palau,2004,1
 2762,Palau,2005,0
 2763,Palau,2006,0
 2764,Palau,2007,0
-2765,Palau,2008,0
-2766,Palau,2009,0
+2765,Palau,2008,1
+2766,Palau,2009,1
 2767,Palau,2010,0
 2768,Palau,2011,0
 2769,Palau,2012,0
@@ -2795,7 +2795,7 @@
 2793,Panama,2016,0
 2794,Panama,2017,0
 2795,Panama,2018,0
-2796,Panama,2019,1
+2796,Panama,2019,0
 2797,Panama,2020,0
 2798,Panama,2021,0
 2799,Panama,2022,0
@@ -2830,15 +2830,15 @@
 2828,Paraguay,2011,0
 2829,Paraguay,2012,0
 2830,Paraguay,2013,0
-2831,Paraguay,2014,0
-2832,Paraguay,2015,1
-2833,Paraguay,2016,0
+2831,Paraguay,2014,1
+2832,Paraguay,2015,0
+2833,Paraguay,2016,1
 2834,Paraguay,2017,1
 2835,Paraguay,2018,1
 2836,Paraguay,2019,1
-2837,Paraguay,2020,0
+2837,Paraguay,2020,1
 2838,Paraguay,2021,1
-2839,Paraguay,2022,1
+2839,Paraguay,2022,0
 2840,Peru,2003,0
 2841,Peru,2004,0
 2842,Peru,2005,0
@@ -2898,26 +2898,26 @@
 2896,Poland,2019,1
 2897,Poland,2020,1
 2898,Poland,2021,2
-2899,Poland,2022,2
+2899,Poland,2022,1
 2900,Portugal,2003,1
 2901,Portugal,2004,1
 2902,Portugal,2005,1
-2903,Portugal,2006,1
-2904,Portugal,2007,2
+2903,Portugal,2006,2
+2904,Portugal,2007,1
 2905,Portugal,2008,1
 2906,Portugal,2009,1
 2907,Portugal,2010,1
 2908,Portugal,2011,1
 2909,Portugal,2012,1
 2910,Portugal,2013,1
-2911,Portugal,2014,1
+2911,Portugal,2014,2
 2912,Portugal,2015,2
 2913,Portugal,2016,2
 2914,Portugal,2017,2
 2915,Portugal,2018,2
 2916,Portugal,2019,2
 2917,Portugal,2020,1
-2918,Portugal,2021,2
+2918,Portugal,2021,1
 2919,Portugal,2022,1
 2920,Puerto Rico,2003,0
 2921,Puerto Rico,2004,0
@@ -2925,8 +2925,8 @@
 2923,Puerto Rico,2006,0
 2924,Puerto Rico,2007,0
 2925,Puerto Rico,2008,0
-2926,Puerto Rico,2009,0
-2927,Puerto Rico,2010,0
+2926,Puerto Rico,2009,1
+2927,Puerto Rico,2010,1
 2928,Puerto Rico,2011,1
 2929,Puerto Rico,2012,1
 2930,Puerto Rico,2013,1
@@ -2961,7 +2961,7 @@
 2959,Qatar,2022,1
 2960,Romania,2003,1
 2961,Romania,2004,1
-2962,Romania,2005,1
+2962,Romania,2005,2
 2963,Romania,2006,2
 2964,Romania,2007,2
 2965,Romania,2008,2
@@ -2978,7 +2978,7 @@
 2976,Romania,2019,2
 2977,Romania,2020,2
 2978,Romania,2021,2
-2979,Romania,2022,2
+2979,Romania,2022,1
 2980,Russian Federation,2003,0
 2981,Russian Federation,2004,0
 2982,Russian Federation,2005,0
@@ -3010,7 +3010,7 @@
 3008,Rwanda,2011,0
 3009,Rwanda,2012,0
 3010,Rwanda,2013,0
-3011,Rwanda,2014,0
+3011,Rwanda,2014,1
 3012,Rwanda,2015,1
 3013,Rwanda,2016,1
 3014,Rwanda,2017,1
@@ -3072,9 +3072,9 @@
 3070,Sao Tome and Principe,2013,0
 3071,Sao Tome and Principe,2014,0
 3072,Sao Tome and Principe,2015,0
-3073,Sao Tome and Principe,2016,0
+3073,Sao Tome and Principe,2016,1
 3074,Sao Tome and Principe,2017,1
-3075,Sao Tome and Principe,2018,0
+3075,Sao Tome and Principe,2018,1
 3076,Sao Tome and Principe,2019,0
 3077,Sao Tome and Principe,2020,0
 3078,Sao Tome and Principe,2021,0
@@ -3089,11 +3089,11 @@
 3087,Saudi Arabia,2010,1
 3088,Saudi Arabia,2011,1
 3089,Saudi Arabia,2012,1
-3090,Saudi Arabia,2013,1
+3090,Saudi Arabia,2013,2
 3091,Saudi Arabia,2014,2
 3092,Saudi Arabia,2015,2
-3093,Saudi Arabia,2016,2
-3094,Saudi Arabia,2017,1
+3093,Saudi Arabia,2016,1
+3094,Saudi Arabia,2017,2
 3095,Saudi Arabia,2018,1
 3096,Saudi Arabia,2019,1
 3097,Saudi Arabia,2020,1
@@ -3136,7 +3136,7 @@
 3134,Serbia,2017,1
 3135,Serbia,2018,1
 3136,Serbia,2019,1
-3137,Serbia,2020,1
+3137,Serbia,2020,0
 3138,Serbia,2021,1
 3139,Serbia,2022,1
 3140,Seychelles,2003,1
@@ -3189,9 +3189,9 @@
 3187,Singapore,2010,0
 3188,Singapore,2011,0
 3189,Singapore,2012,0
-3190,Singapore,2013,0
-3191,Singapore,2014,1
-3192,Singapore,2015,0
+3190,Singapore,2013,1
+3191,Singapore,2014,0
+3192,Singapore,2015,1
 3193,Singapore,2016,1
 3194,Singapore,2017,1
 3195,Singapore,2018,1
@@ -3237,7 +3237,7 @@
 3235,Slovenia,2018,1
 3236,Slovenia,2019,1
 3237,Slovenia,2020,1
-3238,Slovenia,2021,2
+3238,Slovenia,2021,1
 3239,Slovenia,2022,1
 3240,Solomon Islands,2003,0
 3241,Solomon Islands,2004,0
@@ -3289,7 +3289,7 @@
 3287,South Africa,2010,0
 3288,South Africa,2011,0
 3289,South Africa,2012,0
-3290,South Africa,2013,0
+3290,South Africa,2013,1
 3291,South Africa,2014,1
 3292,South Africa,2015,1
 3293,South Africa,2016,1
@@ -3349,7 +3349,7 @@
 3347,Spain,2010,2
 3348,Spain,2011,2
 3349,Spain,2012,2
-3350,Spain,2013,2
+3350,Spain,2013,3
 3351,Spain,2014,3
 3352,Spain,2015,3
 3353,Spain,2016,3
@@ -3361,7 +3361,7 @@
 3359,Spain,2022,2
 3360,Sri Lanka,2003,0
 3361,Sri Lanka,2004,0
-3362,Sri Lanka,2005,0
+3362,Sri Lanka,2005,1
 3363,Sri Lanka,2006,1
 3364,Sri Lanka,2007,1
 3365,Sri Lanka,2008,1
@@ -3390,14 +3390,14 @@
 3388,St. Kitts and Nevis,2011,0
 3389,St. Kitts and Nevis,2012,0
 3390,St. Kitts and Nevis,2013,0
-3391,St. Kitts and Nevis,2014,0
+3391,St. Kitts and Nevis,2014,1
 3392,St. Kitts and Nevis,2015,1
 3393,St. Kitts and Nevis,2016,1
 3394,St. Kitts and Nevis,2017,1
 3395,St. Kitts and Nevis,2018,1
 3396,St. Kitts and Nevis,2019,1
 3397,St. Kitts and Nevis,2020,1
-3398,St. Kitts and Nevis,2021,1
+3398,St. Kitts and Nevis,2021,0
 3399,St. Kitts and Nevis,2022,1
 3400,St. Lucia,2003,0
 3401,St. Lucia,2004,0
@@ -3450,7 +3450,7 @@
 3448,Sudan,2011,0
 3449,Sudan,2012,0
 3450,Sudan,2013,0
-3451,Sudan,2014,0
+3451,Sudan,2014,1
 3452,Sudan,2015,1
 3453,Sudan,2016,1
 3454,Sudan,2017,1
@@ -3529,16 +3529,16 @@
 3527,Syrian Arab Republic,2010,1
 3528,Syrian Arab Republic,2011,1
 3529,Syrian Arab Republic,2012,1
-3530,Syrian Arab Republic,2013,1
+3530,Syrian Arab Republic,2013,2
 3531,Syrian Arab Republic,2014,2
 3532,Syrian Arab Republic,2015,2
 3533,Syrian Arab Republic,2016,2
 3534,Syrian Arab Republic,2017,2
 3535,Syrian Arab Republic,2018,2
 3536,Syrian Arab Republic,2019,2
-3537,Syrian Arab Republic,2020,1
-3538,Syrian Arab Republic,2021,1
-3539,Syrian Arab Republic,2022,1
+3537,Syrian Arab Republic,2020,2
+3538,Syrian Arab Republic,2021,2
+3539,Syrian Arab Republic,2022,2
 3540,Tajikistan,2003,0
 3541,Tajikistan,2004,0
 3542,Tajikistan,2005,0
@@ -3549,7 +3549,7 @@
 3547,Tajikistan,2010,0
 3548,Tajikistan,2011,0
 3549,Tajikistan,2012,0
-3550,Tajikistan,2013,0
+3550,Tajikistan,2013,1
 3551,Tajikistan,2014,1
 3552,Tajikistan,2015,1
 3553,Tajikistan,2016,1
@@ -3558,28 +3558,28 @@
 3556,Tajikistan,2019,1
 3557,Tajikistan,2020,1
 3558,Tajikistan,2021,1
-3559,Tajikistan,2022,0
+3559,Tajikistan,2022,1
 3560,Tanzania,2003,0
 3561,Tanzania,2004,0
 3562,Tanzania,2005,0
 3563,Tanzania,2006,0
 3564,Tanzania,2007,0
 3565,Tanzania,2008,0
-3566,Tanzania,2009,0
+3566,Tanzania,2009,1
 3567,Tanzania,2010,1
 3568,Tanzania,2011,1
 3569,Tanzania,2012,1
 3570,Tanzania,2013,1
 3571,Tanzania,2014,1
-3572,Tanzania,2015,1
+3572,Tanzania,2015,2
 3573,Tanzania,2016,2
 3574,Tanzania,2017,2
 3575,Tanzania,2018,2
-3576,Tanzania,2019,1
-3577,Tanzania,2020,1
-3578,Tanzania,2021,1
-3579,Tanzania,2022,1
-3580,Thailand,2003,0
+3576,Tanzania,2019,2
+3577,Tanzania,2020,2
+3578,Tanzania,2021,2
+3579,Tanzania,2022,2
+3580,Thailand,2003,1
 3581,Thailand,2004,1
 3582,Thailand,2005,1
 3583,Thailand,2006,1
@@ -3670,7 +3670,7 @@
 3668,Trinidad and Tobago,2011,0
 3669,Trinidad and Tobago,2012,0
 3670,Trinidad and Tobago,2013,0
-3671,Trinidad and Tobago,2014,0
+3671,Trinidad and Tobago,2014,1
 3672,Trinidad and Tobago,2015,1
 3673,Trinidad and Tobago,2016,1
 3674,Trinidad and Tobago,2017,1
@@ -3685,16 +3685,16 @@
 3683,Tunisia,2006,1
 3684,Tunisia,2007,1
 3685,Tunisia,2008,1
-3686,Tunisia,2009,1
-3687,Tunisia,2010,2
+3686,Tunisia,2009,2
+3687,Tunisia,2010,3
 3688,Tunisia,2011,3
-3689,Tunisia,2012,3
+3689,Tunisia,2012,4
 3690,Tunisia,2013,4
 3691,Tunisia,2014,4
 3692,Tunisia,2015,4
 3693,Tunisia,2016,4
 3694,Tunisia,2017,4
-3695,Tunisia,2018,3
+3695,Tunisia,2018,4
 3696,Tunisia,2019,4
 3697,Tunisia,2020,4
 3698,Tunisia,2021,4
@@ -3702,7 +3702,7 @@
 3700,Turkiye,2003,1
 3701,Turkiye,2004,1
 3702,Turkiye,2005,1
-3703,Turkiye,2006,1
+3703,Turkiye,2006,2
 3704,Turkiye,2007,2
 3705,Turkiye,2008,2
 3706,Turkiye,2009,2
@@ -3711,7 +3711,7 @@
 3709,Turkiye,2012,2
 3710,Turkiye,2013,2
 3711,Turkiye,2014,2
-3712,Turkiye,2015,2
+3712,Turkiye,2015,3
 3713,Turkiye,2016,3
 3714,Turkiye,2017,3
 3715,Turkiye,2018,3
@@ -3778,7 +3778,7 @@
 3776,Uganda,2019,0
 3777,Uganda,2020,0
 3778,Uganda,2021,0
-3779,Uganda,2022,1
+3779,Uganda,2022,0
 3780,Ukraine,2003,0
 3781,Ukraine,2004,0
 3782,Ukraine,2005,0
@@ -3809,7 +3809,7 @@
 3807,United Arab Emirates,2010,1
 3808,United Arab Emirates,2011,1
 3809,United Arab Emirates,2012,1
-3810,United Arab Emirates,2013,1
+3810,United Arab Emirates,2013,2
 3811,United Arab Emirates,2014,2
 3812,United Arab Emirates,2015,2
 3813,United Arab Emirates,2016,2
@@ -3817,8 +3817,8 @@
 3815,United Arab Emirates,2018,2
 3816,United Arab Emirates,2019,2
 3817,United Arab Emirates,2020,2
-3818,United Arab Emirates,2021,1
-3819,United Arab Emirates,2022,2
+3818,United Arab Emirates,2021,2
+3819,United Arab Emirates,2022,1
 3820,United Kingdom,2003,1
 3821,United Kingdom,2004,1
 3822,United Kingdom,2005,1
@@ -3837,7 +3837,7 @@
 3835,United Kingdom,2018,1
 3836,United Kingdom,2019,1
 3837,United Kingdom,2020,1
-3838,United Kingdom,2021,2
+3838,United Kingdom,2021,0
 3839,United Kingdom,2022,0
 3840,United States,2003,1
 3841,United States,2004,1
@@ -3858,13 +3858,13 @@
 3856,United States,2019,1
 3857,United States,2020,1
 3858,United States,2021,1
-3859,United States,2022,1
+3859,United States,2022,0
 3860,Uruguay,2003,0
 3861,Uruguay,2004,0
 3862,Uruguay,2005,0
 3863,Uruguay,2006,0
 3864,Uruguay,2007,0
-3865,Uruguay,2008,0
+3865,Uruguay,2008,1
 3866,Uruguay,2009,1
 3867,Uruguay,2010,1
 3868,Uruguay,2011,1
@@ -3877,7 +3877,7 @@
 3875,Uruguay,2018,1
 3876,Uruguay,2019,1
 3877,Uruguay,2020,1
-3878,Uruguay,2021,1
+3878,Uruguay,2021,2
 3879,Uruguay,2022,1
 3880,Uzbekistan,2003,0
 3881,Uzbekistan,2004,0
@@ -3926,19 +3926,19 @@
 3924,"Venezuela, RB",2007,0
 3925,"Venezuela, RB",2008,0
 3926,"Venezuela, RB",2009,0
-3927,"Venezuela, RB",2010,0
+3927,"Venezuela, RB",2010,1
 3928,"Venezuela, RB",2011,1
 3929,"Venezuela, RB",2012,1
 3930,"Venezuela, RB",2013,1
 3931,"Venezuela, RB",2014,1
-3932,"Venezuela, RB",2015,1
+3932,"Venezuela, RB",2015,0
 3933,"Venezuela, RB",2016,0
 3934,"Venezuela, RB",2017,0
 3935,"Venezuela, RB",2018,0
 3936,"Venezuela, RB",2019,0
 3937,"Venezuela, RB",2020,0
 3938,"Venezuela, RB",2021,2
-3939,"Venezuela, RB",2022,0
+3939,"Venezuela, RB",2022,2
 3940,Viet Nam,2003,0
 3941,Viet Nam,2004,0
 3942,Viet Nam,2005,0
@@ -3950,7 +3950,7 @@
 3948,Viet Nam,2011,0
 3949,Viet Nam,2012,0
 3950,Viet Nam,2013,0
-3951,Viet Nam,2014,0
+3951,Viet Nam,2014,1
 3952,Viet Nam,2015,1
 3953,Viet Nam,2016,1
 3954,Viet Nam,2017,1
@@ -3989,7 +3989,7 @@
 3987,West Bank and Gaza,2010,0
 3988,West Bank and Gaza,2011,0
 3989,West Bank and Gaza,2012,0
-3990,West Bank and Gaza,2013,0
+3990,West Bank and Gaza,2013,1
 3991,West Bank and Gaza,2014,1
 3992,West Bank and Gaza,2015,1
 3993,West Bank and Gaza,2016,1
@@ -4026,7 +4026,7 @@
 4024,"Yemen, Rep.",2007,0
 4025,"Yemen, Rep.",2008,0
 4026,"Yemen, Rep.",2009,0
-4027,"Yemen, Rep.",2010,0
+4027,"Yemen, Rep.",2010,1
 4028,"Yemen, Rep.",2011,1
 4029,"Yemen, Rep.",2012,1
 4030,"Yemen, Rep.",2013,1
@@ -4037,8 +4037,8 @@
 4035,"Yemen, Rep.",2018,1
 4036,"Yemen, Rep.",2019,1
 4037,"Yemen, Rep.",2020,1
-4038,"Yemen, Rep.",2021,1
-4039,"Yemen, Rep.",2022,1
+4038,"Yemen, Rep.",2021,0
+4039,"Yemen, Rep.",2022,0
 4040,Zambia,2003,0
 4041,Zambia,2004,0
 4042,Zambia,2005,0
