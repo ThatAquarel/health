@@ -38,6 +38,11 @@ Compute attributions for each factor and save
 
 Generate accuracies at `./results/accuracy.md`
 
+### `antibiotic_usage.md`
+
+- `./data/antibiotics/normalize.py`
+- `./prediction/antibiotic_dataset.py`
+
 ## Results
 
 Accuracy for testing 2018
@@ -50,3 +55,5 @@ Estimates for 2003-2022
 Actual values for 2003-2018
 
 Usage intervals for antibiotic usage
+
+

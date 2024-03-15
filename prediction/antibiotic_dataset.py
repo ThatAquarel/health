@@ -68,6 +68,18 @@ class AntibioticDataset(Dataset):
         self._antibiotics.loc[:, self.CONSUMPTION] = pd.cut(
             self._antibiotics[self.CONSUMPTION], n_bins, labels=bins
         )
+        # to print z-score intervals
+        # print(pd.cut(self._antibiotics[self.CONSUMPTION], n_bins))
+        # convert to normal
+        #
+        # a = np.array([[-1.274, 0.31],
+        # [0.31, 1.885],
+        # [1.885, 3.46],
+        # [3.46, 5.036],
+        # [5.036, 6.611]])
+        #
+        # a * std + mean
+        # a * 3.2099593064292544 + 4.762091049780758
 
         self._one_hot = torch.zeros((n_bins, n_bins)).float()
         self._one_hot[bins, bins] = 1
