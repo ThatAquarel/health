@@ -57,9 +57,9 @@ class AntibioticPredictor(nn.Module):
         return self.linear_relu_stack(x)
 
 
-BATCH_SIZE = 256
+BATCH_SIZE = 50
 LEARNING_RATE = 1e-4
-EPOCHS = 100
+EPOCHS = 128
 
 
 def train():
@@ -73,6 +73,8 @@ def train():
     # 3877/a
 
     class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
+    class_weights = torch.sqrt(class_weights)
+
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
     optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
