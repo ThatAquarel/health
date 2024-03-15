@@ -19,7 +19,11 @@ model.eval()
 # ordered_factors_2003_2018_high.csv
 # ordered_factors_2003_2018_low.csv
 
-db_x_test = torch.load("./prediction/db_x.pt")
+# use ./prediction/db_x_infer.pt to generate
+# ordered_factors_2003_2022_high.csv
+# ordered_factors_2003_2022_low.csv
+
+db_x_test = torch.load("./prediction/db_x_infer.pt")
 baseline = torch.zeros(db_x_test.shape)
 
 ...
@@ -44,7 +48,7 @@ for level, label in {0: "low", 4: "high"}.items():
     factors.insert(2, "Attribution", list(importance), True)
 
     ordered = factors.reindex(indices)
-    ordered.to_csv(f"./prediction/results/ordered_factors_2003_2018_{label}.csv")
+    ordered.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}.csv")
 
 # def visualize_importances(
 #     feature_names,
