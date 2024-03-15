@@ -33,6 +33,10 @@ Compute attributions for each factor and save
 Generate (worldbank from 2003 to 2022)
 - `db_x_infer.py`
 
+### `antibiotic_infer.py`
+
+Generate accuracies at `./results/accuracy.md`
+
 ## Results
 
 Accuracy for testing 2018
