@@ -1,12 +1,12 @@
 import torch
 import numpy as np
+import pandas as pd
 from antibiotic_usage_train import (
     AntibioticPredictor,
     MODEL,
 )
 
 import matplotlib.pyplot as plt
-import numpy as np
 
 from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 from sklearn.model_selection import train_test_split
@@ -73,6 +73,22 @@ def infer():
         disp.ax_.set_title(title)
 
         plt.show()
+
+    db_x_infer = torch.load("./prediction/db_x_infer.pt")
+    db_x_infer_cases = pd.read_csv("./prediction/db_x_infer_cases.csv")
+    db_x_infer_cases = db_x_infer_cases[["Country Name", "Year"]]
+
+    with torch.no_grad():
+        pred_y_infer = model(db_x_infer)
+        class_pred = pred_y_infer.argmax(1)
+
+    db_x_infer_cases.insert(
+        2,
+        "Predicted Category",
+        class_pred.cpu().numpy().tolist(),
+        allow_duplicates=True,
+    )
+    db_x_infer_cases.to_csv("./prediction/results/2003-2022_predicted_categories.csv")
 
 
 if __name__ == "__main__":
