@@ -19,7 +19,7 @@ class AntibioticDataset(Dataset):
         super().__init__()
 
         self._worldbank = pd.read_csv(WORLDBANK)
-        self._prep_worldbank(2002, 2023)
+        self._prep_worldbank(2003, 2023)
 
         self._antibiotics = pd.read_csv(ANTIBIOTICS)
         self._prep_antiobiotics("J01C-Penicillins")
@@ -75,7 +75,10 @@ class AntibioticDataset(Dataset):
             values="Indicator",
             index=["Country Name", "Year"],
             columns=["Series Name"],
-        )
+        ).reset_index()
+
+        cases = combined[["Country Name", "Year"]]
+        cases.to_csv("./prediction/db_x_infer_cases.csv")
 
         self.db_x = torch.tensor(
             combined[combined.columns.values[2:]].to_numpy()
