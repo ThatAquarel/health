@@ -67,7 +67,7 @@ def infer():
             pred.cpu().numpy(),
             display_labels=["Very Low", "Low", "Medium", "High", "Very High"],
             cmap=plt.cm.Blues,
-            normalize="true",
+            normalize="pred",
         )
         disp = cm_display.plot()
         disp.ax_.set_title(title)
