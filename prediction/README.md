@@ -10,6 +10,10 @@ Generate
 - `db_y_test.py`
 - `db_y.py`
 
+### `antibiotic_dataset_infer.py`
+
+Generate (worldbank from 2003 to 2022)
+- `db_x_infer.py`
 
 ### `antibiotic_hyperopt_train.py`
 
@@ -25,13 +29,10 @@ Train model and save as `2024_02_28_AntitiobicPredictor.pt`
 Compute attributions for each factor and save
 - `results/ordered_factors_2018_high.csv`
 - `results/ordered_factors_2018_low.csv`
+- `results/ordered_factors_2003_2018_high.csv`
 - `results/ordered_factors_2003_2018_low.csv`
-- `results/ordered_factors_2003_2018_low.csv`
-
-### `antibiotic_dataset_infer.py`
-
-Generate (worldbank from 2003 to 2022)
-- `db_x_infer.py`
+- `results/ordered_factors_2003_2022_high.csv`
+- `results/ordered_factors_2003_2022_low.csv`
 
 ### `antibiotic_infer.py`
 
@@ -47,3 +48,5 @@ Importance of factors in 2022
 
 Estimates for 2003-2022
 Actual values for 2003-2018
+
+Usage intervals for antibiotic usage
