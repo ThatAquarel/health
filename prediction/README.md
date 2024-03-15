@@ -25,6 +25,13 @@ Train model and save as `2024_02_28_AntitiobicPredictor.pt`
 Compute attributions for each factor and save
 - `results/ordered_factors_2018_high.csv`
 - `results/ordered_factors_2018_low.csv`
+- `results/ordered_factors_2003_2018_low.csv`
+- `results/ordered_factors_2003_2018_low.csv`
+
+### `antibiotic_dataset_infer.py`
+
+Generate (worldbank from 2003 to 2022)
+- `db_x_infer.py`
 
 ## Results
 
@@ -35,3 +42,4 @@ Importance of factors in 2003-2018
 Importance of factors in 2022
 
 Estimates for 2003-2022
+Actual values for 2003-2018
