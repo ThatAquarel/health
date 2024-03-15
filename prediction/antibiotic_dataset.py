@@ -15,14 +15,16 @@ N_INDICATOR = 1683
 
 
 class AntibioticDataset(Dataset):
-    def __init__(self, train=True, end_year=2019) -> None:
+    def __init__(self, train=True, end_year=2019, future_year=1) -> None:
         super().__init__()
 
         self.train = train
+        self.future_year = future_year
 
         self._worldbank = pd.read_csv(WORLDBANK)
-        self._prep_worldbank(2003, end_year)
-        self._test_year = 2018
+        self._prep_worldbank(2003, end_year - 1)
+
+        self._test_year = 2017
 
         self._antibiotics = pd.read_csv(ANTIBIOTICS)
         self._prep_antiobiotics("J01C-Penicillins")
@@ -53,6 +55,8 @@ class AntibioticDataset(Dataset):
     CONSUMPTION = "Antibiotic consumption (DDD/1,000/day)"
 
     def _prep_antiobiotics(self, atc_3_class):
+        self._antibiotics[["Year"]] = self._antibiotics[["Year"]] - self.future_year
+
         self._antibiotics = self._antibiotics[
             self._antibiotics["ATC level 3 class"] == atc_3_class
         ]
