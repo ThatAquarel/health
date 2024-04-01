@@ -55,9 +55,15 @@ categories = categories[["Category", "Series Name"]]
 factors = factors.merge(categories, how="inner", on="Series Name")
 factors = factors[["Category", "Series Name", "Series Code", *countries.to_list()]]
 
+positive = attributions.copy()
+negative = attributions.copy()
+
 attributions["Attribution_abs"] = attributions[["Attribution"]].abs()
 attributions = attributions.sort_values(by=["Attribution_abs"])
 attributions = attributions[["Series Name", "Attribution"]]
+
+positive = positive.sort_values(by=["Attribution"])
+negative = negative.sort_values(by=["Attribution"], ascending=False)
 
 # import matplotlib.pyplot as plt
 
@@ -67,6 +73,17 @@ attributions = attributions[["Series Name", "Attribution"]]
 
 for n in [10, 25, 50, 100]:
     attributions.tail(n).to_csv(f"./prediction/results/top{n}_factors.csv")
+
+for n in [10, 20, 50, 100]:
+    each = n // 2
+
+    top_positive = positive.tail(each)
+    top_negative = negative.tail(each)
+
+    pd.merge(top_positive, top_negative, how="outer").to_csv(
+        f"./prediction/results/top{n}_balanced_factors.csv"
+    )
+    ...
 
 filtered_factors = attributions.tail(100)[["Series Name"]]
 factors = factors.merge(filtered_factors, how="inner", on="Series Name")

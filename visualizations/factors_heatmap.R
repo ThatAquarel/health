@@ -11,12 +11,21 @@ country_attributions = categorized_factors[col_filter]
 # build matrix
 mat_country_attributions <- data.matrix(country_attributions)
 
+factors <- categorized_factors[["Series.Name"]]
+countries <- names(categorized_factors)[col_filter]
+rownames(mat_country_attributions) = factors
+colnames(mat_country_attributions) = countries
+
 # categorize factors
 factors_categories <- categorized_factors[["Category"]]
 
 # categorize countries
 categorized_countries <- read.csv("./prediction/results/predicted_categories.csv")
 countries_categories <- categorized_countries[["Predicted.Category"]]
+
+# load top factors
+top_factors <- read.csv("./prediction/results/top25_factors.csv")
+top_factors_names <- top_factors[["Series.Name"]]
 
 # ABR risk level annotation (columns)
 abr_ha <- HeatmapAnnotation(
@@ -140,9 +149,14 @@ factor_ha <- rowAnnotation(
   ))
 )
 
-# remove col and row names
-rownames(mat_country_attributions) <- NULL
-colnames(mat_country_attributions) <- NULL
+# important factors
+important_marks <- rowAnnotation(
+  top_factors = anno_mark(
+    at = match(top_factors_names, factors),
+    labels_gp = gpar(fontsize=8),
+    labels = top_factors_names
+  )
+)
 
 # draw heat map
 Heatmap(
@@ -152,13 +166,14 @@ Heatmap(
   column_split=countries_categories,
   column_title=NULL,
   cluster_column_slices=FALSE,
-  #column_labels = NULL,
+  column_names_gp = gpar(fontsize = 0, col="white"),
   top_annotation = abr_ha,
   
   #row_split=factors_categories,
   right_annotation = factor_ha,
   row_dend_reorder = TRUE,
+  row_names_gp = gpar(fontsize = 0, col="white"),
+  
   border=TRUE,
-
   col=colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
-)
+) + important_marks
