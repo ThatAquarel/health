@@ -67,7 +67,7 @@ attributions = attributions.sort_values(by=["Attribution"])
 for n in [10, 25, 50, 100]:
     attributions.tail(n).to_csv(f"./prediction/results/top{n}_factors.csv")
 
-filtered_factors = attributions.tail(100)
+filtered_factors = attributions.tail(100)[["Series Name"]]
 factors = factors.merge(filtered_factors, how="inner", on="Series Name")
 
 factors.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}_countries.csv")
