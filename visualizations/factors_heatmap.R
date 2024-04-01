@@ -23,24 +23,39 @@ col_fun_heatmap <- colorRamp2(c(-0.2, 0, 0.05), c("blue", "white", "red"))
 
 # ABR risk level annotation (columns)
 abr_ha <- HeatmapAnnotation(
-  ABR_risk = countries_categories,
+  ABR_risk_penicillin = countries_categories,
   annotation_legend_param = list(
-    ABR_risk = list(ABR_risk_color_bar = "discrete", labels=c("Low", "Medium-low", "Medium", "Medium-high", "High"))
+    ABR_risk_penicillin = list(
+      title="ABR_risk_penicillin (DDD/1,000/day)",
+      ABR_risk_color_bar = "discrete",
+      labels=c(
+        "(0.67,  5.76] - Low",
+        "(5.76, 10.81] - Medium-low",
+        "(10.81, 15.87] - Medium",
+        "(15.87, 20.93] - Medium-high",
+        "(20.93, 25.98] - High"
+      )
+    )
   )
 )
 
 # Factor category annotation (rows)
-
+factor_ha <- rowAnnotation(
+  factor_category = factors_categories
+)
 
 # draw heat map
 Heatmap(
   mat_country_attributions,
   name="factor_importance",
-
+  
   column_split=countries_categories,
   column_title=NULL,
   cluster_column_slices=FALSE,
-  top_annotation = abr_ha,
+  bottom_annotation = abr_ha,
+  
+  #row_split=factors_categories,
+  right_annotation = factor_ha,
 
   col=col_fun_heatmap
 )

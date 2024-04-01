@@ -53,6 +53,7 @@ Generate accuracies at `./results/accuracy.md`
 
 Over all years, generate:
 - `results/predicted_categories.csv`
+Manually remove "World"
 
 ## Results
 

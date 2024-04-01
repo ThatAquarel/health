@@ -20,6 +20,7 @@ db_x_infer = torch.load("./prediction/db_x_infer.pt")
 db_x_infer_cases = pd.read_csv("./prediction/db_x_infer_cases.csv")
 db_x_infer_cases = db_x_infer_cases[["Country Name", "Year"]]
 countries = db_x_infer_cases[["Country Name"]].drop_duplicates()["Country Name"]
+countries = countries.loc[countries != "World"]
 
 factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
 factors = factors[["Series Name", "Series Code"]]
