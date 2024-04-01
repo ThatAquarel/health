@@ -55,8 +55,9 @@ categories = categories[["Category", "Series Name"]]
 factors = factors.merge(categories, how="inner", on="Series Name")
 factors = factors[["Category", "Series Name", "Series Code", *countries.to_list()]]
 
-attributions.loc[:, ["Attribution"]] = attributions[["Attribution"]].abs()
-attributions = attributions.sort_values(by=["Attribution"])
+attributions["Attribution_abs"] = attributions[["Attribution"]].abs()
+attributions = attributions.sort_values(by=["Attribution_abs"])
+attributions = attributions[["Series Name", "Attribution"]]
 
 # import matplotlib.pyplot as plt
 

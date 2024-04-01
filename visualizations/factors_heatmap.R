@@ -1,3 +1,4 @@
+library(circlize)
 library(ComplexHeatmap)
 
 setwd("C:/Users/xia_t/Desktop/Projects/health")
@@ -16,10 +17,6 @@ factors_categories <- categorized_factors[["Category"]]
 # categorize countries
 categorized_countries <- read.csv("./prediction/results/predicted_categories.csv")
 countries_categories <- categorized_countries[["Predicted.Category"]]
-
-# color function
-library(circlize)
-col_fun_heatmap <- colorRamp2(c(-0.2, 0, 0.05), c("blue", "white", "red"))
 
 # ABR risk level annotation (columns)
 abr_ha <- HeatmapAnnotation(
@@ -143,6 +140,10 @@ factor_ha <- rowAnnotation(
   ))
 )
 
+# remove col and row names
+rownames(mat_country_attributions) <- NULL
+colnames(mat_country_attributions) <- NULL
+
 # draw heat map
 Heatmap(
   mat_country_attributions,
@@ -151,7 +152,7 @@ Heatmap(
   column_split=countries_categories,
   column_title=NULL,
   cluster_column_slices=FALSE,
-  column_names_rot = 45,
+  #column_labels = NULL,
   top_annotation = abr_ha,
   
   #row_split=factors_categories,
@@ -159,5 +160,5 @@ Heatmap(
   row_dend_reorder = TRUE,
   border=TRUE,
 
-  col=col_fun_heatmap
+  col=colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
 )
