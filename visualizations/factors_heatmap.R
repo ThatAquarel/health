@@ -40,8 +40,88 @@ abr_ha <- HeatmapAnnotation(
 )
 
 # Factor category annotation (rows)
-category_color <- function (category, color) {
-  all_categories <- c(
+factor_ha <- rowAnnotation(
+  environment = anno_simple(factors_categories, col= c(
+    "Environment"="lawngreen",
+    "Climate Change"="lawngreen",
+    "Energy & Mining"="lawngreen",
+    "Infrastructure"="lawngreen",
+    "Agriculture & Rural Development"="lawngreen",
+    "Urban Development"="lawngreen",
+    "Education"="white",
+    "Science & Technology"="white",
+    "Health"="white",
+    "Gender"="white",
+    "Social Development"="white",
+    "Poverty"="white",
+    "Aid Effectiveness"="white",
+    "Economy & Growth"="white",
+    "Public Sector"="white",
+    "Private Sector"="white",
+    "Financial Sector"="white",
+    "External Debt"="white"
+  )),
+  education = anno_simple(factors_categories, col=c(
+    "Environment"="white",
+    "Climate Change"="white",
+    "Energy & Mining"="white",
+    "Infrastructure"="white",
+    "Agriculture & Rural Development"="white",
+    "Urban Development"="white",
+    "Education"="mediumseagreen",
+    "Science & Technology"="mediumseagreen",
+    "Health"="white",
+    "Gender"="white",
+    "Social Development"="white",
+    "Poverty"="white",
+    "Aid Effectiveness"="white",
+    "Economy & Growth"="white",
+    "Public Sector"="white",
+    "Private Sector"="white",
+    "Financial Sector"="white",
+    "External Debt"="white"
+  )),
+  health = anno_simple(factors_categories, col=c(
+    "Environment"="white",
+    "Climate Change"="white",
+    "Energy & Mining"="white",
+    "Infrastructure"="white",
+    "Agriculture & Rural Development"="white",
+    "Urban Development"="white",
+    "Education"="white",
+    "Science & Technology"="white",
+    "Health"="tomato",
+    "Gender"="tomato",
+    "Social Development"="white",
+    "Poverty"="white",
+    "Aid Effectiveness"="white",
+    "Economy & Growth"="white",
+    "Public Sector"="white",
+    "Private Sector"="white",
+    "Financial Sector"="white",
+    "External Debt"="white"
+  )),
+  social_developement = anno_simple(factors_categories, col=c(
+    "Environment"="white",
+    "Climate Change"="white",
+    "Energy & Mining"="white",
+    "Infrastructure"="white",
+    "Agriculture & Rural Development"="white",
+    "Urban Development"="white",
+    "Education"="white",
+    "Science & Technology"="white",
+    "Health"="white",
+    "Gender"="white",
+    "Social Development"="white",
+    "Poverty"="orange",
+    "Aid Effectiveness"="orange",
+    "Economy & Growth"="white",
+    "Public Sector"="white",
+    "Private Sector"="white",
+    "Financial Sector"="white",
+    "External Debt"="white"
+  )),
+  economy_and_growth = anno_simple(factors_categories, col=c(
     "Environment"="white",
     "Climate Change"="white",
     "Energy & Mining"="white",
@@ -55,40 +135,12 @@ category_color <- function (category, color) {
     "Social Development"="white",
     "Poverty"="white",
     "Aid Effectiveness"="white",
-    "Economy & Growth"="white",
-    "Public Sector"="white",
-    "Private Sector"="white",
-    "Financial Sector"="white",
-    "External Debt"="white"
-  )
-  all_categories[category] = color
-
-  return(all_categories)
-}
-
-factor_ha <- rowAnnotation(
-  environment = anno_simple(factors_categories, col=category_color("Environment", "lawngreen")),
-  climate_change = anno_simple(factors_categories, col=category_color("Climate Change", "lawngreen")),
-  energy_and_mining = anno_simple(factors_categories, col=category_color("Energy & Mining", "lawngreen")),
-  infrastructure = anno_simple(factors_categories, col=category_color("Infrastructure", "lawngreen")),
-  agriculture_and_rural_development = anno_simple(factors_categories, col=category_color("Agriculture & Rural Development", "lawngreen")),
-  urban_developement = anno_simple(factors_categories, col=category_color("Urban Development", "lawngreen")),
-  
-  education = anno_simple(factors_categories, col=category_color("Education", "mediumseagreen")),
-  science_and_technology = anno_simple(factors_categories, col=category_color("Science & Technology", "mediumseagreen")),
-  
-  health = anno_simple(factors_categories, col=category_color("Health", "tomato")),
-  gender = anno_simple(factors_categories, col=category_color("Gender", "tomato")),
-  
-  social_developement = anno_simple(factors_categories, col=category_color("Social Development", "orange")),
-  poverty = anno_simple(factors_categories, col=category_color("Poverty", "orange")),
-  aid_effectiveness = anno_simple(factors_categories, col=category_color("Aid Effectiveness", "orange")),
-  
-  economy_and_growth = anno_simple(factors_categories, col=category_color("Economy & Growth", "darkcyan")),                    
-  public_sector = anno_simple(factors_categories, col=category_color("Public Sector", "darkcyan")),           
-  private_sector = anno_simple(factors_categories, col=category_color("Private Sector", "darkcyan")),
-  financial_sector = anno_simple(factors_categories, col=category_color("Financial Sector", "darkcyan")),
-  external_debt = anno_simple(factors_categories, col=category_color("External Debt", "darkcyan"))
+    "Economy & Growth"="darkcyan",
+    "Public Sector"="darkcyan",
+    "Private Sector"="darkcyan",
+    "Financial Sector"="darkcyan",
+    "External Debt"="darkcyan"
+  ))
 )
 
 # draw heat map
@@ -99,10 +151,12 @@ Heatmap(
   column_split=countries_categories,
   column_title=NULL,
   cluster_column_slices=FALSE,
+  column_names_rot = 45,
   top_annotation = abr_ha,
   
   #row_split=factors_categories,
   right_annotation = factor_ha,
+  row_dend_reorder = TRUE,
   border=TRUE,
 
   col=col_fun_heatmap
