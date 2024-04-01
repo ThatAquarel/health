@@ -47,4 +47,10 @@ for i, country in enumerate(countries):
     importance = np.mean(attributions.cpu().numpy(), axis=0)
     factors.insert(2 + i, country, list(importance), True)
 
+categories = pd.read_csv("./data/worldbank/links/Series_Name_Category.csv")
+categories = categories[["Category", "Series Name"]]
+
+factors = factors.merge(categories, how="inner", on="Series Name")
+factors = factors[["Category", "Series Name", "Series Code", *countries.to_list()]]
+
 factors.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}_countries.csv")
