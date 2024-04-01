@@ -27,6 +27,10 @@ countries_categories <- categorized_countries[["Predicted.Category"]]
 top_factors <- read.csv("./prediction/results/top20_balanced_factors.csv")
 top_factors_names <- top_factors[["Series.Name"]]
 
+# load top countries
+top_countries <- read.csv("./prediction/results/countries_continents_visualized.csv")
+top_countries_names <- top_countries[["Country.Name"]]
+
 # ABR risk level annotation (columns)
 abr_col_fun <- colorRamp2(c(0,4), c("white", "orangered"))
 abr_ha <- HeatmapAnnotation(
@@ -137,18 +141,27 @@ factor_ha <- rowAnnotation(
     "Public Sector"="darkcyan",
     "Private Sector"="darkcyan",
     "Financial Sector"="darkcyan",
-    "External Debt"="darkcyan"
+    "External Debt"="darkcyan"http://127.0.0.1:22929/graphics/07a4b281-4844-484a-bd8b-751acc230400.png
   ))
 )
 
 # important factors
-important_marks <- rowAnnotation(
+important_factors_marks <- rowAnnotation(
   top_factors = anno_mark(
     at = match(top_factors_names, factors),
     labels_gp = gpar(fontsize=8),
     labels = top_factors_names,
     extend = unit(2, "mm"),
     link_width = unit(8, "mm")
+  )
+)
+
+# important countries
+important_country_marks <- columnAnnotation(
+  top_countries = anno_mark(
+    at = match(top_countries_names, countries),
+    labels_gp = gpar(fontsize=8),
+    labels = top_countries_names
   )
 )
 
@@ -164,6 +177,7 @@ Heatmap(
   cluster_column_slices=FALSE,
   column_names_gp = gpar(fontsize = 0, col="white"),
   top_annotation = abr_ha,
+  #bottom_annotation = important_country_marks,
   
   #row_split=factors_categories,
   right_annotation = factor_ha,
@@ -173,7 +187,7 @@ Heatmap(
   border=TRUE,
   show_heatmap_legend=FALSE,
   col=col_fun
-) + important_marks
+) + important_factors_marks
 
 # legends
 heatmap_lgd = Legend(

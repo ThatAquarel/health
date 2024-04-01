@@ -62,6 +62,12 @@ Over all years, generate:
 - `results/predicted_categories.csv`
 Manually remove "World"
 
+Copy to `results/countries_continents.csv`
+Manually map to continents
+
+Copy to `results/visualized_countries_continents.csv`
+Remove non pertinent regions
+
 ## Results
 
 Accuracy for testing 2018
