@@ -102,7 +102,8 @@ Heatmap(
   top_annotation = abr_ha,
   
   #row_split=factors_categories,
-  left_annotation = factor_ha,
+  right_annotation = factor_ha,
+  border=TRUE,
 
   col=col_fun_heatmap
 )
