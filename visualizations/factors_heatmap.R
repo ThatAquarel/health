@@ -161,6 +161,8 @@ important_marks <- rowAnnotation(
 )
 
 # draw heat map
+col_fun <- colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
+
 Heatmap(
   mat_country_attributions,
   name="factor_importance",
@@ -177,5 +179,11 @@ Heatmap(
   row_names_gp = gpar(fontsize = 0, col="white"),
   
   border=TRUE,
-  col=colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
+  show_heatmap_legend=FALSE,
+  col=col_fun
 ) + important_marks
+
+heatmap_lgd = Legend(col_fun = col_fun, title = "Factor importance", legend_height = unit(4, "cm"))
+#abr_ldg
+pd = packLegend(heatmap_lgd)
+draw(pd, x = unit(1, "cm"), y = unit(1, "cm"), just = c("left", "bottom"))
