@@ -24,7 +24,7 @@ categorized_countries <- read.csv("./prediction/results/predicted_categories.csv
 countries_categories <- categorized_countries[["Predicted.Category"]]
 
 # load top factors
-top_factors <- read.csv("./prediction/results/top25_factors.csv")
+top_factors <- read.csv("./prediction/results/top20_balanced_factors.csv")
 top_factors_names <- top_factors[["Series.Name"]]
 
 # ABR risk level annotation (columns)
@@ -154,7 +154,9 @@ important_marks <- rowAnnotation(
   top_factors = anno_mark(
     at = match(top_factors_names, factors),
     labels_gp = gpar(fontsize=8),
-    labels = top_factors_names
+    labels = top_factors_names,
+    extend = unit(2, "mm"),
+    link_width = unit(8, "mm")
   )
 )
 
