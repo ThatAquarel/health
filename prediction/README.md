@@ -34,6 +34,11 @@ Compute attributions for each factor and save
 - `results/ordered_factors_2003_2022_high.csv`
 - `results/ordered_factors_2003_2022_low.csv`
 
+### `integrated_gradients_country.py`
+
+Compute attributions for each factor and save
+- `results/ordered_factors_2003_2022_high_countries.csv`
+
 ### `antibiotic_infer.py`
 
 Generate accuracies at `./results/accuracy.md`
@@ -42,6 +47,12 @@ Generate accuracies at `./results/accuracy.md`
 
 - `./data/antibiotics/normalize.py`
 - `./prediction/antibiotic_dataset.py`
+
+
+### `country_category.py`
+
+Over all years, generate:
+- `results/predicted_categories.csv`
 
 ## Results
 
