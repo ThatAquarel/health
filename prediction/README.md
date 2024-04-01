@@ -38,6 +38,13 @@ Compute attributions for each factor and save
 
 Compute attributions for each factor and save
 - `results/ordered_factors_2003_2022_high_countries.csv`
+Remove "World"
+Remove impertinent factors
+
+Generate `results/factor_attribution_distribution.png`
+
+Compute top_n important factors
+- `results/top{n}_factors.csv`
 
 ### `antibiotic_infer.py`
 
