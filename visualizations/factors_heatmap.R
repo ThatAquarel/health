@@ -28,20 +28,12 @@ top_factors <- read.csv("./prediction/results/top20_balanced_factors.csv")
 top_factors_names <- top_factors[["Series.Name"]]
 
 # ABR risk level annotation (columns)
+abr_col_fun <- colorRamp2(c(0,4), c("white", "orangered"))
 abr_ha <- HeatmapAnnotation(
-  ABR_risk_penicillin = countries_categories,
-  annotation_legend_param = list(
-    ABR_risk_penicillin = list(
-      title="ABR_risk_penicillin (DDD/1,000/day)",
-      labels=c(
-        "(0.67,  5.76] - Low",
-        "(5.76, 10.81] - Medium-low",
-        "(10.81, 15.87] - Medium",
-        "(15.87, 20.93] - Medium-high",
-        "(20.93, 25.98] - High"
-      ),
-      ABR_risk_color_bar = "discrete"
-    )
+  Penicillin_ABR_risk_and_usage = anno_simple(
+    countries_categories,
+    col=abr_col_fun,
+    border = TRUE
   )
 )
 
@@ -183,7 +175,29 @@ Heatmap(
   col=col_fun
 ) + important_marks
 
-heatmap_lgd = Legend(col_fun = col_fun, title = "Factor importance", legend_height = unit(4, "cm"))
-#abr_ldg
-pd = packLegend(heatmap_lgd)
-draw(pd, x = unit(1, "cm"), y = unit(1, "cm"), just = c("left", "bottom"))
+# legends
+heatmap_lgd = Legend(
+  col_fun = col_fun,
+  title = "Factor importance",
+  legend_height = unit(4, "cm")
+)
+
+at = seq(0,4,1)
+abr_ldg = Legend(
+  at = at,
+  title = "Penicillin ABR risk and usage (DDD/1,000/day)",
+  legend_gp = gpar(fill = abr_col_fun(at)),
+  labels=c(
+    "(0.67,  5.76]   Low",
+    "(5.76, 10.81]   Medium-low",
+    "(10.81, 15.87]   Medium",
+    "(15.87, 20.93]   Medium-high",
+    "(20.93, 25.98]   High"
+  ),
+)
+
+pd = packLegend(heatmap_lgd, abr_ldg)
+
+pushViewport(viewport(width = 1.0, height = 1.0))
+draw(pd, x = unit(0.8, "npc"), y = unit(0.56, "npc"))
+popViewport()
