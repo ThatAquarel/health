@@ -40,7 +40,7 @@ for i, country in enumerate(countries):
     attributions, approximation_error = ig.attribute(
         db_x_infer_country,
         baselines=baseline,
-        method="gausslegendre",
+        # method="gausslegendre",
         return_convergence_delta=True,
         target=level,
     )
@@ -49,8 +49,9 @@ for i, country in enumerate(countries):
     factors.insert(2 + i, country, list(importance), True)
 
 categories = pd.read_csv("./data/worldbank/links/Series_Name_Category.csv")
-attributions = categories[["Series Name", "Attribution"]]
 categories = categories[["Category", "Series Name"]]
+attributions = pd.read_csv("./prediction/results/ordered_factors_2003_2022_high.csv")
+attributions = attributions[["Series Name", "Attribution"]]
 
 factors = factors.merge(categories, how="inner", on="Series Name")
 factors = factors[["Category", "Series Name", "Series Code", *countries.to_list()]]
@@ -65,10 +66,10 @@ attributions = attributions[["Series Name", "Attribution"]]
 positive = positive.sort_values(by=["Attribution"])
 negative = negative.sort_values(by=["Attribution"], ascending=False)
 
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
-# plt.hist(attributions[["Attribution"]])
-# plt.show()
+plt.hist(attributions[["Attribution"]])
+plt.show()
 # generate results/factor_attribution_distribution.png
 
 for n in [10, 25, 50, 100]:

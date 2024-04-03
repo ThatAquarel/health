@@ -1,51 +1,51 @@
 ,Series Name,Attribution
-0,Mobile cellular subscriptions,0.025477939
-1,"Age population, age 12, female, interpolated",0.025540134
-2,Poverty headcount ratio at national poverty lines (% of population),0.026152199
-3,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",0.026946648
-4,"Infant and young child feeding practices, all 3 IYCF (% children ages 6-23 months)",0.027406476
-5,"Net financial account (BoP, current US$)",0.028384878
-6,Net investment in nonfinancial assets (% of GDP),0.028486781
-7,"Incidence of malaria (per 1,000 population at risk)",0.029140321
-8,"Population ages 0-14, total",0.031814173
-9,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),0.031986779
-10,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),0.032004444
-11,Adults (ages 15+) and children (0-14 years) living with HIV,0.033428597
-12,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.036759217
-13,"Industrial design applications, nonresident, by count",0.037006886
-14,Income share held by third 20%,0.038711373
-15,Number of people pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure,0.040144962
-16,Number of people pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,0.040612248
-17,Number of people pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,0.041057306
-18,Final consumption expenditure (current US$),0.043019968
-19,"Age population, age 02, male, interpolated",0.043403369
-20,Child employment in agriculture (% of economically active children ages 7-14),0.043938181
-21,Ease of doing business score (0 = lowest performance to 100 = best performance),0.045469077
-22,"Net incurrence of liabilities, total (current LCU)",0.049266108
-23,ICT goods imports (% total goods imports),0.056898914
-24,Taxes on international trade (% of revenue),0.056993863
-25,Net official development assistance received (current US$),-0.055330992
-26,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),-0.055398386
-27,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),-0.056347497
-28,"Mortality rate, under-5, female (per 1,000 live births)",-0.056356925
-29,Net foreign assets (current LCU),-0.056376766
-30,Adjusted savings: natural resources depletion (% of GNI),-0.056381185
-31,"Primary income payments (BoP, current US$)",-0.05686394
-32,Poverty gap at $3.65 a day (2017 PPP) (%),-0.057324574
-33,"Service imports (BoP, current US$)",-0.058917564
-34,"Age population, age 05, female, interpolated",-0.05904199
-35,"Primary completion rate, female (% of relevant age group)",-0.05986217
-36,Net migration,-0.0603581
-37,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.064305342
-38,"Service exports (BoP, current US$)",-0.067125643
-39,"Population, total",-0.075612984
-40,Expenditure on tertiary education (% of government expenditure on education),-0.077323354
-41,Current health expenditure per capita (current US$),-0.080357521
-42,Gross domestic income (constant LCU),-0.081129622
-43,Net lending (+) / net borrowing (-) (% of GDP),-0.083312268
-44,Net lending (+) / net borrowing (-) (current LCU),-0.090217055
-45,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),-0.09287994
-46,Public private partnerships investment in energy (current US$),-0.101504527
-47,Public and publicly guaranteed debt service (% of GNI),-0.109493142
-48,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),-0.152280955
-49,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),-0.155215314
+0,Prevalence of severe food insecurity in the population (%),0.0047877358052717
+1,"Age population, age 02, male, interpolated",0.0048534592723435
+2,GDP per capita growth (annual %),0.0049250843167026
+3,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",0.0049409262194554
+4,"Age population, age 03, male, interpolated",0.0049985480895283
+5,Prevalence of anemia among women of reproductive age (% of women ages 15-49),0.0050506493395041
+6,"Start-up procedures to register a business, male (number)",0.005184470717086
+7,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.0053227211920245
+8,"Prevalence of severe wasting, weight for height (% of children under 5)",0.0056938782906953
+9,Trained teachers in primary education (% of total teachers),0.0057932764701892
+10,"Net bilateral aid flows from DAC donors, Canada (current US$)",0.0062296521616155
+11,Statistical Capacity Score (Overall Average) (scale 0 - 100),0.006262457193522
+12,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",0.006619854953619
+13,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",0.0069328991847044
+14,Political Stability and Absence of Violence/Terrorism: Estimate,0.0075236682729958
+15,"Personal remittances, paid (current US$)",0.0089311653429159
+16,Total debt service (% of GNI),0.0089792941542285
+17,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",0.0096130796534942
+18,Other expense (% of expense),0.0097782022801929
+19,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",0.0102491186142744
+20,"Lower secondary completion rate, total (% of relevant age group)",0.0110090760091434
+21,"Population ages 0-14, total",0.0113373155166619
+22,Other taxes (% of revenue),0.0125805134903701
+23,Child employment in agriculture (% of economically active children ages 7-14),0.0157105420034255
+24,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.0188924642036976
+25,Broad money to total reserves ratio,-0.0218114828103866
+26,GDP per unit of energy use (PPP $ per kg of oil equivalent),-0.0220924614310881
+27,Prevalence of overweight (% of adults),-0.0222517210780937
+28,"Transport services (% of service imports, BoP)",-0.0226176992321664
+29,"Population ages 70-74, female (% of female population)",-0.0233348859848387
+30,Value lost due to electrical outages (% of sales for affected firms),-0.0245350319047719
+31,"Persistence to last grade of primary, total (% of cohort)",-0.0248762025362694
+32,"Revenue, excluding grants (current LCU)",-0.025046776381883
+33,GDP: linked series (current LCU),-0.0252866596332529
+34,Researchers in R&D (per million people),-0.0253799096082701
+35,"Net official flows from UN agencies, UNWTO (current US$)",-0.0259044377014785
+36,"Population ages 35-39, male (% of male population)",-0.0259069119763899
+37,Children orphaned by HIV/AIDS,-0.0260559668330715
+38,"Population ages 30-34, female (% of female population)",-0.0261865525834529
+39,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",-0.0262994697667704
+40,"Revenue, excluding grants (% of GDP)",-0.0263909048404593
+41,Number of under-five deaths,-0.0269663700866921
+42,Control of Corruption: Number of Sources,-0.0276094593903496
+43,Urban population growth (annual %),-0.0283182071158343
+44,Gross fixed capital formation (constant 2015 US$),-0.0284171500949944
+45,"Child employment in agriculture, male (% of male economically active children ages 7-14)",-0.0300045482340044
+46,People practicing open defecation (% of population),-0.0310238780608305
+47,Merchandise trade (% of GDP),-0.0312556410772752
+48,"Use of IMF credit (DOD, current US$)",-0.0313327773316254
+49,"Government expenditure on education, total (% of government expenditure)",-0.032887167017529
