@@ -48,7 +48,8 @@ Compute top_n important factors
 
 ### `antibiotic_infer.py`
 
-Generate accuracies at `./results/accuracy.md`
+- Generate accuracies at `./results/accuracy.md`
+- Generate predicted categories at `results/2003-2022_predicted_categories.csv`
 
 ### `antibiotic_usage.md`
 
