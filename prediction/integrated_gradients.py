@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from captum.attr import IntegratedGradients
+from captum.attr import IntegratedGradients, GradientShap
 from antibiotic_usage_train import AntibioticPredictor, MODEL
 
 
@@ -23,7 +23,7 @@ model.eval()
 # ordered_factors_2003_2022_high.csv
 # ordered_factors_2003_2022_low.csv
 
-ig = IntegratedGradients(model)
+ig = GradientShap(model)
 
 for input_file, output_date in {
     "db_x_test": "2018",
@@ -36,8 +36,8 @@ for input_file, output_date in {
     for level, label in {0: "low", 4: "high"}.items():
         attributions, approximation_error = ig.attribute(
             db_x_test,
-            # baselines=baseline,
-            method="gausslegendre",
+            baselines=baseline,
+            stdevs=2.0,
             return_convergence_delta=True,
             target=level,
         )

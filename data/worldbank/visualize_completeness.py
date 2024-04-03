@@ -7,6 +7,11 @@ data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
 
 YEARS = [f"{i} [YR{i}]" for i in range(2003, 2023)]
 
+# a = data.copy()
+# a = a[["Country Name", "Series Name", *YEARS]]
+# a.loc[:, YEARS] = pd.isna(a[YEARS])
+# a = a.groupby(by=["Series Name"]).sum()
+
 for YEAR in YEARS:
     columns = ["Country Name", "Series Name", YEAR]
 
