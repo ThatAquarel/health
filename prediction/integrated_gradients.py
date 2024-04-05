@@ -51,7 +51,9 @@ for input_file, output_date in {
         factors.insert(2, "Attribution", list(importance), True)
 
         ordered = factors.reindex(indices)
-        ordered.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}.csv")
+        ordered.to_csv(
+            f"./prediction/results/ordered_factors_{output_date}_{label}.csv"
+        )
 
 # def visualize_importances(
 #     feature_names,
