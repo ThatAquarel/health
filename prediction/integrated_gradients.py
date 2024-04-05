@@ -23,32 +23,35 @@ model.eval()
 # ordered_factors_2003_2022_high.csv
 # ordered_factors_2003_2022_low.csv
 
-db_x_test = torch.load("./prediction/db_x_infer.pt")
-baseline = torch.zeros(db_x_test.shape)
-
-...
-
 ig = IntegratedGradients(model)
 
-for level, label in {0: "low", 4: "high"}.items():
-    attributions, approximation_error = ig.attribute(
-        db_x_test,
-        baselines=baseline,
-        method="gausslegendre",
-        return_convergence_delta=True,
-        target=level,
-    )
+for input_file, output_date in {
+    "db_x_test": "2018",
+    "db_x": "2003_2018",
+    "db_x_infer": "2003_2022",
+}.items():
+    db_x_test = torch.load(f"./prediction/{input_file}.pt")
+    baseline = torch.zeros(db_x_test.shape)
 
-    importance = np.mean(attributions.cpu().numpy(), axis=0)
+    for level, label in {0: "low", 4: "high"}.items():
+        attributions, approximation_error = ig.attribute(
+            db_x_test,
+            baselines=baseline,
+            method="gausslegendre",
+            return_convergence_delta=True,
+            target=level,
+        )
 
-    indices = np.argsort(importance)
-    factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
-    factors = factors[["Series Name", "Series Code"]]
+        importance = np.mean(attributions.cpu().numpy(), axis=0)
 
-    factors.insert(2, "Attribution", list(importance), True)
+        indices = np.argsort(importance)
+        factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
+        factors = factors[["Series Name", "Series Code"]]
 
-    ordered = factors.reindex(indices)
-    ordered.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}.csv")
+        factors.insert(2, "Attribution", list(importance), True)
+
+        ordered = factors.reindex(indices)
+        ordered.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}.csv")
 
 # def visualize_importances(
 #     feature_names,
