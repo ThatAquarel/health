@@ -16,7 +16,7 @@ WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
 ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
 
 RUNS = "./runs/"
-MODEL = "./model/2024_02_28_AntibioticPredictor.pt"
+MODEL = "./model/AntibioticPredictor.pt"
 
 
 N_INDICATOR = 1683
@@ -47,7 +47,7 @@ class AntibioticPredictor(nn.Module):
 
         self.linear_relu_stack = nn.Sequential(
             nn.Dropout(),
-            nn.ReLU(),
+            # nn.ReLU(),
             nn.Linear(in_features=N_INDICATOR, out_features=844),
             nn.ReLU(),
             nn.Linear(in_features=844, out_features=5),
@@ -59,7 +59,7 @@ class AntibioticPredictor(nn.Module):
 
 BATCH_SIZE = 50
 LEARNING_RATE = 1e-4
-EPOCHS = 128
+EPOCHS = 100
 
 
 def train():
@@ -130,11 +130,14 @@ def train():
         print(
             f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
         )
+        return correct * 100
 
     for t in range(EPOCHS):
         print(f"Epoch {t+1}\n-------------------------------")
         train_loop(train_dataloader, model, loss_fn, optimizer, t)
-        test_loop(test_dataloader, model, loss_fn, t)
+        if test_loop(test_dataloader, model, loss_fn, t) > 96:
+            break
+
     test_loop(test_dataloader, model, loss_fn)
 
     dataiter = iter(train_dataloader)
