@@ -1,0 +1,5321 @@
+,Country Name,Year,value
+0,Afghanistan,2003 [YR2003],221
+1,Africa Eastern and Southern,2003 [YR2003],201
+2,Africa Western and Central,2003 [YR2003],253
+3,Albania,2003 [YR2003],29
+4,Algeria,2003 [YR2003],82
+5,American Samoa,2003 [YR2003],527
+6,Andorra,2003 [YR2003],364
+7,Angola,2003 [YR2003],70
+8,Antigua and Barbuda,2003 [YR2003],223
+9,Arab World,2003 [YR2003],239
+10,Argentina,2003 [YR2003],25
+11,Armenia,2003 [YR2003],46
+12,Aruba,2003 [YR2003],348
+13,Australia,2003 [YR2003],59
+14,Austria,2003 [YR2003],96
+15,Azerbaijan,2003 [YR2003],46
+16,"Bahamas, The",2003 [YR2003],97
+17,Bahrain,2003 [YR2003],94
+18,Bangladesh,2003 [YR2003],50
+19,Barbados,2003 [YR2003],78
+20,Belarus,2003 [YR2003],29
+21,Belgium,2003 [YR2003],41
+22,Belize,2003 [YR2003],38
+23,Benin,2003 [YR2003],28
+24,Bermuda,2003 [YR2003],443
+25,Bhutan,2003 [YR2003],136
+26,Bolivia,2003 [YR2003],28
+27,Bosnia and Herzegovina,2003 [YR2003],63
+28,Botswana,2003 [YR2003],31
+29,Brazil,2003 [YR2003],46
+30,British Virgin Islands,2003 [YR2003],511
+31,Brunei Darussalam,2003 [YR2003],73
+32,Bulgaria,2003 [YR2003],35
+33,Burkina Faso,2003 [YR2003],86
+34,Burundi,2003 [YR2003],50
+35,Cabo Verde,2003 [YR2003],106
+36,Cambodia,2003 [YR2003],35
+37,Cameroon,2003 [YR2003],24
+38,Canada,2003 [YR2003],63
+39,Caribbean small states,2003 [YR2003],261
+40,Cayman Islands,2003 [YR2003],541
+41,Central African Republic,2003 [YR2003],153
+42,Central Europe and the Baltics,2003 [YR2003],204
+43,Chad,2003 [YR2003],138
+44,Channel Islands,2003 [YR2003],551
+45,Chile,2003 [YR2003],27
+46,China,2003 [YR2003],66
+47,Colombia,2003 [YR2003],41
+48,Comoros,2003 [YR2003],72
+49,"Congo, Dem. Rep.",2003 [YR2003],131
+50,"Congo, Rep.",2003 [YR2003],46
+51,Costa Rica,2003 [YR2003],52
+52,Cote d'Ivoire,2003 [YR2003],141
+53,Croatia,2003 [YR2003],24
+54,Cuba,2003 [YR2003],128
+55,Curacao,2003 [YR2003],578
+56,Cyprus,2003 [YR2003],44
+57,Czechia,2003 [YR2003],24
+58,Denmark,2003 [YR2003],57
+59,Djibouti,2003 [YR2003],200
+60,Dominica,2003 [YR2003],207
+61,Dominican Republic,2003 [YR2003],35
+62,Early-demographic dividend,2003 [YR2003],198
+63,East Asia & Pacific,2003 [YR2003],214
+64,East Asia & Pacific (IDA & IBRD countries),2003 [YR2003],220
+65,East Asia & Pacific (excluding high income),2003 [YR2003],216
+66,Ecuador,2003 [YR2003],23
+67,"Egypt, Arab Rep.",2003 [YR2003],18
+68,El Salvador,2003 [YR2003],18
+69,Equatorial Guinea,2003 [YR2003],240
+70,Eritrea,2003 [YR2003],145
+71,Estonia,2003 [YR2003],60
+72,Eswatini,2003 [YR2003],50
+73,Ethiopia,2003 [YR2003],89
+74,Euro area,2003 [YR2003],201
+75,Europe & Central Asia,2003 [YR2003],199
+76,Europe & Central Asia (IDA & IBRD countries),2003 [YR2003],208
+77,Europe & Central Asia (excluding high income),2003 [YR2003],207
+78,European Union,2003 [YR2003],206
+79,Faroe Islands,2003 [YR2003],448
+80,Fiji,2003 [YR2003],57
+81,Finland,2003 [YR2003],40
+82,Fragile and conflict affected situations,2003 [YR2003],285
+83,France,2003 [YR2003],44
+84,French Polynesia,2003 [YR2003],405
+85,Gabon,2003 [YR2003],46
+86,"Gambia, The",2003 [YR2003],81
+87,Georgia,2003 [YR2003],46
+88,Germany,2003 [YR2003],45
+89,Ghana,2003 [YR2003],74
+90,Gibraltar,2003 [YR2003],568
+91,Greece,2003 [YR2003],75
+92,Greenland,2003 [YR2003],456
+93,Grenada,2003 [YR2003],194
+94,Guam,2003 [YR2003],476
+95,Guatemala,2003 [YR2003],55
+96,Guinea,2003 [YR2003],82
+97,Guinea-Bissau,2003 [YR2003],81
+98,Guyana,2003 [YR2003],69
+99,Haiti,2003 [YR2003],81
+100,Heavily indebted poor countries (HIPC),2003 [YR2003],220
+101,High income,2003 [YR2003],204
+102,Honduras,2003 [YR2003],35
+103,"Hong Kong SAR, China",2003 [YR2003],187
+104,Hungary,2003 [YR2003],30
+105,IBRD only,2003 [YR2003],453
+106,IDA & IBRD total,2003 [YR2003],214
+107,IDA blend,2003 [YR2003],494
+108,IDA only,2003 [YR2003],460
+109,IDA total,2003 [YR2003],464
+110,Iceland,2003 [YR2003],91
+111,India,2003 [YR2003],38
+112,Indonesia,2003 [YR2003],50
+113,"Iran, Islamic Rep.",2003 [YR2003],81
+114,Iraq,2003 [YR2003],165
+115,Ireland,2003 [YR2003],97
+116,Isle of Man,2003 [YR2003],581
+117,Israel,2003 [YR2003],28
+118,Italy,2003 [YR2003],42
+119,Jamaica,2003 [YR2003],48
+120,Japan,2003 [YR2003],79
+121,Jordan,2003 [YR2003],50
+122,Kazakhstan,2003 [YR2003],29
+123,Kenya,2003 [YR2003],37
+124,Kiribati,2003 [YR2003],276
+125,"Korea, Dem. People's Rep.",2003 [YR2003],332
+126,"Korea, Rep.",2003 [YR2003],41
+127,Kosovo,2003 [YR2003],560
+128,Kuwait,2003 [YR2003],88
+129,Kyrgyz Republic,2003 [YR2003],42
+130,Lao PDR,2003 [YR2003],51
+131,Late-demographic dividend,2003 [YR2003],215
+132,Latin America & Caribbean,2003 [YR2003],193
+133,Latin America & Caribbean (excluding high income),2003 [YR2003],194
+134,Latin America & the Caribbean (IDA & IBRD countries),2003 [YR2003],198
+135,Latvia,2003 [YR2003],54
+136,Least developed countries: UN classification,2003 [YR2003],221
+137,Lebanon,2003 [YR2003],53
+138,Lesotho,2003 [YR2003],78
+139,Liberia,2003 [YR2003],216
+140,Libya,2003 [YR2003],117
+141,Liechtenstein,2003 [YR2003],489
+142,Lithuania,2003 [YR2003],30
+143,Low & middle income,2003 [YR2003],210
+144,Low income,2003 [YR2003],257
+145,Lower middle income,2003 [YR2003],194
+146,Luxembourg,2003 [YR2003],60
+147,"Macao SAR, China",2003 [YR2003],231
+148,Madagascar,2003 [YR2003],44
+149,Malawi,2003 [YR2003],112
+150,Malaysia,2003 [YR2003],28
+151,Maldives,2003 [YR2003],112
+152,Mali,2003 [YR2003],38
+153,Malta,2003 [YR2003],69
+154,Marshall Islands,2003 [YR2003],298
+155,Mauritania,2003 [YR2003],109
+156,Mauritius,2003 [YR2003],44
+157,Mexico,2003 [YR2003],32
+158,"Micronesia, Fed. Sts.",2003 [YR2003],280
+159,Middle East & North Africa,2003 [YR2003],232
+160,Middle East & North Africa (IDA & IBRD countries),2003 [YR2003],236
+161,Middle East & North Africa (excluding high income),2003 [YR2003],232
+162,Middle income,2003 [YR2003],210
+163,Moldova,2003 [YR2003],26
+164,Monaco,2003 [YR2003],481
+165,Mongolia,2003 [YR2003],61
+166,Montenegro,2003 [YR2003],302
+167,Morocco,2003 [YR2003],23
+168,Mozambique,2003 [YR2003],167
+169,Myanmar,2003 [YR2003],148
+170,Namibia,2003 [YR2003],31
+171,Nauru,2003 [YR2003],418
+172,Nepal,2003 [YR2003],27
+173,Netherlands,2003 [YR2003],45
+174,New Caledonia,2003 [YR2003],361
+175,New Zealand,2003 [YR2003],55
+176,Nicaragua,2003 [YR2003],47
+177,Niger,2003 [YR2003],32
+178,Nigeria,2003 [YR2003],124
+179,North America,2003 [YR2003],210
+180,North Macedonia,2003 [YR2003],26
+181,Northern Mariana Islands,2003 [YR2003],556
+182,Norway,2003 [YR2003],40
+183,Not classified,2003 [YR2003],804
+184,OECD members,2003 [YR2003],205
+185,Oman,2003 [YR2003],37
+186,Other small states,2003 [YR2003],269
+187,Pacific island small states,2003 [YR2003],256
+188,Pakistan,2003 [YR2003],45
+189,Palau,2003 [YR2003],334
+190,Panama,2003 [YR2003],64
+191,Papua New Guinea,2003 [YR2003],75
+192,Paraguay,2003 [YR2003],19
+193,Peru,2003 [YR2003],28
+194,Philippines,2003 [YR2003],31
+195,Poland,2003 [YR2003],29
+196,Portugal,2003 [YR2003],42
+197,Post-demographic dividend,2003 [YR2003],202
+198,Pre-demographic dividend,2003 [YR2003],301
+199,Puerto Rico,2003 [YR2003],346
+200,Qatar,2003 [YR2003],151
+201,Romania,2003 [YR2003],22
+202,Russian Federation,2003 [YR2003],43
+203,Rwanda,2003 [YR2003],90
+204,Samoa,2003 [YR2003],172
+205,San Marino,2003 [YR2003],457
+206,Sao Tome and Principe,2003 [YR2003],115
+207,Saudi Arabia,2003 [YR2003],71
+208,Senegal,2003 [YR2003],31
+209,Serbia,2003 [YR2003],185
+210,Seychelles,2003 [YR2003],111
+211,Sierra Leone,2003 [YR2003],66
+212,Singapore,2003 [YR2003],74
+213,Sint Maarten (Dutch part),2003 [YR2003],613
+214,Slovak Republic,2003 [YR2003],36
+215,Slovenia,2003 [YR2003],44
+216,Small states,2003 [YR2003],268
+217,Solomon Islands,2003 [YR2003],91
+218,Somalia,2003 [YR2003],337
+219,South Africa,2003 [YR2003],23
+220,South Asia,2003 [YR2003],197
+221,South Asia (IDA & IBRD),2003 [YR2003],202
+222,South Sudan,2003 [YR2003],475
+223,Spain,2003 [YR2003],66
+224,Sri Lanka,2003 [YR2003],53
+225,St. Kitts and Nevis,2003 [YR2003],234
+226,St. Lucia,2003 [YR2003],155
+227,St. Martin (French part),2003 [YR2003],627
+228,St. Vincent and the Grenadines,2003 [YR2003],139
+229,Sub-Saharan Africa,2003 [YR2003],212
+230,Sub-Saharan Africa (IDA & IBRD countries),2003 [YR2003],217
+231,Sub-Saharan Africa (excluding high income),2003 [YR2003],213
+232,Sudan,2003 [YR2003],75
+233,Suriname,2003 [YR2003],179
+234,Sweden,2003 [YR2003],37
+235,Switzerland,2003 [YR2003],49
+236,Syrian Arab Republic,2003 [YR2003],65
+237,Tajikistan,2003 [YR2003],62
+238,Tanzania,2003 [YR2003],35
+239,Thailand,2003 [YR2003],67
+240,Timor-Leste,2003 [YR2003],165
+241,Togo,2003 [YR2003],35
+242,Tonga,2003 [YR2003],109
+243,Trinidad and Tobago,2003 [YR2003],112
+244,Tunisia,2003 [YR2003],23
+245,Turkiye,2003 [YR2003],51
+246,Turkmenistan,2003 [YR2003],188
+247,Turks and Caicos Islands,2003 [YR2003],470
+248,Tuvalu,2003 [YR2003],300
+249,Uganda,2003 [YR2003],40
+250,Ukraine,2003 [YR2003],29
+251,United Arab Emirates,2003 [YR2003],119
+252,United Kingdom,2003 [YR2003],43
+253,United States,2003 [YR2003],72
+254,Upper middle income,2003 [YR2003],210
+255,Uruguay,2003 [YR2003],30
+256,Uzbekistan,2003 [YR2003],132
+257,Vanuatu,2003 [YR2003],73
+258,"Venezuela, RB",2003 [YR2003],70
+259,Viet Nam,2003 [YR2003],68
+260,Virgin Islands (U.S.),2003 [YR2003],488
+261,West Bank and Gaza,2003 [YR2003],122
+262,World,2003 [YR2003],192
+263,"Yemen, Rep.",2003 [YR2003],112
+264,Zambia,2003 [YR2003],107
+265,Zimbabwe,2003 [YR2003],134
+266,Afghanistan,2004 [YR2004],201
+267,Africa Eastern and Southern,2004 [YR2004],193
+268,Africa Western and Central,2004 [YR2004],267
+269,Albania,2004 [YR2004],21
+270,Algeria,2004 [YR2004],72
+271,American Samoa,2004 [YR2004],488
+272,Andorra,2004 [YR2004],361
+273,Angola,2004 [YR2004],64
+274,Antigua and Barbuda,2004 [YR2004],220
+275,Arab World,2004 [YR2004],226
+276,Argentina,2004 [YR2004],16
+277,Armenia,2004 [YR2004],37
+278,Aruba,2004 [YR2004],306
+279,Australia,2004 [YR2004],51
+280,Austria,2004 [YR2004],87
+281,Azerbaijan,2004 [YR2004],42
+282,"Bahamas, The",2004 [YR2004],78
+283,Bahrain,2004 [YR2004],92
+284,Bangladesh,2004 [YR2004],47
+285,Barbados,2004 [YR2004],77
+286,Belarus,2004 [YR2004],22
+287,Belgium,2004 [YR2004],34
+288,Belize,2004 [YR2004],34
+289,Benin,2004 [YR2004],21
+290,Bermuda,2004 [YR2004],442
+291,Bhutan,2004 [YR2004],121
+292,Bolivia,2004 [YR2004],22
+293,Bosnia and Herzegovina,2004 [YR2004],59
+294,Botswana,2004 [YR2004],23
+295,Brazil,2004 [YR2004],40
+296,British Virgin Islands,2004 [YR2004],506
+297,Brunei Darussalam,2004 [YR2004],67
+298,Bulgaria,2004 [YR2004],26
+299,Burkina Faso,2004 [YR2004],84
+300,Burundi,2004 [YR2004],27
+301,Cabo Verde,2004 [YR2004],99
+302,Cambodia,2004 [YR2004],22
+303,Cameroon,2004 [YR2004],18
+304,Canada,2004 [YR2004],51
+305,Caribbean small states,2004 [YR2004],255
+306,Cayman Islands,2004 [YR2004],516
+307,Central African Republic,2004 [YR2004],146
+308,Central Europe and the Baltics,2004 [YR2004],197
+309,Chad,2004 [YR2004],137
+310,Channel Islands,2004 [YR2004],550
+311,Chile,2004 [YR2004],18
+312,China,2004 [YR2004],72
+313,Colombia,2004 [YR2004],14
+314,Comoros,2004 [YR2004],69
+315,"Congo, Dem. Rep.",2004 [YR2004],124
+316,"Congo, Rep.",2004 [YR2004],44
+317,Costa Rica,2004 [YR2004],23
+318,Cote d'Ivoire,2004 [YR2004],144
+319,Croatia,2004 [YR2004],36
+320,Cuba,2004 [YR2004],127
+321,Curacao,2004 [YR2004],577
+322,Cyprus,2004 [YR2004],40
+323,Czechia,2004 [YR2004],14
+324,Denmark,2004 [YR2004],39
+325,Djibouti,2004 [YR2004],181
+326,Dominica,2004 [YR2004],203
+327,Dominican Republic,2004 [YR2004],21
+328,Early-demographic dividend,2004 [YR2004],192
+329,East Asia & Pacific,2004 [YR2004],203
+330,East Asia & Pacific (IDA & IBRD countries),2004 [YR2004],210
+331,East Asia & Pacific (excluding high income),2004 [YR2004],206
+332,Ecuador,2004 [YR2004],16
+333,"Egypt, Arab Rep.",2004 [YR2004],11
+334,El Salvador,2004 [YR2004],20
+335,Equatorial Guinea,2004 [YR2004],248
+336,Eritrea,2004 [YR2004],138
+337,Estonia,2004 [YR2004],46
+338,Eswatini,2004 [YR2004],44
+339,Ethiopia,2004 [YR2004],82
+340,Euro area,2004 [YR2004],194
+341,Europe & Central Asia,2004 [YR2004],193
+342,Europe & Central Asia (IDA & IBRD countries),2004 [YR2004],202
+343,Europe & Central Asia (excluding high income),2004 [YR2004],201
+344,European Union,2004 [YR2004],200
+345,Faroe Islands,2004 [YR2004],446
+346,Fiji,2004 [YR2004],41
+347,Finland,2004 [YR2004],34
+348,Fragile and conflict affected situations,2004 [YR2004],290
+349,France,2004 [YR2004],36
+350,French Polynesia,2004 [YR2004],404
+351,Gabon,2004 [YR2004],60
+352,"Gambia, The",2004 [YR2004],54
+353,Georgia,2004 [YR2004],37
+354,Germany,2004 [YR2004],39
+355,Ghana,2004 [YR2004],65
+356,Gibraltar,2004 [YR2004],566
+357,Greece,2004 [YR2004],65
+358,Greenland,2004 [YR2004],445
+359,Grenada,2004 [YR2004],198
+360,Guam,2004 [YR2004],439
+361,Guatemala,2004 [YR2004],27
+362,Guinea,2004 [YR2004],55
+363,Guinea-Bissau,2004 [YR2004],76
+364,Guyana,2004 [YR2004],68
+365,Haiti,2004 [YR2004],74
+366,Heavily indebted poor countries (HIPC),2004 [YR2004],211
+367,High income,2004 [YR2004],198
+368,Honduras,2004 [YR2004],29
+369,"Hong Kong SAR, China",2004 [YR2004],181
+370,Hungary,2004 [YR2004],22
+371,IBRD only,2004 [YR2004],445
+372,IDA & IBRD total,2004 [YR2004],205
+373,IDA blend,2004 [YR2004],506
+374,IDA only,2004 [YR2004],450
+375,IDA total,2004 [YR2004],462
+376,Iceland,2004 [YR2004],75
+377,India,2004 [YR2004],46
+378,Indonesia,2004 [YR2004],45
+379,"Iran, Islamic Rep.",2004 [YR2004],80
+380,Iraq,2004 [YR2004],126
+381,Ireland,2004 [YR2004],89
+382,Isle of Man,2004 [YR2004],580
+383,Israel,2004 [YR2004],20
+384,Italy,2004 [YR2004],36
+385,Jamaica,2004 [YR2004],38
+386,Japan,2004 [YR2004],76
+387,Jordan,2004 [YR2004],46
+388,Kazakhstan,2004 [YR2004],22
+389,Kenya,2004 [YR2004],31
+390,Kiribati,2004 [YR2004],247
+391,"Korea, Dem. People's Rep.",2004 [YR2004],330
+392,"Korea, Rep.",2004 [YR2004],33
+393,Kosovo,2004 [YR2004],509
+394,Kuwait,2004 [YR2004],79
+395,Kyrgyz Republic,2004 [YR2004],36
+396,Lao PDR,2004 [YR2004],43
+397,Late-demographic dividend,2004 [YR2004],207
+398,Latin America & Caribbean,2004 [YR2004],188
+399,Latin America & Caribbean (excluding high income),2004 [YR2004],189
+400,Latin America & the Caribbean (IDA & IBRD countries),2004 [YR2004],193
+401,Latvia,2004 [YR2004],44
+402,Least developed countries: UN classification,2004 [YR2004],217
+403,Lebanon,2004 [YR2004],42
+404,Lesotho,2004 [YR2004],71
+405,Liberia,2004 [YR2004],165
+406,Libya,2004 [YR2004],122
+407,Liechtenstein,2004 [YR2004],489
+408,Lithuania,2004 [YR2004],23
+409,Low & middle income,2004 [YR2004],202
+410,Low income,2004 [YR2004],248
+411,Lower middle income,2004 [YR2004],189
+412,Luxembourg,2004 [YR2004],60
+413,"Macao SAR, China",2004 [YR2004],228
+414,Madagascar,2004 [YR2004],37
+415,Malawi,2004 [YR2004],91
+416,Malaysia,2004 [YR2004],21
+417,Maldives,2004 [YR2004],107
+418,Mali,2004 [YR2004],31
+419,Malta,2004 [YR2004],67
+420,Marshall Islands,2004 [YR2004],267
+421,Mauritania,2004 [YR2004],102
+422,Mauritius,2004 [YR2004],26
+423,Mexico,2004 [YR2004],29
+424,"Micronesia, Fed. Sts.",2004 [YR2004],243
+425,Middle East & North Africa,2004 [YR2004],228
+426,Middle East & North Africa (IDA & IBRD countries),2004 [YR2004],229
+427,Middle East & North Africa (excluding high income),2004 [YR2004],225
+428,Middle income,2004 [YR2004],202
+429,Moldova,2004 [YR2004],19
+430,Monaco,2004 [YR2004],472
+431,Mongolia,2004 [YR2004],48
+432,Montenegro,2004 [YR2004],297
+433,Morocco,2004 [YR2004],15
+434,Mozambique,2004 [YR2004],136
+435,Myanmar,2004 [YR2004],146
+436,Namibia,2004 [YR2004],30
+437,Nauru,2004 [YR2004],401
+438,Nepal,2004 [YR2004],40
+439,Netherlands,2004 [YR2004],38
+440,New Caledonia,2004 [YR2004],358
+441,New Zealand,2004 [YR2004],46
+442,Nicaragua,2004 [YR2004],29
+443,Niger,2004 [YR2004],27
+444,Nigeria,2004 [YR2004],135
+445,North America,2004 [YR2004],203
+446,North Macedonia,2004 [YR2004],19
+447,Northern Mariana Islands,2004 [YR2004],555
+448,Norway,2004 [YR2004],34
+449,Not classified,2004 [YR2004],804
+450,OECD members,2004 [YR2004],199
+451,Oman,2004 [YR2004],47
+452,Other small states,2004 [YR2004],263
+453,Pacific island small states,2004 [YR2004],251
+454,Pakistan,2004 [YR2004],37
+455,Palau,2004 [YR2004],315
+456,Panama,2004 [YR2004],48
+457,Papua New Guinea,2004 [YR2004],70
+458,Paraguay,2004 [YR2004],13
+459,Peru,2004 [YR2004],20
+460,Philippines,2004 [YR2004],24
+461,Poland,2004 [YR2004],24
+462,Portugal,2004 [YR2004],34
+463,Post-demographic dividend,2004 [YR2004],196
+464,Pre-demographic dividend,2004 [YR2004],292
+465,Puerto Rico,2004 [YR2004],341
+466,Qatar,2004 [YR2004],155
+467,Romania,2004 [YR2004],16
+468,Russian Federation,2004 [YR2004],50
+469,Rwanda,2004 [YR2004],81
+470,Samoa,2004 [YR2004],110
+471,San Marino,2004 [YR2004],447
+472,Sao Tome and Principe,2004 [YR2004],98
+473,Saudi Arabia,2004 [YR2004],64
+474,Senegal,2004 [YR2004],17
+475,Serbia,2004 [YR2004],163
+476,Seychelles,2004 [YR2004],115
+477,Sierra Leone,2004 [YR2004],61
+478,Singapore,2004 [YR2004],66
+479,Sint Maarten (Dutch part),2004 [YR2004],612
+480,Slovak Republic,2004 [YR2004],47
+481,Slovenia,2004 [YR2004],34
+482,Small states,2004 [YR2004],261
+483,Solomon Islands,2004 [YR2004],63
+484,Somalia,2004 [YR2004],335
+485,South Africa,2004 [YR2004],16
+486,South Asia,2004 [YR2004],190
+487,South Asia (IDA & IBRD),2004 [YR2004],195
+488,South Sudan,2004 [YR2004],474
+489,Spain,2004 [YR2004],55
+490,Sri Lanka,2004 [YR2004],51
+491,St. Kitts and Nevis,2004 [YR2004],209
+492,St. Lucia,2004 [YR2004],130
+493,St. Martin (French part),2004 [YR2004],626
+494,St. Vincent and the Grenadines,2004 [YR2004],118
+495,Sub-Saharan Africa,2004 [YR2004],209
+496,Sub-Saharan Africa (IDA & IBRD countries),2004 [YR2004],214
+497,Sub-Saharan Africa (excluding high income),2004 [YR2004],210
+498,Sudan,2004 [YR2004],52
+499,Suriname,2004 [YR2004],178
+500,Sweden,2004 [YR2004],30
+501,Switzerland,2004 [YR2004],42
+502,Syrian Arab Republic,2004 [YR2004],56
+503,Tajikistan,2004 [YR2004],55
+504,Tanzania,2004 [YR2004],21
+505,Thailand,2004 [YR2004],47
+506,Timor-Leste,2004 [YR2004],123
+507,Togo,2004 [YR2004],29
+508,Tonga,2004 [YR2004],77
+509,Trinidad and Tobago,2004 [YR2004],107
+510,Tunisia,2004 [YR2004],19
+511,Turkiye,2004 [YR2004],44
+512,Turkmenistan,2004 [YR2004],188
+513,Turks and Caicos Islands,2004 [YR2004],471
+514,Tuvalu,2004 [YR2004],272
+515,Uganda,2004 [YR2004],18
+516,Ukraine,2004 [YR2004],23
+517,United Arab Emirates,2004 [YR2004],113
+518,United Kingdom,2004 [YR2004],37
+519,United States,2004 [YR2004],69
+520,Upper middle income,2004 [YR2004],202
+521,Uruguay,2004 [YR2004],21
+522,Uzbekistan,2004 [YR2004],129
+523,Vanuatu,2004 [YR2004],55
+524,"Venezuela, RB",2004 [YR2004],67
+525,Viet Nam,2004 [YR2004],70
+526,Virgin Islands (U.S.),2004 [YR2004],449
+527,West Bank and Gaza,2004 [YR2004],101
+528,World,2004 [YR2004],185
+529,"Yemen, Rep.",2004 [YR2004],103
+530,Zambia,2004 [YR2004],79
+531,Zimbabwe,2004 [YR2004],146
+532,Afghanistan,2005 [YR2005],190
+533,Africa Eastern and Southern,2005 [YR2005],181
+534,Africa Western and Central,2005 [YR2005],246
+535,Albania,2005 [YR2005],11
+536,Algeria,2005 [YR2005],4
+537,American Samoa,2005 [YR2005],489
+538,Andorra,2005 [YR2005],369
+539,Angola,2005 [YR2005],48
+540,Antigua and Barbuda,2005 [YR2005],182
+541,Arab World,2005 [YR2005],214
+542,Argentina,2005 [YR2005],7
+543,Armenia,2005 [YR2005],27
+544,Aruba,2005 [YR2005],311
+545,Australia,2005 [YR2005],41
+546,Austria,2005 [YR2005],26
+547,Azerbaijan,2005 [YR2005],28
+548,"Bahamas, The",2005 [YR2005],86
+549,Bahrain,2005 [YR2005],101
+550,Bangladesh,2005 [YR2005],36
+551,Barbados,2005 [YR2005],76
+552,Belarus,2005 [YR2005],9
+553,Belgium,2005 [YR2005],23
+554,Belize,2005 [YR2005],11
+555,Benin,2005 [YR2005],20
+556,Bermuda,2005 [YR2005],440
+557,Bhutan,2005 [YR2005],85
+558,Bolivia,2005 [YR2005],12
+559,Bosnia and Herzegovina,2005 [YR2005],41
+560,Botswana,2005 [YR2005],8
+561,Brazil,2005 [YR2005],39
+562,British Virgin Islands,2005 [YR2005],514
+563,Brunei Darussalam,2005 [YR2005],81
+564,Bulgaria,2005 [YR2005],27
+565,Burkina Faso,2005 [YR2005],14
+566,Burundi,2005 [YR2005],18
+567,Cabo Verde,2005 [YR2005],74
+568,Cambodia,2005 [YR2005],20
+569,Cameroon,2005 [YR2005],9
+570,Canada,2005 [YR2005],33
+571,Caribbean small states,2005 [YR2005],246
+572,Cayman Islands,2005 [YR2005],519
+573,Central African Republic,2005 [YR2005],128
+574,Central Europe and the Baltics,2005 [YR2005],187
+575,Chad,2005 [YR2005],120
+576,Channel Islands,2005 [YR2005],550
+577,Chile,2005 [YR2005],9
+578,China,2005 [YR2005],75
+579,Colombia,2005 [YR2005],5
+580,Comoros,2005 [YR2005],62
+581,"Congo, Dem. Rep.",2005 [YR2005],55
+582,"Congo, Rep.",2005 [YR2005],43
+583,Costa Rica,2005 [YR2005],17
+584,Cote d'Ivoire,2005 [YR2005],82
+585,Croatia,2005 [YR2005],7
+586,Cuba,2005 [YR2005],126
+587,Curacao,2005 [YR2005],551
+588,Cyprus,2005 [YR2005],45
+589,Czechia,2005 [YR2005],14
+590,Denmark,2005 [YR2005],26
+591,Djibouti,2005 [YR2005],156
+592,Dominica,2005 [YR2005],179
+593,Dominican Republic,2005 [YR2005],14
+594,Early-demographic dividend,2005 [YR2005],185
+595,East Asia & Pacific,2005 [YR2005],196
+596,East Asia & Pacific (IDA & IBRD countries),2005 [YR2005],203
+597,East Asia & Pacific (excluding high income),2005 [YR2005],199
+598,Ecuador,2005 [YR2005],7
+599,"Egypt, Arab Rep.",2005 [YR2005],9
+600,El Salvador,2005 [YR2005],3
+601,Equatorial Guinea,2005 [YR2005],145
+602,Eritrea,2005 [YR2005],138
+603,Estonia,2005 [YR2005],47
+604,Eswatini,2005 [YR2005],16
+605,Ethiopia,2005 [YR2005],73
+606,Euro area,2005 [YR2005],195
+607,Europe & Central Asia,2005 [YR2005],184
+608,Europe & Central Asia (IDA & IBRD countries),2005 [YR2005],193
+609,Europe & Central Asia (excluding high income),2005 [YR2005],191
+610,European Union,2005 [YR2005],191
+611,Faroe Islands,2005 [YR2005],447
+612,Fiji,2005 [YR2005],50
+613,Finland,2005 [YR2005],24
+614,Fragile and conflict affected situations,2005 [YR2005],262
+615,France,2005 [YR2005],26
+616,French Polynesia,2005 [YR2005],362
+617,Gabon,2005 [YR2005],33
+618,"Gambia, The",2005 [YR2005],21
+619,Georgia,2005 [YR2005],28
+620,Germany,2005 [YR2005],30
+621,Ghana,2005 [YR2005],54
+622,Gibraltar,2005 [YR2005],570
+623,Greece,2005 [YR2005],54
+624,Greenland,2005 [YR2005],446
+625,Grenada,2005 [YR2005],168
+626,Guam,2005 [YR2005],440
+627,Guatemala,2005 [YR2005],15
+628,Guinea,2005 [YR2005],48
+629,Guinea-Bissau,2005 [YR2005],49
+630,Guyana,2005 [YR2005],40
+631,Haiti,2005 [YR2005],65
+632,Heavily indebted poor countries (HIPC),2005 [YR2005],196
+633,High income,2005 [YR2005],186
+634,Honduras,2005 [YR2005],19
+635,"Hong Kong SAR, China",2005 [YR2005],179
+636,Hungary,2005 [YR2005],22
+637,IBRD only,2005 [YR2005],436
+638,IDA & IBRD total,2005 [YR2005],197
+639,IDA blend,2005 [YR2005],483
+640,IDA only,2005 [YR2005],438
+641,IDA total,2005 [YR2005],446
+642,Iceland,2005 [YR2005],66
+643,India,2005 [YR2005],44
+644,Indonesia,2005 [YR2005],46
+645,"Iran, Islamic Rep.",2005 [YR2005],73
+646,Iraq,2005 [YR2005],71
+647,Ireland,2005 [YR2005],26
+648,Isle of Man,2005 [YR2005],580
+649,Israel,2005 [YR2005],20
+650,Italy,2005 [YR2005],27
+651,Jamaica,2005 [YR2005],35
+652,Japan,2005 [YR2005],74
+653,Jordan,2005 [YR2005],38
+654,Kazakhstan,2005 [YR2005],14
+655,Kenya,2005 [YR2005],12
+656,Kiribati,2005 [YR2005],225
+657,"Korea, Dem. People's Rep.",2005 [YR2005],330
+658,"Korea, Rep.",2005 [YR2005],33
+659,Kosovo,2005 [YR2005],503
+660,Kuwait,2005 [YR2005],88
+661,Kyrgyz Republic,2005 [YR2005],27
+662,Lao PDR,2005 [YR2005],28
+663,Late-demographic dividend,2005 [YR2005],200
+664,Latin America & Caribbean,2005 [YR2005],181
+665,Latin America & Caribbean (excluding high income),2005 [YR2005],180
+666,Latin America & the Caribbean (IDA & IBRD countries),2005 [YR2005],186
+667,Latvia,2005 [YR2005],45
+668,Least developed countries: UN classification,2005 [YR2005],201
+669,Lebanon,2005 [YR2005],34
+670,Lesotho,2005 [YR2005],69
+671,Liberia,2005 [YR2005],163
+672,Libya,2005 [YR2005],114
+673,Liechtenstein,2005 [YR2005],490
+674,Lithuania,2005 [YR2005],28
+675,Low & middle income,2005 [YR2005],193
+676,Low income,2005 [YR2005],213
+677,Lower middle income,2005 [YR2005],177
+678,Luxembourg,2005 [YR2005],59
+679,"Macao SAR, China",2005 [YR2005],232
+680,Madagascar,2005 [YR2005],16
+681,Malawi,2005 [YR2005],80
+682,Malaysia,2005 [YR2005],13
+683,Maldives,2005 [YR2005],98
+684,Mali,2005 [YR2005],16
+685,Malta,2005 [YR2005],69
+686,Marshall Islands,2005 [YR2005],174
+687,Mauritania,2005 [YR2005],81
+688,Mauritius,2005 [YR2005],15
+689,Mexico,2005 [YR2005],27
+690,"Micronesia, Fed. Sts.",2005 [YR2005],233
+691,Middle East & North Africa,2005 [YR2005],204
+692,Middle East & North Africa (IDA & IBRD countries),2005 [YR2005],188
+693,Middle East & North Africa (excluding high income),2005 [YR2005],184
+694,Middle income,2005 [YR2005],193
+695,Moldova,2005 [YR2005],10
+696,Monaco,2005 [YR2005],480
+697,Mongolia,2005 [YR2005],37
+698,Montenegro,2005 [YR2005],256
+699,Morocco,2005 [YR2005],7
+700,Mozambique,2005 [YR2005],70
+701,Myanmar,2005 [YR2005],146
+702,Namibia,2005 [YR2005],15
+703,Nauru,2005 [YR2005],395
+704,Nepal,2005 [YR2005],24
+705,Netherlands,2005 [YR2005],33
+706,New Caledonia,2005 [YR2005],362
+707,New Zealand,2005 [YR2005],34
+708,Nicaragua,2005 [YR2005],23
+709,Niger,2005 [YR2005],18
+710,Nigeria,2005 [YR2005],115
+711,North America,2005 [YR2005],198
+712,North Macedonia,2005 [YR2005],6
+713,Northern Mariana Islands,2005 [YR2005],556
+714,Norway,2005 [YR2005],27
+715,Not classified,2005 [YR2005],804
+716,OECD members,2005 [YR2005],189
+717,Oman,2005 [YR2005],29
+718,Other small states,2005 [YR2005],251
+719,Pacific island small states,2005 [YR2005],234
+720,Pakistan,2005 [YR2005],31
+721,Palau,2005 [YR2005],264
+722,Panama,2005 [YR2005],40
+723,Papua New Guinea,2005 [YR2005],142
+724,Paraguay,2005 [YR2005],7
+725,Peru,2005 [YR2005],11
+726,Philippines,2005 [YR2005],15
+727,Poland,2005 [YR2005],20
+728,Portugal,2005 [YR2005],25
+729,Post-demographic dividend,2005 [YR2005],186
+730,Pre-demographic dividend,2005 [YR2005],247
+731,Puerto Rico,2005 [YR2005],332
+732,Qatar,2005 [YR2005],153
+733,Romania,2005 [YR2005],18
+734,Russian Federation,2005 [YR2005],49
+735,Rwanda,2005 [YR2005],77
+736,Samoa,2005 [YR2005],107
+737,San Marino,2005 [YR2005],451
+738,Sao Tome and Principe,2005 [YR2005],87
+739,Saudi Arabia,2005 [YR2005],22
+740,Senegal,2005 [YR2005],7
+741,Serbia,2005 [YR2005],146
+742,Seychelles,2005 [YR2005],90
+743,Sierra Leone,2005 [YR2005],53
+744,Singapore,2005 [YR2005],62
+745,Sint Maarten (Dutch part),2005 [YR2005],609
+746,Slovak Republic,2005 [YR2005],48
+747,Slovenia,2005 [YR2005],35
+748,Small states,2005 [YR2005],253
+749,Solomon Islands,2005 [YR2005],42
+750,Somalia,2005 [YR2005],332
+751,South Africa,2005 [YR2005],11
+752,South Asia,2005 [YR2005],182
+753,South Asia (IDA & IBRD),2005 [YR2005],187
+754,South Sudan,2005 [YR2005],472
+755,Spain,2005 [YR2005],49
+756,Sri Lanka,2005 [YR2005],38
+757,St. Kitts and Nevis,2005 [YR2005],187
+758,St. Lucia,2005 [YR2005],107
+759,St. Martin (French part),2005 [YR2005],626
+760,St. Vincent and the Grenadines,2005 [YR2005],100
+761,Sub-Saharan Africa,2005 [YR2005],193
+762,Sub-Saharan Africa (IDA & IBRD countries),2005 [YR2005],198
+763,Sub-Saharan Africa (excluding high income),2005 [YR2005],194
+764,Sudan,2005 [YR2005],41
+765,Suriname,2005 [YR2005],87
+766,Sweden,2005 [YR2005],24
+767,Switzerland,2005 [YR2005],31
+768,Syrian Arab Republic,2005 [YR2005],49
+769,Tajikistan,2005 [YR2005],33
+770,Tanzania,2005 [YR2005],8
+771,Thailand,2005 [YR2005],37
+772,Timor-Leste,2005 [YR2005],109
+773,Togo,2005 [YR2005],23
+774,Tonga,2005 [YR2005],77
+775,Trinidad and Tobago,2005 [YR2005],93
+776,Tunisia,2005 [YR2005],6
+777,Turkiye,2005 [YR2005],29
+778,Turkmenistan,2005 [YR2005],187
+779,Turks and Caicos Islands,2005 [YR2005],468
+780,Tuvalu,2005 [YR2005],272
+781,Uganda,2005 [YR2005],20
+782,Ukraine,2005 [YR2005],7
+783,United Arab Emirates,2005 [YR2005],111
+784,United Kingdom,2005 [YR2005],27
+785,United States,2005 [YR2005],50
+786,Upper middle income,2005 [YR2005],194
+787,Uruguay,2005 [YR2005],15
+788,Uzbekistan,2005 [YR2005],64
+789,Vanuatu,2005 [YR2005],58
+790,"Venezuela, RB",2005 [YR2005],57
+791,Viet Nam,2005 [YR2005],48
+792,Virgin Islands (U.S.),2005 [YR2005],449
+793,West Bank and Gaza,2005 [YR2005],91
+794,World,2005 [YR2005],176
+795,"Yemen, Rep.",2005 [YR2005],42
+796,Zambia,2005 [YR2005],70
+797,Zimbabwe,2005 [YR2005],133
+798,Afghanistan,2006 [YR2006],181
+799,Africa Eastern and Southern,2006 [YR2006],183
+800,Africa Western and Central,2006 [YR2006],238
+801,Albania,2006 [YR2006],12
+802,Algeria,2006 [YR2006],4
+803,American Samoa,2006 [YR2006],486
+804,Andorra,2006 [YR2006],361
+805,Angola,2006 [YR2006],46
+806,Antigua and Barbuda,2006 [YR2006],190
+807,Arab World,2006 [YR2006],214
+808,Argentina,2006 [YR2006],5
+809,Armenia,2006 [YR2006],29
+810,Aruba,2006 [YR2006],315
+811,Australia,2006 [YR2006],41
+812,Austria,2006 [YR2006],29
+813,Azerbaijan,2006 [YR2006],24
+814,"Bahamas, The",2006 [YR2006],81
+815,Bahrain,2006 [YR2006],71
+816,Bangladesh,2006 [YR2006],42
+817,Barbados,2006 [YR2006],77
+818,Belarus,2006 [YR2006],8
+819,Belgium,2006 [YR2006],23
+820,Belize,2006 [YR2006],14
+821,Benin,2006 [YR2006],19
+822,Bermuda,2006 [YR2006],404
+823,Bhutan,2006 [YR2006],29
+824,Bolivia,2006 [YR2006],11
+825,Bosnia and Herzegovina,2006 [YR2006],37
+826,Botswana,2006 [YR2006],9
+827,Brazil,2006 [YR2006],48
+828,British Virgin Islands,2006 [YR2006],514
+829,Brunei Darussalam,2006 [YR2006],44
+830,Bulgaria,2006 [YR2006],28
+831,Burkina Faso,2006 [YR2006],24
+832,Burundi,2006 [YR2006],25
+833,Cabo Verde,2006 [YR2006],73
+834,Cambodia,2006 [YR2006],7
+835,Cameroon,2006 [YR2006],5
+836,Canada,2006 [YR2006],34
+837,Caribbean small states,2006 [YR2006],249
+838,Cayman Islands,2006 [YR2006],461
+839,Central African Republic,2006 [YR2006],138
+840,Central Europe and the Baltics,2006 [YR2006],190
+841,Chad,2006 [YR2006],134
+842,Channel Islands,2006 [YR2006],550
+843,Chile,2006 [YR2006],7
+844,China,2006 [YR2006],53
+845,Colombia,2006 [YR2006],5
+846,Comoros,2006 [YR2006],65
+847,"Congo, Dem. Rep.",2006 [YR2006],56
+848,"Congo, Rep.",2006 [YR2006],46
+849,Costa Rica,2006 [YR2006],13
+850,Cote d'Ivoire,2006 [YR2006],68
+851,Croatia,2006 [YR2006],7
+852,Cuba,2006 [YR2006],126
+853,Curacao,2006 [YR2006],551
+854,Cyprus,2006 [YR2006],45
+855,Czechia,2006 [YR2006],14
+856,Denmark,2006 [YR2006],26
+857,Djibouti,2006 [YR2006],153
+858,Dominica,2006 [YR2006],139
+859,Dominican Republic,2006 [YR2006],18
+860,Early-demographic dividend,2006 [YR2006],184
+861,East Asia & Pacific,2006 [YR2006],196
+862,East Asia & Pacific (IDA & IBRD countries),2006 [YR2006],202
+863,East Asia & Pacific (excluding high income),2006 [YR2006],198
+864,Ecuador,2006 [YR2006],7
+865,"Egypt, Arab Rep.",2006 [YR2006],9
+866,El Salvador,2006 [YR2006],4
+867,Equatorial Guinea,2006 [YR2006],130
+868,Eritrea,2006 [YR2006],136
+869,Estonia,2006 [YR2006],45
+870,Eswatini,2006 [YR2006],16
+871,Ethiopia,2006 [YR2006],78
+872,Euro area,2006 [YR2006],195
+873,Europe & Central Asia,2006 [YR2006],184
+874,Europe & Central Asia (IDA & IBRD countries),2006 [YR2006],193
+875,Europe & Central Asia (excluding high income),2006 [YR2006],191
+876,European Union,2006 [YR2006],191
+877,Faroe Islands,2006 [YR2006],443
+878,Fiji,2006 [YR2006],37
+879,Finland,2006 [YR2006],43
+880,Fragile and conflict affected situations,2006 [YR2006],262
+881,France,2006 [YR2006],26
+882,French Polynesia,2006 [YR2006],366
+883,Gabon,2006 [YR2006],94
+884,"Gambia, The",2006 [YR2006],25
+885,Georgia,2006 [YR2006],30
+886,Germany,2006 [YR2006],30
+887,Ghana,2006 [YR2006],29
+888,Gibraltar,2006 [YR2006],570
+889,Greece,2006 [YR2006],22
+890,Greenland,2006 [YR2006],441
+891,Grenada,2006 [YR2006],188
+892,Guam,2006 [YR2006],440
+893,Guatemala,2006 [YR2006],11
+894,Guinea,2006 [YR2006],39
+895,Guinea-Bissau,2006 [YR2006],62
+896,Guyana,2006 [YR2006],96
+897,Haiti,2006 [YR2006],60
+898,Heavily indebted poor countries (HIPC),2006 [YR2006],193
+899,High income,2006 [YR2006],186
+900,Honduras,2006 [YR2006],14
+901,"Hong Kong SAR, China",2006 [YR2006],179
+902,Hungary,2006 [YR2006],22
+903,IBRD only,2006 [YR2006],436
+904,IDA & IBRD total,2006 [YR2006],197
+905,IDA blend,2006 [YR2006],474
+906,IDA only,2006 [YR2006],438
+907,IDA total,2006 [YR2006],444
+908,Iceland,2006 [YR2006],64
+909,India,2006 [YR2006],43
+910,Indonesia,2006 [YR2006],46
+911,"Iran, Islamic Rep.",2006 [YR2006],70
+912,Iraq,2006 [YR2006],73
+913,Ireland,2006 [YR2006],29
+914,Isle of Man,2006 [YR2006],580
+915,Israel,2006 [YR2006],20
+916,Italy,2006 [YR2006],27
+917,Jamaica,2006 [YR2006],54
+918,Japan,2006 [YR2006],74
+919,Jordan,2006 [YR2006],37
+920,Kazakhstan,2006 [YR2006],5
+921,Kenya,2006 [YR2006],15
+922,Kiribati,2006 [YR2006],144
+923,"Korea, Dem. People's Rep.",2006 [YR2006],330
+924,"Korea, Rep.",2006 [YR2006],33
+925,Kosovo,2006 [YR2006],497
+926,Kuwait,2006 [YR2006],78
+927,Kyrgyz Republic,2006 [YR2006],28
+928,Lao PDR,2006 [YR2006],28
+929,Late-demographic dividend,2006 [YR2006],200
+930,Latin America & Caribbean,2006 [YR2006],179
+931,Latin America & Caribbean (excluding high income),2006 [YR2006],180
+932,Latin America & the Caribbean (IDA & IBRD countries),2006 [YR2006],184
+933,Latvia,2006 [YR2006],48
+934,Least developed countries: UN classification,2006 [YR2006],203
+935,Lebanon,2006 [YR2006],34
+936,Lesotho,2006 [YR2006],73
+937,Liberia,2006 [YR2006],126
+938,Libya,2006 [YR2006],93
+939,Liechtenstein,2006 [YR2006],488
+940,Lithuania,2006 [YR2006],28
+941,Low & middle income,2006 [YR2006],193
+942,Low income,2006 [YR2006],218
+943,Lower middle income,2006 [YR2006],177
+944,Luxembourg,2006 [YR2006],32
+945,"Macao SAR, China",2006 [YR2006],232
+946,Madagascar,2006 [YR2006],15
+947,Malawi,2006 [YR2006],82
+948,Malaysia,2006 [YR2006],10
+949,Maldives,2006 [YR2006],100
+950,Mali,2006 [YR2006],16
+951,Malta,2006 [YR2006],68
+952,Marshall Islands,2006 [YR2006],174
+953,Mauritania,2006 [YR2006],83
+954,Mauritius,2006 [YR2006],10
+955,Mexico,2006 [YR2006],27
+956,"Micronesia, Fed. Sts.",2006 [YR2006],244
+957,Middle East & North Africa,2006 [YR2006],205
+958,Middle East & North Africa (IDA & IBRD countries),2006 [YR2006],185
+959,Middle East & North Africa (excluding high income),2006 [YR2006],181
+960,Middle income,2006 [YR2006],193
+961,Moldova,2006 [YR2006],10
+962,Monaco,2006 [YR2006],480
+963,Mongolia,2006 [YR2006],40
+964,Montenegro,2006 [YR2006],129
+965,Morocco,2006 [YR2006],6
+966,Mozambique,2006 [YR2006],71
+967,Myanmar,2006 [YR2006],145
+968,Namibia,2006 [YR2006],9
+969,Nauru,2006 [YR2006],395
+970,Nepal,2006 [YR2006],28
+971,Netherlands,2006 [YR2006],33
+972,New Caledonia,2006 [YR2006],363
+973,New Zealand,2006 [YR2006],36
+974,Nicaragua,2006 [YR2006],18
+975,Niger,2006 [YR2006],15
+976,Nigeria,2006 [YR2006],110
+977,North America,2006 [YR2006],198
+978,North Macedonia,2006 [YR2006],12
+979,Northern Mariana Islands,2006 [YR2006],556
+980,Norway,2006 [YR2006],29
+981,Not classified,2006 [YR2006],804
+982,OECD members,2006 [YR2006],189
+983,Oman,2006 [YR2006],29
+984,Other small states,2006 [YR2006],259
+985,Pacific island small states,2006 [YR2006],234
+986,Pakistan,2006 [YR2006],28
+987,Palau,2006 [YR2006],268
+988,Panama,2006 [YR2006],41
+989,Papua New Guinea,2006 [YR2006],110
+990,Paraguay,2006 [YR2006],11
+991,Peru,2006 [YR2006],10
+992,Philippines,2006 [YR2006],9
+993,Poland,2006 [YR2006],24
+994,Portugal,2006 [YR2006],25
+995,Post-demographic dividend,2006 [YR2006],186
+996,Pre-demographic dividend,2006 [YR2006],244
+997,Puerto Rico,2006 [YR2006],332
+998,Qatar,2006 [YR2006],154
+999,Romania,2006 [YR2006],18
+1000,Russian Federation,2006 [YR2006],49
+1001,Rwanda,2006 [YR2006],78
+1002,Samoa,2006 [YR2006],109
+1003,San Marino,2006 [YR2006],452
+1004,Sao Tome and Principe,2006 [YR2006],107
+1005,Saudi Arabia,2006 [YR2006],44
+1006,Senegal,2006 [YR2006],6
+1007,Serbia,2006 [YR2006],83
+1008,Seychelles,2006 [YR2006],93
+1009,Sierra Leone,2006 [YR2006],52
+1010,Singapore,2006 [YR2006],62
+1011,Sint Maarten (Dutch part),2006 [YR2006],608
+1012,Slovak Republic,2006 [YR2006],42
+1013,Slovenia,2006 [YR2006],34
+1014,Small states,2006 [YR2006],253
+1015,Solomon Islands,2006 [YR2006],44
+1016,Somalia,2006 [YR2006],331
+1017,South Africa,2006 [YR2006],11
+1018,South Asia,2006 [YR2006],179
+1019,South Asia (IDA & IBRD),2006 [YR2006],184
+1020,South Sudan,2006 [YR2006],471
+1021,Spain,2006 [YR2006],46
+1022,Sri Lanka,2006 [YR2006],38
+1023,St. Kitts and Nevis,2006 [YR2006],209
+1024,St. Lucia,2006 [YR2006],90
+1025,St. Martin (French part),2006 [YR2006],626
+1026,St. Vincent and the Grenadines,2006 [YR2006],116
+1027,Sub-Saharan Africa,2006 [YR2006],191
+1028,Sub-Saharan Africa (IDA & IBRD countries),2006 [YR2006],196
+1029,Sub-Saharan Africa (excluding high income),2006 [YR2006],192
+1030,Sudan,2006 [YR2006],43
+1031,Suriname,2006 [YR2006],44
+1032,Sweden,2006 [YR2006],24
+1033,Switzerland,2006 [YR2006],32
+1034,Syrian Arab Republic,2006 [YR2006],46
+1035,Tajikistan,2006 [YR2006],35
+1036,Tanzania,2006 [YR2006],14
+1037,Thailand,2006 [YR2006],35
+1038,Timor-Leste,2006 [YR2006],78
+1039,Togo,2006 [YR2006],34
+1040,Tonga,2006 [YR2006],71
+1041,Trinidad and Tobago,2006 [YR2006],108
+1042,Tunisia,2006 [YR2006],10
+1043,Turkiye,2006 [YR2006],28
+1044,Turkmenistan,2006 [YR2006],196
+1045,Turks and Caicos Islands,2006 [YR2006],489
+1046,Tuvalu,2006 [YR2006],275
+1047,Uganda,2006 [YR2006],21
+1048,Ukraine,2006 [YR2006],5
+1049,United Arab Emirates,2006 [YR2006],113
+1050,United Kingdom,2006 [YR2006],27
+1051,United States,2006 [YR2006],66
+1052,Upper middle income,2006 [YR2006],195
+1053,Uruguay,2006 [YR2006],17
+1054,Uzbekistan,2006 [YR2006],64
+1055,Vanuatu,2006 [YR2006],44
+1056,"Venezuela, RB",2006 [YR2006],57
+1057,Viet Nam,2006 [YR2006],47
+1058,Virgin Islands (U.S.),2006 [YR2006],453
+1059,West Bank and Gaza,2006 [YR2006],90
+1060,World,2006 [YR2006],176
+1061,"Yemen, Rep.",2006 [YR2006],61
+1062,Zambia,2006 [YR2006],74
+1063,Zimbabwe,2006 [YR2006],138
+1064,Afghanistan,2007 [YR2007],178
+1065,Africa Eastern and Southern,2007 [YR2007],184
+1066,Africa Western and Central,2007 [YR2007],234
+1067,Albania,2007 [YR2007],7
+1068,Algeria,2007 [YR2007],4
+1069,American Samoa,2007 [YR2007],491
+1070,Andorra,2007 [YR2007],362
+1071,Angola,2007 [YR2007],32
+1072,Antigua and Barbuda,2007 [YR2007],164
+1073,Arab World,2007 [YR2007],212
+1074,Argentina,2007 [YR2007],5
+1075,Armenia,2007 [YR2007],23
+1076,Aruba,2007 [YR2007],309
+1077,Australia,2007 [YR2007],42
+1078,Austria,2007 [YR2007],29
+1079,Azerbaijan,2007 [YR2007],24
+1080,"Bahamas, The",2007 [YR2007],58
+1081,Bahrain,2007 [YR2007],64
+1082,Bangladesh,2007 [YR2007],41
+1083,Barbados,2007 [YR2007],70
+1084,Belarus,2007 [YR2007],7
+1085,Belgium,2007 [YR2007],23
+1086,Belize,2007 [YR2007],11
+1087,Benin,2007 [YR2007],33
+1088,Bermuda,2007 [YR2007],425
+1089,Bhutan,2007 [YR2007],34
+1090,Bolivia,2007 [YR2007],10
+1091,Bosnia and Herzegovina,2007 [YR2007],27
+1092,Botswana,2007 [YR2007],9
+1093,Brazil,2007 [YR2007],38
+1094,British Virgin Islands,2007 [YR2007],515
+1095,Brunei Darussalam,2007 [YR2007],45
+1096,Bulgaria,2007 [YR2007],27
+1097,Burkina Faso,2007 [YR2007],10
+1098,Burundi,2007 [YR2007],23
+1099,Cabo Verde,2007 [YR2007],25
+1100,Cambodia,2007 [YR2007],4
+1101,Cameroon,2007 [YR2007],3
+1102,Canada,2007 [YR2007],29
+1103,Caribbean small states,2007 [YR2007],246
+1104,Cayman Islands,2007 [YR2007],452
+1105,Central African Republic,2007 [YR2007],138
+1106,Central Europe and the Baltics,2007 [YR2007],190
+1107,Chad,2007 [YR2007],112
+1108,Channel Islands,2007 [YR2007],550
+1109,Chile,2007 [YR2007],7
+1110,China,2007 [YR2007],50
+1111,Colombia,2007 [YR2007],4
+1112,Comoros,2007 [YR2007],52
+1113,"Congo, Dem. Rep.",2007 [YR2007],30
+1114,"Congo, Rep.",2007 [YR2007],24
+1115,Costa Rica,2007 [YR2007],16
+1116,Cote d'Ivoire,2007 [YR2007],62
+1117,Croatia,2007 [YR2007],6
+1118,Cuba,2007 [YR2007],136
+1119,Curacao,2007 [YR2007],549
+1120,Cyprus,2007 [YR2007],45
+1121,Czechia,2007 [YR2007],14
+1122,Denmark,2007 [YR2007],26
+1123,Djibouti,2007 [YR2007],152
+1124,Dominica,2007 [YR2007],139
+1125,Dominican Republic,2007 [YR2007],8
+1126,Early-demographic dividend,2007 [YR2007],184
+1127,East Asia & Pacific,2007 [YR2007],194
+1128,East Asia & Pacific (IDA & IBRD countries),2007 [YR2007],200
+1129,East Asia & Pacific (excluding high income),2007 [YR2007],196
+1130,Ecuador,2007 [YR2007],9
+1131,"Egypt, Arab Rep.",2007 [YR2007],9
+1132,El Salvador,2007 [YR2007],3
+1133,Equatorial Guinea,2007 [YR2007],121
+1134,Eritrea,2007 [YR2007],136
+1135,Estonia,2007 [YR2007],45
+1136,Eswatini,2007 [YR2007],22
+1137,Ethiopia,2007 [YR2007],72
+1138,Euro area,2007 [YR2007],195
+1139,Europe & Central Asia,2007 [YR2007],184
+1140,Europe & Central Asia (IDA & IBRD countries),2007 [YR2007],191
+1141,Europe & Central Asia (excluding high income),2007 [YR2007],191
+1142,European Union,2007 [YR2007],191
+1143,Faroe Islands,2007 [YR2007],441
+1144,Fiji,2007 [YR2007],42
+1145,Finland,2007 [YR2007],42
+1146,Fragile and conflict affected situations,2007 [YR2007],249
+1147,France,2007 [YR2007],26
+1148,French Polynesia,2007 [YR2007],365
+1149,Gabon,2007 [YR2007],36
+1150,"Gambia, The",2007 [YR2007],18
+1151,Georgia,2007 [YR2007],34
+1152,Germany,2007 [YR2007],29
+1153,Ghana,2007 [YR2007],13
+1154,Gibraltar,2007 [YR2007],570
+1155,Greece,2007 [YR2007],20
+1156,Greenland,2007 [YR2007],441
+1157,Grenada,2007 [YR2007],166
+1158,Guam,2007 [YR2007],438
+1159,Guatemala,2007 [YR2007],8
+1160,Guinea,2007 [YR2007],22
+1161,Guinea-Bissau,2007 [YR2007],63
+1162,Guyana,2007 [YR2007],76
+1163,Haiti,2007 [YR2007],63
+1164,Heavily indebted poor countries (HIPC),2007 [YR2007],192
+1165,High income,2007 [YR2007],186
+1166,Honduras,2007 [YR2007],18
+1167,"Hong Kong SAR, China",2007 [YR2007],178
+1168,Hungary,2007 [YR2007],22
+1169,IBRD only,2007 [YR2007],436
+1170,IDA & IBRD total,2007 [YR2007],197
+1171,IDA blend,2007 [YR2007],472
+1172,IDA only,2007 [YR2007],433
+1173,IDA total,2007 [YR2007],441
+1174,Iceland,2007 [YR2007],64
+1175,India,2007 [YR2007],40
+1176,Indonesia,2007 [YR2007],44
+1177,"Iran, Islamic Rep.",2007 [YR2007],82
+1178,Iraq,2007 [YR2007],30
+1179,Ireland,2007 [YR2007],29
+1180,Isle of Man,2007 [YR2007],580
+1181,Israel,2007 [YR2007],20
+1182,Italy,2007 [YR2007],27
+1183,Jamaica,2007 [YR2007],19
+1184,Japan,2007 [YR2007],73
+1185,Jordan,2007 [YR2007],36
+1186,Kazakhstan,2007 [YR2007],14
+1187,Kenya,2007 [YR2007],13
+1188,Kiribati,2007 [YR2007],125
+1189,"Korea, Dem. People's Rep.",2007 [YR2007],330
+1190,"Korea, Rep.",2007 [YR2007],33
+1191,Kosovo,2007 [YR2007],470
+1192,Kuwait,2007 [YR2007],81
+1193,Kyrgyz Republic,2007 [YR2007],26
+1194,Lao PDR,2007 [YR2007],28
+1195,Late-demographic dividend,2007 [YR2007],200
+1196,Latin America & Caribbean,2007 [YR2007],179
+1197,Latin America & Caribbean (excluding high income),2007 [YR2007],179
+1198,Latin America & the Caribbean (IDA & IBRD countries),2007 [YR2007],183
+1199,Latvia,2007 [YR2007],43
+1200,Least developed countries: UN classification,2007 [YR2007],193
+1201,Lebanon,2007 [YR2007],34
+1202,Lesotho,2007 [YR2007],34
+1203,Liberia,2007 [YR2007],133
+1204,Libya,2007 [YR2007],96
+1205,Liechtenstein,2007 [YR2007],482
+1206,Lithuania,2007 [YR2007],27
+1207,Low & middle income,2007 [YR2007],193
+1208,Low income,2007 [YR2007],211
+1209,Lower middle income,2007 [YR2007],180
+1210,Luxembourg,2007 [YR2007],35
+1211,"Macao SAR, China",2007 [YR2007],233
+1212,Madagascar,2007 [YR2007],5
+1213,Malawi,2007 [YR2007],78
+1214,Malaysia,2007 [YR2007],10
+1215,Maldives,2007 [YR2007],94
+1216,Mali,2007 [YR2007],18
+1217,Malta,2007 [YR2007],68
+1218,Marshall Islands,2007 [YR2007],169
+1219,Mauritania,2007 [YR2007],91
+1220,Mauritius,2007 [YR2007],5
+1221,Mexico,2007 [YR2007],27
+1222,"Micronesia, Fed. Sts.",2007 [YR2007],234
+1223,Middle East & North Africa,2007 [YR2007],205
+1224,Middle East & North Africa (IDA & IBRD countries),2007 [YR2007],187
+1225,Middle East & North Africa (excluding high income),2007 [YR2007],183
+1226,Middle income,2007 [YR2007],193
+1227,Moldova,2007 [YR2007],10
+1228,Monaco,2007 [YR2007],479
+1229,Mongolia,2007 [YR2007],42
+1230,Montenegro,2007 [YR2007],49
+1231,Morocco,2007 [YR2007],5
+1232,Mozambique,2007 [YR2007],70
+1233,Myanmar,2007 [YR2007],147
+1234,Namibia,2007 [YR2007],23
+1235,Nauru,2007 [YR2007],364
+1236,Nepal,2007 [YR2007],28
+1237,Netherlands,2007 [YR2007],32
+1238,New Caledonia,2007 [YR2007],362
+1239,New Zealand,2007 [YR2007],36
+1240,Nicaragua,2007 [YR2007],17
+1241,Niger,2007 [YR2007],15
+1242,Nigeria,2007 [YR2007],108
+1243,North America,2007 [YR2007],198
+1244,North Macedonia,2007 [YR2007],6
+1245,Northern Mariana Islands,2007 [YR2007],556
+1246,Norway,2007 [YR2007],28
+1247,Not classified,2007 [YR2007],804
+1248,OECD members,2007 [YR2007],189
+1249,Oman,2007 [YR2007],31
+1250,Other small states,2007 [YR2007],252
+1251,Pacific island small states,2007 [YR2007],234
+1252,Pakistan,2007 [YR2007],28
+1253,Palau,2007 [YR2007],255
+1254,Panama,2007 [YR2007],38
+1255,Papua New Guinea,2007 [YR2007],113
+1256,Paraguay,2007 [YR2007],4
+1257,Peru,2007 [YR2007],13
+1258,Philippines,2007 [YR2007],12
+1259,Poland,2007 [YR2007],24
+1260,Portugal,2007 [YR2007],25
+1261,Post-demographic dividend,2007 [YR2007],186
+1262,Pre-demographic dividend,2007 [YR2007],234
+1263,Puerto Rico,2007 [YR2007],329
+1264,Qatar,2007 [YR2007],135
+1265,Romania,2007 [YR2007],21
+1266,Russian Federation,2007 [YR2007],51
+1267,Rwanda,2007 [YR2007],70
+1268,Samoa,2007 [YR2007],101
+1269,San Marino,2007 [YR2007],450
+1270,Sao Tome and Principe,2007 [YR2007],87
+1271,Saudi Arabia,2007 [YR2007],24
+1272,Senegal,2007 [YR2007],15
+1273,Serbia,2007 [YR2007],11
+1274,Seychelles,2007 [YR2007],84
+1275,Sierra Leone,2007 [YR2007],41
+1276,Singapore,2007 [YR2007],55
+1277,Sint Maarten (Dutch part),2007 [YR2007],606
+1278,Slovak Republic,2007 [YR2007],42
+1279,Slovenia,2007 [YR2007],36
+1280,Small states,2007 [YR2007],250
+1281,Solomon Islands,2007 [YR2007],42
+1282,Somalia,2007 [YR2007],317
+1283,South Africa,2007 [YR2007],12
+1284,South Asia,2007 [YR2007],179
+1285,South Asia (IDA & IBRD),2007 [YR2007],184
+1286,South Sudan,2007 [YR2007],470
+1287,Spain,2007 [YR2007],46
+1288,Sri Lanka,2007 [YR2007],37
+1289,St. Kitts and Nevis,2007 [YR2007],186
+1290,St. Lucia,2007 [YR2007],87
+1291,St. Martin (French part),2007 [YR2007],626
+1292,St. Vincent and the Grenadines,2007 [YR2007],99
+1293,Sub-Saharan Africa,2007 [YR2007],190
+1294,Sub-Saharan Africa (IDA & IBRD countries),2007 [YR2007],195
+1295,Sub-Saharan Africa (excluding high income),2007 [YR2007],191
+1296,Sudan,2007 [YR2007],43
+1297,Suriname,2007 [YR2007],44
+1298,Sweden,2007 [YR2007],24
+1299,Switzerland,2007 [YR2007],32
+1300,Syrian Arab Republic,2007 [YR2007],48
+1301,Tajikistan,2007 [YR2007],31
+1302,Tanzania,2007 [YR2007],9
+1303,Thailand,2007 [YR2007],28
+1304,Timor-Leste,2007 [YR2007],80
+1305,Togo,2007 [YR2007],18
+1306,Tonga,2007 [YR2007],76
+1307,Trinidad and Tobago,2007 [YR2007],91
+1308,Tunisia,2007 [YR2007],12
+1309,Turkiye,2007 [YR2007],27
+1310,Turkmenistan,2007 [YR2007],198
+1311,Turks and Caicos Islands,2007 [YR2007],490
+1312,Tuvalu,2007 [YR2007],294
+1313,Uganda,2007 [YR2007],10
+1314,Ukraine,2007 [YR2007],2
+1315,United Arab Emirates,2007 [YR2007],107
+1316,United Kingdom,2007 [YR2007],27
+1317,United States,2007 [YR2007],66
+1318,Upper middle income,2007 [YR2007],195
+1319,Uruguay,2007 [YR2007],20
+1320,Uzbekistan,2007 [YR2007],64
+1321,Vanuatu,2007 [YR2007],40
+1322,"Venezuela, RB",2007 [YR2007],61
+1323,Viet Nam,2007 [YR2007],47
+1324,Virgin Islands (U.S.),2007 [YR2007],451
+1325,West Bank and Gaza,2007 [YR2007],84
+1326,World,2007 [YR2007],176
+1327,"Yemen, Rep.",2007 [YR2007],61
+1328,Zambia,2007 [YR2007],71
+1329,Zimbabwe,2007 [YR2007],141
+1330,Afghanistan,2008 [YR2008],98
+1331,Africa Eastern and Southern,2008 [YR2008],180
+1332,Africa Western and Central,2008 [YR2008],228
+1333,Albania,2008 [YR2008],4
+1334,Algeria,2008 [YR2008],3
+1335,American Samoa,2008 [YR2008],488
+1336,Andorra,2008 [YR2008],359
+1337,Angola,2008 [YR2008],30
+1338,Antigua and Barbuda,2008 [YR2008],172
+1339,Arab World,2008 [YR2008],209
+1340,Argentina,2008 [YR2008],5
+1341,Armenia,2008 [YR2008],25
+1342,Aruba,2008 [YR2008],311
+1343,Australia,2008 [YR2008],41
+1344,Austria,2008 [YR2008],29
+1345,Azerbaijan,2008 [YR2008],23
+1346,"Bahamas, The",2008 [YR2008],58
+1347,Bahrain,2008 [YR2008],54
+1348,Bangladesh,2008 [YR2008],32
+1349,Barbados,2008 [YR2008],72
+1350,Belarus,2008 [YR2008],0
+1351,Belgium,2008 [YR2008],25
+1352,Belize,2008 [YR2008],11
+1353,Benin,2008 [YR2008],15
+1354,Bermuda,2008 [YR2008],424
+1355,Bhutan,2008 [YR2008],15
+1356,Bolivia,2008 [YR2008],16
+1357,Bosnia and Herzegovina,2008 [YR2008],25
+1358,Botswana,2008 [YR2008],12
+1359,Brazil,2008 [YR2008],38
+1360,British Virgin Islands,2008 [YR2008],535
+1361,Brunei Darussalam,2008 [YR2008],46
+1362,Bulgaria,2008 [YR2008],27
+1363,Burkina Faso,2008 [YR2008],17
+1364,Burundi,2008 [YR2008],28
+1365,Cabo Verde,2008 [YR2008],19
+1366,Cambodia,2008 [YR2008],6
+1367,Cameroon,2008 [YR2008],3
+1368,Canada,2008 [YR2008],28
+1369,Caribbean small states,2008 [YR2008],246
+1370,Cayman Islands,2008 [YR2008],453
+1371,Central African Republic,2008 [YR2008],128
+1372,Central Europe and the Baltics,2008 [YR2008],189
+1373,Chad,2008 [YR2008],94
+1374,Channel Islands,2008 [YR2008],563
+1375,Chile,2008 [YR2008],6
+1376,China,2008 [YR2008],50
+1377,Colombia,2008 [YR2008],3
+1378,Comoros,2008 [YR2008],36
+1379,"Congo, Dem. Rep.",2008 [YR2008],31
+1380,"Congo, Rep.",2008 [YR2008],22
+1381,Costa Rica,2008 [YR2008],12
+1382,Cote d'Ivoire,2008 [YR2008],41
+1383,Croatia,2008 [YR2008],8
+1384,Cuba,2008 [YR2008],136
+1385,Curacao,2008 [YR2008],549
+1386,Cyprus,2008 [YR2008],21
+1387,Czechia,2008 [YR2008],15
+1388,Denmark,2008 [YR2008],25
+1389,Djibouti,2008 [YR2008],152
+1390,Dominica,2008 [YR2008],139
+1391,Dominican Republic,2008 [YR2008],14
+1392,Early-demographic dividend,2008 [YR2008],182
+1393,East Asia & Pacific,2008 [YR2008],193
+1394,East Asia & Pacific (IDA & IBRD countries),2008 [YR2008],199
+1395,East Asia & Pacific (excluding high income),2008 [YR2008],195
+1396,Ecuador,2008 [YR2008],18
+1397,"Egypt, Arab Rep.",2008 [YR2008],21
+1398,El Salvador,2008 [YR2008],3
+1399,Equatorial Guinea,2008 [YR2008],104
+1400,Eritrea,2008 [YR2008],134
+1401,Estonia,2008 [YR2008],23
+1402,Eswatini,2008 [YR2008],35
+1403,Ethiopia,2008 [YR2008],65
+1404,Euro area,2008 [YR2008],196
+1405,Europe & Central Asia,2008 [YR2008],185
+1406,Europe & Central Asia (IDA & IBRD countries),2008 [YR2008],190
+1407,Europe & Central Asia (excluding high income),2008 [YR2008],188
+1408,European Union,2008 [YR2008],192
+1409,Faroe Islands,2008 [YR2008],432
+1410,Fiji,2008 [YR2008],35
+1411,Finland,2008 [YR2008],25
+1412,Fragile and conflict affected situations,2008 [YR2008],240
+1413,France,2008 [YR2008],27
+1414,French Polynesia,2008 [YR2008],362
+1415,Gabon,2008 [YR2008],36
+1416,"Gambia, The",2008 [YR2008],14
+1417,Georgia,2008 [YR2008],27
+1418,Germany,2008 [YR2008],29
+1419,Ghana,2008 [YR2008],11
+1420,Gibraltar,2008 [YR2008],555
+1421,Greece,2008 [YR2008],45
+1422,Greenland,2008 [YR2008],455
+1423,Grenada,2008 [YR2008],165
+1424,Guam,2008 [YR2008],433
+1425,Guatemala,2008 [YR2008],11
+1426,Guinea,2008 [YR2008],15
+1427,Guinea-Bissau,2008 [YR2008],61
+1428,Guyana,2008 [YR2008],78
+1429,Haiti,2008 [YR2008],63
+1430,Heavily indebted poor countries (HIPC),2008 [YR2008],188
+1431,High income,2008 [YR2008],184
+1432,Honduras,2008 [YR2008],22
+1433,"Hong Kong SAR, China",2008 [YR2008],177
+1434,Hungary,2008 [YR2008],22
+1435,IBRD only,2008 [YR2008],436
+1436,IDA & IBRD total,2008 [YR2008],195
+1437,IDA blend,2008 [YR2008],468
+1438,IDA only,2008 [YR2008],432
+1439,IDA total,2008 [YR2008],440
+1440,Iceland,2008 [YR2008],66
+1441,India,2008 [YR2008],41
+1442,Indonesia,2008 [YR2008],43
+1443,"Iran, Islamic Rep.",2008 [YR2008],81
+1444,Iraq,2008 [YR2008],38
+1445,Ireland,2008 [YR2008],29
+1446,Isle of Man,2008 [YR2008],580
+1447,Israel,2008 [YR2008],20
+1448,Italy,2008 [YR2008],32
+1449,Jamaica,2008 [YR2008],15
+1450,Japan,2008 [YR2008],72
+1451,Jordan,2008 [YR2008],36
+1452,Kazakhstan,2008 [YR2008],13
+1453,Kenya,2008 [YR2008],13
+1454,Kiribati,2008 [YR2008],127
+1455,"Korea, Dem. People's Rep.",2008 [YR2008],329
+1456,"Korea, Rep.",2008 [YR2008],34
+1457,Kosovo,2008 [YR2008],331
+1458,Kuwait,2008 [YR2008],81
+1459,Kyrgyz Republic,2008 [YR2008],34
+1460,Lao PDR,2008 [YR2008],26
+1461,Late-demographic dividend,2008 [YR2008],199
+1462,Latin America & Caribbean,2008 [YR2008],179
+1463,Latin America & Caribbean (excluding high income),2008 [YR2008],180
+1464,Latin America & the Caribbean (IDA & IBRD countries),2008 [YR2008],184
+1465,Latvia,2008 [YR2008],27
+1466,Least developed countries: UN classification,2008 [YR2008],195
+1467,Lebanon,2008 [YR2008],31
+1468,Lesotho,2008 [YR2008],18
+1469,Liberia,2008 [YR2008],110
+1470,Libya,2008 [YR2008],90
+1471,Liechtenstein,2008 [YR2008],482
+1472,Lithuania,2008 [YR2008],27
+1473,Low & middle income,2008 [YR2008],192
+1474,Low income,2008 [YR2008],204
+1475,Lower middle income,2008 [YR2008],177
+1476,Luxembourg,2008 [YR2008],32
+1477,"Macao SAR, China",2008 [YR2008],227
+1478,Madagascar,2008 [YR2008],3
+1479,Malawi,2008 [YR2008],81
+1480,Malaysia,2008 [YR2008],10
+1481,Maldives,2008 [YR2008],94
+1482,Mali,2008 [YR2008],9
+1483,Malta,2008 [YR2008],72
+1484,Marshall Islands,2008 [YR2008],172
+1485,Mauritania,2008 [YR2008],82
+1486,Mauritius,2008 [YR2008],5
+1487,Mexico,2008 [YR2008],27
+1488,"Micronesia, Fed. Sts.",2008 [YR2008],241
+1489,Middle East & North Africa,2008 [YR2008],202
+1490,Middle East & North Africa (IDA & IBRD countries),2008 [YR2008],184
+1491,Middle East & North Africa (excluding high income),2008 [YR2008],180
+1492,Middle income,2008 [YR2008],192
+1493,Moldova,2008 [YR2008],10
+1494,Monaco,2008 [YR2008],469
+1495,Mongolia,2008 [YR2008],54
+1496,Montenegro,2008 [YR2008],47
+1497,Morocco,2008 [YR2008],3
+1498,Mozambique,2008 [YR2008],70
+1499,Myanmar,2008 [YR2008],146
+1500,Namibia,2008 [YR2008],19
+1501,Nauru,2008 [YR2008],315
+1502,Nepal,2008 [YR2008],21
+1503,Netherlands,2008 [YR2008],32
+1504,New Caledonia,2008 [YR2008],359
+1505,New Zealand,2008 [YR2008],34
+1506,Nicaragua,2008 [YR2008],16
+1507,Niger,2008 [YR2008],12
+1508,Nigeria,2008 [YR2008],94
+1509,North America,2008 [YR2008],198
+1510,North Macedonia,2008 [YR2008],7
+1511,Northern Mariana Islands,2008 [YR2008],556
+1512,Norway,2008 [YR2008],26
+1513,Not classified,2008 [YR2008],804
+1514,OECD members,2008 [YR2008],188
+1515,Oman,2008 [YR2008],33
+1516,Other small states,2008 [YR2008],249
+1517,Pacific island small states,2008 [YR2008],233
+1518,Pakistan,2008 [YR2008],29
+1519,Palau,2008 [YR2008],242
+1520,Panama,2008 [YR2008],35
+1521,Papua New Guinea,2008 [YR2008],101
+1522,Paraguay,2008 [YR2008],6
+1523,Peru,2008 [YR2008],6
+1524,Philippines,2008 [YR2008],10
+1525,Poland,2008 [YR2008],25
+1526,Portugal,2008 [YR2008],25
+1527,Post-demographic dividend,2008 [YR2008],185
+1528,Pre-demographic dividend,2008 [YR2008],226
+1529,Puerto Rico,2008 [YR2008],329
+1530,Qatar,2008 [YR2008],133
+1531,Romania,2008 [YR2008],17
+1532,Russian Federation,2008 [YR2008],46
+1533,Rwanda,2008 [YR2008],66
+1534,Samoa,2008 [YR2008],112
+1535,San Marino,2008 [YR2008],432
+1536,Sao Tome and Principe,2008 [YR2008],85
+1537,Saudi Arabia,2008 [YR2008],31
+1538,Senegal,2008 [YR2008],6
+1539,Serbia,2008 [YR2008],11
+1540,Seychelles,2008 [YR2008],84
+1541,Sierra Leone,2008 [YR2008],43
+1542,Singapore,2008 [YR2008],55
+1543,Sint Maarten (Dutch part),2008 [YR2008],606
+1544,Slovak Republic,2008 [YR2008],23
+1545,Slovenia,2008 [YR2008],33
+1546,Small states,2008 [YR2008],238
+1547,Solomon Islands,2008 [YR2008],54
+1548,Somalia,2008 [YR2008],331
+1549,South Africa,2008 [YR2008],11
+1550,South Asia,2008 [YR2008],179
+1551,South Asia (IDA & IBRD),2008 [YR2008],184
+1552,South Sudan,2008 [YR2008],388
+1553,Spain,2008 [YR2008],46
+1554,Sri Lanka,2008 [YR2008],39
+1555,St. Kitts and Nevis,2008 [YR2008],184
+1556,St. Lucia,2008 [YR2008],85
+1557,St. Martin (French part),2008 [YR2008],626
+1558,St. Vincent and the Grenadines,2008 [YR2008],97
+1559,Sub-Saharan Africa,2008 [YR2008],189
+1560,Sub-Saharan Africa (IDA & IBRD countries),2008 [YR2008],194
+1561,Sub-Saharan Africa (excluding high income),2008 [YR2008],190
+1562,Sudan,2008 [YR2008],40
+1563,Suriname,2008 [YR2008],42
+1564,Sweden,2008 [YR2008],24
+1565,Switzerland,2008 [YR2008],31
+1566,Syrian Arab Republic,2008 [YR2008],47
+1567,Tajikistan,2008 [YR2008],25
+1568,Tanzania,2008 [YR2008],14
+1569,Thailand,2008 [YR2008],28
+1570,Timor-Leste,2008 [YR2008],55
+1571,Togo,2008 [YR2008],17
+1572,Tonga,2008 [YR2008],71
+1573,Trinidad and Tobago,2008 [YR2008],93
+1574,Tunisia,2008 [YR2008],7
+1575,Turkiye,2008 [YR2008],23
+1576,Turkmenistan,2008 [YR2008],198
+1577,Turks and Caicos Islands,2008 [YR2008],494
+1578,Tuvalu,2008 [YR2008],288
+1579,Uganda,2008 [YR2008],12
+1580,Ukraine,2008 [YR2008],4
+1581,United Arab Emirates,2008 [YR2008],116
+1582,United Kingdom,2008 [YR2008],27
+1583,United States,2008 [YR2008],66
+1584,Upper middle income,2008 [YR2008],193
+1585,Uruguay,2008 [YR2008],17
+1586,Uzbekistan,2008 [YR2008],64
+1587,Vanuatu,2008 [YR2008],49
+1588,"Venezuela, RB",2008 [YR2008],51
+1589,Viet Nam,2008 [YR2008],47
+1590,Virgin Islands (U.S.),2008 [YR2008],451
+1591,West Bank and Gaza,2008 [YR2008],85
+1592,World,2008 [YR2008],175
+1593,"Yemen, Rep.",2008 [YR2008],41
+1594,Zambia,2008 [YR2008],71
+1595,Zimbabwe,2008 [YR2008],140
+1596,Afghanistan,2009 [YR2009],80
+1597,Africa Eastern and Southern,2009 [YR2009],183
+1598,Africa Western and Central,2009 [YR2009],228
+1599,Albania,2009 [YR2009],4
+1600,Algeria,2009 [YR2009],3
+1601,American Samoa,2009 [YR2009],488
+1602,Andorra,2009 [YR2009],362
+1603,Angola,2009 [YR2009],17
+1604,Antigua and Barbuda,2009 [YR2009],147
+1605,Arab World,2009 [YR2009],214
+1606,Argentina,2009 [YR2009],7
+1607,Armenia,2009 [YR2009],27
+1608,Aruba,2009 [YR2009],303
+1609,Australia,2009 [YR2009],41
+1610,Austria,2009 [YR2009],28
+1611,Azerbaijan,2009 [YR2009],23
+1612,"Bahamas, The",2009 [YR2009],60
+1613,Bahrain,2009 [YR2009],54
+1614,Bangladesh,2009 [YR2009],25
+1615,Barbados,2009 [YR2009],69
+1616,Belarus,2009 [YR2009],4
+1617,Belgium,2009 [YR2009],21
+1618,Belize,2009 [YR2009],11
+1619,Benin,2009 [YR2009],22
+1620,Bermuda,2009 [YR2009],420
+1621,Bhutan,2009 [YR2009],17
+1622,Bolivia,2009 [YR2009],16
+1623,Bosnia and Herzegovina,2009 [YR2009],24
+1624,Botswana,2009 [YR2009],15
+1625,Brazil,2009 [YR2009],38
+1626,British Virgin Islands,2009 [YR2009],505
+1627,Brunei Darussalam,2009 [YR2009],46
+1628,Bulgaria,2009 [YR2009],27
+1629,Burkina Faso,2009 [YR2009],8
+1630,Burundi,2009 [YR2009],21
+1631,Cabo Verde,2009 [YR2009],16
+1632,Cambodia,2009 [YR2009],15
+1633,Cameroon,2009 [YR2009],2
+1634,Canada,2009 [YR2009],36
+1635,Caribbean small states,2009 [YR2009],239
+1636,Cayman Islands,2009 [YR2009],472
+1637,Central African Republic,2009 [YR2009],81
+1638,Central Europe and the Baltics,2009 [YR2009],189
+1639,Chad,2009 [YR2009],85
+1640,Channel Islands,2009 [YR2009],563
+1641,Chile,2009 [YR2009],6
+1642,China,2009 [YR2009],50
+1643,Colombia,2009 [YR2009],3
+1644,Comoros,2009 [YR2009],52
+1645,"Congo, Dem. Rep.",2009 [YR2009],29
+1646,"Congo, Rep.",2009 [YR2009],20
+1647,Costa Rica,2009 [YR2009],12
+1648,Cote d'Ivoire,2009 [YR2009],27
+1649,Croatia,2009 [YR2009],8
+1650,Cuba,2009 [YR2009],135
+1651,Curacao,2009 [YR2009],545
+1652,Cyprus,2009 [YR2009],22
+1653,Czechia,2009 [YR2009],15
+1654,Denmark,2009 [YR2009],25
+1655,Djibouti,2009 [YR2009],146
+1656,Dominica,2009 [YR2009],139
+1657,Dominican Republic,2009 [YR2009],11
+1658,Early-demographic dividend,2009 [YR2009],183
+1659,East Asia & Pacific,2009 [YR2009],192
+1660,East Asia & Pacific (IDA & IBRD countries),2009 [YR2009],199
+1661,East Asia & Pacific (excluding high income),2009 [YR2009],195
+1662,Ecuador,2009 [YR2009],5
+1663,"Egypt, Arab Rep.",2009 [YR2009],3
+1664,El Salvador,2009 [YR2009],2
+1665,Equatorial Guinea,2009 [YR2009],107
+1666,Eritrea,2009 [YR2009],130
+1667,Estonia,2009 [YR2009],27
+1668,Eswatini,2009 [YR2009],15
+1669,Ethiopia,2009 [YR2009],70
+1670,Euro area,2009 [YR2009],196
+1671,Europe & Central Asia,2009 [YR2009],184
+1672,Europe & Central Asia (IDA & IBRD countries),2009 [YR2009],192
+1673,Europe & Central Asia (excluding high income),2009 [YR2009],191
+1674,European Union,2009 [YR2009],190
+1675,Faroe Islands,2009 [YR2009],428
+1676,Fiji,2009 [YR2009],35
+1677,Finland,2009 [YR2009],23
+1678,Fragile and conflict affected situations,2009 [YR2009],240
+1679,France,2009 [YR2009],27
+1680,French Polynesia,2009 [YR2009],362
+1681,Gabon,2009 [YR2009],36
+1682,"Gambia, The",2009 [YR2009],16
+1683,Georgia,2009 [YR2009],32
+1684,Germany,2009 [YR2009],29
+1685,Ghana,2009 [YR2009],9
+1686,Gibraltar,2009 [YR2009],552
+1687,Greece,2009 [YR2009],45
+1688,Greenland,2009 [YR2009],419
+1689,Grenada,2009 [YR2009],168
+1690,Guam,2009 [YR2009],435
+1691,Guatemala,2009 [YR2009],10
+1692,Guinea,2009 [YR2009],33
+1693,Guinea-Bissau,2009 [YR2009],57
+1694,Guyana,2009 [YR2009],76
+1695,Haiti,2009 [YR2009],62
+1696,Heavily indebted poor countries (HIPC),2009 [YR2009],189
+1697,High income,2009 [YR2009],186
+1698,Honduras,2009 [YR2009],19
+1699,"Hong Kong SAR, China",2009 [YR2009],177
+1700,Hungary,2009 [YR2009],22
+1701,IBRD only,2009 [YR2009],438
+1702,IDA & IBRD total,2009 [YR2009],195
+1703,IDA blend,2009 [YR2009],468
+1704,IDA only,2009 [YR2009],429
+1705,IDA total,2009 [YR2009],441
+1706,Iceland,2009 [YR2009],50
+1707,India,2009 [YR2009],40
+1708,Indonesia,2009 [YR2009],42
+1709,"Iran, Islamic Rep.",2009 [YR2009],79
+1710,Iraq,2009 [YR2009],43
+1711,Ireland,2009 [YR2009],29
+1712,Isle of Man,2009 [YR2009],579
+1713,Israel,2009 [YR2009],20
+1714,Italy,2009 [YR2009],32
+1715,Jamaica,2009 [YR2009],10
+1716,Japan,2009 [YR2009],72
+1717,Jordan,2009 [YR2009],56
+1718,Kazakhstan,2009 [YR2009],13
+1719,Kenya,2009 [YR2009],8
+1720,Kiribati,2009 [YR2009],137
+1721,"Korea, Dem. People's Rep.",2009 [YR2009],314
+1722,"Korea, Rep.",2009 [YR2009],32
+1723,Kosovo,2009 [YR2009],277
+1724,Kuwait,2009 [YR2009],93
+1725,Kyrgyz Republic,2009 [YR2009],26
+1726,Lao PDR,2009 [YR2009],25
+1727,Late-demographic dividend,2009 [YR2009],199
+1728,Latin America & Caribbean,2009 [YR2009],179
+1729,Latin America & Caribbean (excluding high income),2009 [YR2009],179
+1730,Latin America & the Caribbean (IDA & IBRD countries),2009 [YR2009],184
+1731,Latvia,2009 [YR2009],27
+1732,Least developed countries: UN classification,2009 [YR2009],189
+1733,Lebanon,2009 [YR2009],29
+1734,Lesotho,2009 [YR2009],21
+1735,Liberia,2009 [YR2009],113
+1736,Libya,2009 [YR2009],95
+1737,Liechtenstein,2009 [YR2009],484
+1738,Lithuania,2009 [YR2009],27
+1739,Low & middle income,2009 [YR2009],194
+1740,Low income,2009 [YR2009],205
+1741,Lower middle income,2009 [YR2009],179
+1742,Luxembourg,2009 [YR2009],54
+1743,"Macao SAR, China",2009 [YR2009],223
+1744,Madagascar,2009 [YR2009],5
+1745,Malawi,2009 [YR2009],81
+1746,Malaysia,2009 [YR2009],10
+1747,Maldives,2009 [YR2009],100
+1748,Mali,2009 [YR2009],21
+1749,Malta,2009 [YR2009],80
+1750,Marshall Islands,2009 [YR2009],168
+1751,Mauritania,2009 [YR2009],80
+1752,Mauritius,2009 [YR2009],5
+1753,Mexico,2009 [YR2009],27
+1754,"Micronesia, Fed. Sts.",2009 [YR2009],195
+1755,Middle East & North Africa,2009 [YR2009],206
+1756,Middle East & North Africa (IDA & IBRD countries),2009 [YR2009],184
+1757,Middle East & North Africa (excluding high income),2009 [YR2009],180
+1758,Middle income,2009 [YR2009],194
+1759,Moldova,2009 [YR2009],9
+1760,Monaco,2009 [YR2009],472
+1761,Mongolia,2009 [YR2009],46
+1762,Montenegro,2009 [YR2009],48
+1763,Morocco,2009 [YR2009],3
+1764,Mozambique,2009 [YR2009],68
+1765,Myanmar,2009 [YR2009],139
+1766,Namibia,2009 [YR2009],21
+1767,Nauru,2009 [YR2009],329
+1768,Nepal,2009 [YR2009],14
+1769,Netherlands,2009 [YR2009],32
+1770,New Caledonia,2009 [YR2009],359
+1771,New Zealand,2009 [YR2009],33
+1772,Nicaragua,2009 [YR2009],38
+1773,Niger,2009 [YR2009],10
+1774,Nigeria,2009 [YR2009],94
+1775,North America,2009 [YR2009],199
+1776,North Macedonia,2009 [YR2009],6
+1777,Northern Mariana Islands,2009 [YR2009],556
+1778,Norway,2009 [YR2009],26
+1779,Not classified,2009 [YR2009],804
+1780,OECD members,2009 [YR2009],189
+1781,Oman,2009 [YR2009],18
+1782,Other small states,2009 [YR2009],244
+1783,Pacific island small states,2009 [YR2009],231
+1784,Pakistan,2009 [YR2009],25
+1785,Palau,2009 [YR2009],239
+1786,Panama,2009 [YR2009],39
+1787,Papua New Guinea,2009 [YR2009],109
+1788,Paraguay,2009 [YR2009],5
+1789,Peru,2009 [YR2009],6
+1790,Philippines,2009 [YR2009],8
+1791,Poland,2009 [YR2009],22
+1792,Portugal,2009 [YR2009],25
+1793,Post-demographic dividend,2009 [YR2009],187
+1794,Pre-demographic dividend,2009 [YR2009],227
+1795,Puerto Rico,2009 [YR2009],315
+1796,Qatar,2009 [YR2009],139
+1797,Romania,2009 [YR2009],17
+1798,Russian Federation,2009 [YR2009],49
+1799,Rwanda,2009 [YR2009],67
+1800,Samoa,2009 [YR2009],96
+1801,San Marino,2009 [YR2009],436
+1802,Sao Tome and Principe,2009 [YR2009],81
+1803,Saudi Arabia,2009 [YR2009],40
+1804,Senegal,2009 [YR2009],11
+1805,Serbia,2009 [YR2009],11
+1806,Seychelles,2009 [YR2009],88
+1807,Sierra Leone,2009 [YR2009],42
+1808,Singapore,2009 [YR2009],55
+1809,Sint Maarten (Dutch part),2009 [YR2009],585
+1810,Slovak Republic,2009 [YR2009],23
+1811,Slovenia,2009 [YR2009],32
+1812,Small states,2009 [YR2009],237
+1813,Solomon Islands,2009 [YR2009],49
+1814,Somalia,2009 [YR2009],328
+1815,South Africa,2009 [YR2009],11
+1816,South Asia,2009 [YR2009],181
+1817,South Asia (IDA & IBRD),2009 [YR2009],186
+1818,South Sudan,2009 [YR2009],374
+1819,Spain,2009 [YR2009],45
+1820,Sri Lanka,2009 [YR2009],35
+1821,St. Kitts and Nevis,2009 [YR2009],187
+1822,St. Lucia,2009 [YR2009],86
+1823,St. Martin (French part),2009 [YR2009],626
+1824,St. Vincent and the Grenadines,2009 [YR2009],93
+1825,Sub-Saharan Africa,2009 [YR2009],188
+1826,Sub-Saharan Africa (IDA & IBRD countries),2009 [YR2009],193
+1827,Sub-Saharan Africa (excluding high income),2009 [YR2009],189
+1828,Sudan,2009 [YR2009],42
+1829,Suriname,2009 [YR2009],42
+1830,Sweden,2009 [YR2009],23
+1831,Switzerland,2009 [YR2009],31
+1832,Syrian Arab Republic,2009 [YR2009],47
+1833,Tajikistan,2009 [YR2009],23
+1834,Tanzania,2009 [YR2009],12
+1835,Thailand,2009 [YR2009],29
+1836,Timor-Leste,2009 [YR2009],49
+1837,Togo,2009 [YR2009],19
+1838,Tonga,2009 [YR2009],71
+1839,Trinidad and Tobago,2009 [YR2009],93
+1840,Tunisia,2009 [YR2009],7
+1841,Turkiye,2009 [YR2009],23
+1842,Turkmenistan,2009 [YR2009],197
+1843,Turks and Caicos Islands,2009 [YR2009],483
+1844,Tuvalu,2009 [YR2009],290
+1845,Uganda,2009 [YR2009],15
+1846,Ukraine,2009 [YR2009],4
+1847,United Arab Emirates,2009 [YR2009],107
+1848,United Kingdom,2009 [YR2009],27
+1849,United States,2009 [YR2009],66
+1850,Upper middle income,2009 [YR2009],194
+1851,Uruguay,2009 [YR2009],16
+1852,Uzbekistan,2009 [YR2009],63
+1853,Vanuatu,2009 [YR2009],35
+1854,"Venezuela, RB",2009 [YR2009],49
+1855,Viet Nam,2009 [YR2009],43
+1856,Virgin Islands (U.S.),2009 [YR2009],451
+1857,West Bank and Gaza,2009 [YR2009],84
+1858,World,2009 [YR2009],175
+1859,"Yemen, Rep.",2009 [YR2009],63
+1860,Zambia,2009 [YR2009],76
+1861,Zimbabwe,2009 [YR2009],65
+1862,Afghanistan,2010 [YR2010],82
+1863,Africa Eastern and Southern,2010 [YR2010],180
+1864,Africa Western and Central,2010 [YR2010],225
+1865,Albania,2010 [YR2010],1
+1866,Algeria,2010 [YR2010],2
+1867,American Samoa,2010 [YR2010],484
+1868,Andorra,2010 [YR2010],362
+1869,Angola,2010 [YR2010],16
+1870,Antigua and Barbuda,2010 [YR2010],147
+1871,Arab World,2010 [YR2010],214
+1872,Argentina,2010 [YR2010],5
+1873,Armenia,2010 [YR2010],24
+1874,Aruba,2010 [YR2010],305
+1875,Australia,2010 [YR2010],41
+1876,Austria,2010 [YR2010],28
+1877,Azerbaijan,2010 [YR2010],22
+1878,"Bahamas, The",2010 [YR2010],57
+1879,Bahrain,2010 [YR2010],54
+1880,Bangladesh,2010 [YR2010],31
+1881,Barbados,2010 [YR2010],78
+1882,Belarus,2010 [YR2010],3
+1883,Belgium,2010 [YR2010],21
+1884,Belize,2010 [YR2010],7
+1885,Benin,2010 [YR2010],16
+1886,Bermuda,2010 [YR2010],324
+1887,Bhutan,2010 [YR2010],14
+1888,Bolivia,2010 [YR2010],11
+1889,Bosnia and Herzegovina,2010 [YR2010],19
+1890,Botswana,2010 [YR2010],31
+1891,Brazil,2010 [YR2010],42
+1892,British Virgin Islands,2010 [YR2010],510
+1893,Brunei Darussalam,2010 [YR2010],62
+1894,Bulgaria,2010 [YR2010],26
+1895,Burkina Faso,2010 [YR2010],5
+1896,Burundi,2010 [YR2010],19
+1897,Cabo Verde,2010 [YR2010],15
+1898,Cambodia,2010 [YR2010],8
+1899,Cameroon,2010 [YR2010],3
+1900,Canada,2010 [YR2010],36
+1901,Caribbean small states,2010 [YR2010],239
+1902,Cayman Islands,2010 [YR2010],447
+1903,Central African Republic,2010 [YR2010],75
+1904,Central Europe and the Baltics,2010 [YR2010],190
+1905,Chad,2010 [YR2010],79
+1906,Channel Islands,2010 [YR2010],563
+1907,Chile,2010 [YR2010],6
+1908,China,2010 [YR2010],50
+1909,Colombia,2010 [YR2010],3
+1910,Comoros,2010 [YR2010],51
+1911,"Congo, Dem. Rep.",2010 [YR2010],25
+1912,"Congo, Rep.",2010 [YR2010],12
+1913,Costa Rica,2010 [YR2010],12
+1914,Cote d'Ivoire,2010 [YR2010],44
+1915,Croatia,2010 [YR2010],9
+1916,Cuba,2010 [YR2010],135
+1917,Curacao,2010 [YR2010],533
+1918,Cyprus,2010 [YR2010],22
+1919,Czechia,2010 [YR2010],16
+1920,Denmark,2010 [YR2010],25
+1921,Djibouti,2010 [YR2010],174
+1922,Dominica,2010 [YR2010],136
+1923,Dominican Republic,2010 [YR2010],6
+1924,Early-demographic dividend,2010 [YR2010],182
+1925,East Asia & Pacific,2010 [YR2010],192
+1926,East Asia & Pacific (IDA & IBRD countries),2010 [YR2010],199
+1927,East Asia & Pacific (excluding high income),2010 [YR2010],195
+1928,Ecuador,2010 [YR2010],5
+1929,"Egypt, Arab Rep.",2010 [YR2010],4
+1930,El Salvador,2010 [YR2010],3
+1931,Equatorial Guinea,2010 [YR2010],107
+1932,Eritrea,2010 [YR2010],153
+1933,Estonia,2010 [YR2010],27
+1934,Eswatini,2010 [YR2010],11
+1935,Ethiopia,2010 [YR2010],75
+1936,Euro area,2010 [YR2010],196
+1937,Europe & Central Asia,2010 [YR2010],183
+1938,Europe & Central Asia (IDA & IBRD countries),2010 [YR2010],192
+1939,Europe & Central Asia (excluding high income),2010 [YR2010],191
+1940,European Union,2010 [YR2010],190
+1941,Faroe Islands,2010 [YR2010],437
+1942,Fiji,2010 [YR2010],56
+1943,Finland,2010 [YR2010],23
+1944,Fragile and conflict affected situations,2010 [YR2010],237
+1945,France,2010 [YR2010],26
+1946,French Polynesia,2010 [YR2010],362
+1947,Gabon,2010 [YR2010],31
+1948,"Gambia, The",2010 [YR2010],6
+1949,Georgia,2010 [YR2010],21
+1950,Germany,2010 [YR2010],29
+1951,Ghana,2010 [YR2010],29
+1952,Gibraltar,2010 [YR2010],567
+1953,Greece,2010 [YR2010],22
+1954,Greenland,2010 [YR2010],418
+1955,Grenada,2010 [YR2010],162
+1956,Guam,2010 [YR2010],437
+1957,Guatemala,2010 [YR2010],5
+1958,Guinea,2010 [YR2010],30
+1959,Guinea-Bissau,2010 [YR2010],30
+1960,Guyana,2010 [YR2010],72
+1961,Haiti,2010 [YR2010],60
+1962,Heavily indebted poor countries (HIPC),2010 [YR2010],186
+1963,High income,2010 [YR2010],184
+1964,Honduras,2010 [YR2010],7
+1965,"Hong Kong SAR, China",2010 [YR2010],180
+1966,Hungary,2010 [YR2010],21
+1967,IBRD only,2010 [YR2010],438
+1968,IDA & IBRD total,2010 [YR2010],196
+1969,IDA blend,2010 [YR2010],466
+1970,IDA only,2010 [YR2010],428
+1971,IDA total,2010 [YR2010],440
+1972,Iceland,2010 [YR2010],50
+1973,India,2010 [YR2010],45
+1974,Indonesia,2010 [YR2010],27
+1975,"Iran, Islamic Rep.",2010 [YR2010],69
+1976,Iraq,2010 [YR2010],40
+1977,Ireland,2010 [YR2010],49
+1978,Isle of Man,2010 [YR2010],579
+1979,Israel,2010 [YR2010],19
+1980,Italy,2010 [YR2010],32
+1981,Jamaica,2010 [YR2010],10
+1982,Japan,2010 [YR2010],72
+1983,Jordan,2010 [YR2010],40
+1984,Kazakhstan,2010 [YR2010],3
+1985,Kenya,2010 [YR2010],29
+1986,Kiribati,2010 [YR2010],139
+1987,"Korea, Dem. People's Rep.",2010 [YR2010],329
+1988,"Korea, Rep.",2010 [YR2010],31
+1989,Kosovo,2010 [YR2010],275
+1990,Kuwait,2010 [YR2010],47
+1991,Kyrgyz Republic,2010 [YR2010],26
+1992,Lao PDR,2010 [YR2010],12
+1993,Late-demographic dividend,2010 [YR2010],199
+1994,Latin America & Caribbean,2010 [YR2010],178
+1995,Latin America & Caribbean (excluding high income),2010 [YR2010],179
+1996,Latin America & the Caribbean (IDA & IBRD countries),2010 [YR2010],183
+1997,Latvia,2010 [YR2010],21
+1998,Least developed countries: UN classification,2010 [YR2010],189
+1999,Lebanon,2010 [YR2010],29
+2000,Lesotho,2010 [YR2010],15
+2001,Liberia,2010 [YR2010],129
+2002,Libya,2010 [YR2010],98
+2003,Liechtenstein,2010 [YR2010],496
+2004,Lithuania,2010 [YR2010],21
+2005,Low & middle income,2010 [YR2010],194
+2006,Low income,2010 [YR2010],200
+2007,Lower middle income,2010 [YR2010],179
+2008,Luxembourg,2010 [YR2010],28
+2009,"Macao SAR, China",2010 [YR2010],225
+2010,Madagascar,2010 [YR2010],10
+2011,Malawi,2010 [YR2010],75
+2012,Malaysia,2010 [YR2010],10
+2013,Maldives,2010 [YR2010],95
+2014,Mali,2010 [YR2010],6
+2015,Malta,2010 [YR2010],72
+2016,Marshall Islands,2010 [YR2010],191
+2017,Mauritania,2010 [YR2010],84
+2018,Mauritius,2010 [YR2010],5
+2019,Mexico,2010 [YR2010],27
+2020,"Micronesia, Fed. Sts.",2010 [YR2010],194
+2021,Middle East & North Africa,2010 [YR2010],207
+2022,Middle East & North Africa (IDA & IBRD countries),2010 [YR2010],190
+2023,Middle East & North Africa (excluding high income),2010 [YR2010],179
+2024,Middle income,2010 [YR2010],194
+2025,Moldova,2010 [YR2010],8
+2026,Monaco,2010 [YR2010],460
+2027,Mongolia,2010 [YR2010],32
+2028,Montenegro,2010 [YR2010],45
+2029,Morocco,2010 [YR2010],5
+2030,Mozambique,2010 [YR2010],66
+2031,Myanmar,2010 [YR2010],118
+2032,Namibia,2010 [YR2010],14
+2033,Nauru,2010 [YR2010],306
+2034,Nepal,2010 [YR2010],10
+2035,Netherlands,2010 [YR2010],32
+2036,New Caledonia,2010 [YR2010],357
+2037,New Zealand,2010 [YR2010],30
+2038,Nicaragua,2010 [YR2010],8
+2039,Niger,2010 [YR2010],9
+2040,Nigeria,2010 [YR2010],88
+2041,North America,2010 [YR2010],198
+2042,North Macedonia,2010 [YR2010],12
+2043,Northern Mariana Islands,2010 [YR2010],556
+2044,Norway,2010 [YR2010],26
+2045,Not classified,2010 [YR2010],804
+2046,OECD members,2010 [YR2010],189
+2047,Oman,2010 [YR2010],37
+2048,Other small states,2010 [YR2010],250
+2049,Pacific island small states,2010 [YR2010],231
+2050,Pakistan,2010 [YR2010],31
+2051,Palau,2010 [YR2010],240
+2052,Panama,2010 [YR2010],32
+2053,Papua New Guinea,2010 [YR2010],108
+2054,Paraguay,2010 [YR2010],2
+2055,Peru,2010 [YR2010],6
+2056,Philippines,2010 [YR2010],32
+2057,Poland,2010 [YR2010],22
+2058,Portugal,2010 [YR2010],25
+2059,Post-demographic dividend,2010 [YR2010],185
+2060,Pre-demographic dividend,2010 [YR2010],224
+2061,Puerto Rico,2010 [YR2010],311
+2062,Qatar,2010 [YR2010],139
+2063,Romania,2010 [YR2010],17
+2064,Russian Federation,2010 [YR2010],72
+2065,Rwanda,2010 [YR2010],4
+2066,Samoa,2010 [YR2010],47
+2067,San Marino,2010 [YR2010],429
+2068,Sao Tome and Principe,2010 [YR2010],84
+2069,Saudi Arabia,2010 [YR2010],44
+2070,Senegal,2010 [YR2010],5
+2071,Serbia,2010 [YR2010],11
+2072,Seychelles,2010 [YR2010],82
+2073,Sierra Leone,2010 [YR2010],40
+2074,Singapore,2010 [YR2010],52
+2075,Sint Maarten (Dutch part),2010 [YR2010],574
+2076,Slovak Republic,2010 [YR2010],23
+2077,Slovenia,2010 [YR2010],32
+2078,Small states,2010 [YR2010],237
+2079,Solomon Islands,2010 [YR2010],29
+2080,Somalia,2010 [YR2010],326
+2081,South Africa,2010 [YR2010],8
+2082,South Asia,2010 [YR2010],181
+2083,South Asia (IDA & IBRD),2010 [YR2010],186
+2084,South Sudan,2010 [YR2010],355
+2085,Spain,2010 [YR2010],44
+2086,Sri Lanka,2010 [YR2010],66
+2087,St. Kitts and Nevis,2010 [YR2010],185
+2088,St. Lucia,2010 [YR2010],86
+2089,St. Martin (French part),2010 [YR2010],625
+2090,St. Vincent and the Grenadines,2010 [YR2010],92
+2091,Sub-Saharan Africa,2010 [YR2010],188
+2092,Sub-Saharan Africa (IDA & IBRD countries),2010 [YR2010],193
+2093,Sub-Saharan Africa (excluding high income),2010 [YR2010],189
+2094,Sudan,2010 [YR2010],48
+2095,Suriname,2010 [YR2010],42
+2096,Sweden,2010 [YR2010],20
+2097,Switzerland,2010 [YR2010],31
+2098,Syrian Arab Republic,2010 [YR2010],51
+2099,Tajikistan,2010 [YR2010],25
+2100,Tanzania,2010 [YR2010],5
+2101,Thailand,2010 [YR2010],27
+2102,Timor-Leste,2010 [YR2010],49
+2103,Togo,2010 [YR2010],13
+2104,Tonga,2010 [YR2010],70
+2105,Trinidad and Tobago,2010 [YR2010],95
+2106,Tunisia,2010 [YR2010],5
+2107,Turkiye,2010 [YR2010],23
+2108,Turkmenistan,2010 [YR2010],196
+2109,Turks and Caicos Islands,2010 [YR2010],502
+2110,Tuvalu,2010 [YR2010],289
+2111,Uganda,2010 [YR2010],3
+2112,Ukraine,2010 [YR2010],6
+2113,United Arab Emirates,2010 [YR2010],107
+2114,United Kingdom,2010 [YR2010],27
+2115,United States,2010 [YR2010],66
+2116,Upper middle income,2010 [YR2010],194
+2117,Uruguay,2010 [YR2010],19
+2118,Uzbekistan,2010 [YR2010],52
+2119,Vanuatu,2010 [YR2010],32
+2120,"Venezuela, RB",2010 [YR2010],52
+2121,Viet Nam,2010 [YR2010],35
+2122,Virgin Islands (U.S.),2010 [YR2010],451
+2123,West Bank and Gaza,2010 [YR2010],79
+2124,World,2010 [YR2010],175
+2125,"Yemen, Rep.",2010 [YR2010],36
+2126,Zambia,2010 [YR2010],40
+2127,Zimbabwe,2010 [YR2010],28
+2128,Afghanistan,2011 [YR2011],76
+2129,Africa Eastern and Southern,2011 [YR2011],180
+2130,Africa Western and Central,2011 [YR2011],227
+2131,Albania,2011 [YR2011],3
+2132,Algeria,2011 [YR2011],2
+2133,American Samoa,2011 [YR2011],486
+2134,Andorra,2011 [YR2011],365
+2135,Angola,2011 [YR2011],13
+2136,Antigua and Barbuda,2011 [YR2011],147
+2137,Arab World,2011 [YR2011],205
+2138,Argentina,2011 [YR2011],3
+2139,Armenia,2011 [YR2011],24
+2140,Aruba,2011 [YR2011],310
+2141,Australia,2011 [YR2011],43
+2142,Austria,2011 [YR2011],25
+2143,Azerbaijan,2011 [YR2011],20
+2144,"Bahamas, The",2011 [YR2011],51
+2145,Bahrain,2011 [YR2011],38
+2146,Bangladesh,2011 [YR2011],33
+2147,Barbados,2011 [YR2011],74
+2148,Belarus,2011 [YR2011],0
+2149,Belgium,2011 [YR2011],21
+2150,Belize,2011 [YR2011],8
+2151,Benin,2011 [YR2011],8
+2152,Bermuda,2011 [YR2011],317
+2153,Bhutan,2011 [YR2011],15
+2154,Bolivia,2011 [YR2011],9
+2155,Bosnia and Herzegovina,2011 [YR2011],15
+2156,Botswana,2011 [YR2011],30
+2157,Brazil,2011 [YR2011],38
+2158,British Virgin Islands,2011 [YR2011],508
+2159,Brunei Darussalam,2011 [YR2011],62
+2160,Bulgaria,2011 [YR2011],26
+2161,Burkina Faso,2011 [YR2011],5
+2162,Burundi,2011 [YR2011],20
+2163,Cabo Verde,2011 [YR2011],12
+2164,Cambodia,2011 [YR2011],9
+2165,Cameroon,2011 [YR2011],2
+2166,Canada,2011 [YR2011],36
+2167,Caribbean small states,2011 [YR2011],239
+2168,Cayman Islands,2011 [YR2011],435
+2169,Central African Republic,2011 [YR2011],69
+2170,Central Europe and the Baltics,2011 [YR2011],200
+2171,Chad,2011 [YR2011],78
+2172,Channel Islands,2011 [YR2011],563
+2173,Chile,2011 [YR2011],2
+2174,China,2011 [YR2011],54
+2175,Colombia,2011 [YR2011],3
+2176,Comoros,2011 [YR2011],40
+2177,"Congo, Dem. Rep.",2011 [YR2011],25
+2178,"Congo, Rep.",2011 [YR2011],13
+2179,Costa Rica,2011 [YR2011],9
+2180,Cote d'Ivoire,2011 [YR2011],27
+2181,Croatia,2011 [YR2011],20
+2182,Cuba,2011 [YR2011],136
+2183,Curacao,2011 [YR2011],399
+2184,Cyprus,2011 [YR2011],22
+2185,Czechia,2011 [YR2011],16
+2186,Denmark,2011 [YR2011],25
+2187,Djibouti,2011 [YR2011],153
+2188,Dominica,2011 [YR2011],148
+2189,Dominican Republic,2011 [YR2011],6
+2190,Early-demographic dividend,2011 [YR2011],182
+2191,East Asia & Pacific,2011 [YR2011],192
+2192,East Asia & Pacific (IDA & IBRD countries),2011 [YR2011],199
+2193,East Asia & Pacific (excluding high income),2011 [YR2011],195
+2194,Ecuador,2011 [YR2011],5
+2195,"Egypt, Arab Rep.",2011 [YR2011],9
+2196,El Salvador,2011 [YR2011],1
+2197,Equatorial Guinea,2011 [YR2011],104
+2198,Eritrea,2011 [YR2011],155
+2199,Estonia,2011 [YR2011],27
+2200,Eswatini,2011 [YR2011],9
+2201,Ethiopia,2011 [YR2011],26
+2202,Euro area,2011 [YR2011],196
+2203,Europe & Central Asia,2011 [YR2011],185
+2204,Europe & Central Asia (IDA & IBRD countries),2011 [YR2011],192
+2205,Europe & Central Asia (excluding high income),2011 [YR2011],191
+2206,European Union,2011 [YR2011],202
+2207,Faroe Islands,2011 [YR2011],437
+2208,Fiji,2011 [YR2011],36
+2209,Finland,2011 [YR2011],23
+2210,Fragile and conflict affected situations,2011 [YR2011],238
+2211,France,2011 [YR2011],26
+2212,French Polynesia,2011 [YR2011],361
+2213,Gabon,2011 [YR2011],19
+2214,"Gambia, The",2011 [YR2011],15
+2215,Georgia,2011 [YR2011],15
+2216,Germany,2011 [YR2011],29
+2217,Ghana,2011 [YR2011],8
+2218,Gibraltar,2011 [YR2011],568
+2219,Greece,2011 [YR2011],22
+2220,Greenland,2011 [YR2011],418
+2221,Grenada,2011 [YR2011],173
+2222,Guam,2011 [YR2011],436
+2223,Guatemala,2011 [YR2011],6
+2224,Guinea,2011 [YR2011],24
+2225,Guinea-Bissau,2011 [YR2011],47
+2226,Guyana,2011 [YR2011],73
+2227,Haiti,2011 [YR2011],61
+2228,Heavily indebted poor countries (HIPC),2011 [YR2011],186
+2229,High income,2011 [YR2011],183
+2230,Honduras,2011 [YR2011],10
+2231,"Hong Kong SAR, China",2011 [YR2011],177
+2232,Hungary,2011 [YR2011],21
+2233,IBRD only,2011 [YR2011],438
+2234,IDA & IBRD total,2011 [YR2011],196
+2235,IDA blend,2011 [YR2011],468
+2236,IDA only,2011 [YR2011],428
+2237,IDA total,2011 [YR2011],441
+2238,Iceland,2011 [YR2011],42
+2239,India,2011 [YR2011],40
+2240,Indonesia,2011 [YR2011],25
+2241,"Iran, Islamic Rep.",2011 [YR2011],69
+2242,Iraq,2011 [YR2011],42
+2243,Ireland,2011 [YR2011],46
+2244,Isle of Man,2011 [YR2011],579
+2245,Israel,2011 [YR2011],20
+2246,Italy,2011 [YR2011],32
+2247,Jamaica,2011 [YR2011],5
+2248,Japan,2011 [YR2011],71
+2249,Jordan,2011 [YR2011],36
+2250,Kazakhstan,2011 [YR2011],3
+2251,Kenya,2011 [YR2011],41
+2252,Kiribati,2011 [YR2011],127
+2253,"Korea, Dem. People's Rep.",2011 [YR2011],327
+2254,"Korea, Rep.",2011 [YR2011],32
+2255,Kosovo,2011 [YR2011],279
+2256,Kuwait,2011 [YR2011],32
+2257,Kyrgyz Republic,2011 [YR2011],25
+2258,Lao PDR,2011 [YR2011],21
+2259,Late-demographic dividend,2011 [YR2011],199
+2260,Latin America & Caribbean,2011 [YR2011],178
+2261,Latin America & Caribbean (excluding high income),2011 [YR2011],179
+2262,Latin America & the Caribbean (IDA & IBRD countries),2011 [YR2011],183
+2263,Latvia,2011 [YR2011],24
+2264,Least developed countries: UN classification,2011 [YR2011],188
+2265,Lebanon,2011 [YR2011],29
+2266,Lesotho,2011 [YR2011],11
+2267,Liberia,2011 [YR2011],113
+2268,Libya,2011 [YR2011],117
+2269,Liechtenstein,2011 [YR2011],494
+2270,Lithuania,2011 [YR2011],20
+2271,Low & middle income,2011 [YR2011],194
+2272,Low income,2011 [YR2011],201
+2273,Lower middle income,2011 [YR2011],179
+2274,Luxembourg,2011 [YR2011],29
+2275,"Macao SAR, China",2011 [YR2011],225
+2276,Madagascar,2011 [YR2011],3
+2277,Malawi,2011 [YR2011],75
+2278,Malaysia,2011 [YR2011],13
+2279,Maldives,2011 [YR2011],95
+2280,Mali,2011 [YR2011],6
+2281,Malta,2011 [YR2011],49
+2282,Marshall Islands,2011 [YR2011],173
+2283,Mauritania,2011 [YR2011],77
+2284,Mauritius,2011 [YR2011],6
+2285,Mexico,2011 [YR2011],27
+2286,"Micronesia, Fed. Sts.",2011 [YR2011],195
+2287,Middle East & North Africa,2011 [YR2011],199
+2288,Middle East & North Africa (IDA & IBRD countries),2011 [YR2011],197
+2289,Middle East & North Africa (excluding high income),2011 [YR2011],193
+2290,Middle income,2011 [YR2011],194
+2291,Moldova,2011 [YR2011],8
+2292,Monaco,2011 [YR2011],457
+2293,Mongolia,2011 [YR2011],31
+2294,Montenegro,2011 [YR2011],25
+2295,Morocco,2011 [YR2011],8
+2296,Mozambique,2011 [YR2011],67
+2297,Myanmar,2011 [YR2011],129
+2298,Namibia,2011 [YR2011],25
+2299,Nauru,2011 [YR2011],306
+2300,Nepal,2011 [YR2011],8
+2301,Netherlands,2011 [YR2011],25
+2302,New Caledonia,2011 [YR2011],356
+2303,New Zealand,2011 [YR2011],35
+2304,Nicaragua,2011 [YR2011],24
+2305,Niger,2011 [YR2011],8
+2306,Nigeria,2011 [YR2011],96
+2307,North America,2011 [YR2011],198
+2308,North Macedonia,2011 [YR2011],28
+2309,Northern Mariana Islands,2011 [YR2011],556
+2310,Norway,2011 [YR2011],25
+2311,Not classified,2011 [YR2011],804
+2312,OECD members,2011 [YR2011],188
+2313,Oman,2011 [YR2011],28
+2314,Other small states,2011 [YR2011],213
+2315,Pacific island small states,2011 [YR2011],230
+2316,Pakistan,2011 [YR2011],25
+2317,Palau,2011 [YR2011],243
+2318,Panama,2011 [YR2011],29
+2319,Papua New Guinea,2011 [YR2011],96
+2320,Paraguay,2011 [YR2011],5
+2321,Peru,2011 [YR2011],6
+2322,Philippines,2011 [YR2011],30
+2323,Poland,2011 [YR2011],22
+2324,Portugal,2011 [YR2011],25
+2325,Post-demographic dividend,2011 [YR2011],185
+2326,Pre-demographic dividend,2011 [YR2011],230
+2327,Puerto Rico,2011 [YR2011],309
+2328,Qatar,2011 [YR2011],63
+2329,Romania,2011 [YR2011],16
+2330,Russian Federation,2011 [YR2011],51
+2331,Rwanda,2011 [YR2011],7
+2332,Samoa,2011 [YR2011],45
+2333,San Marino,2011 [YR2011],429
+2334,Sao Tome and Principe,2011 [YR2011],84
+2335,Saudi Arabia,2011 [YR2011],43
+2336,Senegal,2011 [YR2011],5
+2337,Serbia,2011 [YR2011],11
+2338,Seychelles,2011 [YR2011],80
+2339,Sierra Leone,2011 [YR2011],24
+2340,Singapore,2011 [YR2011],53
+2341,Sint Maarten (Dutch part),2011 [YR2011],477
+2342,Slovak Republic,2011 [YR2011],23
+2343,Slovenia,2011 [YR2011],32
+2344,Small states,2011 [YR2011],209
+2345,Solomon Islands,2011 [YR2011],36
+2346,Somalia,2011 [YR2011],324
+2347,South Africa,2011 [YR2011],7
+2348,South Asia,2011 [YR2011],181
+2349,South Asia (IDA & IBRD),2011 [YR2011],186
+2350,South Sudan,2011 [YR2011],236
+2351,Spain,2011 [YR2011],45
+2352,Sri Lanka,2011 [YR2011],66
+2353,St. Kitts and Nevis,2011 [YR2011],185
+2354,St. Lucia,2011 [YR2011],86
+2355,St. Martin (French part),2011 [YR2011],610
+2356,St. Vincent and the Grenadines,2011 [YR2011],97
+2357,Sub-Saharan Africa,2011 [YR2011],185
+2358,Sub-Saharan Africa (IDA & IBRD countries),2011 [YR2011],190
+2359,Sub-Saharan Africa (excluding high income),2011 [YR2011],186
+2360,Sudan,2011 [YR2011],45
+2361,Suriname,2011 [YR2011],77
+2362,Sweden,2011 [YR2011],23
+2363,Switzerland,2011 [YR2011],31
+2364,Syrian Arab Republic,2011 [YR2011],124
+2365,Tajikistan,2011 [YR2011],18
+2366,Tanzania,2011 [YR2011],17
+2367,Thailand,2011 [YR2011],27
+2368,Timor-Leste,2011 [YR2011],52
+2369,Togo,2011 [YR2011],10
+2370,Tonga,2011 [YR2011],63
+2371,Trinidad and Tobago,2011 [YR2011],117
+2372,Tunisia,2011 [YR2011],10
+2373,Turkiye,2011 [YR2011],23
+2374,Turkmenistan,2011 [YR2011],201
+2375,Turks and Caicos Islands,2011 [YR2011],477
+2376,Tuvalu,2011 [YR2011],286
+2377,Uganda,2011 [YR2011],2
+2378,Ukraine,2011 [YR2011],4
+2379,United Arab Emirates,2011 [YR2011],107
+2380,United Kingdom,2011 [YR2011],27
+2381,United States,2011 [YR2011],66
+2382,Upper middle income,2011 [YR2011],194
+2383,Uruguay,2011 [YR2011],21
+2384,Uzbekistan,2011 [YR2011],45
+2385,Vanuatu,2011 [YR2011],48
+2386,"Venezuela, RB",2011 [YR2011],52
+2387,Viet Nam,2011 [YR2011],33
+2388,Virgin Islands (U.S.),2011 [YR2011],455
+2389,West Bank and Gaza,2011 [YR2011],77
+2390,World,2011 [YR2011],175
+2391,"Yemen, Rep.",2011 [YR2011],40
+2392,Zambia,2011 [YR2011],38
+2393,Zimbabwe,2011 [YR2011],28
+2394,Afghanistan,2012 [YR2012],88
+2395,Africa Eastern and Southern,2012 [YR2012],180
+2396,Africa Western and Central,2012 [YR2012],225
+2397,Albania,2012 [YR2012],3
+2398,Algeria,2012 [YR2012],9
+2399,American Samoa,2012 [YR2012],487
+2400,Andorra,2012 [YR2012],360
+2401,Angola,2012 [YR2012],37
+2402,Antigua and Barbuda,2012 [YR2012],145
+2403,Arab World,2012 [YR2012],201
+2404,Argentina,2012 [YR2012],3
+2405,Armenia,2012 [YR2012],14
+2406,Aruba,2012 [YR2012],306
+2407,Australia,2012 [YR2012],43
+2408,Austria,2012 [YR2012],25
+2409,Azerbaijan,2012 [YR2012],20
+2410,"Bahamas, The",2012 [YR2012],50
+2411,Bahrain,2012 [YR2012],36
+2412,Bangladesh,2012 [YR2012],40
+2413,Barbados,2012 [YR2012],82
+2414,Belarus,2012 [YR2012],0
+2415,Belgium,2012 [YR2012],21
+2416,Belize,2012 [YR2012],6
+2417,Benin,2012 [YR2012],12
+2418,Bermuda,2012 [YR2012],307
+2419,Bhutan,2012 [YR2012],17
+2420,Bolivia,2012 [YR2012],9
+2421,Bosnia and Herzegovina,2012 [YR2012],18
+2422,Botswana,2012 [YR2012],13
+2423,Brazil,2012 [YR2012],29
+2424,British Virgin Islands,2012 [YR2012],509
+2425,Brunei Darussalam,2012 [YR2012],56
+2426,Bulgaria,2012 [YR2012],26
+2427,Burkina Faso,2012 [YR2012],5
+2428,Burundi,2012 [YR2012],18
+2429,Cabo Verde,2012 [YR2012],11
+2430,Cambodia,2012 [YR2012],10
+2431,Cameroon,2012 [YR2012],2
+2432,Canada,2012 [YR2012],39
+2433,Caribbean small states,2012 [YR2012],237
+2434,Cayman Islands,2012 [YR2012],432
+2435,Central African Republic,2012 [YR2012],67
+2436,Central Europe and the Baltics,2012 [YR2012],203
+2437,Chad,2012 [YR2012],84
+2438,Channel Islands,2012 [YR2012],563
+2439,Chile,2012 [YR2012],2
+2440,China,2012 [YR2012],53
+2441,Colombia,2012 [YR2012],3
+2442,Comoros,2012 [YR2012],48
+2443,"Congo, Dem. Rep.",2012 [YR2012],25
+2444,"Congo, Rep.",2012 [YR2012],6
+2445,Costa Rica,2012 [YR2012],5
+2446,Cote d'Ivoire,2012 [YR2012],29
+2447,Croatia,2012 [YR2012],22
+2448,Cuba,2012 [YR2012],137
+2449,Curacao,2012 [YR2012],400
+2450,Cyprus,2012 [YR2012],21
+2451,Czechia,2012 [YR2012],16
+2452,Denmark,2012 [YR2012],25
+2453,Djibouti,2012 [YR2012],155
+2454,Dominica,2012 [YR2012],137
+2455,Dominican Republic,2012 [YR2012],4
+2456,Early-demographic dividend,2012 [YR2012],182
+2457,East Asia & Pacific,2012 [YR2012],192
+2458,East Asia & Pacific (IDA & IBRD countries),2012 [YR2012],199
+2459,East Asia & Pacific (excluding high income),2012 [YR2012],195
+2460,Ecuador,2012 [YR2012],2
+2461,"Egypt, Arab Rep.",2012 [YR2012],9
+2462,El Salvador,2012 [YR2012],3
+2463,Equatorial Guinea,2012 [YR2012],105
+2464,Eritrea,2012 [YR2012],248
+2465,Estonia,2012 [YR2012],28
+2466,Eswatini,2012 [YR2012],15
+2467,Ethiopia,2012 [YR2012],17
+2468,Euro area,2012 [YR2012],194
+2469,Europe & Central Asia,2012 [YR2012],184
+2470,Europe & Central Asia (IDA & IBRD countries),2012 [YR2012],188
+2471,Europe & Central Asia (excluding high income),2012 [YR2012],189
+2472,European Union,2012 [YR2012],203
+2473,Faroe Islands,2012 [YR2012],482
+2474,Fiji,2012 [YR2012],37
+2475,Finland,2012 [YR2012],23
+2476,Fragile and conflict affected situations,2012 [YR2012],239
+2477,France,2012 [YR2012],26
+2478,French Polynesia,2012 [YR2012],362
+2479,Gabon,2012 [YR2012],31
+2480,"Gambia, The",2012 [YR2012],11
+2481,Georgia,2012 [YR2012],11
+2482,Germany,2012 [YR2012],29
+2483,Ghana,2012 [YR2012],6
+2484,Gibraltar,2012 [YR2012],568
+2485,Greece,2012 [YR2012],20
+2486,Greenland,2012 [YR2012],419
+2487,Grenada,2012 [YR2012],185
+2488,Guam,2012 [YR2012],437
+2489,Guatemala,2012 [YR2012],4
+2490,Guinea,2012 [YR2012],20
+2491,Guinea-Bissau,2012 [YR2012],47
+2492,Guyana,2012 [YR2012],72
+2493,Haiti,2012 [YR2012],58
+2494,Heavily indebted poor countries (HIPC),2012 [YR2012],186
+2495,High income,2012 [YR2012],184
+2496,Honduras,2012 [YR2012],4
+2497,"Hong Kong SAR, China",2012 [YR2012],172
+2498,Hungary,2012 [YR2012],21
+2499,IBRD only,2012 [YR2012],436
+2500,IDA & IBRD total,2012 [YR2012],194
+2501,IDA blend,2012 [YR2012],466
+2502,IDA only,2012 [YR2012],427
+2503,IDA total,2012 [YR2012],441
+2504,Iceland,2012 [YR2012],42
+2505,India,2012 [YR2012],43
+2506,Indonesia,2012 [YR2012],25
+2507,"Iran, Islamic Rep.",2012 [YR2012],81
+2508,Iraq,2012 [YR2012],44
+2509,Ireland,2012 [YR2012],48
+2510,Isle of Man,2012 [YR2012],552
+2511,Israel,2012 [YR2012],21
+2512,Italy,2012 [YR2012],32
+2513,Jamaica,2012 [YR2012],15
+2514,Japan,2012 [YR2012],71
+2515,Jordan,2012 [YR2012],39
+2516,Kazakhstan,2012 [YR2012],3
+2517,Kenya,2012 [YR2012],30
+2518,Kiribati,2012 [YR2012],127
+2519,"Korea, Dem. People's Rep.",2012 [YR2012],327
+2520,"Korea, Rep.",2012 [YR2012],33
+2521,Kosovo,2012 [YR2012],278
+2522,Kuwait,2012 [YR2012],44
+2523,Kyrgyz Republic,2012 [YR2012],26
+2524,Lao PDR,2012 [YR2012],18
+2525,Late-demographic dividend,2012 [YR2012],199
+2526,Latin America & Caribbean,2012 [YR2012],178
+2527,Latin America & Caribbean (excluding high income),2012 [YR2012],179
+2528,Latin America & the Caribbean (IDA & IBRD countries),2012 [YR2012],183
+2529,Latvia,2012 [YR2012],24
+2530,Least developed countries: UN classification,2012 [YR2012],187
+2531,Lebanon,2012 [YR2012],29
+2532,Lesotho,2012 [YR2012],8
+2533,Liberia,2012 [YR2012],128
+2534,Libya,2012 [YR2012],107
+2535,Liechtenstein,2012 [YR2012],497
+2536,Lithuania,2012 [YR2012],20
+2537,Low & middle income,2012 [YR2012],193
+2538,Low income,2012 [YR2012],198
+2539,Lower middle income,2012 [YR2012],177
+2540,Luxembourg,2012 [YR2012],26
+2541,"Macao SAR, China",2012 [YR2012],223
+2542,Madagascar,2012 [YR2012],6
+2543,Malawi,2012 [YR2012],74
+2544,Malaysia,2012 [YR2012],10
+2545,Maldives,2012 [YR2012],92
+2546,Mali,2012 [YR2012],16
+2547,Malta,2012 [YR2012],49
+2548,Marshall Islands,2012 [YR2012],186
+2549,Mauritania,2012 [YR2012],14
+2550,Mauritius,2012 [YR2012],5
+2551,Mexico,2012 [YR2012],27
+2552,"Micronesia, Fed. Sts.",2012 [YR2012],191
+2553,Middle East & North Africa,2012 [YR2012],194
+2554,Middle East & North Africa (IDA & IBRD countries),2012 [YR2012],204
+2555,Middle East & North Africa (excluding high income),2012 [YR2012],200
+2556,Middle income,2012 [YR2012],193
+2557,Moldova,2012 [YR2012],6
+2558,Monaco,2012 [YR2012],457
+2559,Mongolia,2012 [YR2012],30
+2560,Montenegro,2012 [YR2012],26
+2561,Morocco,2012 [YR2012],2
+2562,Mozambique,2012 [YR2012],66
+2563,Myanmar,2012 [YR2012],99
+2564,Namibia,2012 [YR2012],10
+2565,Nauru,2012 [YR2012],288
+2566,Nepal,2012 [YR2012],8
+2567,Netherlands,2012 [YR2012],21
+2568,New Caledonia,2012 [YR2012],357
+2569,New Zealand,2012 [YR2012],35
+2570,Nicaragua,2012 [YR2012],25
+2571,Niger,2012 [YR2012],8
+2572,Nigeria,2012 [YR2012],99
+2573,North America,2012 [YR2012],198
+2574,North Macedonia,2012 [YR2012],12
+2575,Northern Mariana Islands,2012 [YR2012],555
+2576,Norway,2012 [YR2012],25
+2577,Not classified,2012 [YR2012],804
+2578,OECD members,2012 [YR2012],189
+2579,Oman,2012 [YR2012],31
+2580,Other small states,2012 [YR2012],210
+2581,Pacific island small states,2012 [YR2012],230
+2582,Pakistan,2012 [YR2012],25
+2583,Palau,2012 [YR2012],232
+2584,Panama,2012 [YR2012],38
+2585,Papua New Guinea,2012 [YR2012],84
+2586,Paraguay,2012 [YR2012],4
+2587,Peru,2012 [YR2012],6
+2588,Philippines,2012 [YR2012],27
+2589,Poland,2012 [YR2012],22
+2590,Portugal,2012 [YR2012],25
+2591,Post-demographic dividend,2012 [YR2012],185
+2592,Pre-demographic dividend,2012 [YR2012],228
+2593,Puerto Rico,2012 [YR2012],309
+2594,Qatar,2012 [YR2012],63
+2595,Romania,2012 [YR2012],16
+2596,Russian Federation,2012 [YR2012],45
+2597,Rwanda,2012 [YR2012],3
+2598,Samoa,2012 [YR2012],37
+2599,San Marino,2012 [YR2012],406
+2600,Sao Tome and Principe,2012 [YR2012],83
+2601,Saudi Arabia,2012 [YR2012],44
+2602,Senegal,2012 [YR2012],5
+2603,Serbia,2012 [YR2012],11
+2604,Seychelles,2012 [YR2012],80
+2605,Sierra Leone,2012 [YR2012],22
+2606,Singapore,2012 [YR2012],53
+2607,Sint Maarten (Dutch part),2012 [YR2012],458
+2608,Slovak Republic,2012 [YR2012],23
+2609,Slovenia,2012 [YR2012],32
+2610,Small states,2012 [YR2012],207
+2611,Solomon Islands,2012 [YR2012],32
+2612,Somalia,2012 [YR2012],322
+2613,South Africa,2012 [YR2012],5
+2614,South Asia,2012 [YR2012],177
+2615,South Asia (IDA & IBRD),2012 [YR2012],184
+2616,South Sudan,2012 [YR2012],178
+2617,Spain,2012 [YR2012],45
+2618,Sri Lanka,2012 [YR2012],66
+2619,St. Kitts and Nevis,2012 [YR2012],183
+2620,St. Lucia,2012 [YR2012],85
+2621,St. Martin (French part),2012 [YR2012],618
+2622,St. Vincent and the Grenadines,2012 [YR2012],97
+2623,Sub-Saharan Africa,2012 [YR2012],183
+2624,Sub-Saharan Africa (IDA & IBRD countries),2012 [YR2012],188
+2625,Sub-Saharan Africa (excluding high income),2012 [YR2012],184
+2626,Sudan,2012 [YR2012],31
+2627,Suriname,2012 [YR2012],78
+2628,Sweden,2012 [YR2012],23
+2629,Switzerland,2012 [YR2012],26
+2630,Syrian Arab Republic,2012 [YR2012],140
+2631,Tajikistan,2012 [YR2012],19
+2632,Tanzania,2012 [YR2012],10
+2633,Thailand,2012 [YR2012],24
+2634,Timor-Leste,2012 [YR2012],50
+2635,Togo,2012 [YR2012],14
+2636,Tonga,2012 [YR2012],43
+2637,Trinidad and Tobago,2012 [YR2012],111
+2638,Tunisia,2012 [YR2012],10
+2639,Turkiye,2012 [YR2012],20
+2640,Turkmenistan,2012 [YR2012],200
+2641,Turks and Caicos Islands,2012 [YR2012],460
+2642,Tuvalu,2012 [YR2012],288
+2643,Uganda,2012 [YR2012],3
+2644,Ukraine,2012 [YR2012],4
+2645,United Arab Emirates,2012 [YR2012],98
+2646,United Kingdom,2012 [YR2012],27
+2647,United States,2012 [YR2012],66
+2648,Upper middle income,2012 [YR2012],194
+2649,Uruguay,2012 [YR2012],21
+2650,Uzbekistan,2012 [YR2012],44
+2651,Vanuatu,2012 [YR2012],60
+2652,"Venezuela, RB",2012 [YR2012],61
+2653,Viet Nam,2012 [YR2012],37
+2654,Virgin Islands (U.S.),2012 [YR2012],455
+2655,West Bank and Gaza,2012 [YR2012],78
+2656,World,2012 [YR2012],175
+2657,"Yemen, Rep.",2012 [YR2012],43
+2658,Zambia,2012 [YR2012],34
+2659,Zimbabwe,2012 [YR2012],6
+2660,Afghanistan,2013 [YR2013],89
+2661,Africa Eastern and Southern,2013 [YR2013],180
+2662,Africa Western and Central,2013 [YR2013],225
+2663,Albania,2013 [YR2013],2
+2664,Algeria,2013 [YR2013],10
+2665,American Samoa,2013 [YR2013],487
+2666,Andorra,2013 [YR2013],360
+2667,Angola,2013 [YR2013],31
+2668,Antigua and Barbuda,2013 [YR2013],154
+2669,Arab World,2013 [YR2013],203
+2670,Argentina,2013 [YR2013],3
+2671,Armenia,2013 [YR2013],10
+2672,Aruba,2013 [YR2013],308
+2673,Australia,2013 [YR2013],41
+2674,Austria,2013 [YR2013],23
+2675,Azerbaijan,2013 [YR2013],27
+2676,"Bahamas, The",2013 [YR2013],59
+2677,Bahrain,2013 [YR2013],37
+2678,Bangladesh,2013 [YR2013],13
+2679,Barbados,2013 [YR2013],84
+2680,Belarus,2013 [YR2013],0
+2681,Belgium,2013 [YR2013],21
+2682,Belize,2013 [YR2013],6
+2683,Benin,2013 [YR2013],5
+2684,Bermuda,2013 [YR2013],309
+2685,Bhutan,2013 [YR2013],25
+2686,Bolivia,2013 [YR2013],11
+2687,Bosnia and Herzegovina,2013 [YR2013],15
+2688,Botswana,2013 [YR2013],12
+2689,Brazil,2013 [YR2013],4
+2690,British Virgin Islands,2013 [YR2013],508
+2691,Brunei Darussalam,2013 [YR2013],61
+2692,Bulgaria,2013 [YR2013],26
+2693,Burkina Faso,2013 [YR2013],5
+2694,Burundi,2013 [YR2013],12
+2695,Cabo Verde,2013 [YR2013],13
+2696,Cambodia,2013 [YR2013],10
+2697,Cameroon,2013 [YR2013],17
+2698,Canada,2013 [YR2013],39
+2699,Caribbean small states,2013 [YR2013],237
+2700,Cayman Islands,2013 [YR2013],424
+2701,Central African Republic,2013 [YR2013],92
+2702,Central Europe and the Baltics,2013 [YR2013],200
+2703,Chad,2013 [YR2013],85
+2704,Channel Islands,2013 [YR2013],563
+2705,Chile,2013 [YR2013],1
+2706,China,2013 [YR2013],34
+2707,Colombia,2013 [YR2013],6
+2708,Comoros,2013 [YR2013],87
+2709,"Congo, Dem. Rep.",2013 [YR2013],19
+2710,"Congo, Rep.",2013 [YR2013],18
+2711,Costa Rica,2013 [YR2013],3
+2712,Cote d'Ivoire,2013 [YR2013],24
+2713,Croatia,2013 [YR2013],22
+2714,Cuba,2013 [YR2013],134
+2715,Curacao,2013 [YR2013],384
+2716,Cyprus,2013 [YR2013],22
+2717,Czechia,2013 [YR2013],17
+2718,Denmark,2013 [YR2013],24
+2719,Djibouti,2013 [YR2013],56
+2720,Dominica,2013 [YR2013],140
+2721,Dominican Republic,2013 [YR2013],3
+2722,Early-demographic dividend,2013 [YR2013],182
+2723,East Asia & Pacific,2013 [YR2013],193
+2724,East Asia & Pacific (IDA & IBRD countries),2013 [YR2013],199
+2725,East Asia & Pacific (excluding high income),2013 [YR2013],195
+2726,Ecuador,2013 [YR2013],4
+2727,"Egypt, Arab Rep.",2013 [YR2013],6
+2728,El Salvador,2013 [YR2013],3
+2729,Equatorial Guinea,2013 [YR2013],121
+2730,Eritrea,2013 [YR2013],248
+2731,Estonia,2013 [YR2013],22
+2732,Eswatini,2013 [YR2013],12
+2733,Ethiopia,2013 [YR2013],22
+2734,Euro area,2013 [YR2013],194
+2735,Europe & Central Asia,2013 [YR2013],183
+2736,Europe & Central Asia (IDA & IBRD countries),2013 [YR2013],186
+2737,Europe & Central Asia (excluding high income),2013 [YR2013],189
+2738,European Union,2013 [YR2013],203
+2739,Faroe Islands,2013 [YR2013],482
+2740,Fiji,2013 [YR2013],44
+2741,Finland,2013 [YR2013],21
+2742,Fragile and conflict affected situations,2013 [YR2013],243
+2743,France,2013 [YR2013],26
+2744,French Polynesia,2013 [YR2013],362
+2745,Gabon,2013 [YR2013],31
+2746,"Gambia, The",2013 [YR2013],11
+2747,Georgia,2013 [YR2013],3
+2748,Germany,2013 [YR2013],21
+2749,Ghana,2013 [YR2013],4
+2750,Gibraltar,2013 [YR2013],575
+2751,Greece,2013 [YR2013],18
+2752,Greenland,2013 [YR2013],417
+2753,Grenada,2013 [YR2013],165
+2754,Guam,2013 [YR2013],436
+2755,Guatemala,2013 [YR2013],4
+2756,Guinea,2013 [YR2013],14
+2757,Guinea-Bissau,2013 [YR2013],53
+2758,Guyana,2013 [YR2013],93
+2759,Haiti,2013 [YR2013],56
+2760,Heavily indebted poor countries (HIPC),2013 [YR2013],185
+2761,High income,2013 [YR2013],181
+2762,Honduras,2013 [YR2013],30
+2763,"Hong Kong SAR, China",2013 [YR2013],172
+2764,Hungary,2013 [YR2013],20
+2765,IBRD only,2013 [YR2013],437
+2766,IDA & IBRD total,2013 [YR2013],194
+2767,IDA blend,2013 [YR2013],466
+2768,IDA only,2013 [YR2013],428
+2769,IDA total,2013 [YR2013],441
+2770,Iceland,2013 [YR2013],41
+2771,India,2013 [YR2013],13
+2772,Indonesia,2013 [YR2013],1
+2773,"Iran, Islamic Rep.",2013 [YR2013],71
+2774,Iraq,2013 [YR2013],41
+2775,Ireland,2013 [YR2013],49
+2776,Isle of Man,2013 [YR2013],548
+2777,Israel,2013 [YR2013],18
+2778,Italy,2013 [YR2013],29
+2779,Jamaica,2013 [YR2013],9
+2780,Japan,2013 [YR2013],30
+2781,Jordan,2013 [YR2013],39
+2782,Kazakhstan,2013 [YR2013],2
+2783,Kenya,2013 [YR2013],29
+2784,Kiribati,2013 [YR2013],126
+2785,"Korea, Dem. People's Rep.",2013 [YR2013],327
+2786,"Korea, Rep.",2013 [YR2013],29
+2787,Kosovo,2013 [YR2013],278
+2788,Kuwait,2013 [YR2013],31
+2789,Kyrgyz Republic,2013 [YR2013],25
+2790,Lao PDR,2013 [YR2013],16
+2791,Late-demographic dividend,2013 [YR2013],199
+2792,Latin America & Caribbean,2013 [YR2013],178
+2793,Latin America & Caribbean (excluding high income),2013 [YR2013],179
+2794,Latin America & the Caribbean (IDA & IBRD countries),2013 [YR2013],183
+2795,Latvia,2013 [YR2013],23
+2796,Least developed countries: UN classification,2013 [YR2013],187
+2797,Lebanon,2013 [YR2013],29
+2798,Lesotho,2013 [YR2013],9
+2799,Liberia,2013 [YR2013],131
+2800,Libya,2013 [YR2013],108
+2801,Liechtenstein,2013 [YR2013],512
+2802,Lithuania,2013 [YR2013],20
+2803,Low & middle income,2013 [YR2013],193
+2804,Low income,2013 [YR2013],198
+2805,Lower middle income,2013 [YR2013],177
+2806,Luxembourg,2013 [YR2013],27
+2807,"Macao SAR, China",2013 [YR2013],222
+2808,Madagascar,2013 [YR2013],9
+2809,Malawi,2013 [YR2013],77
+2810,Malaysia,2013 [YR2013],9
+2811,Maldives,2013 [YR2013],90
+2812,Mali,2013 [YR2013],24
+2813,Malta,2013 [YR2013],49
+2814,Marshall Islands,2013 [YR2013],184
+2815,Mauritania,2013 [YR2013],17
+2816,Mauritius,2013 [YR2013],4
+2817,Mexico,2013 [YR2013],4
+2818,"Micronesia, Fed. Sts.",2013 [YR2013],171
+2819,Middle East & North Africa,2013 [YR2013],197
+2820,Middle East & North Africa (IDA & IBRD countries),2013 [YR2013],192
+2821,Middle East & North Africa (excluding high income),2013 [YR2013],188
+2822,Middle income,2013 [YR2013],193
+2823,Moldova,2013 [YR2013],7
+2824,Monaco,2013 [YR2013],455
+2825,Mongolia,2013 [YR2013],19
+2826,Montenegro,2013 [YR2013],40
+2827,Morocco,2013 [YR2013],10
+2828,Mozambique,2013 [YR2013],66
+2829,Myanmar,2013 [YR2013],98
+2830,Namibia,2013 [YR2013],11
+2831,Nauru,2013 [YR2013],303
+2832,Nepal,2013 [YR2013],6
+2833,Netherlands,2013 [YR2013],38
+2834,New Caledonia,2013 [YR2013],358
+2835,New Zealand,2013 [YR2013],27
+2836,Nicaragua,2013 [YR2013],25
+2837,Niger,2013 [YR2013],11
+2838,Nigeria,2013 [YR2013],76
+2839,North America,2013 [YR2013],198
+2840,North Macedonia,2013 [YR2013],9
+2841,Northern Mariana Islands,2013 [YR2013],555
+2842,Norway,2013 [YR2013],22
+2843,Not classified,2013 [YR2013],804
+2844,OECD members,2013 [YR2013],188
+2845,Oman,2013 [YR2013],21
+2846,Other small states,2013 [YR2013],209
+2847,Pacific island small states,2013 [YR2013],230
+2848,Pakistan,2013 [YR2013],3
+2849,Palau,2013 [YR2013],213
+2850,Panama,2013 [YR2013],36
+2851,Papua New Guinea,2013 [YR2013],107
+2852,Paraguay,2013 [YR2013],14
+2853,Peru,2013 [YR2013],4
+2854,Philippines,2013 [YR2013],27
+2855,Poland,2013 [YR2013],18
+2856,Portugal,2013 [YR2013],25
+2857,Post-demographic dividend,2013 [YR2013],183
+2858,Pre-demographic dividend,2013 [YR2013],227
+2859,Puerto Rico,2013 [YR2013],306
+2860,Qatar,2013 [YR2013],55
+2861,Romania,2013 [YR2013],25
+2862,Russian Federation,2013 [YR2013],21
+2863,Rwanda,2013 [YR2013],4
+2864,Samoa,2013 [YR2013],53
+2865,San Marino,2013 [YR2013],410
+2866,Sao Tome and Principe,2013 [YR2013],90
+2867,Saudi Arabia,2013 [YR2013],40
+2868,Senegal,2013 [YR2013],5
+2869,Serbia,2013 [YR2013],13
+2870,Seychelles,2013 [YR2013],77
+2871,Sierra Leone,2013 [YR2013],28
+2872,Singapore,2013 [YR2013],52
+2873,Sint Maarten (Dutch part),2013 [YR2013],461
+2874,Slovak Republic,2013 [YR2013],23
+2875,Slovenia,2013 [YR2013],32
+2876,Small states,2013 [YR2013],206
+2877,Solomon Islands,2013 [YR2013],36
+2878,Somalia,2013 [YR2013],242
+2879,South Africa,2013 [YR2013],5
+2880,South Asia,2013 [YR2013],177
+2881,South Asia (IDA & IBRD),2013 [YR2013],184
+2882,South Sudan,2013 [YR2013],176
+2883,Spain,2013 [YR2013],28
+2884,Sri Lanka,2013 [YR2013],67
+2885,St. Kitts and Nevis,2013 [YR2013],182
+2886,St. Lucia,2013 [YR2013],82
+2887,St. Martin (French part),2013 [YR2013],615
+2888,St. Vincent and the Grenadines,2013 [YR2013],91
+2889,Sub-Saharan Africa,2013 [YR2013],184
+2890,Sub-Saharan Africa (IDA & IBRD countries),2013 [YR2013],189
+2891,Sub-Saharan Africa (excluding high income),2013 [YR2013],185
+2892,Sudan,2013 [YR2013],29
+2893,Suriname,2013 [YR2013],76
+2894,Sweden,2013 [YR2013],23
+2895,Switzerland,2013 [YR2013],26
+2896,Syrian Arab Republic,2013 [YR2013],163
+2897,Tajikistan,2013 [YR2013],28
+2898,Tanzania,2013 [YR2013],9
+2899,Thailand,2013 [YR2013],28
+2900,Timor-Leste,2013 [YR2013],35
+2901,Togo,2013 [YR2013],13
+2902,Tonga,2013 [YR2013],39
+2903,Trinidad and Tobago,2013 [YR2013],111
+2904,Tunisia,2013 [YR2013],7
+2905,Turkiye,2013 [YR2013],16
+2906,Turkmenistan,2013 [YR2013],226
+2907,Turks and Caicos Islands,2013 [YR2013],467
+2908,Tuvalu,2013 [YR2013],289
+2909,Uganda,2013 [YR2013],2
+2910,Ukraine,2013 [YR2013],3
+2911,United Arab Emirates,2013 [YR2013],97
+2912,United Kingdom,2013 [YR2013],26
+2913,United States,2013 [YR2013],27
+2914,Upper middle income,2013 [YR2013],194
+2915,Uruguay,2013 [YR2013],19
+2916,Uzbekistan,2013 [YR2013],32
+2917,Vanuatu,2013 [YR2013],48
+2918,"Venezuela, RB",2013 [YR2013],61
+2919,Viet Nam,2013 [YR2013],33
+2920,Virgin Islands (U.S.),2013 [YR2013],451
+2921,West Bank and Gaza,2013 [YR2013],80
+2922,World,2013 [YR2013],175
+2923,"Yemen, Rep.",2013 [YR2013],42
+2924,Zambia,2013 [YR2013],37
+2925,Zimbabwe,2013 [YR2013],7
+2926,Afghanistan,2014 [YR2014],87
+2927,Africa Eastern and Southern,2014 [YR2014],179
+2928,Africa Western and Central,2014 [YR2014],225
+2929,Albania,2014 [YR2014],1
+2930,Algeria,2014 [YR2014],10
+2931,American Samoa,2014 [YR2014],491
+2932,Andorra,2014 [YR2014],356
+2933,Angola,2014 [YR2014],35
+2934,Antigua and Barbuda,2014 [YR2014],131
+2935,Arab World,2014 [YR2014],198
+2936,Argentina,2014 [YR2014],3
+2937,Armenia,2014 [YR2014],9
+2938,Aruba,2014 [YR2014],309
+2939,Australia,2014 [YR2014],41
+2940,Austria,2014 [YR2014],23
+2941,Azerbaijan,2014 [YR2014],26
+2942,"Bahamas, The",2014 [YR2014],60
+2943,Bahrain,2014 [YR2014],38
+2944,Bangladesh,2014 [YR2014],34
+2945,Barbados,2014 [YR2014],66
+2946,Belarus,2014 [YR2014],0
+2947,Belgium,2014 [YR2014],21
+2948,Belize,2014 [YR2014],6
+2949,Benin,2014 [YR2014],4
+2950,Bermuda,2014 [YR2014],299
+2951,Bhutan,2014 [YR2014],27
+2952,Bolivia,2014 [YR2014],11
+2953,Bosnia and Herzegovina,2014 [YR2014],15
+2954,Botswana,2014 [YR2014],13
+2955,Brazil,2014 [YR2014],4
+2956,British Virgin Islands,2014 [YR2014],506
+2957,Brunei Darussalam,2014 [YR2014],44
+2958,Bulgaria,2014 [YR2014],26
+2959,Burkina Faso,2014 [YR2014],5
+2960,Burundi,2014 [YR2014],10
+2961,Cabo Verde,2014 [YR2014],13
+2962,Cambodia,2014 [YR2014],10
+2963,Cameroon,2014 [YR2014],3
+2964,Canada,2014 [YR2014],39
+2965,Caribbean small states,2014 [YR2014],233
+2966,Cayman Islands,2014 [YR2014],441
+2967,Central African Republic,2014 [YR2014],99
+2968,Central Europe and the Baltics,2014 [YR2014],195
+2969,Chad,2014 [YR2014],88
+2970,Channel Islands,2014 [YR2014],563
+2971,Chile,2014 [YR2014],1
+2972,China,2014 [YR2014],34
+2973,Colombia,2014 [YR2014],6
+2974,Comoros,2014 [YR2014],33
+2975,"Congo, Dem. Rep.",2014 [YR2014],20
+2976,"Congo, Rep.",2014 [YR2014],21
+2977,Costa Rica,2014 [YR2014],3
+2978,Cote d'Ivoire,2014 [YR2014],17
+2979,Croatia,2014 [YR2014],19
+2980,Cuba,2014 [YR2014],136
+2981,Curacao,2014 [YR2014],399
+2982,Cyprus,2014 [YR2014],24
+2983,Czechia,2014 [YR2014],17
+2984,Denmark,2014 [YR2014],22
+2985,Djibouti,2014 [YR2014],39
+2986,Dominica,2014 [YR2014],142
+2987,Dominican Republic,2014 [YR2014],2
+2988,Early-demographic dividend,2014 [YR2014],177
+2989,East Asia & Pacific,2014 [YR2014],188
+2990,East Asia & Pacific (IDA & IBRD countries),2014 [YR2014],194
+2991,East Asia & Pacific (excluding high income),2014 [YR2014],190
+2992,Ecuador,2014 [YR2014],3
+2993,"Egypt, Arab Rep.",2014 [YR2014],7
+2994,El Salvador,2014 [YR2014],3
+2995,Equatorial Guinea,2014 [YR2014],116
+2996,Eritrea,2014 [YR2014],244
+2997,Estonia,2014 [YR2014],24
+2998,Eswatini,2014 [YR2014],12
+2999,Ethiopia,2014 [YR2014],19
+3000,Euro area,2014 [YR2014],189
+3001,Europe & Central Asia,2014 [YR2014],178
+3002,Europe & Central Asia (IDA & IBRD countries),2014 [YR2014],180
+3003,Europe & Central Asia (excluding high income),2014 [YR2014],184
+3004,European Union,2014 [YR2014],198
+3005,Faroe Islands,2014 [YR2014],482
+3006,Fiji,2014 [YR2014],37
+3007,Finland,2014 [YR2014],21
+3008,Fragile and conflict affected situations,2014 [YR2014],235
+3009,France,2014 [YR2014],28
+3010,French Polynesia,2014 [YR2014],362
+3011,Gabon,2014 [YR2014],36
+3012,"Gambia, The",2014 [YR2014],11
+3013,Georgia,2014 [YR2014],3
+3014,Germany,2014 [YR2014],22
+3015,Ghana,2014 [YR2014],4
+3016,Gibraltar,2014 [YR2014],569
+3017,Greece,2014 [YR2014],18
+3018,Greenland,2014 [YR2014],413
+3019,Grenada,2014 [YR2014],161
+3020,Guam,2014 [YR2014],441
+3021,Guatemala,2014 [YR2014],2
+3022,Guinea,2014 [YR2014],7
+3023,Guinea-Bissau,2014 [YR2014],46
+3024,Guyana,2014 [YR2014],87
+3025,Haiti,2014 [YR2014],50
+3026,Heavily indebted poor countries (HIPC),2014 [YR2014],180
+3027,High income,2014 [YR2014],179
+3028,Honduras,2014 [YR2014],13
+3029,"Hong Kong SAR, China",2014 [YR2014],173
+3030,Hungary,2014 [YR2014],21
+3031,IBRD only,2014 [YR2014],432
+3032,IDA & IBRD total,2014 [YR2014],189
+3033,IDA blend,2014 [YR2014],461
+3034,IDA only,2014 [YR2014],423
+3035,IDA total,2014 [YR2014],436
+3036,Iceland,2014 [YR2014],41
+3037,India,2014 [YR2014],13
+3038,Indonesia,2014 [YR2014],1
+3039,"Iran, Islamic Rep.",2014 [YR2014],71
+3040,Iraq,2014 [YR2014],37
+3041,Ireland,2014 [YR2014],49
+3042,Isle of Man,2014 [YR2014],548
+3043,Israel,2014 [YR2014],18
+3044,Italy,2014 [YR2014],30
+3045,Jamaica,2014 [YR2014],13
+3046,Japan,2014 [YR2014],30
+3047,Jordan,2014 [YR2014],31
+3048,Kazakhstan,2014 [YR2014],2
+3049,Kenya,2014 [YR2014],25
+3050,Kiribati,2014 [YR2014],125
+3051,"Korea, Dem. People's Rep.",2014 [YR2014],328
+3052,"Korea, Rep.",2014 [YR2014],28
+3053,Kosovo,2014 [YR2014],278
+3054,Kuwait,2014 [YR2014],33
+3055,Kyrgyz Republic,2014 [YR2014],24
+3056,Lao PDR,2014 [YR2014],19
+3057,Late-demographic dividend,2014 [YR2014],194
+3058,Latin America & Caribbean,2014 [YR2014],172
+3059,Latin America & Caribbean (excluding high income),2014 [YR2014],173
+3060,Latin America & the Caribbean (IDA & IBRD countries),2014 [YR2014],177
+3061,Latvia,2014 [YR2014],23
+3062,Least developed countries: UN classification,2014 [YR2014],188
+3063,Lebanon,2014 [YR2014],32
+3064,Lesotho,2014 [YR2014],12
+3065,Liberia,2014 [YR2014],109
+3066,Libya,2014 [YR2014],108
+3067,Liechtenstein,2014 [YR2014],489
+3068,Lithuania,2014 [YR2014],20
+3069,Low & middle income,2014 [YR2014],188
+3070,Low income,2014 [YR2014],189
+3071,Lower middle income,2014 [YR2014],172
+3072,Luxembourg,2014 [YR2014],28
+3073,"Macao SAR, China",2014 [YR2014],222
+3074,Madagascar,2014 [YR2014],2
+3075,Malawi,2014 [YR2014],71
+3076,Malaysia,2014 [YR2014],9
+3077,Maldives,2014 [YR2014],82
+3078,Mali,2014 [YR2014],21
+3079,Malta,2014 [YR2014],51
+3080,Marshall Islands,2014 [YR2014],183
+3081,Mauritania,2014 [YR2014],17
+3082,Mauritius,2014 [YR2014],3
+3083,Mexico,2014 [YR2014],3
+3084,"Micronesia, Fed. Sts.",2014 [YR2014],181
+3085,Middle East & North Africa,2014 [YR2014],195
+3086,Middle East & North Africa (IDA & IBRD countries),2014 [YR2014],187
+3087,Middle East & North Africa (excluding high income),2014 [YR2014],179
+3088,Middle income,2014 [YR2014],188
+3089,Moldova,2014 [YR2014],1
+3090,Monaco,2014 [YR2014],464
+3091,Mongolia,2014 [YR2014],19
+3092,Montenegro,2014 [YR2014],44
+3093,Morocco,2014 [YR2014],7
+3094,Mozambique,2014 [YR2014],66
+3095,Myanmar,2014 [YR2014],78
+3096,Namibia,2014 [YR2014],23
+3097,Nauru,2014 [YR2014],278
+3098,Nepal,2014 [YR2014],7
+3099,Netherlands,2014 [YR2014],37
+3100,New Caledonia,2014 [YR2014],356
+3101,New Zealand,2014 [YR2014],24
+3102,Nicaragua,2014 [YR2014],22
+3103,Niger,2014 [YR2014],9
+3104,Nigeria,2014 [YR2014],73
+3105,North America,2014 [YR2014],193
+3106,North Macedonia,2014 [YR2014],8
+3107,Northern Mariana Islands,2014 [YR2014],553
+3108,Norway,2014 [YR2014],22
+3109,Not classified,2014 [YR2014],804
+3110,OECD members,2014 [YR2014],183
+3111,Oman,2014 [YR2014],33
+3112,Other small states,2014 [YR2014],206
+3113,Pacific island small states,2014 [YR2014],226
+3114,Pakistan,2014 [YR2014],3
+3115,Palau,2014 [YR2014],212
+3116,Panama,2014 [YR2014],29
+3117,Papua New Guinea,2014 [YR2014],105
+3118,Paraguay,2014 [YR2014],19
+3119,Peru,2014 [YR2014],4
+3120,Philippines,2014 [YR2014],7
+3121,Poland,2014 [YR2014],18
+3122,Portugal,2014 [YR2014],25
+3123,Post-demographic dividend,2014 [YR2014],178
+3124,Pre-demographic dividend,2014 [YR2014],218
+3125,Puerto Rico,2014 [YR2014],309
+3126,Qatar,2014 [YR2014],55
+3127,Romania,2014 [YR2014],25
+3128,Russian Federation,2014 [YR2014],19
+3129,Rwanda,2014 [YR2014],3
+3130,Samoa,2014 [YR2014],27
+3131,San Marino,2014 [YR2014],417
+3132,Sao Tome and Principe,2014 [YR2014],85
+3133,Saudi Arabia,2014 [YR2014],47
+3134,Senegal,2014 [YR2014],3
+3135,Serbia,2014 [YR2014],10
+3136,Seychelles,2014 [YR2014],81
+3137,Sierra Leone,2014 [YR2014],37
+3138,Singapore,2014 [YR2014],49
+3139,Sint Maarten (Dutch part),2014 [YR2014],445
+3140,Slovak Republic,2014 [YR2014],23
+3141,Slovenia,2014 [YR2014],32
+3142,Small states,2014 [YR2014],201
+3143,Solomon Islands,2014 [YR2014],35
+3144,Somalia,2014 [YR2014],235
+3145,South Africa,2014 [YR2014],5
+3146,South Asia,2014 [YR2014],172
+3147,South Asia (IDA & IBRD),2014 [YR2014],179
+3148,South Sudan,2014 [YR2014],121
+3149,Spain,2014 [YR2014],27
+3150,Sri Lanka,2014 [YR2014],68
+3151,St. Kitts and Nevis,2014 [YR2014],185
+3152,St. Lucia,2014 [YR2014],82
+3153,St. Martin (French part),2014 [YR2014],604
+3154,St. Vincent and the Grenadines,2014 [YR2014],85
+3155,Sub-Saharan Africa,2014 [YR2014],179
+3156,Sub-Saharan Africa (IDA & IBRD countries),2014 [YR2014],184
+3157,Sub-Saharan Africa (excluding high income),2014 [YR2014],180
+3158,Sudan,2014 [YR2014],30
+3159,Suriname,2014 [YR2014],77
+3160,Sweden,2014 [YR2014],23
+3161,Switzerland,2014 [YR2014],32
+3162,Syrian Arab Republic,2014 [YR2014],184
+3163,Tajikistan,2014 [YR2014],33
+3164,Tanzania,2014 [YR2014],9
+3165,Thailand,2014 [YR2014],24
+3166,Timor-Leste,2014 [YR2014],46
+3167,Togo,2014 [YR2014],11
+3168,Tonga,2014 [YR2014],39
+3169,Trinidad and Tobago,2014 [YR2014],111
+3170,Tunisia,2014 [YR2014],7
+3171,Turkiye,2014 [YR2014],16
+3172,Turkmenistan,2014 [YR2014],217
+3173,Turks and Caicos Islands,2014 [YR2014],376
+3174,Tuvalu,2014 [YR2014],274
+3175,Uganda,2014 [YR2014],4
+3176,Ukraine,2014 [YR2014],4
+3177,United Arab Emirates,2014 [YR2014],97
+3178,United Kingdom,2014 [YR2014],28
+3179,United States,2014 [YR2014],23
+3180,Upper middle income,2014 [YR2014],189
+3181,Uruguay,2014 [YR2014],19
+3182,Uzbekistan,2014 [YR2014],25
+3183,Vanuatu,2014 [YR2014],58
+3184,"Venezuela, RB",2014 [YR2014],79
+3185,Viet Nam,2014 [YR2014],31
+3186,Virgin Islands (U.S.),2014 [YR2014],457
+3187,West Bank and Gaza,2014 [YR2014],82
+3188,World,2014 [YR2014],170
+3189,"Yemen, Rep.",2014 [YR2014],79
+3190,Zambia,2014 [YR2014],44
+3191,Zimbabwe,2014 [YR2014],17
+3192,Afghanistan,2015 [YR2015],76
+3193,Africa Eastern and Southern,2015 [YR2015],179
+3194,Africa Western and Central,2015 [YR2015],223
+3195,Albania,2015 [YR2015],5
+3196,Algeria,2015 [YR2015],10
+3197,American Samoa,2015 [YR2015],495
+3198,Andorra,2015 [YR2015],356
+3199,Angola,2015 [YR2015],18
+3200,Antigua and Barbuda,2015 [YR2015],129
+3201,Arab World,2015 [YR2015],198
+3202,Argentina,2015 [YR2015],6
+3203,Armenia,2015 [YR2015],8
+3204,Aruba,2015 [YR2015],300
+3205,Australia,2015 [YR2015],28
+3206,Austria,2015 [YR2015],20
+3207,Azerbaijan,2015 [YR2015],19
+3208,"Bahamas, The",2015 [YR2015],60
+3209,Bahrain,2015 [YR2015],38
+3210,Bangladesh,2015 [YR2015],12
+3211,Barbados,2015 [YR2015],57
+3212,Belarus,2015 [YR2015],0
+3213,Belgium,2015 [YR2015],21
+3214,Belize,2015 [YR2015],7
+3215,Benin,2015 [YR2015],4
+3216,Bermuda,2015 [YR2015],288
+3217,Bhutan,2015 [YR2015],26
+3218,Bolivia,2015 [YR2015],11
+3219,Bosnia and Herzegovina,2015 [YR2015],15
+3220,Botswana,2015 [YR2015],14
+3221,Brazil,2015 [YR2015],4
+3222,British Virgin Islands,2015 [YR2015],503
+3223,Brunei Darussalam,2015 [YR2015],39
+3224,Bulgaria,2015 [YR2015],28
+3225,Burkina Faso,2015 [YR2015],4
+3226,Burundi,2015 [YR2015],12
+3227,Cabo Verde,2015 [YR2015],14
+3228,Cambodia,2015 [YR2015],7
+3229,Cameroon,2015 [YR2015],3
+3230,Canada,2015 [YR2015],39
+3231,Caribbean small states,2015 [YR2015],230
+3232,Cayman Islands,2015 [YR2015],432
+3233,Central African Republic,2015 [YR2015],94
+3234,Central Europe and the Baltics,2015 [YR2015],198
+3235,Chad,2015 [YR2015],82
+3236,Channel Islands,2015 [YR2015],563
+3237,Chile,2015 [YR2015],1
+3238,China,2015 [YR2015],29
+3239,Colombia,2015 [YR2015],6
+3240,Comoros,2015 [YR2015],58
+3241,"Congo, Dem. Rep.",2015 [YR2015],10
+3242,"Congo, Rep.",2015 [YR2015],19
+3243,Costa Rica,2015 [YR2015],3
+3244,Cote d'Ivoire,2015 [YR2015],5
+3245,Croatia,2015 [YR2015],19
+3246,Cuba,2015 [YR2015],134
+3247,Curacao,2015 [YR2015],381
+3248,Cyprus,2015 [YR2015],25
+3249,Czechia,2015 [YR2015],17
+3250,Denmark,2015 [YR2015],24
+3251,Djibouti,2015 [YR2015],34
+3252,Dominica,2015 [YR2015],130
+3253,Dominican Republic,2015 [YR2015],2
+3254,Early-demographic dividend,2015 [YR2015],177
+3255,East Asia & Pacific,2015 [YR2015],184
+3256,East Asia & Pacific (IDA & IBRD countries),2015 [YR2015],189
+3257,East Asia & Pacific (excluding high income),2015 [YR2015],185
+3258,Ecuador,2015 [YR2015],0
+3259,"Egypt, Arab Rep.",2015 [YR2015],24
+3260,El Salvador,2015 [YR2015],7
+3261,Equatorial Guinea,2015 [YR2015],99
+3262,Eritrea,2015 [YR2015],248
+3263,Estonia,2015 [YR2015],22
+3264,Eswatini,2015 [YR2015],15
+3265,Ethiopia,2015 [YR2015],19
+3266,Euro area,2015 [YR2015],189
+3267,Europe & Central Asia,2015 [YR2015],178
+3268,Europe & Central Asia (IDA & IBRD countries),2015 [YR2015],182
+3269,Europe & Central Asia (excluding high income),2015 [YR2015],182
+3270,European Union,2015 [YR2015],198
+3271,Faroe Islands,2015 [YR2015],467
+3272,Fiji,2015 [YR2015],25
+3273,Finland,2015 [YR2015],23
+3274,Fragile and conflict affected situations,2015 [YR2015],239
+3275,France,2015 [YR2015],34
+3276,French Polynesia,2015 [YR2015],350
+3277,Gabon,2015 [YR2015],34
+3278,"Gambia, The",2015 [YR2015],19
+3279,Georgia,2015 [YR2015],3
+3280,Germany,2015 [YR2015],22
+3281,Ghana,2015 [YR2015],4
+3282,Gibraltar,2015 [YR2015],570
+3283,Greece,2015 [YR2015],21
+3284,Greenland,2015 [YR2015],414
+3285,Grenada,2015 [YR2015],154
+3286,Guam,2015 [YR2015],442
+3287,Guatemala,2015 [YR2015],2
+3288,Guinea,2015 [YR2015],9
+3289,Guinea-Bissau,2015 [YR2015],45
+3290,Guyana,2015 [YR2015],88
+3291,Haiti,2015 [YR2015],50
+3292,Heavily indebted poor countries (HIPC),2015 [YR2015],180
+3293,High income,2015 [YR2015],179
+3294,Honduras,2015 [YR2015],11
+3295,"Hong Kong SAR, China",2015 [YR2015],169
+3296,Hungary,2015 [YR2015],18
+3297,IBRD only,2015 [YR2015],427
+3298,IDA & IBRD total,2015 [YR2015],186
+3299,IDA blend,2015 [YR2015],459
+3300,IDA only,2015 [YR2015],421
+3301,IDA total,2015 [YR2015],431
+3302,Iceland,2015 [YR2015],36
+3303,India,2015 [YR2015],11
+3304,Indonesia,2015 [YR2015],5
+3305,"Iran, Islamic Rep.",2015 [YR2015],67
+3306,Iraq,2015 [YR2015],43
+3307,Ireland,2015 [YR2015],47
+3308,Isle of Man,2015 [YR2015],548
+3309,Israel,2015 [YR2015],18
+3310,Italy,2015 [YR2015],31
+3311,Jamaica,2015 [YR2015],9
+3312,Japan,2015 [YR2015],30
+3313,Jordan,2015 [YR2015],36
+3314,Kazakhstan,2015 [YR2015],3
+3315,Kenya,2015 [YR2015],10
+3316,Kiribati,2015 [YR2015],128
+3317,"Korea, Dem. People's Rep.",2015 [YR2015],319
+3318,"Korea, Rep.",2015 [YR2015],24
+3319,Kosovo,2015 [YR2015],278
+3320,Kuwait,2015 [YR2015],32
+3321,Kyrgyz Republic,2015 [YR2015],13
+3322,Lao PDR,2015 [YR2015],21
+3323,Late-demographic dividend,2015 [YR2015],189
+3324,Latin America & Caribbean,2015 [YR2015],172
+3325,Latin America & Caribbean (excluding high income),2015 [YR2015],173
+3326,Latin America & the Caribbean (IDA & IBRD countries),2015 [YR2015],177
+3327,Latvia,2015 [YR2015],23
+3328,Least developed countries: UN classification,2015 [YR2015],179
+3329,Lebanon,2015 [YR2015],36
+3330,Lesotho,2015 [YR2015],10
+3331,Liberia,2015 [YR2015],113
+3332,Libya,2015 [YR2015],106
+3333,Liechtenstein,2015 [YR2015],482
+3334,Lithuania,2015 [YR2015],20
+3335,Low & middle income,2015 [YR2015],184
+3336,Low income,2015 [YR2015],185
+3337,Lower middle income,2015 [YR2015],172
+3338,Luxembourg,2015 [YR2015],25
+3339,"Macao SAR, China",2015 [YR2015],219
+3340,Madagascar,2015 [YR2015],1
+3341,Malawi,2015 [YR2015],70
+3342,Malaysia,2015 [YR2015],3
+3343,Maldives,2015 [YR2015],85
+3344,Mali,2015 [YR2015],21
+3345,Malta,2015 [YR2015],45
+3346,Marshall Islands,2015 [YR2015],167
+3347,Mauritania,2015 [YR2015],13
+3348,Mauritius,2015 [YR2015],3
+3349,Mexico,2015 [YR2015],3
+3350,"Micronesia, Fed. Sts.",2015 [YR2015],224
+3351,Middle East & North Africa,2015 [YR2015],195
+3352,Middle East & North Africa (IDA & IBRD countries),2015 [YR2015],180
+3353,Middle East & North Africa (excluding high income),2015 [YR2015],176
+3354,Middle income,2015 [YR2015],184
+3355,Moldova,2015 [YR2015],1
+3356,Monaco,2015 [YR2015],441
+3357,Mongolia,2015 [YR2015],12
+3358,Montenegro,2015 [YR2015],26
+3359,Morocco,2015 [YR2015],7
+3360,Mozambique,2015 [YR2015],63
+3361,Myanmar,2015 [YR2015],90
+3362,Namibia,2015 [YR2015],14
+3363,Nauru,2015 [YR2015],281
+3364,Nepal,2015 [YR2015],4
+3365,Netherlands,2015 [YR2015],21
+3366,New Caledonia,2015 [YR2015],338
+3367,New Zealand,2015 [YR2015],24
+3368,Nicaragua,2015 [YR2015],21
+3369,Niger,2015 [YR2015],10
+3370,Nigeria,2015 [YR2015],72
+3371,North America,2015 [YR2015],193
+3372,North Macedonia,2015 [YR2015],7
+3373,Northern Mariana Islands,2015 [YR2015],555
+3374,Norway,2015 [YR2015],22
+3375,Not classified,2015 [YR2015],804
+3376,OECD members,2015 [YR2015],183
+3377,Oman,2015 [YR2015],26
+3378,Other small states,2015 [YR2015],198
+3379,Pacific island small states,2015 [YR2015],214
+3380,Pakistan,2015 [YR2015],6
+3381,Palau,2015 [YR2015],232
+3382,Panama,2015 [YR2015],21
+3383,Papua New Guinea,2015 [YR2015],109
+3384,Paraguay,2015 [YR2015],19
+3385,Peru,2015 [YR2015],4
+3386,Philippines,2015 [YR2015],11
+3387,Poland,2015 [YR2015],28
+3388,Portugal,2015 [YR2015],22
+3389,Post-demographic dividend,2015 [YR2015],178
+3390,Pre-demographic dividend,2015 [YR2015],215
+3391,Puerto Rico,2015 [YR2015],297
+3392,Qatar,2015 [YR2015],47
+3393,Romania,2015 [YR2015],17
+3394,Russian Federation,2015 [YR2015],21
+3395,Rwanda,2015 [YR2015],3
+3396,Samoa,2015 [YR2015],28
+3397,San Marino,2015 [YR2015],323
+3398,Sao Tome and Principe,2015 [YR2015],80
+3399,Saudi Arabia,2015 [YR2015],37
+3400,Senegal,2015 [YR2015],5
+3401,Serbia,2015 [YR2015],10
+3402,Seychelles,2015 [YR2015],79
+3403,Sierra Leone,2015 [YR2015],14
+3404,Singapore,2015 [YR2015],45
+3405,Sint Maarten (Dutch part),2015 [YR2015],448
+3406,Slovak Republic,2015 [YR2015],23
+3407,Slovenia,2015 [YR2015],32
+3408,Small states,2015 [YR2015],195
+3409,Solomon Islands,2015 [YR2015],36
+3410,Somalia,2015 [YR2015],216
+3411,South Africa,2015 [YR2015],3
+3412,South Asia,2015 [YR2015],172
+3413,South Asia (IDA & IBRD),2015 [YR2015],179
+3414,South Sudan,2015 [YR2015],90
+3415,Spain,2015 [YR2015],28
+3416,Sri Lanka,2015 [YR2015],14
+3417,St. Kitts and Nevis,2015 [YR2015],184
+3418,St. Lucia,2015 [YR2015],83
+3419,St. Martin (French part),2015 [YR2015],611
+3420,St. Vincent and the Grenadines,2015 [YR2015],80
+3421,Sub-Saharan Africa,2015 [YR2015],178
+3422,Sub-Saharan Africa (IDA & IBRD countries),2015 [YR2015],183
+3423,Sub-Saharan Africa (excluding high income),2015 [YR2015],179
+3424,Sudan,2015 [YR2015],28
+3425,Suriname,2015 [YR2015],71
+3426,Sweden,2015 [YR2015],23
+3427,Switzerland,2015 [YR2015],28
+3428,Syrian Arab Republic,2015 [YR2015],182
+3429,Tajikistan,2015 [YR2015],26
+3430,Tanzania,2015 [YR2015],5
+3431,Thailand,2015 [YR2015],19
+3432,Timor-Leste,2015 [YR2015],36
+3433,Togo,2015 [YR2015],14
+3434,Tonga,2015 [YR2015],57
+3435,Trinidad and Tobago,2015 [YR2015],109
+3436,Tunisia,2015 [YR2015],4
+3437,Turkiye,2015 [YR2015],12
+3438,Turkmenistan,2015 [YR2015],207
+3439,Turks and Caicos Islands,2015 [YR2015],377
+3440,Tuvalu,2015 [YR2015],265
+3441,Uganda,2015 [YR2015],8
+3442,Ukraine,2015 [YR2015],5
+3443,United Arab Emirates,2015 [YR2015],100
+3444,United Kingdom,2015 [YR2015],26
+3445,United States,2015 [YR2015],23
+3446,Upper middle income,2015 [YR2015],184
+3447,Uruguay,2015 [YR2015],16
+3448,Uzbekistan,2015 [YR2015],20
+3449,Vanuatu,2015 [YR2015],39
+3450,"Venezuela, RB",2015 [YR2015],199
+3451,Viet Nam,2015 [YR2015],29
+3452,Virgin Islands (U.S.),2015 [YR2015],457
+3453,West Bank and Gaza,2015 [YR2015],81
+3454,World,2015 [YR2015],170
+3455,"Yemen, Rep.",2015 [YR2015],82
+3456,Zambia,2015 [YR2015],30
+3457,Zimbabwe,2015 [YR2015],16
+3458,Afghanistan,2016 [YR2016],77
+3459,Africa Eastern and Southern,2016 [YR2016],180
+3460,Africa Western and Central,2016 [YR2016],227
+3461,Albania,2016 [YR2016],3
+3462,Algeria,2016 [YR2016],12
+3463,American Samoa,2016 [YR2016],497
+3464,Andorra,2016 [YR2016],356
+3465,Angola,2016 [YR2016],13
+3466,Antigua and Barbuda,2016 [YR2016],142
+3467,Arab World,2016 [YR2016],199
+3468,Argentina,2016 [YR2016],6
+3469,Armenia,2016 [YR2016],14
+3470,Aruba,2016 [YR2016],328
+3471,Australia,2016 [YR2016],33
+3472,Austria,2016 [YR2016],21
+3473,Azerbaijan,2016 [YR2016],32
+3474,"Bahamas, The",2016 [YR2016],60
+3475,Bahrain,2016 [YR2016],44
+3476,Bangladesh,2016 [YR2016],24
+3477,Barbados,2016 [YR2016],67
+3478,Belarus,2016 [YR2016],1
+3479,Belgium,2016 [YR2016],22
+3480,Belize,2016 [YR2016],7
+3481,Benin,2016 [YR2016],5
+3482,Bermuda,2016 [YR2016],299
+3483,Bhutan,2016 [YR2016],26
+3484,Bolivia,2016 [YR2016],12
+3485,Bosnia and Herzegovina,2016 [YR2016],19
+3486,Botswana,2016 [YR2016],27
+3487,Brazil,2016 [YR2016],5
+3488,British Virgin Islands,2016 [YR2016],504
+3489,Brunei Darussalam,2016 [YR2016],35
+3490,Bulgaria,2016 [YR2016],27
+3491,Burkina Faso,2016 [YR2016],8
+3492,Burundi,2016 [YR2016],12
+3493,Cabo Verde,2016 [YR2016],16
+3494,Cambodia,2016 [YR2016],11
+3495,Cameroon,2016 [YR2016],4
+3496,Canada,2016 [YR2016],40
+3497,Caribbean small states,2016 [YR2016],233
+3498,Cayman Islands,2016 [YR2016],393
+3499,Central African Republic,2016 [YR2016],75
+3500,Central Europe and the Baltics,2016 [YR2016],199
+3501,Chad,2016 [YR2016],86
+3502,Channel Islands,2016 [YR2016],534
+3503,Chile,2016 [YR2016],2
+3504,China,2016 [YR2016],35
+3505,Colombia,2016 [YR2016],7
+3506,Comoros,2016 [YR2016],56
+3507,"Congo, Dem. Rep.",2016 [YR2016],28
+3508,"Congo, Rep.",2016 [YR2016],31
+3509,Costa Rica,2016 [YR2016],4
+3510,Cote d'Ivoire,2016 [YR2016],6
+3511,Croatia,2016 [YR2016],19
+3512,Cuba,2016 [YR2016],125
+3513,Curacao,2016 [YR2016],397
+3514,Cyprus,2016 [YR2016],26
+3515,Czechia,2016 [YR2016],18
+3516,Denmark,2016 [YR2016],26
+3517,Djibouti,2016 [YR2016],35
+3518,Dominica,2016 [YR2016],137
+3519,Dominican Republic,2016 [YR2016],3
+3520,Early-demographic dividend,2016 [YR2016],178
+3521,East Asia & Pacific,2016 [YR2016],190
+3522,East Asia & Pacific (IDA & IBRD countries),2016 [YR2016],195
+3523,East Asia & Pacific (excluding high income),2016 [YR2016],191
+3524,Ecuador,2016 [YR2016],4
+3525,"Egypt, Arab Rep.",2016 [YR2016],5
+3526,El Salvador,2016 [YR2016],8
+3527,Equatorial Guinea,2016 [YR2016],110
+3528,Eritrea,2016 [YR2016],260
+3529,Estonia,2016 [YR2016],23
+3530,Eswatini,2016 [YR2016],16
+3531,Ethiopia,2016 [YR2016],27
+3532,Euro area,2016 [YR2016],190
+3533,Europe & Central Asia,2016 [YR2016],179
+3534,Europe & Central Asia (IDA & IBRD countries),2016 [YR2016],183
+3535,Europe & Central Asia (excluding high income),2016 [YR2016],187
+3536,European Union,2016 [YR2016],199
+3537,Faroe Islands,2016 [YR2016],485
+3538,Fiji,2016 [YR2016],33
+3539,Finland,2016 [YR2016],21
+3540,Fragile and conflict affected situations,2016 [YR2016],242
+3541,France,2016 [YR2016],34
+3542,French Polynesia,2016 [YR2016],363
+3543,Gabon,2016 [YR2016],94
+3544,"Gambia, The",2016 [YR2016],24
+3545,Georgia,2016 [YR2016],4
+3546,Germany,2016 [YR2016],23
+3547,Ghana,2016 [YR2016],10
+3548,Gibraltar,2016 [YR2016],544
+3549,Greece,2016 [YR2016],19
+3550,Greenland,2016 [YR2016],420
+3551,Grenada,2016 [YR2016],160
+3552,Guam,2016 [YR2016],445
+3553,Guatemala,2016 [YR2016],2
+3554,Guinea,2016 [YR2016],8
+3555,Guinea-Bissau,2016 [YR2016],49
+3556,Guyana,2016 [YR2016],91
+3557,Haiti,2016 [YR2016],49
+3558,Heavily indebted poor countries (HIPC),2016 [YR2016],181
+3559,High income,2016 [YR2016],177
+3560,Honduras,2016 [YR2016],13
+3561,"Hong Kong SAR, China",2016 [YR2016],173
+3562,Hungary,2016 [YR2016],19
+3563,IBRD only,2016 [YR2016],433
+3564,IDA & IBRD total,2016 [YR2016],191
+3565,IDA blend,2016 [YR2016],463
+3566,IDA only,2016 [YR2016],422
+3567,IDA total,2016 [YR2016],435
+3568,Iceland,2016 [YR2016],41
+3569,India,2016 [YR2016],18
+3570,Indonesia,2016 [YR2016],2
+3571,"Iran, Islamic Rep.",2016 [YR2016],64
+3572,Iraq,2016 [YR2016],44
+3573,Ireland,2016 [YR2016],49
+3574,Isle of Man,2016 [YR2016],549
+3575,Israel,2016 [YR2016],19
+3576,Italy,2016 [YR2016],32
+3577,Jamaica,2016 [YR2016],14
+3578,Japan,2016 [YR2016],32
+3579,Jordan,2016 [YR2016],39
+3580,Kazakhstan,2016 [YR2016],2
+3581,Kenya,2016 [YR2016],13
+3582,Kiribati,2016 [YR2016],131
+3583,"Korea, Dem. People's Rep.",2016 [YR2016],330
+3584,"Korea, Rep.",2016 [YR2016],26
+3585,Kosovo,2016 [YR2016],278
+3586,Kuwait,2016 [YR2016],41
+3587,Kyrgyz Republic,2016 [YR2016],25
+3588,Lao PDR,2016 [YR2016],21
+3589,Late-demographic dividend,2016 [YR2016],195
+3590,Latin America & Caribbean,2016 [YR2016],173
+3591,Latin America & Caribbean (excluding high income),2016 [YR2016],174
+3592,Latin America & the Caribbean (IDA & IBRD countries),2016 [YR2016],178
+3593,Latvia,2016 [YR2016],24
+3594,Least developed countries: UN classification,2016 [YR2016],181
+3595,Lebanon,2016 [YR2016],32
+3596,Lesotho,2016 [YR2016],13
+3597,Liberia,2016 [YR2016],118
+3598,Libya,2016 [YR2016],104
+3599,Liechtenstein,2016 [YR2016],481
+3600,Lithuania,2016 [YR2016],21
+3601,Low & middle income,2016 [YR2016],190
+3602,Low income,2016 [YR2016],188
+3603,Lower middle income,2016 [YR2016],173
+3604,Luxembourg,2016 [YR2016],26
+3605,"Macao SAR, China",2016 [YR2016],224
+3606,Madagascar,2016 [YR2016],3
+3607,Malawi,2016 [YR2016],83
+3608,Malaysia,2016 [YR2016],2
+3609,Maldives,2016 [YR2016],88
+3610,Mali,2016 [YR2016],10
+3611,Malta,2016 [YR2016],52
+3612,Marshall Islands,2016 [YR2016],166
+3613,Mauritania,2016 [YR2016],21
+3614,Mauritius,2016 [YR2016],4
+3615,Mexico,2016 [YR2016],4
+3616,"Micronesia, Fed. Sts.",2016 [YR2016],229
+3617,Middle East & North Africa,2016 [YR2016],193
+3618,Middle East & North Africa (IDA & IBRD countries),2016 [YR2016],185
+3619,Middle East & North Africa (excluding high income),2016 [YR2016],181
+3620,Middle income,2016 [YR2016],190
+3621,Moldova,2016 [YR2016],2
+3622,Monaco,2016 [YR2016],427
+3623,Mongolia,2016 [YR2016],10
+3624,Montenegro,2016 [YR2016],24
+3625,Morocco,2016 [YR2016],7
+3626,Mozambique,2016 [YR2016],69
+3627,Myanmar,2016 [YR2016],74
+3628,Namibia,2016 [YR2016],15
+3629,Nauru,2016 [YR2016],276
+3630,Nepal,2016 [YR2016],5
+3631,Netherlands,2016 [YR2016],22
+3632,New Caledonia,2016 [YR2016],376
+3633,New Zealand,2016 [YR2016],25
+3634,Nicaragua,2016 [YR2016],27
+3635,Niger,2016 [YR2016],8
+3636,Nigeria,2016 [YR2016],73
+3637,North America,2016 [YR2016],190
+3638,North Macedonia,2016 [YR2016],30
+3639,Northern Mariana Islands,2016 [YR2016],558
+3640,Norway,2016 [YR2016],23
+3641,Not classified,2016 [YR2016],804
+3642,OECD members,2016 [YR2016],184
+3643,Oman,2016 [YR2016],24
+3644,Other small states,2016 [YR2016],205
+3645,Pacific island small states,2016 [YR2016],227
+3646,Pakistan,2016 [YR2016],4
+3647,Palau,2016 [YR2016],242
+3648,Panama,2016 [YR2016],33
+3649,Papua New Guinea,2016 [YR2016],95
+3650,Paraguay,2016 [YR2016],9
+3651,Peru,2016 [YR2016],2
+3652,Philippines,2016 [YR2016],12
+3653,Poland,2016 [YR2016],29
+3654,Portugal,2016 [YR2016],24
+3655,Post-demographic dividend,2016 [YR2016],179
+3656,Pre-demographic dividend,2016 [YR2016],218
+3657,Puerto Rico,2016 [YR2016],312
+3658,Qatar,2016 [YR2016],55
+3659,Romania,2016 [YR2016],18
+3660,Russian Federation,2016 [YR2016],22
+3661,Rwanda,2016 [YR2016],4
+3662,Samoa,2016 [YR2016],28
+3663,San Marino,2016 [YR2016],322
+3664,Sao Tome and Principe,2016 [YR2016],81
+3665,Saudi Arabia,2016 [YR2016],35
+3666,Senegal,2016 [YR2016],17
+3667,Serbia,2016 [YR2016],11
+3668,Seychelles,2016 [YR2016],81
+3669,Sierra Leone,2016 [YR2016],13
+3670,Singapore,2016 [YR2016],40
+3671,Sint Maarten (Dutch part),2016 [YR2016],455
+3672,Slovak Republic,2016 [YR2016],24
+3673,Slovenia,2016 [YR2016],33
+3674,Small states,2016 [YR2016],202
+3675,Solomon Islands,2016 [YR2016],36
+3676,Somalia,2016 [YR2016],225
+3677,South Africa,2016 [YR2016],4
+3678,South Asia,2016 [YR2016],173
+3679,South Asia (IDA & IBRD),2016 [YR2016],180
+3680,South Sudan,2016 [YR2016],232
+3681,Spain,2016 [YR2016],28
+3682,Sri Lanka,2016 [YR2016],4
+3683,St. Kitts and Nevis,2016 [YR2016],191
+3684,St. Lucia,2016 [YR2016],81
+3685,St. Martin (French part),2016 [YR2016],612
+3686,St. Vincent and the Grenadines,2016 [YR2016],88
+3687,Sub-Saharan Africa,2016 [YR2016],182
+3688,Sub-Saharan Africa (IDA & IBRD countries),2016 [YR2016],187
+3689,Sub-Saharan Africa (excluding high income),2016 [YR2016],183
+3690,Sudan,2016 [YR2016],31
+3691,Suriname,2016 [YR2016],81
+3692,Sweden,2016 [YR2016],24
+3693,Switzerland,2016 [YR2016],26
+3694,Syrian Arab Republic,2016 [YR2016],184
+3695,Tajikistan,2016 [YR2016],14
+3696,Tanzania,2016 [YR2016],6
+3697,Thailand,2016 [YR2016],23
+3698,Timor-Leste,2016 [YR2016],36
+3699,Togo,2016 [YR2016],14
+3700,Tonga,2016 [YR2016],75
+3701,Trinidad and Tobago,2016 [YR2016],112
+3702,Tunisia,2016 [YR2016],5
+3703,Turkiye,2016 [YR2016],17
+3704,Turkmenistan,2016 [YR2016],221
+3705,Turks and Caicos Islands,2016 [YR2016],384
+3706,Tuvalu,2016 [YR2016],282
+3707,Uganda,2016 [YR2016],3
+3708,Ukraine,2016 [YR2016],6
+3709,United Arab Emirates,2016 [YR2016],100
+3710,United Kingdom,2016 [YR2016],31
+3711,United States,2016 [YR2016],24
+3712,Upper middle income,2016 [YR2016],190
+3713,Uruguay,2016 [YR2016],28
+3714,Uzbekistan,2016 [YR2016],26
+3715,Vanuatu,2016 [YR2016],61
+3716,"Venezuela, RB",2016 [YR2016],204
+3717,Viet Nam,2016 [YR2016],30
+3718,Virgin Islands (U.S.),2016 [YR2016],462
+3719,West Bank and Gaza,2016 [YR2016],79
+3720,World,2016 [YR2016],171
+3721,"Yemen, Rep.",2016 [YR2016],99
+3722,Zambia,2016 [YR2016],42
+3723,Zimbabwe,2016 [YR2016],15
+3724,Afghanistan,2017 [YR2017],80
+3725,Africa Eastern and Southern,2017 [YR2017],185
+3726,Africa Western and Central,2017 [YR2017],233
+3727,Albania,2017 [YR2017],8
+3728,Algeria,2017 [YR2017],18
+3729,American Samoa,2017 [YR2017],493
+3730,Andorra,2017 [YR2017],364
+3731,Angola,2017 [YR2017],28
+3732,Antigua and Barbuda,2017 [YR2017],134
+3733,Arab World,2017 [YR2017],205
+3734,Argentina,2017 [YR2017],17
+3735,Armenia,2017 [YR2017],19
+3736,Aruba,2017 [YR2017],335
+3737,Australia,2017 [YR2017],39
+3738,Austria,2017 [YR2017],26
+3739,Azerbaijan,2017 [YR2017],34
+3740,"Bahamas, The",2017 [YR2017],71
+3741,Bahrain,2017 [YR2017],51
+3742,Bangladesh,2017 [YR2017],22
+3743,Barbados,2017 [YR2017],77
+3744,Belarus,2017 [YR2017],7
+3745,Belgium,2017 [YR2017],28
+3746,Belize,2017 [YR2017],13
+3747,Benin,2017 [YR2017],24
+3748,Bermuda,2017 [YR2017],301
+3749,Bhutan,2017 [YR2017],29
+3750,Bolivia,2017 [YR2017],18
+3751,Bosnia and Herzegovina,2017 [YR2017],25
+3752,Botswana,2017 [YR2017],34
+3753,Brazil,2017 [YR2017],11
+3754,British Virgin Islands,2017 [YR2017],512
+3755,Brunei Darussalam,2017 [YR2017],44
+3756,Bulgaria,2017 [YR2017],33
+3757,Burkina Faso,2017 [YR2017],11
+3758,Burundi,2017 [YR2017],26
+3759,Cabo Verde,2017 [YR2017],20
+3760,Cambodia,2017 [YR2017],10
+3761,Cameroon,2017 [YR2017],10
+3762,Canada,2017 [YR2017],46
+3763,Caribbean small states,2017 [YR2017],241
+3764,Cayman Islands,2017 [YR2017],380
+3765,Central African Republic,2017 [YR2017],81
+3766,Central Europe and the Baltics,2017 [YR2017],202
+3767,Chad,2017 [YR2017],95
+3768,Channel Islands,2017 [YR2017],528
+3769,Chile,2017 [YR2017],9
+3770,China,2017 [YR2017],39
+3771,Colombia,2017 [YR2017],13
+3772,Comoros,2017 [YR2017],43
+3773,"Congo, Dem. Rep.",2017 [YR2017],39
+3774,"Congo, Rep.",2017 [YR2017],94
+3775,Costa Rica,2017 [YR2017],10
+3776,Cote d'Ivoire,2017 [YR2017],13
+3777,Croatia,2017 [YR2017],27
+3778,Cuba,2017 [YR2017],133
+3779,Curacao,2017 [YR2017],400
+3780,Cyprus,2017 [YR2017],29
+3781,Czechia,2017 [YR2017],24
+3782,Denmark,2017 [YR2017],32
+3783,Djibouti,2017 [YR2017],42
+3784,Dominica,2017 [YR2017],151
+3785,Dominican Republic,2017 [YR2017],11
+3786,Early-demographic dividend,2017 [YR2017],184
+3787,East Asia & Pacific,2017 [YR2017],197
+3788,East Asia & Pacific (IDA & IBRD countries),2017 [YR2017],201
+3789,East Asia & Pacific (excluding high income),2017 [YR2017],197
+3790,Ecuador,2017 [YR2017],10
+3791,"Egypt, Arab Rep.",2017 [YR2017],11
+3792,El Salvador,2017 [YR2017],14
+3793,Equatorial Guinea,2017 [YR2017],117
+3794,Eritrea,2017 [YR2017],269
+3795,Estonia,2017 [YR2017],28
+3796,Eswatini,2017 [YR2017],28
+3797,Ethiopia,2017 [YR2017],33
+3798,Euro area,2017 [YR2017],193
+3799,Europe & Central Asia,2017 [YR2017],185
+3800,Europe & Central Asia (IDA & IBRD countries),2017 [YR2017],189
+3801,Europe & Central Asia (excluding high income),2017 [YR2017],193
+3802,European Union,2017 [YR2017],205
+3803,Faroe Islands,2017 [YR2017],487
+3804,Fiji,2017 [YR2017],44
+3805,Finland,2017 [YR2017],27
+3806,Fragile and conflict affected situations,2017 [YR2017],254
+3807,France,2017 [YR2017],34
+3808,French Polynesia,2017 [YR2017],411
+3809,Gabon,2017 [YR2017],105
+3810,"Gambia, The",2017 [YR2017],22
+3811,Georgia,2017 [YR2017],10
+3812,Germany,2017 [YR2017],29
+3813,Ghana,2017 [YR2017],12
+3814,Gibraltar,2017 [YR2017],550
+3815,Greece,2017 [YR2017],25
+3816,Greenland,2017 [YR2017],418
+3817,Grenada,2017 [YR2017],157
+3818,Guam,2017 [YR2017],443
+3819,Guatemala,2017 [YR2017],9
+3820,Guinea,2017 [YR2017],38
+3821,Guinea-Bissau,2017 [YR2017],53
+3822,Guyana,2017 [YR2017],101
+3823,Haiti,2017 [YR2017],54
+3824,Heavily indebted poor countries (HIPC),2017 [YR2017],186
+3825,High income,2017 [YR2017],183
+3826,Honduras,2017 [YR2017],20
+3827,"Hong Kong SAR, China",2017 [YR2017],176
+3828,Hungary,2017 [YR2017],27
+3829,IBRD only,2017 [YR2017],440
+3830,IDA & IBRD total,2017 [YR2017],197
+3831,IDA blend,2017 [YR2017],468
+3832,IDA only,2017 [YR2017],426
+3833,IDA total,2017 [YR2017],440
+3834,Iceland,2017 [YR2017],44
+3835,India,2017 [YR2017],17
+3836,Indonesia,2017 [YR2017],7
+3837,"Iran, Islamic Rep.",2017 [YR2017],79
+3838,Iraq,2017 [YR2017],52
+3839,Ireland,2017 [YR2017],56
+3840,Isle of Man,2017 [YR2017],549
+3841,Israel,2017 [YR2017],29
+3842,Italy,2017 [YR2017],32
+3843,Jamaica,2017 [YR2017],19
+3844,Japan,2017 [YR2017],38
+3845,Jordan,2017 [YR2017],38
+3846,Kazakhstan,2017 [YR2017],8
+3847,Kenya,2017 [YR2017],31
+3848,Kiribati,2017 [YR2017],133
+3849,"Korea, Dem. People's Rep.",2017 [YR2017],336
+3850,"Korea, Rep.",2017 [YR2017],32
+3851,Kosovo,2017 [YR2017],280
+3852,Kuwait,2017 [YR2017],47
+3853,Kyrgyz Republic,2017 [YR2017],28
+3854,Lao PDR,2017 [YR2017],84
+3855,Late-demographic dividend,2017 [YR2017],201
+3856,Latin America & Caribbean,2017 [YR2017],179
+3857,Latin America & Caribbean (excluding high income),2017 [YR2017],180
+3858,Latin America & the Caribbean (IDA & IBRD countries),2017 [YR2017],184
+3859,Latvia,2017 [YR2017],28
+3860,Least developed countries: UN classification,2017 [YR2017],184
+3861,Lebanon,2017 [YR2017],38
+3862,Lesotho,2017 [YR2017],22
+3863,Liberia,2017 [YR2017],124
+3864,Libya,2017 [YR2017],106
+3865,Liechtenstein,2017 [YR2017],487
+3866,Lithuania,2017 [YR2017],27
+3867,Low & middle income,2017 [YR2017],196
+3868,Low income,2017 [YR2017],193
+3869,Lower middle income,2017 [YR2017],179
+3870,Luxembourg,2017 [YR2017],33
+3871,"Macao SAR, China",2017 [YR2017],225
+3872,Madagascar,2017 [YR2017],12
+3873,Malawi,2017 [YR2017],86
+3874,Malaysia,2017 [YR2017],10
+3875,Maldives,2017 [YR2017],87
+3876,Mali,2017 [YR2017],17
+3877,Malta,2017 [YR2017],57
+3878,Marshall Islands,2017 [YR2017],183
+3879,Mauritania,2017 [YR2017],27
+3880,Mauritius,2017 [YR2017],9
+3881,Mexico,2017 [YR2017],10
+3882,"Micronesia, Fed. Sts.",2017 [YR2017],240
+3883,Middle East & North Africa,2017 [YR2017],196
+3884,Middle East & North Africa (IDA & IBRD countries),2017 [YR2017],199
+3885,Middle East & North Africa (excluding high income),2017 [YR2017],195
+3886,Middle income,2017 [YR2017],196
+3887,Moldova,2017 [YR2017],8
+3888,Monaco,2017 [YR2017],444
+3889,Mongolia,2017 [YR2017],16
+3890,Montenegro,2017 [YR2017],30
+3891,Morocco,2017 [YR2017],7
+3892,Mozambique,2017 [YR2017],69
+3893,Myanmar,2017 [YR2017],78
+3894,Namibia,2017 [YR2017],18
+3895,Nauru,2017 [YR2017],296
+3896,Nepal,2017 [YR2017],10
+3897,Netherlands,2017 [YR2017],28
+3898,New Caledonia,2017 [YR2017],425
+3899,New Zealand,2017 [YR2017],31
+3900,Nicaragua,2017 [YR2017],37
+3901,Niger,2017 [YR2017],14
+3902,Nigeria,2017 [YR2017],82
+3903,North America,2017 [YR2017],196
+3904,North Macedonia,2017 [YR2017],13
+3905,Northern Mariana Islands,2017 [YR2017],558
+3906,Norway,2017 [YR2017],29
+3907,Not classified,2017 [YR2017],804
+3908,OECD members,2017 [YR2017],190
+3909,Oman,2017 [YR2017],28
+3910,Other small states,2017 [YR2017],212
+3911,Pacific island small states,2017 [YR2017],231
+3912,Pakistan,2017 [YR2017],13
+3913,Palau,2017 [YR2017],245
+3914,Panama,2017 [YR2017],35
+3915,Papua New Guinea,2017 [YR2017],109
+3916,Paraguay,2017 [YR2017],33
+3917,Peru,2017 [YR2017],7
+3918,Philippines,2017 [YR2017],14
+3919,Poland,2017 [YR2017],26
+3920,Portugal,2017 [YR2017],30
+3921,Post-demographic dividend,2017 [YR2017],185
+3922,Pre-demographic dividend,2017 [YR2017],225
+3923,Puerto Rico,2017 [YR2017],330
+3924,Qatar,2017 [YR2017],50
+3925,Romania,2017 [YR2017],27
+3926,Russian Federation,2017 [YR2017],32
+3927,Rwanda,2017 [YR2017],10
+3928,Samoa,2017 [YR2017],39
+3929,San Marino,2017 [YR2017],292
+3930,Sao Tome and Principe,2017 [YR2017],90
+3931,Saudi Arabia,2017 [YR2017],41
+3932,Senegal,2017 [YR2017],23
+3933,Serbia,2017 [YR2017],17
+3934,Seychelles,2017 [YR2017],90
+3935,Sierra Leone,2017 [YR2017],18
+3936,Singapore,2017 [YR2017],44
+3937,Sint Maarten (Dutch part),2017 [YR2017],441
+3938,Slovak Republic,2017 [YR2017],30
+3939,Slovenia,2017 [YR2017],40
+3940,Small states,2017 [YR2017],206
+3941,Solomon Islands,2017 [YR2017],41
+3942,Somalia,2017 [YR2017],224
+3943,South Africa,2017 [YR2017],14
+3944,South Asia,2017 [YR2017],179
+3945,South Asia (IDA & IBRD),2017 [YR2017],186
+3946,South Sudan,2017 [YR2017],226
+3947,Spain,2017 [YR2017],34
+3948,Sri Lanka,2017 [YR2017],10
+3949,St. Kitts and Nevis,2017 [YR2017],212
+3950,St. Lucia,2017 [YR2017],84
+3951,St. Martin (French part),2017 [YR2017],612
+3952,St. Vincent and the Grenadines,2017 [YR2017],90
+3953,Sub-Saharan Africa,2017 [YR2017],188
+3954,Sub-Saharan Africa (IDA & IBRD countries),2017 [YR2017],193
+3955,Sub-Saharan Africa (excluding high income),2017 [YR2017],189
+3956,Sudan,2017 [YR2017],39
+3957,Suriname,2017 [YR2017],83
+3958,Sweden,2017 [YR2017],30
+3959,Switzerland,2017 [YR2017],40
+3960,Syrian Arab Republic,2017 [YR2017],195
+3961,Tajikistan,2017 [YR2017],21
+3962,Tanzania,2017 [YR2017],18
+3963,Thailand,2017 [YR2017],24
+3964,Timor-Leste,2017 [YR2017],27
+3965,Togo,2017 [YR2017],11
+3966,Tonga,2017 [YR2017],77
+3967,Trinidad and Tobago,2017 [YR2017],116
+3968,Tunisia,2017 [YR2017],19
+3969,Turkiye,2017 [YR2017],21
+3970,Turkmenistan,2017 [YR2017],225
+3971,Turks and Caicos Islands,2017 [YR2017],379
+3972,Tuvalu,2017 [YR2017],306
+3973,Uganda,2017 [YR2017],15
+3974,Ukraine,2017 [YR2017],12
+3975,United Arab Emirates,2017 [YR2017],108
+3976,United Kingdom,2017 [YR2017],30
+3977,United States,2017 [YR2017],26
+3978,Upper middle income,2017 [YR2017],196
+3979,Uruguay,2017 [YR2017],32
+3980,Uzbekistan,2017 [YR2017],17
+3981,Vanuatu,2017 [YR2017],65
+3982,"Venezuela, RB",2017 [YR2017],263
+3983,Viet Nam,2017 [YR2017],44
+3984,Virgin Islands (U.S.),2017 [YR2017],460
+3985,West Bank and Gaza,2017 [YR2017],83
+3986,World,2017 [YR2017],177
+3987,"Yemen, Rep.",2017 [YR2017],180
+3988,Zambia,2017 [YR2017],45
+3989,Zimbabwe,2017 [YR2017],17
+3990,Afghanistan,2018 [YR2018],81
+3991,Africa Eastern and Southern,2018 [YR2018],185
+3992,Africa Western and Central,2018 [YR2018],233
+3993,Albania,2018 [YR2018],7
+3994,Algeria,2018 [YR2018],29
+3995,American Samoa,2018 [YR2018],496
+3996,Andorra,2018 [YR2018],362
+3997,Angola,2018 [YR2018],28
+3998,Antigua and Barbuda,2018 [YR2018],143
+3999,Arab World,2018 [YR2018],209
+4000,Argentina,2018 [YR2018],21
+4001,Armenia,2018 [YR2018],9
+4002,Aruba,2018 [YR2018],338
+4003,Australia,2018 [YR2018],40
+4004,Austria,2018 [YR2018],29
+4005,Azerbaijan,2018 [YR2018],32
+4006,"Bahamas, The",2018 [YR2018],68
+4007,Bahrain,2018 [YR2018],50
+4008,Bangladesh,2018 [YR2018],22
+4009,Barbados,2018 [YR2018],130
+4010,Belarus,2018 [YR2018],8
+4011,Belgium,2018 [YR2018],28
+4012,Belize,2018 [YR2018],13
+4013,Benin,2018 [YR2018],24
+4014,Bermuda,2018 [YR2018],311
+4015,Bhutan,2018 [YR2018],29
+4016,Bolivia,2018 [YR2018],17
+4017,Bosnia and Herzegovina,2018 [YR2018],24
+4018,Botswana,2018 [YR2018],37
+4019,Brazil,2018 [YR2018],12
+4020,British Virgin Islands,2018 [YR2018],520
+4021,Brunei Darussalam,2018 [YR2018],44
+4022,Bulgaria,2018 [YR2018],34
+4023,Burkina Faso,2018 [YR2018],11
+4024,Burundi,2018 [YR2018],29
+4025,Cabo Verde,2018 [YR2018],19
+4026,Cambodia,2018 [YR2018],12
+4027,Cameroon,2018 [YR2018],10
+4028,Canada,2018 [YR2018],43
+4029,Caribbean small states,2018 [YR2018],243
+4030,Cayman Islands,2018 [YR2018],375
+4031,Central African Republic,2018 [YR2018],105
+4032,Central Europe and the Baltics,2018 [YR2018],202
+4033,Chad,2018 [YR2018],97
+4034,Channel Islands,2018 [YR2018],528
+4035,Chile,2018 [YR2018],23
+4036,China,2018 [YR2018],39
+4037,Colombia,2018 [YR2018],15
+4038,Comoros,2018 [YR2018],49
+4039,"Congo, Dem. Rep.",2018 [YR2018],33
+4040,"Congo, Rep.",2018 [YR2018],79
+4041,Costa Rica,2018 [YR2018],10
+4042,Cote d'Ivoire,2018 [YR2018],16
+4043,Croatia,2018 [YR2018],26
+4044,Cuba,2018 [YR2018],133
+4045,Curacao,2018 [YR2018],410
+4046,Cyprus,2018 [YR2018],30
+4047,Czechia,2018 [YR2018],25
+4048,Denmark,2018 [YR2018],31
+4049,Djibouti,2018 [YR2018],41
+4050,Dominica,2018 [YR2018],163
+4051,Dominican Republic,2018 [YR2018],11
+4052,Early-demographic dividend,2018 [YR2018],184
+4053,East Asia & Pacific,2018 [YR2018],197
+4054,East Asia & Pacific (IDA & IBRD countries),2018 [YR2018],201
+4055,East Asia & Pacific (excluding high income),2018 [YR2018],197
+4056,Ecuador,2018 [YR2018],8
+4057,"Egypt, Arab Rep.",2018 [YR2018],11
+4058,El Salvador,2018 [YR2018],14
+4059,Equatorial Guinea,2018 [YR2018],126
+4060,Eritrea,2018 [YR2018],279
+4061,Estonia,2018 [YR2018],30
+4062,Eswatini,2018 [YR2018],28
+4063,Ethiopia,2018 [YR2018],42
+4064,Euro area,2018 [YR2018],193
+4065,Europe & Central Asia,2018 [YR2018],185
+4066,Europe & Central Asia (IDA & IBRD countries),2018 [YR2018],189
+4067,Europe & Central Asia (excluding high income),2018 [YR2018],193
+4068,European Union,2018 [YR2018],205
+4069,Faroe Islands,2018 [YR2018],491
+4070,Fiji,2018 [YR2018],42
+4071,Finland,2018 [YR2018],28
+4072,Fragile and conflict affected situations,2018 [YR2018],254
+4073,France,2018 [YR2018],35
+4074,French Polynesia,2018 [YR2018],413
+4075,Gabon,2018 [YR2018],105
+4076,"Gambia, The",2018 [YR2018],19
+4077,Georgia,2018 [YR2018],9
+4078,Germany,2018 [YR2018],31
+4079,Ghana,2018 [YR2018],11
+4080,Gibraltar,2018 [YR2018],572
+4081,Greece,2018 [YR2018],25
+4082,Greenland,2018 [YR2018],419
+4083,Grenada,2018 [YR2018],163
+4084,Guam,2018 [YR2018],438
+4085,Guatemala,2018 [YR2018],10
+4086,Guinea,2018 [YR2018],29
+4087,Guinea-Bissau,2018 [YR2018],50
+4088,Guyana,2018 [YR2018],101
+4089,Haiti,2018 [YR2018],54
+4090,Heavily indebted poor countries (HIPC),2018 [YR2018],185
+4091,High income,2018 [YR2018],183
+4092,Honduras,2018 [YR2018],22
+4093,"Hong Kong SAR, China",2018 [YR2018],176
+4094,Hungary,2018 [YR2018],27
+4095,IBRD only,2018 [YR2018],440
+4096,IDA & IBRD total,2018 [YR2018],197
+4097,IDA blend,2018 [YR2018],468
+4098,IDA only,2018 [YR2018],433
+4099,IDA total,2018 [YR2018],440
+4100,Iceland,2018 [YR2018],47
+4101,India,2018 [YR2018],25
+4102,Indonesia,2018 [YR2018],7
+4103,"Iran, Islamic Rep.",2018 [YR2018],98
+4104,Iraq,2018 [YR2018],52
+4105,Ireland,2018 [YR2018],53
+4106,Isle of Man,2018 [YR2018],549
+4107,Israel,2018 [YR2018],28
+4108,Italy,2018 [YR2018],33
+4109,Jamaica,2018 [YR2018],19
+4110,Japan,2018 [YR2018],39
+4111,Jordan,2018 [YR2018],41
+4112,Kazakhstan,2018 [YR2018],10
+4113,Kenya,2018 [YR2018],31
+4114,Kiribati,2018 [YR2018],142
+4115,"Korea, Dem. People's Rep.",2018 [YR2018],328
+4116,"Korea, Rep.",2018 [YR2018],33
+4117,Kosovo,2018 [YR2018],280
+4118,Kuwait,2018 [YR2018],47
+4119,Kyrgyz Republic,2018 [YR2018],32
+4120,Lao PDR,2018 [YR2018],85
+4121,Late-demographic dividend,2018 [YR2018],201
+4122,Latin America & Caribbean,2018 [YR2018],179
+4123,Latin America & Caribbean (excluding high income),2018 [YR2018],180
+4124,Latin America & the Caribbean (IDA & IBRD countries),2018 [YR2018],184
+4125,Latvia,2018 [YR2018],30
+4126,Least developed countries: UN classification,2018 [YR2018],185
+4127,Lebanon,2018 [YR2018],46
+4128,Lesotho,2018 [YR2018],33
+4129,Liberia,2018 [YR2018],145
+4130,Libya,2018 [YR2018],115
+4131,Liechtenstein,2018 [YR2018],465
+4132,Lithuania,2018 [YR2018],28
+4133,Low & middle income,2018 [YR2018],196
+4134,Low income,2018 [YR2018],194
+4135,Lower middle income,2018 [YR2018],179
+4136,Luxembourg,2018 [YR2018],33
+4137,"Macao SAR, China",2018 [YR2018],226
+4138,Madagascar,2018 [YR2018],8
+4139,Malawi,2018 [YR2018],84
+4140,Malaysia,2018 [YR2018],11
+4141,Maldives,2018 [YR2018],88
+4142,Mali,2018 [YR2018],20
+4143,Malta,2018 [YR2018],59
+4144,Marshall Islands,2018 [YR2018],188
+4145,Mauritania,2018 [YR2018],24
+4146,Mauritius,2018 [YR2018],13
+4147,Mexico,2018 [YR2018],11
+4148,"Micronesia, Fed. Sts.",2018 [YR2018],246
+4149,Middle East & North Africa,2018 [YR2018],204
+4150,Middle East & North Africa (IDA & IBRD countries),2018 [YR2018],201
+4151,Middle East & North Africa (excluding high income),2018 [YR2018],194
+4152,Middle income,2018 [YR2018],196
+4153,Moldova,2018 [YR2018],8
+4154,Monaco,2018 [YR2018],443
+4155,Mongolia,2018 [YR2018],11
+4156,Montenegro,2018 [YR2018],31
+4157,Morocco,2018 [YR2018],7
+4158,Mozambique,2018 [YR2018],72
+4159,Myanmar,2018 [YR2018],74
+4160,Namibia,2018 [YR2018],14
+4161,Nauru,2018 [YR2018],301
+4162,Nepal,2018 [YR2018],32
+4163,Netherlands,2018 [YR2018],29
+4164,New Caledonia,2018 [YR2018],470
+4165,New Zealand,2018 [YR2018],34
+4166,Nicaragua,2018 [YR2018],34
+4167,Niger,2018 [YR2018],33
+4168,Nigeria,2018 [YR2018],77
+4169,North America,2018 [YR2018],196
+4170,North Macedonia,2018 [YR2018],15
+4171,Northern Mariana Islands,2018 [YR2018],558
+4172,Norway,2018 [YR2018],31
+4173,Not classified,2018 [YR2018],804
+4174,OECD members,2018 [YR2018],190
+4175,Oman,2018 [YR2018],28
+4176,Other small states,2018 [YR2018],209
+4177,Pacific island small states,2018 [YR2018],233
+4178,Pakistan,2018 [YR2018],10
+4179,Palau,2018 [YR2018],256
+4180,Panama,2018 [YR2018],86
+4181,Papua New Guinea,2018 [YR2018],100
+4182,Paraguay,2018 [YR2018],30
+4183,Peru,2018 [YR2018],10
+4184,Philippines,2018 [YR2018],15
+4185,Poland,2018 [YR2018],27
+4186,Portugal,2018 [YR2018],27
+4187,Post-demographic dividend,2018 [YR2018],185
+4188,Pre-demographic dividend,2018 [YR2018],224
+4189,Puerto Rico,2018 [YR2018],315
+4190,Qatar,2018 [YR2018],53
+4191,Romania,2018 [YR2018],25
+4192,Russian Federation,2018 [YR2018],29
+4193,Rwanda,2018 [YR2018],9
+4194,Samoa,2018 [YR2018],40
+4195,San Marino,2018 [YR2018],267
+4196,Sao Tome and Principe,2018 [YR2018],109
+4197,Saudi Arabia,2018 [YR2018],51
+4198,Senegal,2018 [YR2018],24
+4199,Serbia,2018 [YR2018],17
+4200,Seychelles,2018 [YR2018],102
+4201,Sierra Leone,2018 [YR2018],24
+4202,Singapore,2018 [YR2018],46
+4203,Sint Maarten (Dutch part),2018 [YR2018],456
+4204,Slovak Republic,2018 [YR2018],33
+4205,Slovenia,2018 [YR2018],41
+4206,Small states,2018 [YR2018],206
+4207,Solomon Islands,2018 [YR2018],40
+4208,Somalia,2018 [YR2018],230
+4209,South Africa,2018 [YR2018],11
+4210,South Asia,2018 [YR2018],179
+4211,South Asia (IDA & IBRD),2018 [YR2018],186
+4212,South Sudan,2018 [YR2018],221
+4213,Spain,2018 [YR2018],35
+4214,Sri Lanka,2018 [YR2018],26
+4215,St. Kitts and Nevis,2018 [YR2018],231
+4216,St. Lucia,2018 [YR2018],87
+4217,St. Martin (French part),2018 [YR2018],612
+4218,St. Vincent and the Grenadines,2018 [YR2018],93
+4219,Sub-Saharan Africa,2018 [YR2018],188
+4220,Sub-Saharan Africa (IDA & IBRD countries),2018 [YR2018],193
+4221,Sub-Saharan Africa (excluding high income),2018 [YR2018],189
+4222,Sudan,2018 [YR2018],38
+4223,Suriname,2018 [YR2018],87
+4224,Sweden,2018 [YR2018],31
+4225,Switzerland,2018 [YR2018],41
+4226,Syrian Arab Republic,2018 [YR2018],197
+4227,Tajikistan,2018 [YR2018],47
+4228,Tanzania,2018 [YR2018],14
+4229,Thailand,2018 [YR2018],28
+4230,Timor-Leste,2018 [YR2018],29
+4231,Togo,2018 [YR2018],18
+4232,Tonga,2018 [YR2018],64
+4233,Trinidad and Tobago,2018 [YR2018],119
+4234,Tunisia,2018 [YR2018],24
+4235,Turkiye,2018 [YR2018],24
+4236,Turkmenistan,2018 [YR2018],226
+4237,Turks and Caicos Islands,2018 [YR2018],370
+4238,Tuvalu,2018 [YR2018],294
+4239,Uganda,2018 [YR2018],36
+4240,Ukraine,2018 [YR2018],12
+4241,United Arab Emirates,2018 [YR2018],121
+4242,United Kingdom,2018 [YR2018],31
+4243,United States,2018 [YR2018],27
+4244,Upper middle income,2018 [YR2018],196
+4245,Uruguay,2018 [YR2018],45
+4246,Uzbekistan,2018 [YR2018],16
+4247,Vanuatu,2018 [YR2018],68
+4248,"Venezuela, RB",2018 [YR2018],288
+4249,Viet Nam,2018 [YR2018],39
+4250,Virgin Islands (U.S.),2018 [YR2018],461
+4251,West Bank and Gaza,2018 [YR2018],86
+4252,World,2018 [YR2018],177
+4253,"Yemen, Rep.",2018 [YR2018],174
+4254,Zambia,2018 [YR2018],53
+4255,Zimbabwe,2018 [YR2018],19
+4256,Afghanistan,2019 [YR2019],90
+4257,Africa Eastern and Southern,2019 [YR2019],186
+4258,Africa Western and Central,2019 [YR2019],235
+4259,Albania,2019 [YR2019],22
+4260,Algeria,2019 [YR2019],30
+4261,American Samoa,2019 [YR2019],487
+4262,Andorra,2019 [YR2019],299
+4263,Angola,2019 [YR2019],34
+4264,Antigua and Barbuda,2019 [YR2019],153
+4265,Arab World,2019 [YR2019],211
+4266,Argentina,2019 [YR2019],21
+4267,Armenia,2019 [YR2019],9
+4268,Aruba,2019 [YR2019],335
+4269,Australia,2019 [YR2019],40
+4270,Austria,2019 [YR2019],27
+4271,Azerbaijan,2019 [YR2019],33
+4272,"Bahamas, The",2019 [YR2019],69
+4273,Bahrain,2019 [YR2019],57
+4274,Bangladesh,2019 [YR2019],36
+4275,Barbados,2019 [YR2019],134
+4276,Belarus,2019 [YR2019],11
+4277,Belgium,2019 [YR2019],28
+4278,Belize,2019 [YR2019],12
+4279,Benin,2019 [YR2019],22
+4280,Bermuda,2019 [YR2019],308
+4281,Bhutan,2019 [YR2019],37
+4282,Bolivia,2019 [YR2019],18
+4283,Bosnia and Herzegovina,2019 [YR2019],29
+4284,Botswana,2019 [YR2019],33
+4285,Brazil,2019 [YR2019],12
+4286,British Virgin Islands,2019 [YR2019],518
+4287,Brunei Darussalam,2019 [YR2019],49
+4288,Bulgaria,2019 [YR2019],34
+4289,Burkina Faso,2019 [YR2019],12
+4290,Burundi,2019 [YR2019],87
+4291,Cabo Verde,2019 [YR2019],23
+4292,Cambodia,2019 [YR2019],12
+4293,Cameroon,2019 [YR2019],25
+4294,Canada,2019 [YR2019],47
+4295,Caribbean small states,2019 [YR2019],256
+4296,Cayman Islands,2019 [YR2019],381
+4297,Central African Republic,2019 [YR2019],105
+4298,Central Europe and the Baltics,2019 [YR2019],203
+4299,Chad,2019 [YR2019],100
+4300,Channel Islands,2019 [YR2019],527
+4301,Chile,2019 [YR2019],23
+4302,China,2019 [YR2019],40
+4303,Colombia,2019 [YR2019],14
+4304,Comoros,2019 [YR2019],70
+4305,"Congo, Dem. Rep.",2019 [YR2019],50
+4306,"Congo, Rep.",2019 [YR2019],44
+4307,Costa Rica,2019 [YR2019],12
+4308,Cote d'Ivoire,2019 [YR2019],14
+4309,Croatia,2019 [YR2019],26
+4310,Cuba,2019 [YR2019],147
+4311,Curacao,2019 [YR2019],444
+4312,Cyprus,2019 [YR2019],30
+4313,Czechia,2019 [YR2019],25
+4314,Denmark,2019 [YR2019],34
+4315,Djibouti,2019 [YR2019],48
+4316,Dominica,2019 [YR2019],181
+4317,Dominican Republic,2019 [YR2019],12
+4318,Early-demographic dividend,2019 [YR2019],186
+4319,East Asia & Pacific,2019 [YR2019],198
+4320,East Asia & Pacific (IDA & IBRD countries),2019 [YR2019],202
+4321,East Asia & Pacific (excluding high income),2019 [YR2019],198
+4322,Ecuador,2019 [YR2019],8
+4323,"Egypt, Arab Rep.",2019 [YR2019],15
+4324,El Salvador,2019 [YR2019],20
+4325,Equatorial Guinea,2019 [YR2019],125
+4326,Eritrea,2019 [YR2019],273
+4327,Estonia,2019 [YR2019],30
+4328,Eswatini,2019 [YR2019],26
+4329,Ethiopia,2019 [YR2019],35
+4330,Euro area,2019 [YR2019],194
+4331,Europe & Central Asia,2019 [YR2019],186
+4332,Europe & Central Asia (IDA & IBRD countries),2019 [YR2019],187
+4333,Europe & Central Asia (excluding high income),2019 [YR2019],191
+4334,European Union,2019 [YR2019],206
+4335,Faroe Islands,2019 [YR2019],491
+4336,Fiji,2019 [YR2019],36
+4337,Finland,2019 [YR2019],29
+4338,Fragile and conflict affected situations,2019 [YR2019],256
+4339,France,2019 [YR2019],35
+4340,French Polynesia,2019 [YR2019],415
+4341,Gabon,2019 [YR2019],81
+4342,"Gambia, The",2019 [YR2019],20
+4343,Georgia,2019 [YR2019],10
+4344,Germany,2019 [YR2019],30
+4345,Ghana,2019 [YR2019],15
+4346,Gibraltar,2019 [YR2019],552
+4347,Greece,2019 [YR2019],26
+4348,Greenland,2019 [YR2019],432
+4349,Grenada,2019 [YR2019],192
+4350,Guam,2019 [YR2019],434
+4351,Guatemala,2019 [YR2019],9
+4352,Guinea,2019 [YR2019],31
+4353,Guinea-Bissau,2019 [YR2019],64
+4354,Guyana,2019 [YR2019],97
+4355,Haiti,2019 [YR2019],56
+4356,Heavily indebted poor countries (HIPC),2019 [YR2019],186
+4357,High income,2019 [YR2019],189
+4358,Honduras,2019 [YR2019],19
+4359,"Hong Kong SAR, China",2019 [YR2019],179
+4360,Hungary,2019 [YR2019],25
+4361,IBRD only,2019 [YR2019],441
+4362,IDA & IBRD total,2019 [YR2019],198
+4363,IDA blend,2019 [YR2019],469
+4364,IDA only,2019 [YR2019],428
+4365,IDA total,2019 [YR2019],442
+4366,Iceland,2019 [YR2019],45
+4367,India,2019 [YR2019],17
+4368,Indonesia,2019 [YR2019],15
+4369,"Iran, Islamic Rep.",2019 [YR2019],97
+4370,Iraq,2019 [YR2019],52
+4371,Ireland,2019 [YR2019],57
+4372,Isle of Man,2019 [YR2019],549
+4373,Israel,2019 [YR2019],32
+4374,Italy,2019 [YR2019],33
+4375,Jamaica,2019 [YR2019],23
+4376,Japan,2019 [YR2019],42
+4377,Jordan,2019 [YR2019],42
+4378,Kazakhstan,2019 [YR2019],11
+4379,Kenya,2019 [YR2019],24
+4380,Kiribati,2019 [YR2019],151
+4381,"Korea, Dem. People's Rep.",2019 [YR2019],336
+4382,"Korea, Rep.",2019 [YR2019],33
+4383,Kosovo,2019 [YR2019],281
+4384,Kuwait,2019 [YR2019],48
+4385,Kyrgyz Republic,2019 [YR2019],67
+4386,Lao PDR,2019 [YR2019],88
+4387,Late-demographic dividend,2019 [YR2019],202
+4388,Latin America & Caribbean,2019 [YR2019],180
+4389,Latin America & Caribbean (excluding high income),2019 [YR2019],181
+4390,Latin America & the Caribbean (IDA & IBRD countries),2019 [YR2019],185
+4391,Latvia,2019 [YR2019],30
+4392,Least developed countries: UN classification,2019 [YR2019],186
+4393,Lebanon,2019 [YR2019],44
+4394,Lesotho,2019 [YR2019],35
+4395,Liberia,2019 [YR2019],140
+4396,Libya,2019 [YR2019],111
+4397,Liechtenstein,2019 [YR2019],466
+4398,Lithuania,2019 [YR2019],28
+4399,Low & middle income,2019 [YR2019],197
+4400,Low income,2019 [YR2019],198
+4401,Lower middle income,2019 [YR2019],181
+4402,Luxembourg,2019 [YR2019],31
+4403,"Macao SAR, China",2019 [YR2019],228
+4404,Madagascar,2019 [YR2019],9
+4405,Malawi,2019 [YR2019],89
+4406,Malaysia,2019 [YR2019],11
+4407,Maldives,2019 [YR2019],82
+4408,Mali,2019 [YR2019],43
+4409,Malta,2019 [YR2019],57
+4410,Marshall Islands,2019 [YR2019],165
+4411,Mauritania,2019 [YR2019],22
+4412,Mauritius,2019 [YR2019],14
+4413,Mexico,2019 [YR2019],14
+4414,"Micronesia, Fed. Sts.",2019 [YR2019],240
+4415,Middle East & North Africa,2019 [YR2019],204
+4416,Middle East & North Africa (IDA & IBRD countries),2019 [YR2019],202
+4417,Middle East & North Africa (excluding high income),2019 [YR2019],193
+4418,Middle income,2019 [YR2019],197
+4419,Moldova,2019 [YR2019],9
+4420,Monaco,2019 [YR2019],443
+4421,Mongolia,2019 [YR2019],11
+4422,Montenegro,2019 [YR2019],31
+4423,Morocco,2019 [YR2019],8
+4424,Mozambique,2019 [YR2019],73
+4425,Myanmar,2019 [YR2019],99
+4426,Namibia,2019 [YR2019],21
+4427,Nauru,2019 [YR2019],325
+4428,Nepal,2019 [YR2019],15
+4429,Netherlands,2019 [YR2019],32
+4430,New Caledonia,2019 [YR2019],449
+4431,New Zealand,2019 [YR2019],40
+4432,Nicaragua,2019 [YR2019],34
+4433,Niger,2019 [YR2019],23
+4434,Nigeria,2019 [YR2019],89
+4435,North America,2019 [YR2019],199
+4436,North Macedonia,2019 [YR2019],17
+4437,Northern Mariana Islands,2019 [YR2019],554
+4438,Norway,2019 [YR2019],30
+4439,Not classified,2019 [YR2019],804
+4440,OECD members,2019 [YR2019],193
+4441,Oman,2019 [YR2019],29
+4442,Other small states,2019 [YR2019],211
+4443,Pacific island small states,2019 [YR2019],246
+4444,Pakistan,2019 [YR2019],11
+4445,Palau,2019 [YR2019],261
+4446,Panama,2019 [YR2019],82
+4447,Papua New Guinea,2019 [YR2019],113
+4448,Paraguay,2019 [YR2019],25
+4449,Peru,2019 [YR2019],11
+4450,Philippines,2019 [YR2019],15
+4451,Poland,2019 [YR2019],27
+4452,Portugal,2019 [YR2019],27
+4453,Post-demographic dividend,2019 [YR2019],188
+4454,Pre-demographic dividend,2019 [YR2019],227
+4455,Puerto Rico,2019 [YR2019],334
+4456,Qatar,2019 [YR2019],52
+4457,Romania,2019 [YR2019],25
+4458,Russian Federation,2019 [YR2019],28
+4459,Rwanda,2019 [YR2019],9
+4460,Samoa,2019 [YR2019],40
+4461,San Marino,2019 [YR2019],266
+4462,Sao Tome and Principe,2019 [YR2019],115
+4463,Saudi Arabia,2019 [YR2019],71
+4464,Senegal,2019 [YR2019],22
+4465,Serbia,2019 [YR2019],18
+4466,Seychelles,2019 [YR2019],104
+4467,Sierra Leone,2019 [YR2019],37
+4468,Singapore,2019 [YR2019],50
+4469,Sint Maarten (Dutch part),2019 [YR2019],464
+4470,Slovak Republic,2019 [YR2019],33
+4471,Slovenia,2019 [YR2019],41
+4472,Small states,2019 [YR2019],208
+4473,Solomon Islands,2019 [YR2019],51
+4474,Somalia,2019 [YR2019],226
+4475,South Africa,2019 [YR2019],11
+4476,South Asia,2019 [YR2019],181
+4477,South Asia (IDA & IBRD),2019 [YR2019],188
+4478,South Sudan,2019 [YR2019],240
+4479,Spain,2019 [YR2019],35
+4480,Sri Lanka,2019 [YR2019],20
+4481,St. Kitts and Nevis,2019 [YR2019],225
+4482,St. Lucia,2019 [YR2019],90
+4483,St. Martin (French part),2019 [YR2019],606
+4484,St. Vincent and the Grenadines,2019 [YR2019],111
+4485,Sub-Saharan Africa,2019 [YR2019],190
+4486,Sub-Saharan Africa (IDA & IBRD countries),2019 [YR2019],195
+4487,Sub-Saharan Africa (excluding high income),2019 [YR2019],191
+4488,Sudan,2019 [YR2019],67
+4489,Suriname,2019 [YR2019],89
+4490,Sweden,2019 [YR2019],31
+4491,Switzerland,2019 [YR2019],41
+4492,Syrian Arab Republic,2019 [YR2019],197
+4493,Tajikistan,2019 [YR2019],44
+4494,Tanzania,2019 [YR2019],15
+4495,Thailand,2019 [YR2019],27
+4496,Timor-Leste,2019 [YR2019],31
+4497,Togo,2019 [YR2019],18
+4498,Tonga,2019 [YR2019],59
+4499,Trinidad and Tobago,2019 [YR2019],112
+4500,Tunisia,2019 [YR2019],33
+4501,Turkiye,2019 [YR2019],24
+4502,Turkmenistan,2019 [YR2019],206
+4503,Turks and Caicos Islands,2019 [YR2019],422
+4504,Tuvalu,2019 [YR2019],292
+4505,Uganda,2019 [YR2019],38
+4506,Ukraine,2019 [YR2019],13
+4507,United Arab Emirates,2019 [YR2019],97
+4508,United Kingdom,2019 [YR2019],37
+4509,United States,2019 [YR2019],31
+4510,Upper middle income,2019 [YR2019],197
+4511,Uruguay,2019 [YR2019],47
+4512,Uzbekistan,2019 [YR2019],20
+4513,Vanuatu,2019 [YR2019],84
+4514,"Venezuela, RB",2019 [YR2019],288
+4515,Viet Nam,2019 [YR2019],46
+4516,Virgin Islands (U.S.),2019 [YR2019],457
+4517,West Bank and Gaza,2019 [YR2019],87
+4518,World,2019 [YR2019],182
+4519,"Yemen, Rep.",2019 [YR2019],285
+4520,Zambia,2019 [YR2019],53
+4521,Zimbabwe,2019 [YR2019],27
+4522,Afghanistan,2020 [YR2020],132
+4523,Africa Eastern and Southern,2020 [YR2020],257
+4524,Africa Western and Central,2020 [YR2020],307
+4525,Albania,2020 [YR2020],74
+4526,Algeria,2020 [YR2020],82
+4527,American Samoa,2020 [YR2020],487
+4528,Andorra,2020 [YR2020],321
+4529,Angola,2020 [YR2020],88
+4530,Antigua and Barbuda,2020 [YR2020],212
+4531,Arab World,2020 [YR2020],266
+4532,Argentina,2020 [YR2020],73
+4533,Armenia,2020 [YR2020],60
+4534,Aruba,2020 [YR2020],356
+4535,Australia,2020 [YR2020],89
+4536,Austria,2020 [YR2020],84
+4537,Azerbaijan,2020 [YR2020],88
+4538,"Bahamas, The",2020 [YR2020],131
+4539,Bahrain,2020 [YR2020],128
+4540,Bangladesh,2020 [YR2020],79
+4541,Barbados,2020 [YR2020],184
+4542,Belarus,2020 [YR2020],62
+4543,Belgium,2020 [YR2020],83
+4544,Belize,2020 [YR2020],65
+4545,Benin,2020 [YR2020],76
+4546,Bermuda,2020 [YR2020],310
+4547,Bhutan,2020 [YR2020],86
+4548,Bolivia,2020 [YR2020],70
+4549,Bosnia and Herzegovina,2020 [YR2020],80
+4550,Botswana,2020 [YR2020],91
+4551,Brazil,2020 [YR2020],64
+4552,British Virgin Islands,2020 [YR2020],522
+4553,Brunei Darussalam,2020 [YR2020],97
+4554,Bulgaria,2020 [YR2020],83
+4555,Burkina Faso,2020 [YR2020],74
+4556,Burundi,2020 [YR2020],138
+4557,Cabo Verde,2020 [YR2020],95
+4558,Cambodia,2020 [YR2020],63
+4559,Cameroon,2020 [YR2020],83
+4560,Canada,2020 [YR2020],113
+4561,Caribbean small states,2020 [YR2020],309
+4562,Cayman Islands,2020 [YR2020],376
+4563,Central African Republic,2020 [YR2020],159
+4564,Central Europe and the Baltics,2020 [YR2020],260
+4565,Chad,2020 [YR2020],164
+4566,Channel Islands,2020 [YR2020],526
+4567,Chile,2020 [YR2020],75
+4568,China,2020 [YR2020],91
+4569,Colombia,2020 [YR2020],62
+4570,Comoros,2020 [YR2020],127
+4571,"Congo, Dem. Rep.",2020 [YR2020],81
+4572,"Congo, Rep.",2020 [YR2020],96
+4573,Costa Rica,2020 [YR2020],65
+4574,Cote d'Ivoire,2020 [YR2020],65
+4575,Croatia,2020 [YR2020],77
+4576,Cuba,2020 [YR2020],196
+4577,Curacao,2020 [YR2020],436
+4578,Cyprus,2020 [YR2020],82
+4579,Czechia,2020 [YR2020],81
+4580,Denmark,2020 [YR2020],89
+4581,Djibouti,2020 [YR2020],97
+4582,Dominica,2020 [YR2020],218
+4583,Dominican Republic,2020 [YR2020],62
+4584,Early-demographic dividend,2020 [YR2020],243
+4585,East Asia & Pacific,2020 [YR2020],251
+4586,East Asia & Pacific (IDA & IBRD countries),2020 [YR2020],255
+4587,East Asia & Pacific (excluding high income),2020 [YR2020],251
+4588,Ecuador,2020 [YR2020],60
+4589,"Egypt, Arab Rep.",2020 [YR2020],70
+4590,El Salvador,2020 [YR2020],78
+4591,Equatorial Guinea,2020 [YR2020],202
+4592,Eritrea,2020 [YR2020],342
+4593,Estonia,2020 [YR2020],91
+4594,Eswatini,2020 [YR2020],93
+4595,Ethiopia,2020 [YR2020],83
+4596,Euro area,2020 [YR2020],253
+4597,Europe & Central Asia,2020 [YR2020],247
+4598,Europe & Central Asia (IDA & IBRD countries),2020 [YR2020],244
+4599,Europe & Central Asia (excluding high income),2020 [YR2020],251
+4600,European Union,2020 [YR2020],265
+4601,Faroe Islands,2020 [YR2020],492
+4602,Fiji,2020 [YR2020],90
+4603,Finland,2020 [YR2020],84
+4604,Fragile and conflict affected situations,2020 [YR2020],316
+4605,France,2020 [YR2020],90
+4606,French Polynesia,2020 [YR2020],432
+4607,Gabon,2020 [YR2020],167
+4608,"Gambia, The",2020 [YR2020],73
+4609,Georgia,2020 [YR2020],61
+4610,Germany,2020 [YR2020],89
+4611,Ghana,2020 [YR2020],80
+4612,Gibraltar,2020 [YR2020],552
+4613,Greece,2020 [YR2020],81
+4614,Greenland,2020 [YR2020],432
+4615,Grenada,2020 [YR2020],230
+4616,Guam,2020 [YR2020],435
+4617,Guatemala,2020 [YR2020],60
+4618,Guinea,2020 [YR2020],83
+4619,Guinea-Bissau,2020 [YR2020],122
+4620,Guyana,2020 [YR2020],148
+4621,Haiti,2020 [YR2020],113
+4622,Heavily indebted poor countries (HIPC),2020 [YR2020],244
+4623,High income,2020 [YR2020],246
+4624,Honduras,2020 [YR2020],77
+4625,"Hong Kong SAR, China",2020 [YR2020],208
+4626,Hungary,2020 [YR2020],81
+4627,IBRD only,2020 [YR2020],486
+4628,IDA & IBRD total,2020 [YR2020],253
+4629,IDA blend,2020 [YR2020],517
+4630,IDA only,2020 [YR2020],488
+4631,IDA total,2020 [YR2020],490
+4632,Iceland,2020 [YR2020],100
+4633,India,2020 [YR2020],66
+4634,Indonesia,2020 [YR2020],67
+4635,"Iran, Islamic Rep.",2020 [YR2020],142
+4636,Iraq,2020 [YR2020],103
+4637,Ireland,2020 [YR2020],90
+4638,Isle of Man,2020 [YR2020],554
+4639,Israel,2020 [YR2020],85
+4640,Italy,2020 [YR2020],90
+4641,Jamaica,2020 [YR2020],134
+4642,Japan,2020 [YR2020],99
+4643,Jordan,2020 [YR2020],131
+4644,Kazakhstan,2020 [YR2020],63
+4645,Kenya,2020 [YR2020],81
+4646,Kiribati,2020 [YR2020],177
+4647,"Korea, Dem. People's Rep.",2020 [YR2020],361
+4648,"Korea, Rep.",2020 [YR2020],80
+4649,Kosovo,2020 [YR2020],306
+4650,Kuwait,2020 [YR2020],168
+4651,Kyrgyz Republic,2020 [YR2020],119
+4652,Lao PDR,2020 [YR2020],137
+4653,Late-demographic dividend,2020 [YR2020],255
+4654,Latin America & Caribbean,2020 [YR2020],237
+4655,Latin America & Caribbean (excluding high income),2020 [YR2020],238
+4656,Latin America & the Caribbean (IDA & IBRD countries),2020 [YR2020],242
+4657,Latvia,2020 [YR2020],87
+4658,Least developed countries: UN classification,2020 [YR2020],257
+4659,Lebanon,2020 [YR2020],98
+4660,Lesotho,2020 [YR2020],96
+4661,Liberia,2020 [YR2020],175
+4662,Libya,2020 [YR2020],187
+4663,Liechtenstein,2020 [YR2020],496
+4664,Lithuania,2020 [YR2020],83
+4665,Low & middle income,2020 [YR2020],251
+4666,Low income,2020 [YR2020],259
+4667,Lower middle income,2020 [YR2020],238
+4668,Luxembourg,2020 [YR2020],86
+4669,"Macao SAR, China",2020 [YR2020],231
+4670,Madagascar,2020 [YR2020],70
+4671,Malawi,2020 [YR2020],153
+4672,Malaysia,2020 [YR2020],62
+4673,Maldives,2020 [YR2020],160
+4674,Mali,2020 [YR2020],94
+4675,Malta,2020 [YR2020],105
+4676,Marshall Islands,2020 [YR2020],204
+4677,Mauritania,2020 [YR2020],86
+4678,Mauritius,2020 [YR2020],67
+4679,Mexico,2020 [YR2020],59
+4680,"Micronesia, Fed. Sts.",2020 [YR2020],286
+4681,Middle East & North Africa,2020 [YR2020],261
+4682,Middle East & North Africa (IDA & IBRD countries),2020 [YR2020],260
+4683,Middle East & North Africa (excluding high income),2020 [YR2020],256
+4684,Middle income,2020 [YR2020],251
+4685,Moldova,2020 [YR2020],60
+4686,Monaco,2020 [YR2020],456
+4687,Mongolia,2020 [YR2020],64
+4688,Montenegro,2020 [YR2020],85
+4689,Morocco,2020 [YR2020],59
+4690,Mozambique,2020 [YR2020],128
+4691,Myanmar,2020 [YR2020],218
+4692,Namibia,2020 [YR2020],72
+4693,Nauru,2020 [YR2020],347
+4694,Nepal,2020 [YR2020],66
+4695,Netherlands,2020 [YR2020],86
+4696,New Caledonia,2020 [YR2020],462
+4697,New Zealand,2020 [YR2020],91
+4698,Nicaragua,2020 [YR2020],85
+4699,Niger,2020 [YR2020],95
+4700,Nigeria,2020 [YR2020],137
+4701,North America,2020 [YR2020],257
+4702,North Macedonia,2020 [YR2020],68
+4703,Northern Mariana Islands,2020 [YR2020],563
+4704,Norway,2020 [YR2020],85
+4705,Not classified,2020 [YR2020],804
+4706,OECD members,2020 [YR2020],250
+4707,Oman,2020 [YR2020],80
+4708,Other small states,2020 [YR2020],267
+4709,Pacific island small states,2020 [YR2020],299
+4710,Pakistan,2020 [YR2020],86
+4711,Palau,2020 [YR2020],281
+4712,Panama,2020 [YR2020],129
+4713,Papua New Guinea,2020 [YR2020],161
+4714,Paraguay,2020 [YR2020],67
+4715,Peru,2020 [YR2020],66
+4716,Philippines,2020 [YR2020],66
+4717,Poland,2020 [YR2020],81
+4718,Portugal,2020 [YR2020],82
+4719,Post-demographic dividend,2020 [YR2020],249
+4720,Pre-demographic dividend,2020 [YR2020],294
+4721,Puerto Rico,2020 [YR2020],366
+4722,Qatar,2020 [YR2020],102
+4723,Romania,2020 [YR2020],73
+4724,Russian Federation,2020 [YR2020],99
+4725,Rwanda,2020 [YR2020],84
+4726,Samoa,2020 [YR2020],106
+4727,San Marino,2020 [YR2020],296
+4728,Sao Tome and Principe,2020 [YR2020],163
+4729,Saudi Arabia,2020 [YR2020],121
+4730,Senegal,2020 [YR2020],74
+4731,Serbia,2020 [YR2020],69
+4732,Seychelles,2020 [YR2020],152
+4733,Sierra Leone,2020 [YR2020],93
+4734,Singapore,2020 [YR2020],100
+4735,Sint Maarten (Dutch part),2020 [YR2020],473
+4736,Slovak Republic,2020 [YR2020],89
+4737,Slovenia,2020 [YR2020],96
+4738,Small states,2020 [YR2020],275
+4739,Solomon Islands,2020 [YR2020],116
+4740,Somalia,2020 [YR2020],272
+4741,South Africa,2020 [YR2020],62
+4742,South Asia,2020 [YR2020],238
+4743,South Asia (IDA & IBRD),2020 [YR2020],243
+4744,South Sudan,2020 [YR2020],282
+4745,Spain,2020 [YR2020],90
+4746,Sri Lanka,2020 [YR2020],76
+4747,St. Kitts and Nevis,2020 [YR2020],268
+4748,St. Lucia,2020 [YR2020],142
+4749,St. Martin (French part),2020 [YR2020],613
+4750,St. Vincent and the Grenadines,2020 [YR2020],161
+4751,Sub-Saharan Africa,2020 [YR2020],247
+4752,Sub-Saharan Africa (IDA & IBRD countries),2020 [YR2020],252
+4753,Sub-Saharan Africa (excluding high income),2020 [YR2020],248
+4754,Sudan,2020 [YR2020],118
+4755,Suriname,2020 [YR2020],135
+4756,Sweden,2020 [YR2020],86
+4757,Switzerland,2020 [YR2020],97
+4758,Syrian Arab Republic,2020 [YR2020],231
+4759,Tajikistan,2020 [YR2020],95
+4760,Tanzania,2020 [YR2020],74
+4761,Thailand,2020 [YR2020],76
+4762,Timor-Leste,2020 [YR2020],85
+4763,Togo,2020 [YR2020],75
+4764,Tonga,2020 [YR2020],105
+4765,Trinidad and Tobago,2020 [YR2020],161
+4766,Tunisia,2020 [YR2020],75
+4767,Turkiye,2020 [YR2020],71
+4768,Turkmenistan,2020 [YR2020],253
+4769,Turks and Caicos Islands,2020 [YR2020],422
+4770,Tuvalu,2020 [YR2020],311
+4771,Uganda,2020 [YR2020],89
+4772,Ukraine,2020 [YR2020],67
+4773,United Arab Emirates,2020 [YR2020],146
+4774,United Kingdom,2020 [YR2020],92
+4775,United States,2020 [YR2020],82
+4776,Upper middle income,2020 [YR2020],250
+4777,Uruguay,2020 [YR2020],97
+4778,Uzbekistan,2020 [YR2020],72
+4779,Vanuatu,2020 [YR2020],143
+4780,"Venezuela, RB",2020 [YR2020],336
+4781,Viet Nam,2020 [YR2020],98
+4782,Virgin Islands (U.S.),2020 [YR2020],458
+4783,West Bank and Gaza,2020 [YR2020],121
+4784,World,2020 [YR2020],239
+4785,"Yemen, Rep.",2020 [YR2020],344
+4786,Zambia,2020 [YR2020],104
+4787,Zimbabwe,2020 [YR2020],71
+4788,Afghanistan,2021 [YR2021],305
+4789,Africa Eastern and Southern,2021 [YR2021],338
+4790,Africa Western and Central,2021 [YR2021],382
+4791,Albania,2021 [YR2021],140
+4792,Algeria,2021 [YR2021],159
+4793,American Samoa,2021 [YR2021],514
+4794,Andorra,2021 [YR2021],357
+4795,Angola,2021 [YR2021],164
+4796,Antigua and Barbuda,2021 [YR2021],287
+4797,Arab World,2021 [YR2021],363
+4798,Argentina,2021 [YR2021],154
+4799,Armenia,2021 [YR2021],137
+4800,Aruba,2021 [YR2021],384
+4801,Australia,2021 [YR2021],173
+4802,Austria,2021 [YR2021],162
+4803,Azerbaijan,2021 [YR2021],165
+4804,"Bahamas, The",2021 [YR2021],208
+4805,Bahrain,2021 [YR2021],218
+4806,Bangladesh,2021 [YR2021],149
+4807,Barbados,2021 [YR2021],252
+4808,Belarus,2021 [YR2021],142
+4809,Belgium,2021 [YR2021],169
+4810,Belize,2021 [YR2021],138
+4811,Benin,2021 [YR2021],153
+4812,Bermuda,2021 [YR2021],339
+4813,Bhutan,2021 [YR2021],156
+4814,Bolivia,2021 [YR2021],160
+4815,Bosnia and Herzegovina,2021 [YR2021],156
+4816,Botswana,2021 [YR2021],149
+4817,Brazil,2021 [YR2021],148
+4818,British Virgin Islands,2021 [YR2021],517
+4819,Brunei Darussalam,2021 [YR2021],194
+4820,Bulgaria,2021 [YR2021],165
+4821,Burkina Faso,2021 [YR2021],144
+4822,Burundi,2021 [YR2021],213
+4823,Cabo Verde,2021 [YR2021],171
+4824,Cambodia,2021 [YR2021],139
+4825,Cameroon,2021 [YR2021],160
+4826,Canada,2021 [YR2021],174
+4827,Caribbean small states,2021 [YR2021],386
+4828,Cayman Islands,2021 [YR2021],405
+4829,Central African Republic,2021 [YR2021],228
+4830,Central Europe and the Baltics,2021 [YR2021],335
+4831,Chad,2021 [YR2021],220
+4832,Channel Islands,2021 [YR2021],526
+4833,Chile,2021 [YR2021],139
+4834,China,2021 [YR2021],165
+4835,Colombia,2021 [YR2021],144
+4836,Comoros,2021 [YR2021],194
+4837,"Congo, Dem. Rep.",2021 [YR2021],158
+4838,"Congo, Rep.",2021 [YR2021],226
+4839,Costa Rica,2021 [YR2021],142
+4840,Cote d'Ivoire,2021 [YR2021],163
+4841,Croatia,2021 [YR2021],160
+4842,Cuba,2021 [YR2021],278
+4843,Curacao,2021 [YR2021],481
+4844,Cyprus,2021 [YR2021],162
+4845,Czechia,2021 [YR2021],162
+4846,Denmark,2021 [YR2021],149
+4847,Djibouti,2021 [YR2021],170
+4848,Dominica,2021 [YR2021],283
+4849,Dominican Republic,2021 [YR2021],137
+4850,Early-demographic dividend,2021 [YR2021],318
+4851,East Asia & Pacific,2021 [YR2021],326
+4852,East Asia & Pacific (IDA & IBRD countries),2021 [YR2021],331
+4853,East Asia & Pacific (excluding high income),2021 [YR2021],326
+4854,Ecuador,2021 [YR2021],141
+4855,"Egypt, Arab Rep.",2021 [YR2021],148
+4856,El Salvador,2021 [YR2021],158
+4857,Equatorial Guinea,2021 [YR2021],271
+4858,Eritrea,2021 [YR2021],410
+4859,Estonia,2021 [YR2021],166
+4860,Eswatini,2021 [YR2021],166
+4861,Ethiopia,2021 [YR2021],162
+4862,Euro area,2021 [YR2021],327
+4863,Europe & Central Asia,2021 [YR2021],319
+4864,Europe & Central Asia (IDA & IBRD countries),2021 [YR2021],321
+4865,Europe & Central Asia (excluding high income),2021 [YR2021],324
+4866,European Union,2021 [YR2021],340
+4867,Faroe Islands,2021 [YR2021],515
+4868,Fiji,2021 [YR2021],170
+4869,Finland,2021 [YR2021],165
+4870,Fragile and conflict affected situations,2021 [YR2021],391
+4871,France,2021 [YR2021],172
+4872,French Polynesia,2021 [YR2021],458
+4873,Gabon,2021 [YR2021],237
+4874,"Gambia, The",2021 [YR2021],142
+4875,Georgia,2021 [YR2021],140
+4876,Germany,2021 [YR2021],163
+4877,Ghana,2021 [YR2021],162
+4878,Gibraltar,2021 [YR2021],575
+4879,Greece,2021 [YR2021],163
+4880,Greenland,2021 [YR2021],464
+4881,Grenada,2021 [YR2021],301
+4882,Guam,2021 [YR2021],456
+4883,Guatemala,2021 [YR2021],142
+4884,Guinea,2021 [YR2021],161
+4885,Guinea-Bissau,2021 [YR2021],280
+4886,Guyana,2021 [YR2021],226
+4887,Haiti,2021 [YR2021],183
+4888,Heavily indebted poor countries (HIPC),2021 [YR2021],324
+4889,High income,2021 [YR2021],321
+4890,Honduras,2021 [YR2021],132
+4891,"Hong Kong SAR, China",2021 [YR2021],240
+4892,Hungary,2021 [YR2021],165
+4893,IBRD only,2021 [YR2021],561
+4894,IDA & IBRD total,2021 [YR2021],328
+4895,IDA blend,2021 [YR2021],594
+4896,IDA only,2021 [YR2021],566
+4897,IDA total,2021 [YR2021],566
+4898,Iceland,2021 [YR2021],162
+4899,India,2021 [YR2021],143
+4900,Indonesia,2021 [YR2021],144
+4901,"Iran, Islamic Rep.",2021 [YR2021],239
+4902,Iraq,2021 [YR2021],180
+4903,Ireland,2021 [YR2021],152
+4904,Isle of Man,2021 [YR2021],612
+4905,Israel,2021 [YR2021],166
+4906,Italy,2021 [YR2021],165
+4907,Jamaica,2021 [YR2021],215
+4908,Japan,2021 [YR2021],191
+4909,Jordan,2021 [YR2021],205
+4910,Kazakhstan,2021 [YR2021],154
+4911,Kenya,2021 [YR2021],154
+4912,Kiribati,2021 [YR2021],252
+4913,"Korea, Dem. People's Rep.",2021 [YR2021],408
+4914,"Korea, Rep.",2021 [YR2021],151
+4915,Kosovo,2021 [YR2021],329
+4916,Kuwait,2021 [YR2021],291
+4917,Kyrgyz Republic,2021 [YR2021],195
+4918,Lao PDR,2021 [YR2021],213
+4919,Late-demographic dividend,2021 [YR2021],331
+4920,Latin America & Caribbean,2021 [YR2021],312
+4921,Latin America & Caribbean (excluding high income),2021 [YR2021],313
+4922,Latin America & the Caribbean (IDA & IBRD countries),2021 [YR2021],318
+4923,Latvia,2021 [YR2021],164
+4924,Least developed countries: UN classification,2021 [YR2021],333
+4925,Lebanon,2021 [YR2021],178
+4926,Lesotho,2021 [YR2021],175
+4927,Liberia,2021 [YR2021],259
+4928,Libya,2021 [YR2021],254
+4929,Liechtenstein,2021 [YR2021],516
+4930,Lithuania,2021 [YR2021],160
+4931,Low & middle income,2021 [YR2021],325
+4932,Low income,2021 [YR2021],347
+4933,Lower middle income,2021 [YR2021],313
+4934,Luxembourg,2021 [YR2021],152
+4935,"Macao SAR, China",2021 [YR2021],260
+4936,Madagascar,2021 [YR2021],141
+4937,Malawi,2021 [YR2021],221
+4938,Malaysia,2021 [YR2021],141
+4939,Maldives,2021 [YR2021],229
+4940,Mali,2021 [YR2021],175
+4941,Malta,2021 [YR2021],184
+4942,Marshall Islands,2021 [YR2021],259
+4943,Mauritania,2021 [YR2021],173
+4944,Mauritius,2021 [YR2021],146
+4945,Mexico,2021 [YR2021],144
+4946,"Micronesia, Fed. Sts.",2021 [YR2021],348
+4947,Middle East & North Africa,2021 [YR2021],355
+4948,Middle East & North Africa (IDA & IBRD countries),2021 [YR2021],341
+4949,Middle East & North Africa (excluding high income),2021 [YR2021],336
+4950,Middle income,2021 [YR2021],325
+4951,Moldova,2021 [YR2021],137
+4952,Monaco,2021 [YR2021],476
+4953,Mongolia,2021 [YR2021],140
+4954,Montenegro,2021 [YR2021],153
+4955,Morocco,2021 [YR2021],136
+4956,Mozambique,2021 [YR2021],214
+4957,Myanmar,2021 [YR2021],354
+4958,Namibia,2021 [YR2021],153
+4959,Nauru,2021 [YR2021],416
+4960,Nepal,2021 [YR2021],140
+4961,Netherlands,2021 [YR2021],164
+4962,New Caledonia,2021 [YR2021],486
+4963,New Zealand,2021 [YR2021],180
+4964,Nicaragua,2021 [YR2021],169
+4965,Niger,2021 [YR2021],162
+4966,Nigeria,2021 [YR2021],211
+4967,North America,2021 [YR2021],334
+4968,North Macedonia,2021 [YR2021],150
+4969,Northern Mariana Islands,2021 [YR2021],602
+4970,Norway,2021 [YR2021],151
+4971,Not classified,2021 [YR2021],804
+4972,OECD members,2021 [YR2021],325
+4973,Oman,2021 [YR2021],159
+4974,Other small states,2021 [YR2021],343
+4975,Pacific island small states,2021 [YR2021],385
+4976,Pakistan,2021 [YR2021],144
+4977,Palau,2021 [YR2021],337
+4978,Panama,2021 [YR2021],210
+4979,Papua New Guinea,2021 [YR2021],230
+4980,Paraguay,2021 [YR2021],150
+4981,Peru,2021 [YR2021],142
+4982,Philippines,2021 [YR2021],132
+4983,Poland,2021 [YR2021],158
+4984,Portugal,2021 [YR2021],160
+4985,Post-demographic dividend,2021 [YR2021],324
+4986,Pre-demographic dividend,2021 [YR2021],368
+4987,Puerto Rico,2021 [YR2021],384
+4988,Qatar,2021 [YR2021],200
+4989,Romania,2021 [YR2021],162
+4990,Russian Federation,2021 [YR2021],183
+4991,Rwanda,2021 [YR2021],137
+4992,Samoa,2021 [YR2021],159
+4993,San Marino,2021 [YR2021],343
+4994,Sao Tome and Principe,2021 [YR2021],232
+4995,Saudi Arabia,2021 [YR2021],192
+4996,Senegal,2021 [YR2021],143
+4997,Serbia,2021 [YR2021],146
+4998,Seychelles,2021 [YR2021],227
+4999,Sierra Leone,2021 [YR2021],166
+5000,Singapore,2021 [YR2021],184
+5001,Sint Maarten (Dutch part),2021 [YR2021],494
+5002,Slovak Republic,2021 [YR2021],167
+5003,Slovenia,2021 [YR2021],173
+5004,Small states,2021 [YR2021],349
+5005,Solomon Islands,2021 [YR2021],279
+5006,Somalia,2021 [YR2021],314
+5007,South Africa,2021 [YR2021],148
+5008,South Asia,2021 [YR2021],312
+5009,South Asia (IDA & IBRD),2021 [YR2021],318
+5010,South Sudan,2021 [YR2021],350
+5011,Spain,2021 [YR2021],167
+5012,Sri Lanka,2021 [YR2021],160
+5013,St. Kitts and Nevis,2021 [YR2021],314
+5014,St. Lucia,2021 [YR2021],249
+5015,St. Martin (French part),2021 [YR2021],607
+5016,St. Vincent and the Grenadines,2021 [YR2021],238
+5017,Sub-Saharan Africa,2021 [YR2021],321
+5018,Sub-Saharan Africa (IDA & IBRD countries),2021 [YR2021],327
+5019,Sub-Saharan Africa (excluding high income),2021 [YR2021],322
+5020,Sudan,2021 [YR2021],199
+5021,Suriname,2021 [YR2021],205
+5022,Sweden,2021 [YR2021],158
+5023,Switzerland,2021 [YR2021],181
+5024,Syrian Arab Republic,2021 [YR2021],297
+5025,Tajikistan,2021 [YR2021],175
+5026,Tanzania,2021 [YR2021],196
+5027,Thailand,2021 [YR2021],153
+5028,Timor-Leste,2021 [YR2021],177
+5029,Togo,2021 [YR2021],205
+5030,Tonga,2021 [YR2021],175
+5031,Trinidad and Tobago,2021 [YR2021],238
+5032,Tunisia,2021 [YR2021],149
+5033,Turkiye,2021 [YR2021],157
+5034,Turkmenistan,2021 [YR2021],328
+5035,Turks and Caicos Islands,2021 [YR2021],419
+5036,Tuvalu,2021 [YR2021],357
+5037,Uganda,2021 [YR2021],166
+5038,Ukraine,2021 [YR2021],144
+5039,United Arab Emirates,2021 [YR2021],309
+5040,United Kingdom,2021 [YR2021],168
+5041,United States,2021 [YR2021],169
+5042,Upper middle income,2021 [YR2021],325
+5043,Uruguay,2021 [YR2021],174
+5044,Uzbekistan,2021 [YR2021],149
+5045,Vanuatu,2021 [YR2021],221
+5046,"Venezuela, RB",2021 [YR2021],400
+5047,Viet Nam,2021 [YR2021],172
+5048,Virgin Islands (U.S.),2021 [YR2021],469
+5049,West Bank and Gaza,2021 [YR2021],164
+5050,World,2021 [YR2021],314
+5051,"Yemen, Rep.",2021 [YR2021],393
+5052,Zambia,2021 [YR2021],189
+5053,Zimbabwe,2021 [YR2021],207
+5054,Afghanistan,2022 [YR2022],574
+5055,Africa Eastern and Southern,2022 [YR2022],485
+5056,Africa Western and Central,2022 [YR2022],560
+5057,Albania,2022 [YR2022],335
+5058,Algeria,2022 [YR2022],330
+5059,American Samoa,2022 [YR2022],561
+5060,Andorra,2022 [YR2022],507
+5061,Angola,2022 [YR2022],342
+5062,Antigua and Barbuda,2022 [YR2022],426
+5063,Arab World,2022 [YR2022],539
+5064,Argentina,2022 [YR2022],348
+5065,Armenia,2022 [YR2022],319
+5066,Aruba,2022 [YR2022],457
+5067,Australia,2022 [YR2022],348
+5068,Austria,2022 [YR2022],346
+5069,Azerbaijan,2022 [YR2022],346
+5070,"Bahamas, The",2022 [YR2022],362
+5071,Bahrain,2022 [YR2022],401
+5072,Bangladesh,2022 [YR2022],328
+5073,Barbados,2022 [YR2022],412
+5074,Belarus,2022 [YR2022],356
+5075,Belgium,2022 [YR2022],344
+5076,Belize,2022 [YR2022],325
+5077,Benin,2022 [YR2022],375
+5078,Bermuda,2022 [YR2022],491
+5079,Bhutan,2022 [YR2022],465
+5080,Bolivia,2022 [YR2022],346
+5081,Bosnia and Herzegovina,2022 [YR2022],330
+5082,Botswana,2022 [YR2022],343
+5083,Brazil,2022 [YR2022],337
+5084,British Virgin Islands,2022 [YR2022],621
+5085,Brunei Darussalam,2022 [YR2022],354
+5086,Bulgaria,2022 [YR2022],343
+5087,Burkina Faso,2022 [YR2022],385
+5088,Burundi,2022 [YR2022],379
+5089,Cabo Verde,2022 [YR2022],347
+5090,Cambodia,2022 [YR2022],326
+5091,Cameroon,2022 [YR2022],345
+5092,Canada,2022 [YR2022],363
+5093,Caribbean small states,2022 [YR2022],536
+5094,Cayman Islands,2022 [YR2022],560
+5095,Central African Republic,2022 [YR2022],409
+5096,Central Europe and the Baltics,2022 [YR2022],478
+5097,Chad,2022 [YR2022],410
+5098,Channel Islands,2022 [YR2022],622
+5099,Chile,2022 [YR2022],339
+5100,China,2022 [YR2022],346
+5101,Colombia,2022 [YR2022],337
+5102,Comoros,2022 [YR2022],377
+5103,"Congo, Dem. Rep.",2022 [YR2022],404
+5104,"Congo, Rep.",2022 [YR2022],430
+5105,Costa Rica,2022 [YR2022],339
+5106,Cote d'Ivoire,2022 [YR2022],382
+5107,Croatia,2022 [YR2022],357
+5108,Cuba,2022 [YR2022],437
+5109,Curacao,2022 [YR2022],541
+5110,Cyprus,2022 [YR2022],347
+5111,Czechia,2022 [YR2022],342
+5112,Denmark,2022 [YR2022],347
+5113,Djibouti,2022 [YR2022],376
+5114,Dominica,2022 [YR2022],458
+5115,Dominican Republic,2022 [YR2022],320
+5116,Early-demographic dividend,2022 [YR2022],479
+5117,East Asia & Pacific,2022 [YR2022],486
+5118,East Asia & Pacific (IDA & IBRD countries),2022 [YR2022],485
+5119,East Asia & Pacific (excluding high income),2022 [YR2022],484
+5120,Ecuador,2022 [YR2022],320
+5121,"Egypt, Arab Rep.",2022 [YR2022],327
+5122,El Salvador,2022 [YR2022],339
+5123,Equatorial Guinea,2022 [YR2022],444
+5124,Eritrea,2022 [YR2022],559
+5125,Estonia,2022 [YR2022],347
+5126,Eswatini,2022 [YR2022],353
+5127,Ethiopia,2022 [YR2022],340
+5128,Euro area,2022 [YR2022],470
+5129,Europe & Central Asia,2022 [YR2022],476
+5130,Europe & Central Asia (IDA & IBRD countries),2022 [YR2022],511
+5131,Europe & Central Asia (excluding high income),2022 [YR2022],520
+5132,European Union,2022 [YR2022],482
+5133,Faroe Islands,2022 [YR2022],570
+5134,Fiji,2022 [YR2022],358
+5135,Finland,2022 [YR2022],348
+5136,Fragile and conflict affected situations,2022 [YR2022],581
+5137,France,2022 [YR2022],346
+5138,French Polynesia,2022 [YR2022],540
+5139,Gabon,2022 [YR2022],411
+5140,"Gambia, The",2022 [YR2022],346
+5141,Georgia,2022 [YR2022],317
+5142,Germany,2022 [YR2022],345
+5143,Ghana,2022 [YR2022],349
+5144,Gibraltar,2022 [YR2022],612
+5145,Greece,2022 [YR2022],344
+5146,Greenland,2022 [YR2022],599
+5147,Grenada,2022 [YR2022],446
+5148,Guam,2022 [YR2022],575
+5149,Guatemala,2022 [YR2022],323
+5150,Guinea,2022 [YR2022],365
+5151,Guinea-Bissau,2022 [YR2022],492
+5152,Guyana,2022 [YR2022],407
+5153,Haiti,2022 [YR2022],361
+5154,Heavily indebted poor countries (HIPC),2022 [YR2022],524
+5155,High income,2022 [YR2022],528
+5156,Honduras,2022 [YR2022],340
+5157,"Hong Kong SAR, China",2022 [YR2022],342
+5158,Hungary,2022 [YR2022],344
+5159,IBRD only,2022 [YR2022],686
+5160,IDA & IBRD total,2022 [YR2022],486
+5161,IDA blend,2022 [YR2022],719
+5162,IDA only,2022 [YR2022],702
+5163,IDA total,2022 [YR2022],709
+5164,Iceland,2022 [YR2022],361
+5165,India,2022 [YR2022],332
+5166,Indonesia,2022 [YR2022],321
+5167,"Iran, Islamic Rep.",2022 [YR2022],416
+5168,Iraq,2022 [YR2022],420
+5169,Ireland,2022 [YR2022],359
+5170,Isle of Man,2022 [YR2022],641
+5171,Israel,2022 [YR2022],373
+5172,Italy,2022 [YR2022],348
+5173,Jamaica,2022 [YR2022],385
+5174,Japan,2022 [YR2022],387
+5175,Jordan,2022 [YR2022],387
+5176,Kazakhstan,2022 [YR2022],332
+5177,Kenya,2022 [YR2022],329
+5178,Kiribati,2022 [YR2022],474
+5179,"Korea, Dem. People's Rep.",2022 [YR2022],554
+5180,"Korea, Rep.",2022 [YR2022],344
+5181,Kosovo,2022 [YR2022],421
+5182,Kuwait,2022 [YR2022],435
+5183,Kyrgyz Republic,2022 [YR2022],384
+5184,Lao PDR,2022 [YR2022],412
+5185,Late-demographic dividend,2022 [YR2022],487
+5186,Latin America & Caribbean,2022 [YR2022],469
+5187,Latin America & Caribbean (excluding high income),2022 [YR2022],470
+5188,Latin America & the Caribbean (IDA & IBRD countries),2022 [YR2022],473
+5189,Latvia,2022 [YR2022],351
+5190,Least developed countries: UN classification,2022 [YR2022],505
+5191,Lebanon,2022 [YR2022],485
+5192,Lesotho,2022 [YR2022],343
+5193,Liberia,2022 [YR2022],439
+5194,Libya,2022 [YR2022],478
+5195,Liechtenstein,2022 [YR2022],590
+5196,Lithuania,2022 [YR2022],343
+5197,Low & middle income,2022 [YR2022],483
+5198,Low income,2022 [YR2022],533
+5199,Lower middle income,2022 [YR2022],476
+5200,Luxembourg,2022 [YR2022],350
+5201,"Macao SAR, China",2022 [YR2022],355
+5202,Madagascar,2022 [YR2022],330
+5203,Malawi,2022 [YR2022],440
+5204,Malaysia,2022 [YR2022],320
+5205,Maldives,2022 [YR2022],403
+5206,Mali,2022 [YR2022],397
+5207,Malta,2022 [YR2022],357
+5208,Marshall Islands,2022 [YR2022],432
+5209,Mauritania,2022 [YR2022],351
+5210,Mauritius,2022 [YR2022],340
+5211,Mexico,2022 [YR2022],338
+5212,"Micronesia, Fed. Sts.",2022 [YR2022],499
+5213,Middle East & North Africa,2022 [YR2022],526
+5214,Middle East & North Africa (IDA & IBRD countries),2022 [YR2022],503
+5215,Middle East & North Africa (excluding high income),2022 [YR2022],500
+5216,Middle income,2022 [YR2022],483
+5217,Moldova,2022 [YR2022],319
+5218,Monaco,2022 [YR2022],551
+5219,Mongolia,2022 [YR2022],319
+5220,Montenegro,2022 [YR2022],322
+5221,Morocco,2022 [YR2022],320
+5222,Mozambique,2022 [YR2022],385
+5223,Myanmar,2022 [YR2022],497
+5224,Namibia,2022 [YR2022],327
+5225,Nauru,2022 [YR2022],539
+5226,Nepal,2022 [YR2022],320
+5227,Netherlands,2022 [YR2022],344
+5228,New Caledonia,2022 [YR2022],589
+5229,New Zealand,2022 [YR2022],382
+5230,Nicaragua,2022 [YR2022],344
+5231,Niger,2022 [YR2022],398
+5232,Nigeria,2022 [YR2022],397
+5233,North America,2022 [YR2022],538
+5234,North Macedonia,2022 [YR2022],342
+5235,Northern Mariana Islands,2022 [YR2022],637
+5236,Norway,2022 [YR2022],355
+5237,Not classified,2022 [YR2022],804
+5238,OECD members,2022 [YR2022],531
+5239,Oman,2022 [YR2022],392
+5240,Other small states,2022 [YR2022],512
+5241,Pacific island small states,2022 [YR2022],556
+5242,Pakistan,2022 [YR2022],336
+5243,Palau,2022 [YR2022],525
+5244,Panama,2022 [YR2022],401
+5245,Papua New Guinea,2022 [YR2022],464
+5246,Paraguay,2022 [YR2022],321
+5247,Peru,2022 [YR2022],330
+5248,Philippines,2022 [YR2022],330
+5249,Poland,2022 [YR2022],337
+5250,Portugal,2022 [YR2022],348
+5251,Post-demographic dividend,2022 [YR2022],531
+5252,Pre-demographic dividend,2022 [YR2022],537
+5253,Puerto Rico,2022 [YR2022],467
+5254,Qatar,2022 [YR2022],364
+5255,Romania,2022 [YR2022],346
+5256,Russian Federation,2022 [YR2022],390
+5257,Rwanda,2022 [YR2022],319
+5258,Samoa,2022 [YR2022],345
+5259,San Marino,2022 [YR2022],563
+5260,Sao Tome and Principe,2022 [YR2022],410
+5261,Saudi Arabia,2022 [YR2022],354
+5262,Senegal,2022 [YR2022],369
+5263,Serbia,2022 [YR2022],332
+5264,Seychelles,2022 [YR2022],376
+5265,Sierra Leone,2022 [YR2022],415
+5266,Singapore,2022 [YR2022],358
+5267,Sint Maarten (Dutch part),2022 [YR2022],548
+5268,Slovak Republic,2022 [YR2022],347
+5269,Slovenia,2022 [YR2022],354
+5270,Small states,2022 [YR2022],509
+5271,Solomon Islands,2022 [YR2022],459
+5272,Somalia,2022 [YR2022],484
+5273,South Africa,2022 [YR2022],336
+5274,South Asia,2022 [YR2022],475
+5275,South Asia (IDA & IBRD),2022 [YR2022],479
+5276,South Sudan,2022 [YR2022],490
+5277,Spain,2022 [YR2022],347
+5278,Sri Lanka,2022 [YR2022],348
+5279,St. Kitts and Nevis,2022 [YR2022],457
+5280,St. Lucia,2022 [YR2022],400
+5281,St. Martin (French part),2022 [YR2022],645
+5282,St. Vincent and the Grenadines,2022 [YR2022],426
+5283,Sub-Saharan Africa,2022 [YR2022],494
+5284,Sub-Saharan Africa (IDA & IBRD countries),2022 [YR2022],498
+5285,Sub-Saharan Africa (excluding high income),2022 [YR2022],495
+5286,Sudan,2022 [YR2022],372
+5287,Suriname,2022 [YR2022],402
+5288,Sweden,2022 [YR2022],345
+5289,Switzerland,2022 [YR2022],354
+5290,Syrian Arab Republic,2022 [YR2022],539
+5291,Tajikistan,2022 [YR2022],430
+5292,Tanzania,2022 [YR2022],377
+5293,Thailand,2022 [YR2022],327
+5294,Timor-Leste,2022 [YR2022],345
+5295,Togo,2022 [YR2022],386
+5296,Tonga,2022 [YR2022],473
+5297,Trinidad and Tobago,2022 [YR2022],398
+5298,Tunisia,2022 [YR2022],339
+5299,Turkiye,2022 [YR2022],346
+5300,Turkmenistan,2022 [YR2022],500
+5301,Turks and Caicos Islands,2022 [YR2022],561
+5302,Tuvalu,2022 [YR2022],486
+5303,Uganda,2022 [YR2022],353
+5304,Ukraine,2022 [YR2022],364
+5305,United Arab Emirates,2022 [YR2022],458
+5306,United Kingdom,2022 [YR2022],351
+5307,United States,2022 [YR2022],438
+5308,Upper middle income,2022 [YR2022],483
+5309,Uruguay,2022 [YR2022],350
+5310,Uzbekistan,2022 [YR2022],332
+5311,Vanuatu,2022 [YR2022],392
+5312,"Venezuela, RB",2022 [YR2022],554
+5313,Viet Nam,2022 [YR2022],345
+5314,Virgin Islands (U.S.),2022 [YR2022],585
+5315,West Bank and Gaza,2022 [YR2022],356
+5316,World,2022 [YR2022],491
+5317,"Yemen, Rep.",2022 [YR2022],541
+5318,Zambia,2022 [YR2022],360
+5319,Zimbabwe,2022 [YR2022],390

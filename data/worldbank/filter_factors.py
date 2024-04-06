@@ -3,6 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
 YEARS = [f"{i} [YR{i}]" for i in range(2003, 2023)]
 
@@ -16,30 +17,43 @@ a = pd.melt(a.reset_index(), id_vars=["Series Name"], value_vars=YEARS, var_name
 counts = a.groupby(by=["Series Name"]).sum()
 counts.to_csv("./data/worldbank/filtering/counts_groupby_series_name.csv")
 
-filtered = counts.loc[counts["value"] <= 2000]
-filtered = filtered.reset_index()
+filtered_series = counts.loc[counts["value"] <= 2000].reset_index()
 
 b = data.copy()
-b = b.groupby(by=["Country Name"])
+b = b.merge(filtered_series[["Series Name"]], how="inner", on=["Series Name"])
+b = b.groupby(by=["Country Name"]).sum()
+b = pd.melt(
+    b.reset_index(), id_vars=["Country Name"], value_vars=YEARS, var_name="Year"
+)
+counts = b.groupby(by=["Country Name"]).sum()
+counts.to_csv("./data/worldbank/filtering/counts_groupby_country_name.csv")
 
-...
-
-# latest_year = data[["Country Name", "Series Name", *YEARS]].copy()
-# latest_year.loc[:, YEARS] = pd.isna(latest_year[YEARS])
-# latest_year["Counts"] = latest_year[YEARS].sum(axis=1)
-
-# first filtered stage
-#
-# filtered1 = latest_year.merge(
-#     filtered[["Series Name"]], how="inner", on=["Series Name"]
-# )
-# pivoted1 = pd.pivot_table(
-#     filtered1, values=["Counts"], index=["Series Name"], columns=["Country Name"]
-# )
-
-# sns.set_theme(rc={"figure.figsize": (24, 16)})
-# sns.clustermap(pivoted1.to_numpy())
-# plt.show()
+filtered_countries = counts.loc[counts["value"] <= 2000].reset_index()
 
 
-...
+# display filtered data
+
+
+def display_available(subset):
+    pivoted = pd.pivot_table(
+        subset, values=["Counts"], index=["Series Name"], columns=["Country Name"]
+    )
+
+    sns.set_theme(rc={"figure.figsize": (24, 16)})
+    sns.clustermap(pivoted.to_numpy())
+    plt.show()
+
+
+all_years = data.copy()
+all_years["Counts"] = all_years[YEARS].sum(axis=1)
+
+display_available(all_years)
+
+filtered = all_years.merge(
+    filtered_series[["Series Name"]], how="inner", on=["Series Name"]
+)
+filtered = filtered.merge(
+    filtered_countries[["Country Name"]], how="inner", on=["Country Name"]
+)
+
+display_available(filtered)
