@@ -54,7 +54,7 @@ LEARNING_RATE = 1e-4
 EPOCHS = 100
 
 
-def train_loop(dataloader, model, loss_fn, optimizer, epoch, writer=None):
+def train_loop(dataloader, model, loss_fn, optimizer, epoch, writer=None, verbose=True):
     size = len(dataloader.dataset)
     # Set the model to training mode - important for batch normalization and dropout layers
     # Unnecessary in this situation but added for best practices
@@ -74,10 +74,11 @@ def train_loop(dataloader, model, loss_fn, optimizer, epoch, writer=None):
 
         if batch % 8 == 0:
             loss, current = loss.item(), batch * BATCH_SIZE + len(X)
-            print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
+            if verbose:
+                print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
 
 
-def test_loop(dataloader, model, loss_fn, epoch=None, writer=None):
+def test_loop(dataloader, model, loss_fn, epoch=None, writer=None, verbose=True):
     # Set the model to evaluation mode - important for batch normalization and dropout layers
     # Unnecessary in this situation but added for best practices
     model.eval()
@@ -99,22 +100,24 @@ def test_loop(dataloader, model, loss_fn, epoch=None, writer=None):
 
     test_loss /= num_batches
     correct /= size
-    print(
-        f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
-    )
+    if verbose:
+        print(
+            f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
+        )
     return correct
 
 
 def train():
     model = AntibioticPredictor()
 
+    optimizer = torch.optim.SGD(
+        model.parameters(), lr=0.00951207, momentum=0.685595
+    )
     class_weights = torch.tensor(
         [1.98095238, 2.7752809, 8.82142857, 61.75, 188.19047619]
     )
-    class_weights = torch.sqrt(class_weights)
-
+    class_weights = class_weights ** 0.3745
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
-    optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
     train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
     test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
