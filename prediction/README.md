@@ -14,6 +14,8 @@ Generate y (output)
 - `./prediction/y_2003-2017_train.pt`
 - `./prediction/y_2018_test.pt`
 
+Print `class_weights` to be manually plugged into `antibiotic_usage_train.py`
+
 ### `antibiotic_hyperopt_train.py`
 
 Determine hyperparameters
@@ -21,7 +23,7 @@ Confirm neural network design of averaging in and out
 
 ### `antibiotic_usage_train.py`
 
-Train model and save as `2024_02_28_AntitiobicPredictor.pt`
+Train model and save as `AntitiobicPredictor.pt`
 
 ### `integrated_gradients.py`
 

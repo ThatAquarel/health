@@ -1,25 +1,14 @@
 import torch
-import itertools
-
-import pandas as pd
-
-from tqdm import tqdm
 from torch import nn
 from torch.utils.data import Dataset, DataLoader
 
 from torch.utils.tensorboard import SummaryWriter
 
 
-torch.set_default_device("cuda")
-
-WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
-ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
+torch.set_default_device("cuda:0")
 
 RUNS = "./runs/"
-MODEL = "./model/2024_02_28_AntibioticPredictor.pt"
-
-
-N_INDICATOR = 1683
+MODEL = "./model/AntibioticPredictor.pt"
 
 
 class AntibioticDataset(Dataset):
@@ -30,15 +19,19 @@ class AntibioticDataset(Dataset):
         self.load_db()
 
     def load_db(self):
-        x = "" if self.train else "_test"
-        self.db_x = torch.load(f"./prediction/db_x{x}.pt")
-        self.db_y = torch.load(f"./prediction/db_y{x}.pt")
+        if train:
+            self.x = torch.load(f"./prediction/x_2003-2017_train.pt")
+            self.y = torch.load(f"./prediction/y_2003-2017_train.pt")
+            return
+
+        self.x = torch.load(f"./prediction/x_2018_test.pt")
+        self.y = torch.load(f"./prediction/y_2018_test.pt")
 
     def __len__(self):
-        return len(self.db_x)
+        return len(self.x)
 
     def __getitem__(self, idx):
-        return (self.db_x[idx], self.db_y[idx])
+        return (self.x[idx], self.y[idx])
 
 
 class AntibioticPredictor(nn.Module):
@@ -47,9 +40,9 @@ class AntibioticPredictor(nn.Module):
 
         self.linear_relu_stack = nn.Sequential(
             nn.Dropout(),
-            nn.Linear(in_features=N_INDICATOR, out_features=844),
+            nn.Linear(in_features=804, out_features=405),
             nn.Tanh(),
-            nn.Linear(in_features=844, out_features=5),
+            nn.Linear(in_features=405, out_features=5),
         )
 
     def forward(self, x):
@@ -64,14 +57,9 @@ EPOCHS = 100
 def train():
     model = AntibioticPredictor()
 
-    # np.unique(
-    # pd.cut(
-    # self._antibiotics["Antibiotic consumption (DDD/1,000/day)"], 5, labels=[0,1,2,3,4]
-    # ), return_counts=True)
-    # a = array([2658, 1027,  164,   17,   11], dtype=int64)
-    # 3877/a
-
-    class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
+    class_weights = torch.tensor(
+        [1.98095238, 2.7752809, 8.82142857, 61.75, 188.19047619]
+    )
     class_weights = torch.sqrt(class_weights)
 
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
@@ -135,8 +123,8 @@ def train():
         print(f"Epoch {t+1}\n-------------------------------")
         train_loop(train_dataloader, model, loss_fn, optimizer, t)
         a = test_loop(test_dataloader, model, loss_fn, t)
-        if a >= 0.956:
-            break
+        # if a >= 0.956:
+        #     break
     test_loop(test_dataloader, model, loss_fn)
 
     dataiter = iter(train_dataloader)
