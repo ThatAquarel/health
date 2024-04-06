@@ -30,11 +30,8 @@ Export to `./data/worldbank/2022-2000_worldbank_filtered.csv`
 
 ### `normalize.py`
 
-TODO: filtered factors
-
 Normalize every indicator by longitude
-
-Export to `2022-2000_worldbank_normalized.csv`
+Export to `2022-2003_worldbank_normalized.csv`
 
 
 ## Antibiotics
