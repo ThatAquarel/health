@@ -25,7 +25,12 @@ Write (to determine the cutoff level)
 - `./data/worldbank/filtering/counts_groupby_series_name.csv`
 - `./data/worldbank/filtering/counts_groupby_country_name.csv`
 
+Export to `./data/worldbank/2022-2000_worldbank_filtered.csv`
+
+
 ### `normalize.py`
+
+TODO: filtered factors
 
 Normalize every indicator by longitude
 

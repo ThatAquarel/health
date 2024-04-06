@@ -4,6 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
+# determine filter merge tables
+
 data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
 YEARS = [f"{i} [YR{i}]" for i in range(2003, 2023)]
 
@@ -57,3 +59,17 @@ filtered = filtered.merge(
 )
 
 display_available(filtered)
+
+
+# filter data and export
+
+data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
+keys = ["Country Name", "Country Code", "Series Name", "Series Code", *YEARS]
+data = data[keys]
+
+data = data.merge(filtered_series[["Series Name"]], how="inner", on=["Series Name"])
+data = data.merge(
+    filtered_countries[["Country Name"]], how="inner", on=["Country Name"]
+)
+
+data.to_csv("./data/worldbank/2022-2000_worldbank_filtered.csv")
