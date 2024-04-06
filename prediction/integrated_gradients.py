@@ -1,9 +1,8 @@
 import torch
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
-from captum.attr import IntegratedGradients, GradientShap
+from captum.attr import IntegratedGradients
 from antibiotic_usage_train import AntibioticPredictor, MODEL
 
 
@@ -23,12 +22,12 @@ model.eval()
 # ordered_factors_2003_2022_high.csv
 # ordered_factors_2003_2022_low.csv
 
-ig = GradientShap(model)
+ig = IntegratedGradients(model)
 
 for input_file, output_date in {
-    "db_x_test": "2018",
-    "db_x": "2003_2018",
-    "db_x_infer": "2003_2022",
+    "x_2018_test": "2018",
+    "x_2003-2017_train": "2003_2017",
+    "x_2003-2022_infer": "2003_2022",
 }.items():
     db_x_test = torch.load(f"./prediction/{input_file}.pt")
     baseline = torch.zeros(db_x_test.shape)
@@ -37,7 +36,6 @@ for input_file, output_date in {
         attributions, approximation_error = ig.attribute(
             db_x_test,
             baselines=baseline,
-            stdevs=2.0,
             return_convergence_delta=True,
             target=level,
         )

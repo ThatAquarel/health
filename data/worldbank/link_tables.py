@@ -1,6 +1,6 @@
 import pandas as pd
 
-WORLDBANK = "./data/worldbank/2022-2000_worldbank_data.csv"
+WORLDBANK = "./data/worldbank/2022-2003_worldbank_filtered.csv"
 
 LINKS = [["Country Name", "Country Code"], ["Series Name", "Series Code"]]
 OUT = [
