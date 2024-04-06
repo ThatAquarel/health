@@ -43,9 +43,10 @@ Create link files manually
 ### `transform_compatible.py`
 
 - Merge `Location` to `Country Name` for compatibility
+Export to `2018-2000_antibiotic_total.csv`
 
 ### `normalize.py`
 
 Normalize by every antibiotic category
 
-Export to `2022-2000_worldbank_normalized.csv`
+Export to `2018-2000_worldbank_normalized.csv`

@@ -3,15 +3,14 @@ import itertools
 
 import pandas as pd
 
-from torch.utils.data import Dataset
-
-torch.set_default_device("cuda")
-
-WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
 ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
 
 
 N_INDICATOR = 1683
+
+
+worldbank = pd.read_csv("./data/worldbank/2022-2003_worldbank_filtered.csv")
+antibiotics = pd.read_csv("./data/antibiotics/2018-2000_antibiotic_normalized.csv")
 
 
 class AntibioticDataset(Dataset):

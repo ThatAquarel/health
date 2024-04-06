@@ -5,15 +5,15 @@
 ### `antibiotic_dataset.py`
 
 Generate
-- `db_x_test.py`
-- `db_x.py`
-- `db_y_test.py`
-- `db_y.py`
+- `db_x_test.pt`
+- `db_x.pt`
+- `db_y_test.pt`
+- `db_y.pt`
 
 ### `antibiotic_dataset_infer.py`
 
 Generate (worldbank from 2003 to 2022)
-- `db_x_infer.py`
+- `db_x_infer.pt`
 
 ### `antibiotic_hyperopt_train.py`
 

@@ -1,17 +1,13 @@
 import pandas as pd
 from tqdm import tqdm
 
-ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_atc3.csv"
-
-ATC3 = "ATC level 3 class"
+ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_total.csv"
 CONSUMPTION = "Antibiotic consumption (DDD/1,000/day)"
 
 antibiotics = pd.read_csv(ANTIBIOTICS)
-antibiotics = antibiotics[["Country Name", "Year", ATC3, CONSUMPTION]]
+antibiotics = antibiotics[["Country Name", "Year", CONSUMPTION]]
 
-for drug in tqdm(antibiotics[ATC3].drop_duplicates()):
-    x = antibiotics.loc[antibiotics[ATC3] == drug, CONSUMPTION]
-    print(f"{x.mean()} {x.std()}")
-    antibiotics.loc[antibiotics[ATC3] == drug, CONSUMPTION] = (x - x.mean()) / x.std()
+x = antibiotics[CONSUMPTION]
+antibiotics[CONSUMPTION] = (x - x.mean()) / x.std()
 
 antibiotics.to_csv("./data/antibiotics/2018-2000_antibiotic_normalized.csv")
