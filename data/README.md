@@ -18,6 +18,11 @@ Combine world_dev and health
 Export to `2022-2000_worldbank_data.csv`
 
 
+### `filter_factors.py`
+
+Remove unavailable factors
+
+
 ### `normalize.py`
 
 Normalize every indicator by longitude
