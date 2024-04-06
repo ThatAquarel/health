@@ -72,4 +72,4 @@ data = data.merge(
     filtered_countries[["Country Name"]], how="inner", on=["Country Name"]
 )
 
-data.to_csv("./data/worldbank/2022-2000_worldbank_filtered.csv")
+data.to_csv("./data/worldbank/2022-2003_worldbank_filtered.csv")
