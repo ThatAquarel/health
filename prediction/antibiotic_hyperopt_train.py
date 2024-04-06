@@ -24,7 +24,7 @@ class AntibioticDataset(Dataset):
         return torch.load(full_path, map_location="cpu")
 
     def load_db(self):
-        if train:
+        if self.train:
             self.x = self._load(f"./prediction/x_2003-2017_train.pt")
             self.y = self._load(f"./prediction/y_2003-2017_train.pt")
             return
@@ -91,7 +91,7 @@ def objective(config):
             self.linear_relu_stack = nn.Sequential(
                 nn.Dropout(),
                 nn.Linear(in_features=804, out_features=config["hidden_n"]),
-                nn.ReLU(),
+                nn.Tanh(),
                 nn.Linear(in_features=config["hidden_n"], out_features=5),
             )
 
@@ -134,7 +134,7 @@ search_space = {
 
 results = tune.run(
     objective,
-    num_samples=128,
+    num_samples=16,
     scheduler=ASHAScheduler(metric="mean_accuracy", mode="max", grace_period=1),
     config=search_space,
 )
