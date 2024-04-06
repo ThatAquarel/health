@@ -1,0 +1,1684 @@
+,Category,Series Name,Series Code
+0,Public Sector,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS
+1,Infrastructure,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN
+2,Public Sector,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN
+3,Private Sector,Ease of doing business score (0 = lowest performance to 100 = best performance),IC.BUS.DFRN.XQ
+4,Social Development,Child employment in agriculture (% of economically active children ages 7-14),SL.AGR.0714.ZS
+5,Gender,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN
+6,Economy & Growth,Final consumption expenditure (current US$),NE.CON.TOTL.CD
+7,Economy & Growth,Number of people pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.FBP2.TO
+8,Economy & Growth,Number of people pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.FBP1.TO
+9,Economy & Growth,Number of people pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.FBPR.TO
+10,Poverty,Income share held by third 20%,SI.DST.03RD.20
+11,Infrastructure,"Industrial design applications, nonresident, by count",IP.IDS.NRCT
+12,Social Development,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS
+13,Gender,Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL
+14,Private Sector,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS
+15,Poverty,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC
+16,Health,"Population ages 0-14, total",SP.POP.0014.TO
+17,Health,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3
+18,Public Sector,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS
+19,Economy & Growth,"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD
+20,Health,"Infant and young child feeding practices, all 3 IYCF (% children ages 6-23 months)",SH.STA.IYCF.ZS
+21,Social Development,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS
+22,Poverty,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC
+23,Gender,"Age population, age 12, female, interpolated",SP.POP.AG12.FE.IN
+24,Infrastructure,Mobile cellular subscriptions,IT.CEL.SETS
+25,Infrastructure,Individuals using the Internet (% of population),IT.NET.USER.ZS
+26,Private Sector,Power outages in firms in a typical month (number),IC.ELC.OUTG
+27,Environment,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE
+28,Health,"Number of deaths ages 15-19 years, female",SH.DTH.1519.FE
+29,Gender,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS
+30,Private Sector,Firms experiencing losses due to theft and vandalism (% of firms),IC.FRM.THEV.ZS
+31,Economy & Growth,General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD
+32,Climate Change,Urban population (% of total population),SP.URB.TOTL.IN.ZS
+33,Private Sector,Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS
+34,Public Sector,Military expenditure (current USD),MS.MIL.XPND.CD
+35,Gender,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS
+36,Financial Sector,Lending interest rate (%),FR.INR.LEND
+37,Gender,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS
+38,Social Development,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS
+39,Gender,"Population ages 65-69, male",SP.POP.6569.MA
+40,Public Sector,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1
+41,Health,"Incidence of HIV, ages 50+ (per 1,000 uninfected population ages 50+)",SH.HIV.INCD.50.P3
+42,Environment,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA
+43,Public Sector,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ
+44,Gender,"Age population, age 15, male, interpolated",SP.POP.AG15.MA.IN
+45,Education,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD
+46,Health,"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS
+47,Health,Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS
+48,Health,Intermittent preventive treatment (IPT) of malaria in pregnancy (% of pregnant women),SH.MLR.IPTP.ZS
+49,Health,"Probability of dying among adolescents ages 15-19 years, male (per 1,000)",SH.DYN.1519.MA
+50,Gender,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS
+51,Gender,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN
+52,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS
+53,Environment,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+54,Gender,Women who believe a husband is justified in beating his wife when she burns the food (%),SG.VAW.BURN.ZS
+55,Gender,"Age population, age 11, male, interpolated",SP.POP.AG11.MA.IN
+56,Health,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS
+57,Education,"Primary education, teachers",SE.PRM.TCHR
+58,Health,Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS
+59,Environment,Access to electricity (% of population),EG.ELC.ACCS.ZS
+60,Gender,"Population ages 15-19, female",SP.POP.1519.FE
+61,Gender,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS
+62,Health,"Immunization, measles second dose (% of children by the nationally recommended age)",SH.IMM.MEA2
+63,Health,"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS
+64,Gender,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN
+65,Aid Effectiveness,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS
+66,Health,"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS
+67,Economy & Growth,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG
+68,Health,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS
+69,Economy & Growth,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS
+70,Education,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS
+71,Private Sector,Time required to enforce a contract (days),IC.LGL.DURS
+72,External Debt,"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD
+73,Energy & Mining,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE
+74,Health,"Probability of dying among children ages 5-9 years, male (per 1,000)",SH.DYN.0509.MA
+75,Economy & Growth,Number of people pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO
+76,Gender,"Population ages 70-74, male",SP.POP.7074.MA
+77,Economy & Growth,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG
+78,Economy & Growth,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS
+79,Gender,"Population ages 75-79, male",SP.POP.7579.MA
+80,Gender,"Population ages 15-19, male",SP.POP.1519.MA
+81,Gender,"Population ages 65-69, female",SP.POP.6569.FE
+82,Health,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS
+83,Economy & Growth,"Services, value added (constant LCU)",NV.SRV.TOTL.KN
+84,Public Sector,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ
+85,Economy & Growth,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN
+86,Economy & Growth,Financial intermediary services indirectly Measured (FISIM) (current LCU),NV.FSM.TOTL.CN
+87,Social Development,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS
+88,Education,"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS
+89,Gender,"Population ages 20-24, male",SP.POP.2024.MA
+90,External Debt,"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD
+91,Economy & Growth,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS
+92,Public Sector,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL
+93,Environment,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS
+94,Gender,"Population ages 55-59, male",SP.POP.5559.MA
+95,Health,"Number of deaths ages 10-14 years, male",SH.DTH.1014.MA
+96,Gender,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS
+97,Social Development,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS
+98,Gender,Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS
+99,Gender,"Population ages 45-49, male",SP.POP.4549.MA
+100,Economy & Growth,General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG
+101,Health,"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS
+102,Health,"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS
+103,Gender,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS
+104,Energy & Mining,GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD
+105,External Debt,"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD
+106,Private Sector,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS
+107,Aid Effectiveness,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS
+108,Gender,"Population ages 20-24, female",SP.POP.2024.FE
+109,Environment,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2
+110,Private Sector,"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS
+111,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD
+112,Health,AIDS estimated deaths (UNAIDS estimates),SH.DYN.AIDS.DH
+113,Economy & Growth,"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD
+114,Economy & Growth,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS
+115,Gender,"Age population, age 16, female, interpolated",SP.POP.AG16.FE.IN
+116,Private Sector,Firms offering formal training (% of firms),IC.FRM.TRNG.ZS
+117,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD
+118,Public Sector,Control of Corruption: Standard Error,CC.STD.ERR
+119,Environment,Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS
+120,Health,"Population, female",SP.POP.TOTL.FE.IN
+121,Gender,"Population ages 40-44, male",SP.POP.4044.MA
+122,Gender,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN
+123,Health,"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS
+124,Economy & Growth,Number of people pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.NOPR.TO
+125,Agriculture & Rural Development,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN
+126,Health,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG
+127,Social Development,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS
+128,Aid Effectiveness,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD
+129,Gender,"Population ages 25-29, female",SP.POP.2529.FE
+130,Health,"Number of infant deaths, male",SH.DTH.IMRT.MA
+131,Poverty,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA
+132,Gender,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS
+133,Gender,"Population ages 70-74, female",SP.POP.7074.FE
+134,Health,Children (0-14) living with HIV,SH.HIV.0014
+135,Health,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS
+136,Infrastructure,"Trademark applications, resident, by count",IP.TMK.RSCT
+137,Climate Change,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS
+138,Health,"Contraceptive prevalence, any method (% of all women ages 15-49)",SP.DYN.CONU.AL.ZS
+139,Poverty,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC
+140,Public Sector,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ
+141,Economy & Growth,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN
+142,Economy & Growth,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD
+143,Gender,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN
+144,External Debt,"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD
+145,Gender,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN
+146,Environment,Total fisheries production (metric tons),ER.FSH.PROD.MT
+147,Public Sector,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL
+148,Gender,"Number of deaths ages 5-9 years, male",SH.DTH.0509.MA
+149,Private Sector,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS
+150,Private Sector,Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS
+151,Gender,Number of people who are undernourished,SN.ITK.DEFC
+152,Gender,"Age population, age 17, male, interpolated",SP.POP.AG17.MA.IN
+153,Gender,"Population ages 35-39, female",SP.POP.3539.FE
+154,Health,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3
+155,Social Development,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS
+156,Gender,"Number of deaths ages 5-9 years, female",SH.DTH.0509.FE
+157,Education,"Secondary education, teachers, female",SE.SEC.TCHR.FE
+158,Gender,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN
+159,Economy & Growth,Number of people pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.TOT2.TO
+160,Infrastructure,"Industrial design applications, resident, by count",IP.IDS.RSCT
+161,Health,"Mortality caused by road traffic injury, male (per 100,000 male population)",SH.STA.TRAF.MA.P5
+162,Health,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS
+163,Environment,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS
+164,Climate Change,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT
+165,Economy & Growth,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC
+166,Health,Age dependency ratio (% of working-age population),SP.POP.DPND
+167,Social Development,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot
+168,Economy & Growth,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS
+169,Economy & Growth,"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS
+170,External Debt,Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS
+171,Agriculture & Rural Development,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS
+172,Private Sector,Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN
+173,Social Development,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS
+174,Health,"Contraceptive prevalence, any modern method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONM.SA.ZS
+175,External Debt,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS
+176,Health,"Condom use at last high-risk sex, adult female (% ages 15-49)",SH.CON.AIDS.FE.ZS
+177,Private Sector,"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS
+178,Gender,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS
+179,Health,Prevalence of overweight (% of children under 5),SH.STA.OWGH.ZS
+180,Energy & Mining,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS
+181,Economy & Growth,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD
+182,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.MA.ZS
+183,Economy & Growth,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN
+184,Public Sector,Government Effectiveness: Percentile Rank,GE.PER.RNK
+185,Public Sector,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",GE.PER.RNK.UPPER
+186,Infrastructure,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1
+187,Social Development,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",SL.SLF.0714.FE.ZS
+188,Health,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS
+189,Environment,Forest area (sq. km),AG.LND.FRST.K2
+190,Environment,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD
+191,Social Development,Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot
+192,Economy & Growth,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD
+193,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD
+194,Health,"Mortality caused by road traffic injury, female (per 100,000 female population)",SH.STA.TRAF.FE.P5
+195,Gender,"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS
+196,Environment,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH
+197,Health,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",SH.STA.AIRP.P5
+198,Economy & Growth,"Manufacturing, value added (current US$)",NV.IND.MANF.CD
+199,Private Sector,"Time to import, border compliance (hours)",IC.IMP.TMBC
+200,Public Sector,Political Stability and Absence of Violence/Terrorism: Percentile Rank,PV.PER.RNK
+201,Health,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS
+202,Science & Technology,"Patent applications, residents",IP.PAT.RESD
+203,External Debt,"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS
+204,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS
+205,Health,Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD
+206,Health,"Treatment for hypertension, male (% of male adults ages 30-79 with hypertension)",SH.HTN.TRET.MA.ZS
+207,Environment,People practicing open defecation (% of population),SH.STA.ODFC.ZS
+208,Economy & Growth,"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD
+209,Gender,"Age population, age 11, female, interpolated",SP.POP.AG11.FE.IN
+210,Gender,"Age dependency ratio, young",SP.POP.DPND.YG
+211,Economy & Growth,Gross domestic savings (current LCU),NY.GDS.TOTL.CN
+212,Gender,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS
+213,Environment,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3
+214,Health,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5
+215,Gender,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN
+216,Social Development,"Children in employment, self-employed (% of children in employment, ages 7-14)",SL.SLF.0714.ZS
+217,Health,"Number of deaths ages 10-19 years, male",SH.DTH.1019.MA
+218,Private Sector,"Share of tariff lines with international peaks, primary products (%)",TM.TAX.TCOM.IP.ZS
+219,Economy & Growth,Share of women employed in the nonagricultural sector (% of total nonagricultural employment),SL.EMP.INSV.FE.ZS
+220,Health,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3
+221,Education,"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS
+222,Health,"Treatment for hypertension, female (% of female adults ages 30-79 with hypertension)",SH.HTN.TRET.FE.ZS
+223,Health,"Number of infant deaths, female",SH.DTH.IMRT.FE
+224,Economy & Growth,Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN
+225,Health,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT
+226,Private Sector,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS
+227,Economy & Growth,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG
+228,Gender,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS
+229,Economy & Growth,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO
+230,Gender,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS
+231,Economy & Growth,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS
+232,Social Development,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS
+233,Health,Number of neonatal deaths,SH.DTH.NMRT
+234,Gender,"Population ages 55-59, female",SP.POP.5559.FE
+235,Economy & Growth,Number of people pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.TOT1.TO
+236,Gender,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN
+237,Health,International migrant stock (% of population),SM.POP.TOTL.ZS
+238,Social Development,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS
+239,Health,"Stillbirth rate (per 1,000 total births)",SH.DYN.STLB
+240,Climate Change,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ
+241,Health,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS
+242,Public Sector,Compensation of employees (% of expense),GC.XPN.COMP.ZS
+243,Environment,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS
+244,Climate Change,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS
+245,Health,External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD
+246,Environment,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS
+247,Environment,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS
+248,Energy & Mining,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS
+249,Environment,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD
+250,Economy & Growth,Imports of goods and services (current LCU),NE.IMP.GNFS.CN
+251,Gender,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS
+252,Gender,"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE
+253,Environment,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE
+254,Gender,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA
+255,Health,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y
+256,Public Sector,Compensation of employees (current LCU),GC.XPN.COMP.CN
+257,Health,"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD
+258,Economy & Growth,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS
+259,Poverty,Income share held by highest 10%,SI.DST.10TH.10
+260,Economy & Growth,"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS
+261,Social Development,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot
+262,External Debt,"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD
+263,Health,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y
+264,External Debt,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS
+265,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD
+266,Gender,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN
+267,Gender,"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA
+268,External Debt,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD
+269,Science & Technology,Technicians in R&D (per million people),SP.POP.TECH.RD.P6
+270,External Debt,"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD
+271,External Debt,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD
+272,Economy & Growth,Number of people pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO
+273,Education,"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS
+274,Gender,"Population ages 35-39, male",SP.POP.3539.MA
+275,Economy & Growth,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS
+276,Public Sector,Other taxes (current LCU),GC.TAX.OTHR.CN
+277,Economy & Growth,"Industry (including construction), value added (constant 2015 US$)",NV.IND.TOTL.KD
+278,Environment,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS
+279,Economy & Growth,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD
+280,Health,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL
+281,Health,"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS
+282,Infrastructure,"Air transport, passengers carried",IS.AIR.PSGR
+283,Environment,"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS
+284,Health,"Prevalence of hypertension, female (% of female adults ages 30-79)",SH.HTN.PREV.FE.ZS
+285,Social Development,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",SL.WAG.0714.FE.ZS
+286,Economy & Growth,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN
+287,Health,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS
+288,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.FE.ZS
+289,Gender,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS
+290,Education,"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS
+291,Education,"Over-age students, primary, male (% of male enrollment)",SE.PRM.OENR.MA.ZS
+292,Economy & Growth,Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD
+293,Health,"Probability of dying among youth ages 20-24 years, female (per 1,000)",SH.DYN.2024.FE
+294,Health,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS
+295,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",DC.DAC.CZEL.CD
+296,Private Sector,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS
+297,Economy & Growth,"GDP, PPP (constant 2017 international $)",NY.GDP.MKTP.PP.KD
+298,Gender,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS
+299,Health,Postnatal care coverage (% mothers),SH.STA.PNVC.ZS
+300,Gender,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS
+301,Economy & Growth,"Net ODA provided, to the least developed countries (current US$)",DC.ODA.TLDC.CD
+302,Environment,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS
+303,Education,Lower secondary school starting age (years),SE.SEC.AGES
+304,Social Development,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot
+305,Public Sector,Other expense (current LCU),GC.XPN.OTHR.CN
+306,Aid Effectiveness,"Net official flows from UN agencies, UNWTO (current US$)",DT.NFL.UNWT.CD
+307,Gender,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS
+308,Economy & Growth,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD
+309,Gender,"Population ages 75-79, female",SP.POP.7579.FE
+310,Economy & Growth,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN
+311,Education,Male primary school age children out-of-school (%),SE.LPV.PRIM.SD.MA
+312,Economy & Growth,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG
+313,Poverty,Income share held by second 20%,SI.DST.02ND.20
+314,Gender,"Age population, age 20, male, interpolated",SP.POP.AG20.MA.IN
+315,Economy & Growth,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG
+316,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS
+317,Environment,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS
+318,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS
+319,Gender,"Population ages 80 and older, female (% of female population)",SP.POP.80UP.FE.5Y
+320,Aid Effectiveness,"Net official flows from UN agencies, UNPBF (current US$)",DT.NFL.UNPB.CD
+321,Economy & Growth,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN
+322,Education,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS
+323,Public Sector,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",CC.PER.RNK.UPPER
+324,Education,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS
+325,Infrastructure,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ
+326,Private Sector,Export volume index (2015 = 100),TX.QTY.MRCH.XD.WD
+327,Education,"Net ODA provided, total (constant 2020 US$)",DC.ODA.TOTL.KD
+328,Gender,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK
+329,External Debt,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS
+330,Education,"Secondary education, teachers",SE.SEC.TCHR
+331,Economy & Growth,"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS
+332,Health,"Prevalence of hypertension, male (% of male adults ages 30-79)",SH.HTN.PREV.MA.ZS
+333,Health,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y
+334,Education,"School enrollment, secondary (% gross)",SE.SEC.ENRR
+335,Economy & Growth,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN
+336,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS
+337,Environment,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE
+338,Health,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y
+339,Education,"Primary education, pupils",SE.PRM.ENRL
+340,Poverty,Multidimensional poverty intensity (average share of deprivations experienced by the poor),SI.POV.MDIM.IT
+341,Education,"Secondary education, pupils",SE.SEC.ENRL
+342,Private Sector,Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD
+343,Education,"Children out of school, primary",SE.PRM.UNER
+344,Public Sector,Goods and services expense (current LCU),GC.XPN.GSRV.CN
+345,Health,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS
+346,Economy & Growth,Exports of goods and services (constant 2015 US$),NE.EXP.GNFS.KD
+347,Health,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN
+348,Aid Effectiveness,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS
+349,Economy & Growth,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG
+350,Education,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS
+351,Public Sector,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC
+352,Economy & Growth,GNI growth (annual %),NY.GNP.MKTP.KD.ZG
+353,Gender,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS
+354,Health,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS
+355,Gender,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN
+356,Environment,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS
+357,Health,"Population ages 65 and above, female",SP.POP.65UP.FE.IN
+358,Public Sector,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ
+359,Gender,"Population ages 80 and above, male",SP.POP.80UP.MA
+360,Aid Effectiveness,"Net official flows from UN agencies, UNRWA (current US$)",DT.NFL.UNRW.CD
+361,Health,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y
+362,Economy & Growth,"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD
+363,Health,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS
+364,Environment,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS
+365,Aid Effectiveness,"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS
+366,Public Sector,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV
+367,Health,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y
+368,Gender,"Age population, age 16, male, interpolated",SP.POP.AG16.MA.IN
+369,Health,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT
+370,Economy & Growth,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS
+371,Health,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN
+372,Health,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y
+373,Health,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y
+374,Social Development,Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot
+375,Health,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y
+376,External Debt,"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD
+377,Gender,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS
+378,Public Sector,"Human capital index (HCI), female, upper bound (scale 0-1)",HD.HCI.OVRL.UB.FE
+379,Health,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS
+380,Health,"Population ages 65 and above, male",SP.POP.65UP.MA.IN
+381,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS
+382,Science & Technology,"Patent applications, nonresidents",IP.PAT.NRES
+383,Public Sector,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST
+384,Gender,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS
+385,Financial Sector,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD
+386,External Debt,"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD
+387,Private Sector,Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT
+388,Economy & Growth,"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS
+389,Social Development,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS
+390,Economy & Growth,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS
+391,Gender,"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS
+392,Social Development,Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot
+393,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS
+394,Economy & Growth,Final consumption expenditure (current LCU),NE.CON.TOTL.CN
+395,Public Sector,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE
+396,Poverty,Income share held by highest 20%,SI.DST.05TH.20
+397,Economy & Growth,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG
+398,Economy & Growth,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD
+399,Health,"Probability of dying among youth ages 20-24 years, male (per 1,000)",SH.DYN.2024.MA
+400,External Debt,"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD
+401,Economy & Growth,Net ODA provided to the least developed countries (% of GNI),DC.ODA.TLDC.GN.ZS
+402,Public Sector,Customs and other import duties (current LCU),GC.TAX.IMPT.CN
+403,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS
+404,Health,Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS
+405,Health,Treatment for hypertension (% of adults ages 30-79 with hypertension),SH.HTN.TRET.ZS
+406,Gender,Ratio of young literate females to males (% ages 15-24),SE.ADT.1524.LT.FM.ZS
+407,Private Sector,Export value index (2015 = 100),TX.VAL.MRCH.XD.WD
+408,Education,"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR
+409,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS
+410,Financial Sector,Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD
+411,Education,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA
+412,Economy & Growth,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD
+413,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS
+414,Social Development,Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot
+415,Gender,"Population ages 45-49, female",SP.POP.4549.FE
+416,Gender,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS
+417,Private Sector,Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT
+418,Science & Technology,Scientific and technical journal articles,IP.JRN.ARTC.SC
+419,Financial Sector,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS
+420,Health,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y
+421,Environment,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS
+422,Economy & Growth,"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS
+423,Education,"Tertiary education, academic staff (% female)",SE.TER.TCHR.FE.ZS
+424,Health,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y
+425,Urban Development,Population density (people per sq. km of land area),EN.POP.DNST
+426,Public Sector,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",CC.PER.RNK.LOWER
+427,Health,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y
+428,Financial Sector,Wholesale price index (2010 = 100),FP.WPI.TOTL
+429,Environment,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS
+430,Health,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y
+431,Economy & Growth,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN
+432,Gender,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS
+433,Economy & Growth,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN
+434,External Debt,"PPG, private creditors (NFL, US$)",DT.NFL.PRVT.CD
+435,Economy & Growth,Net secondary income (Net current transfers from abroad) (constant LCU),NY.TRF.NCTR.KN
+436,Economy & Growth,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS
+437,Aid Effectiveness,"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD
+438,Economy & Growth,Net primary income (Net income from abroad) (constant LCU),NY.GSR.NFCY.KN
+439,Health,"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS
+440,Public Sector,Political Stability and Absence of Violence/Terrorism: Standard Error,PV.STD.ERR
+441,Private Sector,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS
+442,Social Development,"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS
+443,Energy & Mining,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP
+444,Education,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS
+445,Gender,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE
+446,External Debt,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD
+447,Economy & Growth,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG
+448,Environment,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE
+449,Health,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y
+450,Environment,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE
+451,Gender,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS
+452,Financial Sector,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS
+453,Energy & Mining,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS
+454,Public Sector,"Human capital index (HCI), female (scale 0-1)",HD.HCI.OVRL.FE
+455,Education,"Preprimary education, duration (years)",SE.PRE.DURS
+456,Education,"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS
+457,Aid Effectiveness,"Net official flows from UN agencies, UNIDIR (current US$)",DT.NFL.UNID.CD
+458,Social Development,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",SL.SLF.0714.MA.ZS
+459,Private Sector,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS
+460,Private Sector,"Time required to start a business, female (days)",IC.REG.DURS.FE
+461,Social Development,Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot
+462,Economy & Growth,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD
+463,Economy & Growth,Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN
+464,Economy & Growth,Exports of goods and services (current LCU),NE.EXP.GNFS.CN
+465,Economy & Growth,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD
+466,Social Development,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS
+467,Private Sector,Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS
+468,External Debt,"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD
+469,Gender,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS
+470,Education,Number of deaths ages 10-14 years,SH.DTH.1014
+471,Environment,Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD
+472,Economy & Growth,GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD
+473,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS
+474,Energy & Mining,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS
+475,Gender,Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX
+476,Public Sector,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ
+477,Public Sector,"Central government debt, total (current LCU)",GC.DOD.TOTL.CN
+478,Gender,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT
+479,Private Sector,Export unit value index (2015 = 100),TX.UVI.MRCH.XD.WD
+480,Gender,"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS
+481,Health,"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5
+482,Economy & Growth,"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS
+483,Health,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS
+484,Economy & Growth,GNI per capita (current LCU),NY.GNP.PCAP.CN
+485,Health,"Number of under-five deaths, male",SH.DTH.MORT.MA
+486,Aid Effectiveness,"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD
+487,Environment,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS
+488,Health,Children orphaned by HIV/AIDS,SH.HIV.ORPH
+489,Social Development,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot
+490,Private Sector,"International tourism, number of departures",ST.INT.DPRT
+491,Health,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF
+492,Aid Effectiveness,"Net official flows from UN agencies, UNECE (current US$)",DT.NFL.UNEC.CD
+493,Health,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS
+494,Economy & Growth,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG
+495,Economy & Growth,Demand for family planning satisfied by any methods (% of married women with demand for family planning),SH.FPL.SATI.ZS
+496,External Debt,"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD
+497,Economy & Growth,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN
+498,Energy & Mining,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC
+499,Public Sector,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5
+500,Health,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y
+501,Energy & Mining,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS
+502,Public Sector,"Human capital index (HCI), upper bound (scale 0-1)",HD.HCI.OVRL.UB
+503,Economy & Growth,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN
+504,Social Development,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS
+505,Economy & Growth,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD
+506,Health,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y
+507,Education,"School enrollment, tertiary (% gross)",SE.TER.ENRR
+508,Gender,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS
+509,Energy & Mining,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS
+510,Economy & Growth,Gross capital formation (constant 2015 US$),NE.GDI.TOTL.KD
+511,Energy & Mining,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS
+512,Environment,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3
+513,Social Development,"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS
+514,Private Sector,Time required to build a warehouse (days),IC.WRH.DURS
+515,Social Development,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot
+516,Financial Sector,"Depositors with commercial banks (per 1,000 adults)",FB.CBK.DPTR.P3
+517,Public Sector,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS
+518,Environment,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS
+519,Social Development,Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot
+520,Gender,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS
+521,Gender,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS
+522,Gender,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS
+523,Public Sector,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS
+524,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS
+525,External Debt,"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD
+526,Aid Effectiveness,"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD
+527,Energy & Mining,Time to obtain an electrical connection (days),IC.ELC.DURS
+528,Economy & Growth,"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP
+529,Environment,Capture fisheries production (metric tons),ER.FSH.CAPT.MT
+530,Health,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y
+531,Health,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS
+532,Public Sector,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS
+533,Health,Prevalence of overweight (% of adults),SH.STA.OWAD.ZS
+534,Health,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS
+535,Social Development,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot
+536,Energy & Mining,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN
+537,Social Development,Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot
+538,Economy & Growth,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD
+539,Economy & Growth,Exports of goods and services (current US$),NE.EXP.GNFS.CD
+540,Environment,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS
+541,Gender,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS
+542,Social Development,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS
+543,Social Development,Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot
+544,Economy & Growth,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG
+545,Social Development,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",SL.FAM.0714.ZS
+546,Financial Sector,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS
+547,Private Sector,Number of visits or required meetings with tax officials (average for affected firms),IC.TAX.METG
+548,Public Sector,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ
+549,Gender,"Child employment in services, male (% of male economically active children ages 7-14)",SL.SRV.0714.MA.ZS
+550,Economy & Growth,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD
+551,Private Sector,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS
+552,Education,Number of deaths ages 20-24 years,SH.DTH.2024
+553,Environment,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS
+554,Gender,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN
+555,Education,"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS
+556,External Debt,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD
+557,Gender,"Child employment in agriculture, male (% of male economically active children ages 7-14)",SL.AGR.0714.MA.ZS
+558,Environment,"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD
+559,Health,Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS
+560,Private Sector,"Cost to import, documentary compliance (US$)",IC.IMP.CSDC.CD
+561,Health,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS
+562,External Debt,"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD
+563,Gender,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS
+564,Education,"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS
+565,Social Development,Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot
+566,Gender,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS
+567,Gender,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS
+568,Health,"Population ages 0-14, male",SP.POP.0014.MA.IN
+569,Health,"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS
+570,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS
+571,Private Sector,Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT
+572,Private Sector,"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD
+573,Social Development,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS
+574,Gender,"Persistence to grade 5, male (% of cohort)",SE.PRM.PRS5.MA.ZS
+575,Social Development,Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot
+576,External Debt,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD
+577,Environment,"Bird species, threatened",EN.BIR.THRD.NO
+578,Economy & Growth,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN
+579,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD
+580,Financial Sector,Deposit interest rate (%),FR.INR.DPST
+581,Environment,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS
+582,Public Sector,Taxes on international trade (current LCU),GC.TAX.INTT.CN
+583,Public Sector,Expense (current LCU),GC.XPN.TOTL.CN
+584,Energy & Mining,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD
+585,Health,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y
+586,Aid Effectiveness,"Net official flows from UN agencies, UNEP (current US$)",DT.NFL.UNEP.CD
+587,Health,Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS
+588,Health,Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH
+589,Private Sector,"International tourism, expenditures (current US$)",ST.INT.XPND.CD
+590,Social Development,"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS
+591,Financial Sector,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3
+592,Economy & Growth,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG
+593,Economy & Growth,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD
+594,Environment,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS
+595,Private Sector,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS
+596,Environment,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
+597,Social Development,Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot
+598,Gender,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS
+599,Health,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y
+600,Environment,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ
+601,Economy & Growth,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS
+602,Social Development,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS
+603,Education,"Labor force, total",SL.TLF.TOTL.IN
+604,Gender,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS
+605,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS
+606,Health,Number of infant deaths,SH.DTH.IMRT
+607,Environment,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS
+608,Social Development,Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot
+609,Economy & Growth,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS
+610,Gender,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS
+611,Private Sector,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD
+612,Economy & Growth,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO
+613,Poverty,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP
+614,Private Sector,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD
+615,Public Sector,Interest payments (current LCU),GC.XPN.INTP.CN
+616,Health,"Population, male",SP.POP.TOTL.MA.IN
+617,Climate Change,Agricultural land (sq. km),AG.LND.AGRI.K2
+618,External Debt,"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS
+619,Gender,"Population ages 60-64, male",SP.POP.6064.MA
+620,Economy & Growth,Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN
+621,Economy & Growth,External balance on goods and services (current US$),NE.RSB.GNFS.CD
+622,Gender,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS
+623,Gender,"Age at first marriage, female",SP.DYN.SMAM.FE
+624,Financial Sector,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD
+625,Gender,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS
+626,Public Sector,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ
+627,External Debt,Short-term debt (% of total external debt),DT.DOD.DSTC.ZS
+628,Public Sector,Voice and Accountability: Percentile Rank,VA.PER.RNK
+629,Health,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS
+630,Social Development,"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS
+631,Agriculture & Rural Development,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS
+632,Environment,Methane emissions (% change from 1990),EN.ATM.METH.ZG
+633,Environment,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD
+634,Financial Sector,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF
+635,Economy & Growth,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS
+636,Gender,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS
+637,Public Sector,Government Effectiveness: Standard Error,GE.STD.ERR
+638,Gender,"Population ages 80 and above, female",SP.POP.80UP.FE
+639,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS
+640,Science & Technology,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6
+641,Energy & Mining,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS
+642,Public Sector,Rule of Law: Percentile Rank,RL.PER.RNK
+643,Economy & Growth,General government final consumption expenditure (current US$),NE.CON.GOVT.CD
+644,Social Development,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS
+645,Environment,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS
+646,Public Sector,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",VA.PER.RNK.LOWER
+647,Public Sector,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ
+648,Gender,Women who believe a husband is justified in beating his wife (any of five reasons) (%),SG.VAW.REAS.ZS
+649,Public Sector,Political Stability and Absence of Violence/Terrorism: Number of Sources,PV.NO.SRC
+650,Aid Effectiveness,"Net official flows from UN agencies, UNTA (current US$)",DT.NFL.UNTA.CD
+651,Energy & Mining,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN
+652,Environment,Aquaculture production (metric tons),ER.FSH.AQUA.MT
+653,Private Sector,Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ
+654,Education,"School enrollment, secondary (% net)",SE.SEC.NENR
+655,Economy & Growth,"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP
+656,Private Sector,"Lead time to import, median case (days)",LP.IMP.DURS.MD
+657,Economy & Growth,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS
+658,Poverty,Gini index,SI.POV.GINI
+659,Energy & Mining,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS
+660,External Debt,"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD
+661,Health,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y
+662,Economy & Growth,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC
+663,Social Development,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot
+664,Economy & Growth,GDP (constant LCU),NY.GDP.MKTP.KN
+665,Poverty,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ
+666,Economy & Growth,Number of people pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.TOTR.TO
+667,Public Sector,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ
+668,Health,Malaria cases reported,SH.STA.MALR
+669,Environment,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG
+670,Aid Effectiveness,"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD
+671,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD
+672,Gender,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS
+673,Poverty,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",SI.POV.MDIM.17.XQ
+674,Financial Sector,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS
+675,Health,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN
+676,Public Sector,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ
+677,Economy & Growth,Gross capital formation (current LCU),NE.GDI.TOTL.CN
+678,Public Sector,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ
+679,Health,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y
+680,Public Sector,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ
+681,Economy & Growth,Gross capital formation (constant LCU),NE.GDI.TOTL.KN
+682,Public Sector,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS
+683,Gender,"Persistence to last grade of primary, female (% of cohort)",SE.PRM.PRSL.FE.ZS
+684,Financial Sector,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS
+685,Public Sector,"Human capital index (HCI), male, lower bound (scale 0-1)",HD.HCI.OVRL.LB.MA
+686,External Debt,"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD
+687,External Debt,"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD
+688,Economy & Growth,GDP per capita (constant LCU),NY.GDP.PCAP.KN
+689,Private Sector,Losses due to theft and vandalism (% of annual sales for affected firms),IC.FRM.CRIM.ZS
+690,Energy & Mining,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS
+691,Public Sector,"Human capital index (HCI), female, lower bound (scale 0-1)",HD.HCI.OVRL.LB.FE
+692,Environment,"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS
+693,Public Sector,Other expense (% of expense),GC.XPN.OTHR.ZS
+694,Social Development,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS
+695,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS
+696,Education,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE
+697,Gender,"Age population, age 19, male, interpolated",SP.POP.AG19.MA.IN
+698,Social Development,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot
+699,External Debt,GNI (current US$),NY.GNP.MKTP.CD
+700,External Debt,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD
+701,Health,"Mortality rate, under-5, male (per 1,000)",SH.DYN.MORT.MA
+702,Gender,"Age population, age 22, female, interpolated",SP.POP.AG22.FE.IN
+703,Financial Sector,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT
+704,Gender,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS
+705,Social Development,Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS
+706,Economy & Growth,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD
+707,Economy & Growth,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN
+708,Social Development,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS
+709,External Debt,"PPG, official creditors (NFL, US$)",DT.NFL.OFFT.CD
+710,Gender,"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA
+711,Environment,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD
+712,Public Sector,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS
+713,Economy & Growth,Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD
+714,Economy & Growth,"Services, value added (current US$)",NV.SRV.TOTL.CD
+715,Public Sector,Government Effectiveness: Number of Sources,GE.NO.SRC
+716,Public Sector,Regulatory Quality: Number of Sources,RQ.NO.SRC
+717,Social Development,Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot
+718,Health,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5
+719,Health,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y
+720,Economy & Growth,Gross value added at basic prices (GVA) (constant 2015 US$),NY.GDP.FCST.KD
+721,Environment,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+722,Private Sector,"Cost to export, documentary compliance (US$)",IC.EXP.CSDC.CD
+723,Public Sector,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ
+724,Gender,"Age population, age 20, female, interpolated",SP.POP.AG20.FE.IN
+725,Environment,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE
+726,Health,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y
+727,Environment,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS
+728,Education,Expenditure on primary education (% of government expenditure on education),SE.XPD.PRIM.ZS
+729,External Debt,"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD
+730,Economy & Growth,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN
+731,Education,"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS
+732,Education,Number of deaths ages 15-19 years,SH.DTH.1519
+733,Health,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y
+734,Gender,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS
+735,Gender,Women who believe a husband is justified in beating his wife when she neglects the children (%),SG.VAW.NEGL.ZS
+736,Aid Effectiveness,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS
+737,Health,Number of maternal deaths,SH.MMR.DTHS
+738,Health,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI
+739,Health,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT
+740,Health,Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS
+741,Infrastructure,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT
+742,Economy & Growth,Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN
+743,Infrastructure,Secure Internet servers (per 1 million people),IT.NET.SECR.P6
+744,Health,"Prevalence of overweight, female (% of children under 5)",SH.STA.OWGH.FE.ZS
+745,Health,Number of under-five deaths,SH.DTH.MORT
+746,Education,"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS
+747,Education,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS
+748,Health,"Population ages 65 and above, total",SP.POP.65UP.TO
+749,Economy & Growth,Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN
+750,Education,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS
+751,Private Sector,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD
+752,Gender,"Age population, age 25, female, interpolated",SP.POP.AG25.FE.IN
+753,Financial Sector,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3
+754,Public Sector,Social contributions (current LCU),GC.REV.SOCL.CN
+755,Financial Sector,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS
+756,Public Sector,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5
+757,Gender,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS
+758,Health,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD
+759,Economy & Growth,Imports of goods and services (current US$),NE.IMP.GNFS.CD
+760,Agriculture & Rural Development,Rural population (% of total population),SP.RUR.TOTL.ZS
+761,Social Development,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS
+762,Health,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS
+763,Gender,"Persistence to grade 5, female (% of cohort)",SE.PRM.PRS5.FE.ZS
+764,Gender,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS
+765,Public Sector,Government Effectiveness: Estimate,GE.EST
+766,Economy & Growth,GNI (constant 2015 US$),NY.GNP.MKTP.KD
+767,Health,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS
+768,Public Sector,Rule of Law: Estimate,RL.EST
+769,Private Sector,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS
+770,Public Sector,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",GE.PER.RNK.LOWER
+771,Economy & Growth,GDP (constant 2015 US$),NY.GDP.MKTP.KD
+772,Environment,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS
+773,Gender,Number of weeks of maternity leave,SH.MMR.LEVE
+774,Gender,"Age at first marriage, male",SP.DYN.SMAM.MA
+775,Economy & Growth,"GDP per capita, PPP (constant 2017 international $)",NY.GDP.PCAP.PP.KD
+776,Economy & Growth,Financial intermediary services indirectly Measured (FISIM) (constant LCU),NV.FSM.TOTL.KN
+777,Economy & Growth,GDP (current LCU),NY.GDP.MKTP.CN
+778,Private Sector,"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS
+779,Poverty,Income share held by fourth 20%,SI.DST.04TH.20
+780,Private Sector,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD
+781,Private Sector,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS
+782,Health,"Population ages 15-64, total",SP.POP.1564.TO
+783,Private Sector,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD
+784,Education,"Repeaters, primary, total (% of total enrollment)",SE.PRM.REPT.ZS
+785,Gender,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA
+786,Health,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS
+787,Social Development,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS
+788,Gender,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE
+789,Education,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",SE.PRM.GINT.ZS
+790,Gender,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS
+791,Economy & Growth,Gross savings (current LCU),NY.GNS.ICTR.CN
+792,Health,"Number of deaths ages 10-19 years, female",SH.DTH.1019.FE
+793,Climate Change,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS
+794,Economy & Growth,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD
+795,Health,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS
+796,Social Development,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS
+797,Economy & Growth,"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD
+798,Public Sector,Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS
+799,Health,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y
+800,Economy & Growth,Taxes less subsidies on products (current US$),NY.TAX.NIND.CD
+801,Environment,"Mammal species, threatened",EN.MAM.THRD.NO
+802,Health,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS
+803,External Debt,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD
+804,Education,"Over-age students, primary, female (% of female enrollment)",SE.PRM.OENR.FE.ZS
+805,Public Sector,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD
+806,Financial Sector,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT
+807,Gender,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS
+808,Energy & Mining,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS
+809,Social Development,"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS
+810,Economy & Growth,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD
+811,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS
+812,Education,"Persistence to grade 5, total (% of cohort)",SE.PRM.PRS5.ZS
+813,Environment,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS
+814,Health,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS
+815,Economy & Growth,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN
+816,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG
+817,Health,"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS
+818,Environment,"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD
+819,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG
+820,Gender,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS
+821,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS
+822,Gender,"Age population, age 23, male, interpolated",SP.POP.AG23.MA.IN
+823,Gender,"Age population, age 15, female, interpolated",SP.POP.AG15.FE.IN
+824,Health,"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD
+825,Economy & Growth,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS
+826,Education,"Secondary education, general pupils",SE.SEC.ENRL.GC
+827,External Debt,Present value of external debt (current US$),DT.DOD.PVLX.CD
+828,Economy & Growth,Gross capital formation (current US$),NE.GDI.TOTL.CD
+829,Education,Net intake rate in grade 1 (% of official school-age population),SE.PRM.NINT.ZS
+830,Environment,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE
+831,Health,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN
+832,Gender,Wanted fertility rate (births per woman),SP.DYN.WFRT
+833,Public Sector,"Human capital index (HCI), lower bound (scale 0-1)",HD.HCI.OVRL.LB
+834,Public Sector,Control of Corruption: Estimate,CC.EST
+835,Economy & Growth,GDP per capita (current US$),NY.GDP.PCAP.CD
+836,Economy & Growth,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS
+837,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.MA.ZS
+838,Private Sector,Import volume index (2015 = 100),TM.QTY.MRCH.XD.WD
+839,Health,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS
+840,Financial Sector,Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS
+841,Economy & Growth,Gross savings (current US$),NY.GNS.ICTR.CD
+842,Education,Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS
+843,Gender,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS
+844,Gender,"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN
+845,Private Sector,"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS
+846,Environment,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG
+847,External Debt,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS
+848,Infrastructure,Rail lines (total route-km),IS.RRS.TOTL.KM
+849,Gender,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS
+850,Public Sector,Control of Corruption: Number of Sources,CC.NO.SRC
+851,Private Sector,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS
+852,Environment,"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS
+853,Private Sector,"International tourism, receipts (current US$)",ST.INT.RCPT.CD
+854,Gender,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA
+855,Health,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y
+856,Health,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG
+857,Economy & Growth,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS
+858,Environment,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3
+859,Environment,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS
+860,Environment,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS
+861,Public Sector,Interest payments (% of expense),GC.XPN.INTP.ZS
+862,Energy & Mining,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN
+863,Public Sector,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",RQ.PER.RNK.LOWER
+864,Economy & Growth,External balance on goods and services (current LCU),NE.RSB.GNFS.CN
+865,Health,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD
+866,Environment,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE
+867,Economy & Growth,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3
+868,Economy & Growth,GDP per capita (current LCU),NY.GDP.PCAP.CN
+869,Environment,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS
+870,Environment,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE
+871,Social Development,Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot
+872,Health,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL
+873,Energy & Mining,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD
+874,Public Sector,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS
+875,Private Sector,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS
+876,Private Sector,"Start-up procedures to register a business, female (number)",IC.REG.PROC.FE
+877,Health,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA
+878,Gender,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",SL.MNF.0714.MA.ZS
+879,Social Development,"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS
+880,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS
+881,Financial Sector,"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR
+882,Financial Sector,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP
+883,Private Sector,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT
+884,Poverty,Income share held by lowest 10%,SI.DST.FRST.10
+885,Environment,Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD
+886,Economy & Growth,"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD
+887,Social Development,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",SL.FAM.0714.FE.ZS
+888,Private Sector,"Time to export, documentary compliance (hours)",IC.EXP.TMDC
+889,Economy & Growth,"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD
+890,Social Development,Child employment in manufacturing (% of economically active children ages 7-14),SL.MNF.0714.ZS
+891,Economy & Growth,Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN
+892,Economy & Growth,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+893,Education,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS
+894,Economy & Growth,"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG
+895,Health,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS
+896,Social Development,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS
+897,External Debt,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD
+898,Education,"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS
+899,Economy & Growth,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN
+900,Health,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS
+901,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD
+902,Public Sector,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",VA.PER.RNK.UPPER
+903,Poverty,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40
+904,Health,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",SP.DYN.CONM.ZS
+905,Private Sector,Start-up procedures to register a business (number),IC.REG.PROC
+906,Private Sector,"International tourism, number of arrivals",ST.INT.ARVL
+907,Health,Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS
+908,Economy & Growth,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD
+909,Environment,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS
+910,Health,Adults (ages 15+) living with HIV,SH.DYN.AIDS
+911,Economy & Growth,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD
+912,Environment,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS
+913,Health,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS
+914,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD
+915,Education,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS
+916,Private Sector,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN
+917,Gender,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN
+918,Financial Sector,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD
+919,Public Sector,Tax revenue (current LCU),GC.TAX.TOTL.CN
+920,Private Sector,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD
+921,Health,"Number of deaths ages 20-24 years, male",SH.DTH.2024.MA
+922,Agriculture & Rural Development,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN
+923,Environment,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT
+924,Social Development,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS
+925,Gender,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN
+926,Public Sector,Voice and Accountability: Number of Sources,VA.NO.SRC
+927,Health,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS
+928,Public Sector,Control of Corruption: Percentile Rank,CC.PER.RNK
+929,Public Sector,Grants and other revenue (current LCU),GC.REV.GOTR.CN
+930,Public Sector,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN
+931,Public Sector,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",PV.PER.RNK.UPPER
+932,Public Sector,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN
+933,External Debt,Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS
+934,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD
+935,Education,"Persistence to last grade of primary, total (% of cohort)",SE.PRM.PRSL.ZS
+936,External Debt,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD
+937,Economy & Growth,Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS
+938,Economy & Growth,Gross fixed capital formation (constant 2015 US$),NE.GDI.FTOT.KD
+939,Environment,Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD
+940,Education,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS
+941,Financial Sector,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ
+942,Environment,CO2 emissions (kt),EN.ATM.CO2E.KT
+943,Environment,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE
+944,Health,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y
+945,Climate Change,Urban population growth (annual %),SP.URB.GROW
+946,Economy & Growth,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS
+947,Social Development,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",SL.WAG.0714.MA.ZS
+948,Public Sector,"Human capital index (HCI), male, upper bound (scale 0-1)",HD.HCI.OVRL.UB.MA
+949,Financial Sector,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3
+950,Education,"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509
+951,Health,Refugee population by country or territory of origin,SM.POP.REFG.OR
+952,Health,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3
+953,Education,"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS
+954,Economy & Growth,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN
+955,Private Sector,Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS
+956,Private Sector,Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT
+957,Public Sector,Regulatory Quality: Standard Error,RQ.STD.ERR
+958,Health,"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS
+959,Gender,Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS
+960,Gender,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE
+961,Public Sector,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS
+962,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD
+963,Education,"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS
+964,Private Sector,"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS
+965,Agriculture & Rural Development,Arable land (hectares per person),AG.LND.ARBL.HA.PC
+966,Environment,"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS
+967,Gender,"Population ages 40-44, female",SP.POP.4044.FE
+968,Social Development,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS
+969,Public Sector,Military expenditure (current LCU),MS.MIL.XPND.CN
+970,Health,"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS
+971,External Debt,Total debt service (% of GNI),DT.TDS.DECT.GN.ZS
+972,Education,Number of deaths ages 5-9 years,SH.DTH.0509
+973,Health,Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS
+974,Education,"Compulsory education, duration (years)",SE.COM.DURS
+975,Economy & Growth,"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD
+976,Gender,"Net intake rate in grade 1, female (% of official school-age population)",SE.PRM.NINT.FE.ZS
+977,Social Development,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot
+978,Energy & Mining,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD
+979,Health,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS
+980,Public Sector,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS
+981,Environment,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS
+982,External Debt,"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD
+983,Public Sector,Social contributions (% of revenue),GC.REV.SOCL.ZS
+984,Health,"Population ages 15-64, female",SP.POP.1564.FE.IN
+985,Private Sector,"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT
+986,Financial Sector,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS
+987,Gender,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS
+988,Public Sector,Goods and services expense (% of expense),GC.XPN.GSRV.ZS
+989,External Debt,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD
+990,Economy & Growth,Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN
+991,Private Sector,"Cost of business start-up procedures, male (% of GNI per capita)",IC.REG.COST.PC.MA.ZS
+992,Health,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS
+993,Public Sector,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS
+994,Social Development,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS
+995,Gender,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS
+996,Public Sector,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS
+997,Environment,Rural land area (sq. km),AG.LND.TOTL.RU.K2
+998,Climate Change,Urban population,SP.URB.TOTL
+999,Health,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS
+1000,Health,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD
+1001,Gender,"Persistence to last grade of primary, male (% of cohort)",SE.PRM.PRSL.MA.ZS
+1002,Environment,"Plant species (higher), threatened",EN.HPT.THRD.NO
+1003,Gender,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS
+1004,Economy & Growth,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",NE.CON.PRVT.PP.KD
+1005,Public Sector,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4
+1006,Public Sector,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS
+1007,Private Sector,"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS
+1008,Environment,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2
+1009,Health,"Population ages 15-64, male",SP.POP.1564.MA.IN
+1010,Economy & Growth,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD
+1011,Agriculture & Rural Development,Permanent cropland (% of land area),AG.LND.CROP.ZS
+1012,Financial Sector,Real interest rate (%),FR.INR.RINR
+1013,Education,"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS
+1014,Environment,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS
+1015,Economy & Growth,Adjusted net national income (current US$),NY.ADJ.NNTY.CD
+1016,Social Development,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS
+1017,Education,Primary school starting age (years),SE.PRM.AGES
+1018,Financial Sector,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG
+1019,Education,"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014
+1020,Gender,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),SG.VAW.REFU.ZS
+1021,Health,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS
+1022,Health,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN
+1023,Economy & Growth,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN
+1024,Private Sector,"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS
+1025,Economy & Growth,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS
+1026,Health,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.25.ZS
+1027,Economy & Growth,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD
+1028,Economy & Growth,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD
+1029,Education,"School enrollment, primary (% gross)",SE.PRM.ENRR
+1030,Gender,"Population ages 50-54, male",SP.POP.5054.MA
+1031,Gender,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
+1032,Health,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y
+1033,Gender,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE
+1034,Economy & Growth,GNI (current LCU),NY.GNP.MKTP.CN
+1035,Gender,"Population ages 30-34, male",SP.POP.3034.MA
+1036,Private Sector,Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS
+1037,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD
+1038,Financial Sector,S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG
+1039,Public Sector,Voice and Accountability: Estimate,VA.EST
+1040,Education,Progression to secondary school (%),SE.SEC.PROG.ZS
+1041,Health,"Probability of dying among adolescents ages 10-14 years, female (per 1,000)",SH.DYN.1014.FE
+1042,Infrastructure,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD
+1043,Social Development,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS
+1044,Public Sector,Taxes on exports (current LCU),GC.TAX.EXPT.CN
+1045,Economy & Growth,"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS
+1046,Environment,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD
+1047,Environment,Urban land area (sq. km),AG.LND.TOTL.UR.K2
+1048,Public Sector,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS
+1049,Financial Sector,"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD
+1050,Gender,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS
+1051,Gender,"Progression to secondary school, female (%)",SE.SEC.PROG.FE.ZS
+1052,Public Sector,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN
+1053,Environment,People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS
+1054,Private Sector,"Share of tariff lines with international peaks, all products (%)",TM.TAX.MRCH.IP.ZS
+1055,External Debt,"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD
+1056,Health,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT
+1057,Public Sector,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD
+1058,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.FE.ZS
+1059,Private Sector,Procedures to build a warehouse (number),IC.WRH.PROC
+1060,Economy & Growth,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD
+1061,Private Sector,Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS
+1062,Social Development,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),per_lm_alllm.ben_q1_tot
+1063,Gender,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS
+1064,Gender,"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE
+1065,Infrastructure,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM
+1066,Private Sector,"Share of tariff lines with specific rates, manufactured products (%)",TM.TAX.MANF.SR.ZS
+1067,Private Sector,"Time to import, documentary compliance (hours)",IC.IMP.TMDC
+1068,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Hungary (current US$)",DC.DAC.HUNL.CD
+1069,Education,"Secondary education, vocational pupils",SE.SEC.ENRL.VO
+1070,Social Development,"Average working hours of children, working only, ages 7-14 (hours per week)",SL.TLF.0714.WK.TM
+1071,Social Development,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",SL.FAM.0714.MA.ZS
+1072,Financial Sector,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS
+1073,Gender,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE
+1074,Health,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y
+1075,Economy & Growth,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN
+1076,Health,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y
+1077,Health,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y
+1078,Economy & Growth,Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD
+1079,Gender,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS
+1080,Aid Effectiveness,Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS
+1081,Health,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS
+1082,Health,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3
+1083,Environment,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5
+1084,Education,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS
+1085,Economy & Growth,Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN
+1086,Agriculture & Rural Development,Cereal production (metric tons),AG.PRD.CREL.MT
+1087,Private Sector,"Share of tariff lines with specific rates, primary products (%)",TM.TAX.TCOM.SR.ZS
+1088,Agriculture & Rural Development,Rural population growth (annual %),SP.RUR.TOTL.ZG
+1089,Social Development,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",SL.TLF.0714.SW.MA.TM
+1090,Education,"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024
+1091,Economy & Growth,Gross national expenditure (current LCU),NE.DAB.TOTL.CN
+1092,Economy & Growth,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC
+1093,Gender,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA
+1094,Private Sector,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP.LPI.TRAC.XQ
+1095,Economy & Growth,"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD
+1096,Social Development,"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS
+1097,Education,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS
+1098,Health,Number of deaths ages 10-19 years,SH.DTH.1019
+1099,Public Sector,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ
+1100,Private Sector,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS
+1101,Education,"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS
+1102,Agriculture & Rural Development,Arable land (hectares),AG.LND.ARBL.HA
+1103,Public Sector,Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN
+1104,Public Sector,"Human capital index (HCI), male (scale 0-1)",HD.HCI.OVRL.MA
+1105,Health,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT2.ZS
+1106,Social Development,GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD
+1107,Health,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14
+1108,Social Development,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS
+1109,Economy & Growth,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM
+1110,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD
+1111,Social Development,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS
+1112,Aid Effectiveness,"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD
+1113,Economy & Growth,"Services, value added (current LCU)",NV.SRV.TOTL.CN
+1114,Environment,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS
+1115,Economy & Growth,"Services, value added (constant 2015 US$)",NV.SRV.TOTL.KD
+1116,Gender,"Age population, age 24, male, interpolated",SP.POP.AG24.MA.IN
+1117,Economy & Growth,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN
+1118,Social Development,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS
+1119,Health,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y
+1120,Health,"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5
+1121,Economy & Growth,Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF
+1122,Gender,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS
+1123,Gender,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS
+1124,Public Sector,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",RL.PER.RNK.UPPER
+1125,Financial Sector,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD
+1126,Social Development,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS
+1127,Education,"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS
+1128,Public Sector,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",PV.PER.RNK.LOWER
+1129,Education,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS
+1130,Financial Sector,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD
+1131,Private Sector,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS
+1132,Education,Expenditure on secondary education (% of government expenditure on education),SE.XPD.SECO.ZS
+1133,Poverty,Proportion of people living below 50 percent of median income (%),SI.DST.50MD
+1134,Financial Sector,"Listed domestic companies, total",CM.MKT.LDOM.NO
+1135,Social Development,"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS
+1136,Environment,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS
+1137,Private Sector,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS
+1138,Health,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS
+1139,Health,"People using safely managed sanitation services, urban  (% of urban population)",SH.STA.SMSS.UR.ZS
+1140,Health,"Prevalence of overweight, male (% of children under 5)",SH.STA.OWGH.MA.ZS
+1141,Gender,"Population ages 60-64, female",SP.POP.6064.FE
+1142,Economy & Growth,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD
+1143,Private Sector,"Share of tariff lines with international peaks, manufactured products (%)",TM.TAX.MANF.IP.ZS
+1144,Public Sector,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ
+1145,Health,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS
+1146,Environment,Arable land (% of land area),AG.LND.ARBL.ZS
+1147,Gender,"Age population, age 21, female, interpolated",SP.POP.AG21.FE.IN
+1148,Gender,"Child employment in services, female (% of female economically active children ages 7-14)",SL.SRV.0714.FE.ZS
+1149,Gender,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS
+1150,Social Development,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS
+1151,Financial Sector,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS
+1152,Social Development,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",SL.TLF.0714.SW.FE.TM
+1153,Public Sector,Battle-related deaths (number of people),VC.BTL.DETH
+1154,Gender,"Population ages 10-14, male",SP.POP.1014.MA
+1155,Gender,"Age population, age 21, male, interpolated",SP.POP.AG21.MA.IN
+1156,Financial Sector,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS
+1157,Infrastructure,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD
+1158,Economy & Growth,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS
+1159,Health,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5
+1160,Gender,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS
+1161,Education,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS
+1162,External Debt,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS
+1163,Environment,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS
+1164,Climate Change,Cereal yield (kg per hectare),AG.YLD.CREL.KG
+1165,Health,"Number of deaths ages 20-24 years, female",SH.DTH.2024.FE
+1166,Private Sector,"Share of tariff lines with specific rates, all products (%)",TM.TAX.MRCH.SR.ZS
+1167,Health,"Probability of dying among children ages 5-9 years, female (per 1,000)",SH.DYN.0509.FE
+1168,Environment,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5
+1169,Private Sector,Procedures to register property (number),IC.PRP.PROC
+1170,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS
+1171,Environment,Agricultural land (% of land area),AG.LND.AGRI.ZS
+1172,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD
+1173,Health,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP1.ZS
+1174,Financial Sector,Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS
+1175,Poverty,"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH
+1176,Health,"Probability of dying among adolescents ages 10-14 years, male (per 1,000)",SH.DYN.1014.MA
+1177,External Debt,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS
+1178,Infrastructure,Secure Internet servers,IT.NET.SECR
+1179,Health,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y
+1180,Health,Completeness of birth registration (%),SP.REG.BRTH.ZS
+1181,Economy & Growth,Expense (% of GDP),GC.XPN.TOTL.GD.ZS
+1182,Private Sector,Commercial service exports (current US$),TX.VAL.SERV.CD.WT
+1183,Financial Sector,Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS
+1184,Gender,"Age population, age 17, female, interpolated",SP.POP.AG17.FE.IN
+1185,Health,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI
+1186,Economy & Growth,"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN
+1187,Gender,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS
+1188,Environment,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5
+1189,Health,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS
+1190,Energy & Mining,Time required to get electricity (days),IC.ELC.TIME
+1191,Energy & Mining,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",EG.USE.COMM.GD.PP.KD
+1192,Private Sector,"Cost of business start-up procedures, female (% of GNI per capita)",IC.REG.COST.PC.FE.ZS
+1193,Infrastructure,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD
+1194,Social Development,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS
+1195,Environment,Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD
+1196,Environment,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS
+1197,Health,"Number of under-five deaths, female",SH.DTH.MORT.FE
+1198,Gender,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN
+1199,Health,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5
+1200,Environment,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
+1201,Gender,"Population ages 30-34, female",SP.POP.3034.FE
+1202,Gender,Female primary school age children out-of-school (%),SE.LPV.PRIM.SD.FE
+1203,Economy & Growth,Trade (% of GDP),NE.TRD.GNFS.ZS
+1204,Environment,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE
+1205,Health,Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS
+1206,Environment,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD
+1207,Urban Development,Population in largest city,EN.URB.LCTY
+1208,Economy & Growth,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN
+1209,Health,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBPR.ZS
+1210,Economy & Growth,"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD
+1211,Financial Sector,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK
+1212,Environment,"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS
+1213,Health,Female genital mutilation prevalence (%),SH.STA.FGMS.ZS
+1214,Economy & Growth,Gross national expenditure (current US$),NE.DAB.TOTL.CD
+1215,Economy & Growth,"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS
+1216,Health,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5
+1217,Agriculture & Rural Development,Land under cereal production (hectares),AG.LND.CREL.HA
+1218,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD
+1219,Education,"Secondary education, duration (years)",SE.SEC.DURS
+1220,Health,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI
+1221,External Debt,"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD
+1222,Economy & Growth,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN
+1223,Health,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS
+1224,Environment,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS
+1225,Social Development,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS
+1226,Gender,"Children out of school, primary, female",SE.PRM.UNER.FE
+1227,Health,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD
+1228,Education,"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS
+1229,External Debt,Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS
+1230,Poverty,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP
+1231,Financial Sector,Net domestic credit (current LCU),FM.AST.DOMS.CN
+1232,Private Sector,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS
+1233,Economy & Growth,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD
+1234,Gender,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN
+1235,Social Development,"Average working hours of children, working only, female, ages 7-14 (hours per week)",SL.TLF.0714.WK.FE.TM
+1236,Infrastructure,"Trademark applications, nonresident, by count",IP.TMK.NRCT
+1237,Private Sector,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS
+1238,Private Sector,"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT
+1239,Gender,"Population ages 25-29, male",SP.POP.2529.MA
+1240,Infrastructure,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU
+1241,Gender,"Net intake rate in grade 1, male (% of official school-age population)",SE.PRM.NINT.MA.ZS
+1242,Financial Sector,Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS
+1243,Public Sector,Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS
+1244,Public Sector,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5
+1245,Private Sector,Time required to obtain an operating license (days),IC.FRM.DURS
+1246,Gender,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS
+1247,Social Development,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM
+1248,Financial Sector,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD
+1249,Energy & Mining,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN
+1250,Financial Sector,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5
+1251,Public Sector,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS
+1252,Education,Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS
+1253,Financial Sector,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS
+1254,Private Sector,Average time to clear exports through customs (days),IC.CUS.DURS.EX
+1255,Infrastructure,Fixed broadband subscriptions,IT.NET.BBND
+1256,Economy & Growth,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS
+1257,Social Development,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS
+1258,Gender,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN
+1259,Public Sector,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",RQ.PER.RNK.UPPER
+1260,Gender,"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE
+1261,Environment,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE
+1262,Economy & Growth,Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS
+1263,Gender,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN
+1264,Financial Sector,Consumer price index (2010 = 100),FP.CPI.TOTL
+1265,Economy & Growth,"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD
+1266,Social Development,"Average working hours of children, working only, male, ages 7-14 (hours per week)",SL.TLF.0714.WK.MA.TM
+1267,Environment,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS
+1268,Private Sector,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS
+1269,Economy & Growth,Adjusted net national income (constant 2015 US$),NY.ADJ.NNTY.KD
+1270,Private Sector,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS
+1271,Health,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+1272,Social Development,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot
+1273,Social Development,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS
+1274,Private Sector,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP.LPI.LOGS.XQ
+1275,Environment,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS
+1276,Health,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB
+1277,Social Development,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS
+1278,Environment,Average precipitation in depth (mm per year),AG.LND.PRCP.MM
+1279,Economy & Growth,"Net ODA provided, total (current US$)",DC.ODA.TOTL.CD
+1280,Social Development,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot
+1281,Economy & Growth,Gross savings (% of GDP),NY.GNS.ICTR.ZS
+1282,Education,Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14,SE.ENR.ORPH
+1283,Education,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS
+1284,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD
+1285,Private Sector,Time to resolve insolvency (years),IC.ISV.DURS
+1286,Health,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS
+1287,Health,UHC service coverage index,SH.UHC.SRVS.CV.XD
+1288,Gender,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS
+1289,Private Sector,Firms that do not report all sales for tax purposes (% of firms),IC.FRM.INFM.ZS
+1290,Private Sector,"Lead time to export, median case (days)",LP.EXP.DURS.MD
+1291,Private Sector,Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS
+1292,Education,"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS
+1293,Public Sector,Regulatory Quality: Percentile Rank,RQ.PER.RNK
+1294,Gender,"Population ages 00-04, male",SP.POP.0004.MA
+1295,Public Sector,Regulatory Quality: Estimate,RQ.EST
+1296,Gender,"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS
+1297,Economy & Growth,Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD
+1298,Gender,"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE
+1299,External Debt,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD
+1300,Education,"Primary education, duration (years)",SE.PRM.DURS
+1301,Gender,"School enrollment, primary, female (% net)",SE.PRM.NENR.FE
+1302,Social Development,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot
+1303,Gender,"Age population, age 18, male, interpolated",SP.POP.AG18.MA.IN
+1304,Environment,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS
+1305,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD
+1306,Health,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS
+1307,Gender,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN
+1308,Public Sector,"Armed forces personnel, total",MS.MIL.TOTL.P1
+1309,Private Sector,Time to prepare and pay taxes (hours),IC.TAX.DURS
+1310,External Debt,"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD
+1311,Private Sector,Tax payments (number),IC.TAX.PAYM
+1312,Gender,"Population ages 50-54, female",SP.POP.5054.FE
+1313,Financial Sector,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS
+1314,Private Sector,Time required to start a business (days),IC.REG.DURS
+1315,Gender,"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA
+1316,Gender,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),SG.VAW.GOES.ZS
+1317,Health,Prevalence of syphilis (% of women attending antenatal care),SH.PRG.SYPH.ZS
+1318,Agriculture & Rural Development,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD
+1319,Climate Change,Population growth (annual %),SP.POP.GROW
+1320,Agriculture & Rural Development,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD
+1321,Financial Sector,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5
+1322,Economy & Growth,Changes in inventories (current US$),NE.GDI.STKB.CD
+1323,Financial Sector,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS
+1324,Health,"Mortality caused by road traffic injury (per 100,000 people)",SH.STA.TRAF.P5
+1325,Private Sector,Import value index (2015 = 100),TM.VAL.MRCH.XD.WD
+1326,Environment,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS
+1327,Private Sector,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS
+1328,Gender,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS
+1329,Economy & Growth,Changes in inventories (current LCU),NE.GDI.STKB.CN
+1330,Economy & Growth,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD
+1331,Social Development,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS
+1332,Private Sector,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS
+1333,Health,Number of stillbirths,SH.DTH.STLB
+1334,Environment,Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD
+1335,Health,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS
+1336,Social Development,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS
+1337,Gender,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS
+1338,Financial Sector,"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD
+1339,Private Sector,"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS
+1340,Economy & Growth,Final consumption expenditure (constant 2015 US$),NE.CON.TOTL.KD
+1341,Gender,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS
+1342,Climate Change,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY
+1343,Aid Effectiveness,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD
+1344,Aid Effectiveness,Income share held by lowest 20%,SI.DST.FRST.20
+1345,Financial Sector,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS
+1346,Gender,"Repeaters, primary, female (% of female enrollment)",SE.PRM.REPT.FE.ZS
+1347,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD
+1348,Economy & Growth,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD
+1349,Environment,"Fish species, threatened",EN.FSH.THRD.NO
+1350,Gender,"Population ages 05-09, male",SP.POP.0509.MA
+1351,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD
+1352,Gender,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS
+1353,Gender,"Repeaters, primary, male (% of male enrollment)",SE.PRM.REPT.MA.ZS
+1354,Health,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y
+1355,Environment,Forest area (% of land area),AG.LND.FRST.ZS
+1356,Health,External health expenditure channeled through government (% of external health expenditure),SH.XPD.EHEX.EH.ZS
+1357,Private Sector,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS
+1358,Public Sector,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD
+1359,Economy & Growth,Changes in inventories (constant LCU),NE.GDI.STKB.KN
+1360,Private Sector,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS
+1361,Gender,"Age population, age 13, male, interpolated",SP.POP.AG13.MA.IN
+1362,Environment,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+1363,Social Development,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS
+1364,Health,Pregnant women receiving prenatal care of at least four visits (% of pregnant women),SH.STA.ANV4.ZS
+1365,Gender,"Child employment in agriculture, female (% of female economically active children ages 7-14)",SL.AGR.0714.FE.ZS
+1366,Economy & Growth,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS
+1367,Education,"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS
+1368,Energy & Mining,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS
+1369,Private Sector,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS
+1370,Education,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS
+1371,Health,"Number of deaths ages 15-19 years, male",SH.DTH.1519.MA
+1372,Health,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS
+1373,Private Sector,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS
+1374,Health,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5
+1375,Social Development,Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS
+1376,Infrastructure,Fixed telephone subscriptions,IT.MLT.MAIN
+1377,Environment,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS
+1378,Private Sector,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS
+1379,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS
+1380,Public Sector,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV
+1381,Financial Sector,Broad money (current LCU),FM.LBL.BMNY.CN
+1382,Education,Children out of school (% of primary school age),SE.PRM.UNER.ZS
+1383,Health,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3
+1384,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD
+1385,Public Sector,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ
+1386,Private Sector,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT
+1387,Health,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3
+1388,Private Sector,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS
+1389,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS
+1390,Private Sector,Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN
+1391,Gender,"School enrollment, primary, male (% net)",SE.PRM.NENR.MA
+1392,Economy & Growth,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD
+1393,Private Sector,Commercial service imports (current US$),TM.VAL.SERV.CD.WT
+1394,Private Sector,Time required to register property (days),IC.PRP.DURS
+1395,Education,"School enrollment, primary (% net)",SE.PRM.NENR
+1396,Health,"Condom use at last high-risk sex, adult male (% ages 15-49)",SH.CON.AIDS.MA.ZS
+1397,Gender,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN
+1398,Private Sector,"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS
+1399,Agriculture & Rural Development,Rural population,SP.RUR.TOTL
+1400,Economy & Growth,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD
+1401,Education,"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS
+1402,Health,Consumption of iodized salt (% of households),SN.ITK.SALT.ZS
+1403,Education,Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS
+1404,Private Sector,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS
+1405,Education,"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS
+1406,Economy & Growth,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG
+1407,Infrastructure,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6
+1408,Public Sector,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ
+1409,Infrastructure,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2
+1410,Social Development,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS
+1411,Energy & Mining,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS
+1412,Environment,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS
+1413,Education,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS
+1414,Environment,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG
+1415,Aid Effectiveness,"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD
+1416,Health,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT
+1417,Gender,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS
+1418,Private Sector,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS
+1419,Education,"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS
+1420,Health,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG
+1421,Social Development,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS
+1422,Aid Effectiveness,Net official development assistance received (constant 2020 US$),DT.ODA.ODAT.KD
+1423,Agriculture & Rural Development,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS
+1424,Gender,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS
+1425,Infrastructure,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD
+1426,Private Sector,Firms experiencing electrical outages (% of firms),IC.ELC.OUTG.ZS
+1427,Environment,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS
+1428,Environment,Surface area (sq. km),AG.SRF.TOTL.K2
+1429,Private Sector,Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN
+1430,Private Sector,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS
+1431,Aid Effectiveness,"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD
+1432,Social Development,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS
+1433,Public Sector,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS
+1434,Financial Sector,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS
+1435,Aid Effectiveness,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD
+1436,Environment,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS
+1437,Environment,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+1438,Health,"International migrant stock, total",SM.POP.TOTL
+1439,Environment,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC
+1440,Public Sector,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ
+1441,Public Sector,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2
+1442,Financial Sector,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3
+1443,Economy & Growth,"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD
+1444,Poverty,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17
+1445,Health,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS
+1446,Aid Effectiveness,"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD
+1447,Environment,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS
+1448,Social Development,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS
+1449,Environment,Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS
+1450,Private Sector,"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS
+1451,Gender,"Age population, age 12, male, interpolated",SP.POP.AG12.MA.IN
+1452,Financial Sector,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS
+1453,Environment,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT
+1454,Climate Change,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ
+1455,Gender,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.MA
+1456,Private Sector,Firms visited or required meetings with tax officials (% of firms),IC.FRM.METG.ZS
+1457,Education,Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS
+1458,Public Sector,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ
+1459,Gender,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS
+1460,Economy & Growth,"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD
+1461,Agriculture & Rural Development,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD
+1462,Health,"Population ages 0-14, female",SP.POP.0014.FE.IN
+1463,Gender,"Population ages 00-14, total",SP.POP.0014.TO
+1464,Gender,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS
+1465,Education,"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS
+1466,Gender,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",SL.MNF.0714.FE.ZS
+1467,Environment,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+1468,Environment,"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS
+1469,Aid Effectiveness,"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD
+1470,Public Sector,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ
+1471,Private Sector,Firms that spend on R&D (% of firms),IC.FRM.RSDV.ZS
+1472,Health,"Probability of dying among adolescents ages 10-19 years (per 1,000)",SH.DYN.1019
+1473,Private Sector,"Time required to start a business, male (days)",IC.REG.DURS.MA
+1474,Agriculture & Rural Development,"Agricultural machinery, tractors",AG.AGR.TRAC.NO
+1475,Gender,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.FE
+1476,Health,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD
+1477,Poverty,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE
+1478,Gender,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN
+1479,Social Development,Child employment in services (% of economically active children ages 7-14),SL.SRV.0714.ZS
+1480,Health,"Number of deaths ages 10-14 years, female",SH.DTH.1014.FE
+1481,Agriculture & Rural Development,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS
+1482,Aid Effectiveness,"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD
+1483,Private Sector,Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS
+1484,Gender,"Secondary education, vocational pupils (% female)",SE.SEC.ENRL.VO.FE.ZS
+1485,Health,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS
+1486,Private Sector,"Start-up procedures to register a business, male (number)",IC.REG.PROC.MA
+1487,Science & Technology,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS
+1488,Private Sector,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN
+1489,Private Sector,"Time to export, border compliance (hours)",IC.EXP.TMBC
+1490,Gender,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN
+1491,Environment,Land area (sq. km),AG.LND.TOTL.K2
+1492,Private Sector,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS
+1493,Infrastructure,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN
+1494,Environment,"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS
+1495,Social Development,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS
+1496,Health,"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS
+1497,Aid Effectiveness,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD
+1498,Environment,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+1499,Private Sector,"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS
+1500,Gender,"Population ages 00-04, female",SP.POP.0004.FE
+1501,Economy & Growth,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS
+1502,Poverty,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM
+1503,Public Sector,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN
+1504,Gender,"Age population, age 19, female, interpolated",SP.POP.AG19.FE.IN
+1505,Private Sector,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD
+1506,Gender,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS
+1507,Health,Refugee population by country or territory of asylum,SM.POP.REFG
+1508,Education,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS
+1509,Health,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+1510,Private Sector,New businesses registered (number),IC.BUS.NREG
+1511,Health,Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS
+1512,Private Sector,"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS
+1513,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD
+1514,Financial Sector,Real effective exchange rate index (2010 = 100),PX.REX.REER
+1515,Environment,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT
+1516,Energy & Mining,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS
+1517,Aid Effectiveness,Net official aid received (current US$),DT.ODA.OATL.CD
+1518,Public Sector,Rule of Law: Number of Sources,RL.NO.SRC
+1519,Urban Development,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS
+1520,Health,Low-birthweight babies (% of births),SH.STA.BRTW.ZS
+1521,Private Sector,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS
+1522,Health,"Probability of dying among adolescents ages 10-19 years, male (per 1,000)",SH.DYN.1019.MA
+1523,Gender,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",SE.PRM.GINT.MA.ZS
+1524,Public Sector,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN
+1525,Infrastructure,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2
+1526,Gender,Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS
+1527,Private Sector,High-technology exports (current US$),TX.VAL.TECH.CD
+1528,External Debt,"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD
+1529,Economy & Growth,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD
+1530,Environment,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS
+1531,Social Development,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS
+1532,Economy & Growth,GNI per capita (constant LCU),NY.GNP.PCAP.KN
+1533,Health,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK
+1534,Poverty,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS
+1535,Private Sector,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS
+1536,Social Development,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS
+1537,Environment,Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD
+1538,Environment,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS
+1539,Public Sector,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5
+1540,Financial Sector,Total reserves in months of imports,FI.RES.TOTL.MO
+1541,Environment,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS
+1542,Aid Effectiveness,"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD
+1543,Economy & Growth,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD
+1544,Economy & Growth,Gross domestic savings (current US$),NY.GDS.TOTL.CD
+1545,Urban Development,Population in urban agglomerations of more than 1 million,EN.URB.MCTY
+1546,Financial Sector,Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS
+1547,Private Sector,Firms using banks to finance working capital (% of firms),IC.FRM.BKWC.ZS
+1548,Economy & Growth,Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN
+1549,Public Sector,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS
+1550,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS
+1551,Gender,"Population ages 05-09, female",SP.POP.0509.FE
+1552,Gender,Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS
+1553,Public Sector,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL
+1554,Private Sector,Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT
+1555,Economy & Growth,GDP (current US$),NY.GDP.MKTP.CD
+1556,Economy & Growth,GNI (constant LCU),NY.GNP.MKTP.KN
+1557,Gender,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE
+1558,Environment,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS
+1559,Financial Sector,"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS
+1560,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD
+1561,Economy & Growth,"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD
+1562,Social Development,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS
+1563,Aid Effectiveness,Net official development assistance and official aid received (constant 2020 US$),DT.ODA.ALLD.KD
+1564,Gender,Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS
+1565,Gender,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS
+1566,Gender,"Age population, age 24, female, interpolated",SP.POP.AG24.FE.IN
+1567,Environment,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE
+1568,Private Sector,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP.LPI.CUST.XQ
+1569,Financial Sector,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD
+1570,Public Sector,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",RL.PER.RNK.LOWER
+1571,Environment,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS
+1572,External Debt,"IFC, private nonguaranteed (NFL, US$)",DT.NFL.NIFC.CD
+1573,Environment,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD
+1574,Private Sector,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP.LPI.TIME.XQ
+1575,Environment,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS
+1576,Gender,"Age population, age 14, female, interpolated",SP.POP.AG14.FE.IN
+1577,Gender,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS
+1578,Private Sector,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ
+1579,Aid Effectiveness,Net official aid received (constant 2020 US$),DT.ODA.OATL.KD
+1580,Education,"School enrollment, preprimary (% gross)",SE.PRE.ENRR
+1581,Social Development,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS
+1582,Private Sector,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS
+1583,Health,"Probability of dying among adolescents ages 15-19 years, female (per 1,000)",SH.DYN.1519.FE
+1584,Health,"People using at least basic sanitation services, urban  (% of urban population)",SH.STA.BASS.UR.ZS
+1585,Social Development,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS
+1586,Infrastructure,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD
+1587,Gender,"Population ages 10-14, female",SP.POP.1014.FE
+1588,Gender,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA
+1589,Gender,"Age population, age 23, female, interpolated",SP.POP.AG23.FE.IN
+1590,Gender,"Age dependency ratio, old",SP.POP.DPND.OL
+1591,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD
+1592,Education,"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS
+1593,Financial Sector,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD
+1594,Environment,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS
+1595,Gender,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS
+1596,Gender,"Age population, age 13, female, interpolated",SP.POP.AG13.FE.IN
+1597,Financial Sector,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ
+1598,Public Sector,Rule of Law: Standard Error,RL.STD.ERR
+1599,Private Sector,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ
+1600,Health,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5
+1601,Gender,"Children out of school, primary, male",SE.PRM.UNER.MA
+1602,Health,"Contraceptive prevalence, any method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONU.SA.ZS
+1603,Aid Effectiveness,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD
+1604,Environment,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS
+1605,Health,"Mortality rate, under-5, female (per 1,000)",SH.DYN.MORT.FE
+1606,Health,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5
+1607,Gender,"Progression to secondary school, male (%)",SE.SEC.PROG.MA.ZS
+1608,Infrastructure,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD
+1609,Social Development,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS
+1610,Economy & Growth,"Manufacturing, value added (constant 2015 US$)",NV.IND.MANF.KD
+1611,Economy & Growth,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN
+1612,External Debt,"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD
+1613,Gender,"Age population, age 25, male, interpolated",SP.POP.AG25.MA.IN
+1614,Health,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD
+1615,Gender,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS
+1616,Health,Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD
+1617,Health,"Domestic private health expenditure per capita, PPP  (current international $)",SH.XPD.PVTD.PP.CD
+1618,Gender,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS
+1619,Economy & Growth,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG
+1620,Private Sector,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD
+1621,Health,"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS
+1622,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD
+1623,Gender,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS
+1624,Financial Sector,Total reserves minus gold (current US$),FI.RES.XGLD.CD
+1625,Health,"Contraceptive prevalence, any modern method (% of all women ages 15-49)",SP.DYN.CONM.AL.ZS
+1626,Economy & Growth,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN
+1627,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD
+1628,Gender,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",SE.PRM.GINT.FE.ZS
+1629,Education,Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS
+1630,Gender,"Age population, age 22, male, interpolated",SP.POP.AG22.MA.IN
+1631,Public Sector,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS
+1632,Infrastructure,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2
+1633,Gender,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS
+1634,Private Sector,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),LP.LPI.ITRN.XQ
+1635,Health,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS
+1636,Public Sector,Voice and Accountability: Standard Error,VA.STD.ERR
+1637,Gender,"Age population, age 14, male, interpolated",SP.POP.AG14.MA.IN
+1638,Gender,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS
+1639,Economy & Growth,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG
+1640,Health,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT
+1641,Health,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS
+1642,Gender,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN
+1643,Private Sector,Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT
+1644,Economy & Growth,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+1645,Financial Sector,Broad money growth (annual %),FM.LBL.BMNY.ZG
+1646,Aid Effectiveness,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD
+1647,Financial Sector,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS
+1648,Education,"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519
+1649,Private Sector,Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS
+1650,Gender,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",SG.DMK.ALLD.FN.ZS
+1651,Education,Primary school age children out-of-school (%),SE.LPV.PRIM.SD
+1652,Gender,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS
+1653,Gender,"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA
+1654,Health,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM
+1655,Financial Sector,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD
+1656,Education,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS
+1657,Health,"Probability of dying among adolescents ages 10-19 years, female (per 1,000)",SH.DYN.1019.FE
+1658,External Debt,Net official development assistance received (current US$),DT.ODA.ODAT.CD
+1659,Environment,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS
+1660,Health,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP2.ZS
+1661,Health,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE
+1662,Financial Sector,Net foreign assets (current LCU),FM.AST.NFRG.CN
+1663,Energy & Mining,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS
+1664,Economy & Growth,"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD
+1665,Poverty,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP
+1666,Economy & Growth,"Service imports (BoP, current US$)",BM.GSR.NFSV.CD
+1667,Gender,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN
+1668,Gender,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS
+1669,Financial Sector,Net migration,SM.POP.NETM
+1670,Social Development,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS
+1671,Economy & Growth,"Service exports (BoP, current US$)",BX.GSR.NFSV.CD
+1672,Climate Change,"Population, total",SP.POP.TOTL
+1673,Education,Expenditure on tertiary education (% of government expenditure on education),SE.XPD.TERT.ZS
+1674,Health,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD
+1675,Economy & Growth,Gross domestic income (constant LCU),NY.GDY.TOTL.KN
+1676,Public Sector,Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS
+1677,Public Sector,Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN
+1678,Health,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.NOPR.ZS
+1679,Infrastructure,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD
+1680,External Debt,Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS
+1681,Health,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.TOTR.ZS
+1682,Health,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT1.ZS

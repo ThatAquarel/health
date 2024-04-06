@@ -1,3 +1,4 @@
-*.csv
+**/raw*/*
+worldbank/2022*.csv
 *.zip
 *.txt
