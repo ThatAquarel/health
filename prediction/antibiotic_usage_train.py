@@ -40,16 +40,16 @@ class AntibioticPredictor(nn.Module):
 
         self.linear_relu_stack = nn.Sequential(
             nn.Dropout(),
-            nn.Linear(in_features=804, out_features=405),
+            nn.Linear(in_features=804, out_features=109),
             nn.ReLU(),
-            nn.Linear(in_features=405, out_features=5),
+            nn.Linear(in_features=109, out_features=5),
         )
 
     def forward(self, x):
         return self.linear_relu_stack(x)
 
 
-BATCH_SIZE = 32
+BATCH_SIZE = 16
 EPOCHS = 100
 
 
@@ -109,11 +109,11 @@ def test_loop(dataloader, model, loss_fn, epoch=None, writer=None, verbose=True)
 def train():
     model = AntibioticPredictor()
 
-    optimizer = torch.optim.SGD(model.parameters(), lr=0.00951207, momentum=0.685595)
+    optimizer = torch.optim.SGD(model.parameters(), lr=0.00834583, momentum=0.284038)
     class_weights = torch.tensor(
         [1.98095238, 2.7752809, 8.82142857, 61.75, 188.19047619]
     )
-    class_weights = class_weights**0.3745
+    class_weights = class_weights**0.215165
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
 
     train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)

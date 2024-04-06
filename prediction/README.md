@@ -20,6 +20,7 @@ Print `class_weights` to be manually plugged into `antibiotic_usage_train.py`
 
 Determine hyperparameters
 Confirm neural network design of averaging in and out
+Manually generate `antibiotic_hyperopt_train.xlsx`
 
 ### `antibiotic_usage_train.py`
 
