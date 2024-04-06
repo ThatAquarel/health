@@ -4,16 +4,15 @@
 
 ### `antibiotic_dataset.py`
 
-Generate
-- `db_x_test.pt`
-- `db_x.pt`
-- `db_y_test.pt`
-- `db_y.pt`
+Generate x (input)
+- `./prediction/x_2003-2017_train.pt`
+- `./prediction/x_2018_test.pt`
+- `./prediction/x_2003-2022_infer.pt`
+- `./prediction/x_2003-2022_infer_cases.csv`
 
-### `antibiotic_dataset_infer.py`
-
-Generate (worldbank from 2003 to 2022)
-- `db_x_infer.pt`
+Generate y (output)
+- `./prediction/y_2003-2017_train.pt`
+- `./prediction/y_2018_test.pt`
 
 ### `antibiotic_hyperopt_train.py`
 
