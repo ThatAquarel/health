@@ -41,7 +41,7 @@ class AntibioticPredictor(nn.Module):
         self.linear_relu_stack = nn.Sequential(
             nn.Dropout(),
             nn.Linear(in_features=804, out_features=405),
-            nn.Tanh(),
+            nn.ReLU(),
             nn.Linear(in_features=405, out_features=5),
         )
 
