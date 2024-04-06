@@ -1,11 +1,23 @@
+import numpy as np
 import pandas as pd
 
 import seaborn as sns
 import matplotlib.pyplot as plt
 
 data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
+filtered = pd.read_csv("./data/worldbank/2022-2003_worldbank_filtered.csv")
 
 YEARS = [f"{i} [YR{i}]" for i in range(2003, 2023)]
+
+# calculate completness
+unavailable = pd.isna(data[YEARS]).sum().sum()
+total = np.multiply.reduce(data[YEARS].shape)
+print(f"N/A percentage: {unavailable/total * 100}")
+
+unavailable = pd.isna(filtered[YEARS]).sum().sum()
+total = np.multiply.reduce(filtered[YEARS].shape)
+print(f"N/A percentage: {unavailable/total * 100}")
+
 
 a = data.copy()
 a = a[["Country Name", "Series Name", *YEARS]]
