@@ -3,6 +3,8 @@ import torch
 import numpy as np
 import pandas as pd
 
+torch.set_default_device("cuda:0")
+
 # worldbank dataset
 worldbank = pd.read_csv("./data/worldbank/2022-2003_worldbank_normalized.csv")
 worldbank = worldbank[["Country Name", "Series Name", "Year", "Indicator"]]
@@ -38,7 +40,7 @@ y_idx = antibiotics.merge(y_cases, how="inner", on=["Country Name", "Year"])[
     CONSUMPTION
 ]
 y[range(N_CASES), y_idx] = 1.0
-assert (y.argmax(axis=1).numpy() == y_idx.to_numpy()).all()
+assert (y.argmax(axis=1).cpu().numpy() == y_idx.to_numpy()).all()
 
 
 def get_idx(cases, start_year, end_year):
