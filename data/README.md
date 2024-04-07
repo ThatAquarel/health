@@ -15,30 +15,14 @@ Sources
 
 Combine world_dev and health
 
-Export to `2022-2003_worldbank_data.csv`
-
-
-### `filter_factors.py`
-
-Remove unavailable factors
-Write (to determine the cutoff level)
-- `./data/worldbank/filtering/counts_groupby_series_name.csv`
-- `./data/worldbank/filtering/counts_groupby_country_name.csv`
-
-Export to `./data/worldbank/2022-2003_worldbank_filtered.csv`
+Export to `2022-2000_worldbank_data.csv`
 
 
 ### `normalize.py`
 
-Normalize `2022-2003_worldbank_data.csv`every indicator by longitude
-Export to `2022-2003_worldbank_normalized.csv`
+Normalize every indicator by longitude
 
-
-### `link_tables.py`
-
-- Export filtered link tables `./data/worldbank/links/data/*`
-- Export data link tables `./data/worldbank/links/filtered/*`
-- Export `./data/worldbank/links/category/*`
+Export to `2022-2000_worldbank_normalized.csv`
 
 
 ## Antibiotics
@@ -50,10 +34,9 @@ Create link files manually
 ### `transform_compatible.py`
 
 - Merge `Location` to `Country Name` for compatibility
-Export to `2018-2000_antibiotic_total.csv`
 
 ### `normalize.py`
 
 Normalize by every antibiotic category
 
-Export to `2018-2000_worldbank_normalized.csv`
+Export to `2022-2000_worldbank_normalized.csv`

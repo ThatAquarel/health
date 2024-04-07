@@ -141,7 +141,7 @@ factor_ha <- rowAnnotation(
     "Public Sector"="darkcyan",
     "Private Sector"="darkcyan",
     "Financial Sector"="darkcyan",
-    "External Debt"="darkcyan"
+    "External Debt"="darkcyan"http://127.0.0.1:22929/graphics/07a4b281-4844-484a-bd8b-751acc230400.png
   ))
 )
 
@@ -166,8 +166,7 @@ important_country_marks <- columnAnnotation(
 )
 
 # draw heat map
-#col_fun <- colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
-col_fun <- colorRamp2(c(-0.1, 0, 0.1), c("blue", "white", "red"))
+col_fun <- colorRamp2(c(-0.3, 0, 0.05), c("blue", "white", "red"))
 
 Heatmap(
   mat_country_attributions,

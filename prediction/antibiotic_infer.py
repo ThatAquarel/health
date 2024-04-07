@@ -8,15 +8,16 @@ from antibiotic_usage_train import (
 
 import matplotlib.pyplot as plt
 
-from sklearn.metrics import ConfusionMatrixDisplay
+from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
+from sklearn.model_selection import train_test_split
 
 
 def infer():
-    db_x_test = torch.load("./prediction/x_2018_test.pt")
-    db_y_test = torch.load("./prediction/y_2018_test.pt")
+    db_x_test = torch.load("./prediction/db_x_test.pt")
+    db_y_test = torch.load("./prediction/db_y_test.pt")
 
-    db_x = torch.load("./prediction/x_2003-2017_train.pt")
-    db_y = torch.load("./prediction/y_2003-2017_train.pt")
+    db_x = torch.load("./prediction/db_x.pt")
+    db_y = torch.load("./prediction/db_y.pt")
 
     model = AntibioticPredictor()
     model.load_state_dict(torch.load(MODEL))

@@ -1,15 +1,21 @@
-import os
-
-from ray import train, tune
-from ray.tune.schedulers import ASHAScheduler
-
 import torch
+
+import pandas as pd
+
 from torch import nn
 from torch.utils.data import Dataset, DataLoader
 
+from hyperopt import hp
+from hyperopt import fmin, tpe, space_eval
 
-torch.set_default_device("cpu")
-CWD = os.getcwd()
+
+torch.set_default_device("cuda")
+
+WORLDBANK = "./data/worldbank/2022-2000_worldbank_normalized.csv"
+ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_normalized.csv"
+
+
+N_INDICATOR = 1683
 
 
 class AntibioticDataset(Dataset):
@@ -19,27 +25,30 @@ class AntibioticDataset(Dataset):
         self.train = train
         self.load_db()
 
-    def _load(self, rel_path):
-        full_path = os.path.join(CWD, rel_path)
-        return torch.load(full_path, map_location="cpu")
-
     def load_db(self):
-        if self.train:
-            self.x = self._load(f"./prediction/x_2003-2017_train.pt")
-            self.y = self._load(f"./prediction/y_2003-2017_train.pt")
-            return
-
-        self.x = self._load(f"./prediction/x_2018_test.pt")
-        self.y = self._load(f"./prediction/y_2018_test.pt")
+        x = "" if self.train else "_test"
+        self.db_x = torch.load(f"./prediction/db_x{x}.pt")
+        self.db_y = torch.load(f"./prediction/db_y{x}.pt")
 
     def __len__(self):
-        return len(self.x)
+        return len(self.db_x)
 
     def __getitem__(self, idx):
-        return (self.x[idx], self.y[idx])
+        return (self.db_x[idx], self.db_y[idx])
 
 
-def train_loop(dataloader, model, loss_fn, optimizer, epoch, writer=None):
+BATCH_SIZE = 64
+LEARNING_RATE = 1e-3
+EPOCHS = 50
+
+class_weights = torch.tensor([1.4586155, 3.775073, 23.640244, 228.05882, 352.45456])
+loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+
+train_dataloader = DataLoader(AntibioticDataset(), batch_size=BATCH_SIZE)
+test_dataloader = DataLoader(AntibioticDataset(train=False), batch_size=BATCH_SIZE)
+
+
+def train_loop(dataloader, model, loss_fn, optimizer, epoch):
     size = len(dataloader.dataset)
     # Set the model to training mode - important for batch normalization and dropout layers
     # Unnecessary in this situation but added for best practices
@@ -54,11 +63,12 @@ def train_loop(dataloader, model, loss_fn, optimizer, epoch, writer=None):
         optimizer.step()
         optimizer.zero_grad()
 
-        if writer:
-            writer.add_scalar("Loss/train", loss, epoch)
+        if batch % 8 == 0:
+            loss, current = loss.item(), batch * BATCH_SIZE + len(X)
+            # print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}]")
 
 
-def test_loop(dataloader, model, loss_fn, epoch=None, writer=None):
+def test_loop(dataloader, model, loss_fn):
     # Set the model to evaluation mode - important for batch normalization and dropout layers
     # Unnecessary in this situation but added for best practices
     model.eval()
@@ -74,80 +84,56 @@ def test_loop(dataloader, model, loss_fn, epoch=None, writer=None):
             test_loss += loss_fn(pred, y).item()
             correct += (pred.argmax(1) == y.argmax(1)).type(torch.float).sum().item()
 
-    if epoch:
-        if writer:
-            writer.add_scalar("Loss/test", test_loss, epoch)
-
     test_loss /= num_batches
     correct /= size
+
     return correct
+    # print(
+    #     f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n"
+    # )
 
 
-def objective(config):
+def objective(params):
+    n_features, n_layers = params["n_features"], params["n_layers"]
+
     class AntibioticPredictor(nn.Module):
         def __init__(self):
             super().__init__()
 
             self.linear_relu_stack = nn.Sequential(
                 nn.Dropout(),
-                nn.Linear(in_features=804, out_features=config["hidden_n"]),
-                nn.Tanh(),
-                nn.Linear(in_features=config["hidden_n"], out_features=5),
+                nn.ReLU(),
+                nn.Linear(in_features=N_INDICATOR, out_features=n_features),
+                *[
+                    nn.Linear(in_features=n_features, out_features=n_features)
+                    for n in range(n_layers)
+                ],
+                nn.Linear(in_features=n_features, out_features=5),
             )
 
         def forward(self, x):
             return self.linear_relu_stack(x)
 
-    train_dataloader = DataLoader(AntibioticDataset(), batch_size=config["batch_size"])
-    test_dataloader = DataLoader(
-        AntibioticDataset(train=False), batch_size=config["batch_size"]
-    )
-
     model = AntibioticPredictor()
+    optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
-    optimizer = torch.optim.SGD(  # Tune the optimizer
-        model.parameters(), lr=config["lr"], momentum=config["momentum"]
-    )
+    for t in range(EPOCHS):
+        # print(f"Epoch {t+1}\n-------------------------------")
+        train_loop(train_dataloader, model, loss_fn, optimizer, t)
+        test_loop(test_dataloader, model, loss_fn)
 
-    class_weights = torch.tensor(
-        [1.98095238, 2.7752809, 8.82142857, 61.75, 188.19047619]
-    )
-    class_weights = class_weights ** config["class_weights_scale"]
-    loss_fn = nn.CrossEntropyLoss(weight=class_weights)
-
-    epoch = 0
-    while True:
-        train_loop(train_dataloader, model, loss_fn, optimizer, epoch)
-        acc = test_loop(test_dataloader, model, loss_fn, epoch)
-        train.report({"mean_accuracy": acc})
-
-        epoch += 1
+    return 1 / test_loop(test_dataloader, model, loss_fn)
 
 
 search_space = {
-    "batch_size": tune.grid_search([2, 4, 8, 16, 32, 64, 128]),
-    "lr": tune.loguniform(1e-4, 1e-2),
-    "momentum": tune.uniform(0.1, 0.9),
-    "class_weights_scale": tune.uniform(0.0, 1.0),
-    "hidden_n": tune.randint(5, 1608),
+    "n_features": hp.randint("n_features", 500, 3000),
+    "n_layers": hp.randint("n_layers", 0, 5),
 }
 
-results = tune.run(
-    objective,
-    num_samples=16,
-    scheduler=ASHAScheduler(metric="mean_accuracy", mode="max", grace_period=1),
-    config=search_space,
-)
+best = fmin(objective, space=search_space, algo=tpe.suggest, max_evals=1000)
 
-# tuner = tune.Tuner(
-#     objective,
-#     tune_config=tune.TuneConfig(
-#         metric="mean_accuracy",
-#         mode="max",
-#         search_alg=algo,
-#     ),
-#     run_config=train.RunConfig(stop={"training_iteration": 100, "mean_accuracy": 0.95}),
-#     param_space=search_space,
-# )
-# results = tuner.fit()
-print("Best config is:", results.best_result().config)
+print(best)
+...
+
+# 100%|█████████████████████| 1000/1000 [2:46:15<00:00,  9.98s/trial, best loss: 1.108695652173913]
+# {'n_features': 788, 'n_layers': 0}

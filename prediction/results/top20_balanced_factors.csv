@@ -1,21 +1,21 @@
 ,Series Name,Attribution
-0,"Personal remittances, paid (current US$)",0.0089311653429159
-1,Total debt service (% of GNI),0.0089792941542285
-2,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",0.0096130796534942
-3,Other expense (% of expense),0.0097782022801929
-4,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",0.0102491186142744
-5,"Lower secondary completion rate, total (% of relevant age group)",0.0110090760091434
-6,"Population ages 0-14, total",0.0113373155166619
-7,Other taxes (% of revenue),0.0125805134903701
-8,Child employment in agriculture (% of economically active children ages 7-14),0.0157105420034255
-9,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.0188924642036976
-10,"Revenue, excluding grants (% of GDP)",-0.0263909048404593
-11,Number of under-five deaths,-0.0269663700866921
-12,Control of Corruption: Number of Sources,-0.0276094593903496
-13,Urban population growth (annual %),-0.0283182071158343
-14,Gross fixed capital formation (constant 2015 US$),-0.0284171500949944
-15,"Child employment in agriculture, male (% of male economically active children ages 7-14)",-0.0300045482340044
-16,People practicing open defecation (% of population),-0.0310238780608305
-17,Merchandise trade (% of GDP),-0.0312556410772752
-18,"Use of IMF credit (DOD, current US$)",-0.0313327773316254
-19,"Government expenditure on education, total (% of government expenditure)",-0.032887167017529
+0,Number of people pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure,0.040144962
+1,Number of people pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,0.040612248
+2,Number of people pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,0.041057306
+3,Final consumption expenditure (current US$),0.043019968
+4,"Age population, age 02, male, interpolated",0.043403369
+5,Child employment in agriculture (% of economically active children ages 7-14),0.043938181
+6,Ease of doing business score (0 = lowest performance to 100 = best performance),0.045469077
+7,"Net incurrence of liabilities, total (current LCU)",0.049266108
+8,ICT goods imports (% total goods imports),0.056898914
+9,Taxes on international trade (% of revenue),0.056993863
+10,Expenditure on tertiary education (% of government expenditure on education),-0.077323354
+11,Current health expenditure per capita (current US$),-0.080357521
+12,Gross domestic income (constant LCU),-0.081129622
+13,Net lending (+) / net borrowing (-) (% of GDP),-0.083312268
+14,Net lending (+) / net borrowing (-) (current LCU),-0.090217055
+15,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),-0.09287994
+16,Public private partnerships investment in energy (current US$),-0.101504527
+17,Public and publicly guaranteed debt service (% of GNI),-0.109493142
+18,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),-0.152280955
+19,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),-0.155215314

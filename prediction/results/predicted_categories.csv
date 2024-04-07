@@ -4,13 +4,13 @@ Albania,1
 Algeria,4
 American Samoa,0
 Andorra,1
-Angola,0
+Angola,1
 Antigua and Barbuda,1
 Argentina,1
-Armenia,1
+Armenia,0
 Australia,2
 Austria,1
-Azerbaijan,1
+Azerbaijan,0
 "Bahamas, The",1
 Bahrain,1
 Bangladesh,0
@@ -23,15 +23,15 @@ Bermuda,1
 Bhutan,0
 Bolivia,1
 Bosnia and Herzegovina,2
-Botswana,0
-Brazil,3
-Brunei Darussalam,0
+Botswana,1
+Brazil,1
+Brunei Darussalam,1
 Bulgaria,1
 Burkina Faso,0
-Burundi,0
+Burundi,1
 Cabo Verde,1
 Cambodia,0
-Cameroon,0
+Cameroon,1
 Canada,1
 Central African Republic,0
 Chad,0
@@ -53,11 +53,11 @@ East Asia & Pacific,0
 Ecuador,0
 "Egypt, Arab Rep.",2
 El Salvador,0
-Equatorial Guinea,0
+Equatorial Guinea,1
 Eritrea,0
 Estonia,1
-Eswatini,0
-Ethiopia,0
+Eswatini,1
+Ethiopia,2
 Europe & Central Asia,0
 Fiji,0
 Finland,1
@@ -72,9 +72,9 @@ Greenland,1
 Grenada,0
 Guam,2
 Guatemala,0
-Guinea,0
+Guinea,1
 Guinea-Bissau,0
-Guyana,0
+Guyana,1
 Haiti,0
 High income,1
 Honduras,0
@@ -93,12 +93,12 @@ Jordan,1
 Kazakhstan,1
 Kenya,1
 Kiribati,0
-"Korea, Dem. People's Rep.",1
+"Korea, Dem. People's Rep.",0
 "Korea, Rep.",1
 Kuwait,2
 Kyrgyz Republic,1
-Lao PDR,0
-Latin America & Caribbean,3
+Lao PDR,1
+Latin America & Caribbean,0
 Latvia,1
 Lebanon,2
 Lesotho,0
@@ -108,7 +108,7 @@ Lithuania,1
 Luxembourg,2
 Madagascar,0
 Malawi,0
-Malaysia,0
+Malaysia,2
 Maldives,1
 Mali,0
 Malta,2
@@ -116,18 +116,18 @@ Marshall Islands,0
 Mauritania,0
 Mauritius,1
 Mexico,0
-Middle East & North Africa,3
+Middle East & North Africa,2
 Moldova,1
 Monaco,1
 Mongolia,1
 Montenegro,2
 Morocco,1
 Mozambique,0
-Myanmar,1
+Myanmar,0
 Namibia,0
 Nauru,0
 Nepal,0
-Netherlands,1
+Netherlands,0
 New Zealand,2
 Nicaragua,0
 Niger,0
@@ -138,7 +138,7 @@ Norway,1
 Oman,1
 Pakistan,0
 Palau,1
-Panama,0
+Panama,1
 Papua New Guinea,0
 Paraguay,1
 Peru,0
@@ -160,19 +160,19 @@ Seychelles,1
 Sierra Leone,0
 Singapore,1
 Slovak Republic,1
-Slovenia,1
+Slovenia,2
 Solomon Islands,0
 Somalia,0
-South Africa,3
-South Asia,4
-South Sudan,3
+South Africa,1
+South Asia,0
+South Sudan,0
 Spain,3
 Sri Lanka,1
 St. Kitts and Nevis,1
 St. Lucia,0
-Sub-Saharan Africa,3
+Sub-Saharan Africa,2
 Sudan,1
-Suriname,0
+Suriname,1
 Sweden,1
 Switzerland,0
 Syrian Arab Republic,2
@@ -185,20 +185,20 @@ Tonga,0
 Trinidad and Tobago,1
 Tunisia,4
 Turkiye,3
-Turkmenistan,1
+Turkmenistan,0
 Tuvalu,0
-Uganda,0
+Uganda,1
 Ukraine,2
 United Arab Emirates,2
-United Kingdom,1
-United States,2
+United Kingdom,2
+United States,1
 Uruguay,1
-Uzbekistan,3
+Uzbekistan,0
 Vanuatu,0
-"Venezuela, RB",3
+"Venezuela, RB",2
 Viet Nam,1
 Virgin Islands (U.S.),1
-West Bank and Gaza,3
+West Bank and Gaza,1
 "Yemen, Rep.",1
 Zambia,0
-Zimbabwe,3
+Zimbabwe,1

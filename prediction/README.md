@@ -4,27 +4,25 @@
 
 ### `antibiotic_dataset.py`
 
-Generate x (input)
-- `./prediction/x_2003-2017_train.pt`
-- `./prediction/x_2018_test.pt`
-- `./prediction/x_2003-2022_infer.pt`
-- `./prediction/x_2003-2022_infer_cases.csv`
+Generate
+- `db_x_test.py`
+- `db_x.py`
+- `db_y_test.py`
+- `db_y.py`
 
-Generate y (output)
-- `./prediction/y_2003-2017_train.pt`
-- `./prediction/y_2018_test.pt`
+### `antibiotic_dataset_infer.py`
 
-Print `class_weights` to be manually plugged into `antibiotic_usage_train.py`
+Generate (worldbank from 2003 to 2022)
+- `db_x_infer.py`
 
 ### `antibiotic_hyperopt_train.py`
 
 Determine hyperparameters
 Confirm neural network design of averaging in and out
-Manually generate `antibiotic_hyperopt_train.xlsx`
 
 ### `antibiotic_usage_train.py`
 
-Train model and save as `AntitiobicPredictor.pt`
+Train model and save as `2024_02_28_AntitiobicPredictor.pt`
 
 ### `integrated_gradients.py`
 
@@ -50,8 +48,7 @@ Compute top_n important factors
 
 ### `antibiotic_infer.py`
 
-- Generate accuracies at `./results/accuracy.md`
-- Generate predicted categories at `results/2003-2022_predicted_categories.csv`
+Generate accuracies at `./results/accuracy.md`
 
 ### `antibiotic_usage.md`
 

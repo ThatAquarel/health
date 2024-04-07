@@ -1,6 +1,7 @@
 import torch
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from captum.attr import IntegratedGradients
 from antibiotic_usage_train import AntibioticPredictor, MODEL
@@ -22,36 +23,32 @@ model.eval()
 # ordered_factors_2003_2022_high.csv
 # ordered_factors_2003_2022_low.csv
 
+db_x_test = torch.load("./prediction/db_x_infer.pt")
+baseline = torch.zeros(db_x_test.shape)
+
+...
+
 ig = IntegratedGradients(model)
 
-for input_file, output_date in {
-    "x_2018_test": "2018",
-    "x_2003-2017_train": "2003_2017",
-    "x_2003-2022_infer": "2003_2022",
-}.items():
-    db_x_test = torch.load(f"./prediction/{input_file}.pt")
-    baseline = torch.zeros(db_x_test.shape)
+for level, label in {0: "low", 4: "high"}.items():
+    attributions, approximation_error = ig.attribute(
+        db_x_test,
+        baselines=baseline,
+        method="gausslegendre",
+        return_convergence_delta=True,
+        target=level,
+    )
 
-    for level, label in {0: "low", 4: "high"}.items():
-        attributions, approximation_error = ig.attribute(
-            db_x_test,
-            baselines=baseline,
-            return_convergence_delta=True,
-            target=level,
-        )
+    importance = np.mean(attributions.cpu().numpy(), axis=0)
 
-        importance = np.mean(attributions.cpu().numpy(), axis=0)
+    indices = np.argsort(importance)
+    factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
+    factors = factors[["Series Name", "Series Code"]]
 
-        indices = np.argsort(importance)
-        factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
-        factors = factors[["Series Name", "Series Code"]]
+    factors.insert(2, "Attribution", list(importance), True)
 
-        factors.insert(2, "Attribution", list(importance), True)
-
-        ordered = factors.reindex(indices)
-        ordered.to_csv(
-            f"./prediction/results/ordered_factors_{output_date}_{label}.csv"
-        )
+    ordered = factors.reindex(indices)
+    ordered.to_csv(f"./prediction/results/ordered_factors_2003_2022_{label}.csv")
 
 # def visualize_importances(
 #     feature_names,
