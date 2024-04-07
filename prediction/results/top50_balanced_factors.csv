@@ -1,51 +1,51 @@
 ,Series Name,Attribution
-0,Prevalence of severe food insecurity in the population (%),0.0047877358052717
-1,"Age population, age 02, male, interpolated",0.0048534592723435
-2,GDP per capita growth (annual %),0.0049250843167026
-3,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",0.0049409262194554
-4,"Age population, age 03, male, interpolated",0.0049985480895283
-5,Prevalence of anemia among women of reproductive age (% of women ages 15-49),0.0050506493395041
-6,"Start-up procedures to register a business, male (number)",0.005184470717086
-7,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),0.0053227211920245
-8,"Prevalence of severe wasting, weight for height (% of children under 5)",0.0056938782906953
-9,Trained teachers in primary education (% of total teachers),0.0057932764701892
-10,"Net bilateral aid flows from DAC donors, Canada (current US$)",0.0062296521616155
-11,Statistical Capacity Score (Overall Average) (scale 0 - 100),0.006262457193522
-12,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",0.006619854953619
-13,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",0.0069328991847044
-14,Political Stability and Absence of Violence/Terrorism: Estimate,0.0075236682729958
-15,"Personal remittances, paid (current US$)",0.0089311653429159
-16,Total debt service (% of GNI),0.0089792941542285
-17,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",0.0096130796534942
-18,Other expense (% of expense),0.0097782022801929
-19,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",0.0102491186142744
-20,"Lower secondary completion rate, total (% of relevant age group)",0.0110090760091434
-21,"Population ages 0-14, total",0.0113373155166619
-22,Other taxes (% of revenue),0.0125805134903701
-23,Child employment in agriculture (% of economically active children ages 7-14),0.0157105420034255
-24,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.0188924642036976
-25,Broad money to total reserves ratio,-0.0218114828103866
-26,GDP per unit of energy use (PPP $ per kg of oil equivalent),-0.0220924614310881
-27,Prevalence of overweight (% of adults),-0.0222517210780937
-28,"Transport services (% of service imports, BoP)",-0.0226176992321664
-29,"Population ages 70-74, female (% of female population)",-0.0233348859848387
-30,Value lost due to electrical outages (% of sales for affected firms),-0.0245350319047719
-31,"Persistence to last grade of primary, total (% of cohort)",-0.0248762025362694
-32,"Revenue, excluding grants (current LCU)",-0.025046776381883
-33,GDP: linked series (current LCU),-0.0252866596332529
-34,Researchers in R&D (per million people),-0.0253799096082701
-35,"Net official flows from UN agencies, UNWTO (current US$)",-0.0259044377014785
-36,"Population ages 35-39, male (% of male population)",-0.0259069119763899
-37,Children orphaned by HIV/AIDS,-0.0260559668330715
-38,"Population ages 30-34, female (% of female population)",-0.0261865525834529
-39,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",-0.0262994697667704
-40,"Revenue, excluding grants (% of GDP)",-0.0263909048404593
-41,Number of under-five deaths,-0.0269663700866921
-42,Control of Corruption: Number of Sources,-0.0276094593903496
-43,Urban population growth (annual %),-0.0283182071158343
-44,Gross fixed capital formation (constant 2015 US$),-0.0284171500949944
-45,"Child employment in agriculture, male (% of male economically active children ages 7-14)",-0.0300045482340044
-46,People practicing open defecation (% of population),-0.0310238780608305
-47,Merchandise trade (% of GDP),-0.0312556410772752
-48,"Use of IMF credit (DOD, current US$)",-0.0313327773316254
-49,"Government expenditure on education, total (% of government expenditure)",-0.032887167017529
+0,"Access to electricity, urban (% of urban population)",-0.005818453001452
+1,Adjusted savings: energy depletion (current US$),0.0042779021881024
+2,Adjusted savings: mineral depletion (current US$),0.004066611227644
+3,Adjusted savings: particulate emission damage (current US$),-0.0055125818656735
+4,"Adolescent fertility rate (births per 1,000 women ages 15-19)",0.0043056487363077
+5,"Age population, age 25, female, interpolated",-0.0057261590077406
+6,"Age population, age 25, male, interpolated",0.0054438551615673
+7,"Armed forces personnel, total",-0.0061460251313996
+8,"Computer, communications and other services (% of commercial service exports)",0.0041030748870813
+9,Control of Corruption: Number of Sources,-0.0059560221664418
+10,"Employment in industry, male (% of male employment) (modeled ILO estimate)",0.0041528148637662
+11,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",-0.006886104391878
+12,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",0.0041430938578709
+13,Final consumption expenditure (constant 2015 US$),-0.0086060738889734
+14,Final consumption expenditure (current LCU),-0.0064163947654207
+15,"Foreign direct investment, net (BoP, current US$)",-0.0069064093892284
+16,General government final consumption expenditure (current LCU),0.0056138893395542
+17,Government Effectiveness: Estimate,-0.0054312572086679
+18,Gross capital formation (% of GDP),0.008923396592561
+19,Gross capital formation (constant 2015 US$),0.0048892072072736
+20,Gross national expenditure (current US$),-0.0057846681387278
+21,Gross value added at basic prices (GVA) (constant 2015 US$),-0.0069149989680035
+22,Households and NPISHs Final consumption expenditure (constant 2015 US$),-0.0061875284806374
+23,Households and NPISHs Final consumption expenditure (current US$),0.0041368644823344
+24,"Immunization, measles (% of children ages 12-23 months)",-0.0061865828629387
+25,"Immunization, measles second dose (% of children by the nationally recommended age)",-0.0059951212933883
+26,Imports of goods and services (constant 2015 US$),0.0042469243596846
+27,"Labor force, female (% of total labor force)",-0.0055051780753229
+28,"Lower secondary completion rate, total (% of relevant age group)",0.0076900157351111
+29,"Manufacturing, value added (constant 2015 US$)",0.0064690880512856
+30,"Manufacturing, value added (constant LCU)",0.0057451432897947
+31,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),-0.0050878691570877
+32,Methane emissions (kt of CO2 equivalent),-0.0051829191866505
+33,"Mortality rate, neonatal (per 1,000 live births)",0.0042453621455558
+34,"Number of deaths ages 10-14 years, male",-0.005275489229116
+35,"Number of deaths ages 5-9 years, female",0.008738926253747
+36,"Population ages 0-14, female (% of female population)",-0.0050335190321762
+37,"Population ages 80 and older, female (% of female population)",0.0045515098940355
+38,"Population, male (% of total population)",-0.005385111197073
+39,Prevalence of anemia among pregnant women (%),0.0045401046710179
+40,Prevalence of hypertension (% of adults ages 30-79),0.0050297576226918
+41,"Primary education, pupils (% female)",0.0041618125136066
+42,Private credit bureau coverage (% of adults),0.0046194469095878
+43,"Probability of dying among adolescents ages 10-14 years, male (per 1,000)",0.0043401354018477
+44,"Probability of dying among youth ages 20-24 years, male (per 1,000)",0.0040853939397406
+45,"School enrollment, secondary (gross), gender parity index (GPI)",0.0051686081320486
+46,"School enrollment, tertiary (% gross)",-0.0059564817575504
+47,"Total reserves (includes gold, current US$)",-0.0063268704166314
+48,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",-0.0054968708368037
+49,Voice and Accountability: Estimate,-0.0061599513939014

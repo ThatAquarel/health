@@ -1,21 +1,21 @@
 ,Series Name,Attribution
-0,"Personal remittances, paid (current US$)",0.0089311653429159
-1,Total debt service (% of GNI),0.0089792941542285
-2,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",0.0096130796534942
-3,Other expense (% of expense),0.0097782022801929
-4,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",0.0102491186142744
-5,"Lower secondary completion rate, total (% of relevant age group)",0.0110090760091434
-6,"Population ages 0-14, total",0.0113373155166619
-7,Other taxes (% of revenue),0.0125805134903701
-8,Child employment in agriculture (% of economically active children ages 7-14),0.0157105420034255
-9,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.0188924642036976
-10,"Revenue, excluding grants (% of GDP)",-0.0263909048404593
-11,Number of under-five deaths,-0.0269663700866921
-12,Control of Corruption: Number of Sources,-0.0276094593903496
-13,Urban population growth (annual %),-0.0283182071158343
-14,Gross fixed capital formation (constant 2015 US$),-0.0284171500949944
-15,"Child employment in agriculture, male (% of male economically active children ages 7-14)",-0.0300045482340044
-16,People practicing open defecation (% of population),-0.0310238780608305
-17,Merchandise trade (% of GDP),-0.0312556410772752
-18,"Use of IMF credit (DOD, current US$)",-0.0313327773316254
-19,"Government expenditure on education, total (% of government expenditure)",-0.032887167017529
+0,"Age population, age 25, male, interpolated",0.0054438551615673
+1,"Armed forces personnel, total",-0.0061460251313996
+2,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",-0.006886104391878
+3,Final consumption expenditure (constant 2015 US$),-0.0086060738889734
+4,Final consumption expenditure (current LCU),-0.0064163947654207
+5,"Foreign direct investment, net (BoP, current US$)",-0.0069064093892284
+6,General government final consumption expenditure (current LCU),0.0056138893395542
+7,Gross capital formation (% of GDP),0.008923396592561
+8,Gross capital formation (constant 2015 US$),0.0048892072072736
+9,Gross value added at basic prices (GVA) (constant 2015 US$),-0.0069149989680035
+10,Households and NPISHs Final consumption expenditure (constant 2015 US$),-0.0061875284806374
+11,"Immunization, measles (% of children ages 12-23 months)",-0.0061865828629387
+12,"Lower secondary completion rate, total (% of relevant age group)",0.0076900157351111
+13,"Manufacturing, value added (constant 2015 US$)",0.0064690880512856
+14,"Manufacturing, value added (constant LCU)",0.0057451432897947
+15,"Number of deaths ages 5-9 years, female",0.008738926253747
+16,Prevalence of hypertension (% of adults ages 30-79),0.0050297576226918
+17,"School enrollment, secondary (gross), gender parity index (GPI)",0.0051686081320486
+18,"Total reserves (includes gold, current US$)",-0.0063268704166314
+19,Voice and Accountability: Estimate,-0.0061599513939014

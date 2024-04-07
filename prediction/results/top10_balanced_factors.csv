@@ -1,11 +1,11 @@
 ,Series Name,Attribution
-0,"Lower secondary completion rate, total (% of relevant age group)",0.0110090760091434
-1,"Population ages 0-14, total",0.0113373155166619
-2,Other taxes (% of revenue),0.0125805134903701
-3,Child employment in agriculture (% of economically active children ages 7-14),0.0157105420034255
-4,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",0.0188924642036976
-5,"Child employment in agriculture, male (% of male economically active children ages 7-14)",-0.0300045482340044
-6,People practicing open defecation (% of population),-0.0310238780608305
-7,Merchandise trade (% of GDP),-0.0312556410772752
-8,"Use of IMF credit (DOD, current US$)",-0.0313327773316254
-9,"Government expenditure on education, total (% of government expenditure)",-0.032887167017529
+0,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",-0.006886104391878
+1,Final consumption expenditure (constant 2015 US$),-0.0086060738889734
+2,Final consumption expenditure (current LCU),-0.0064163947654207
+3,"Foreign direct investment, net (BoP, current US$)",-0.0069064093892284
+4,Gross capital formation (% of GDP),0.008923396592561
+5,Gross value added at basic prices (GVA) (constant 2015 US$),-0.0069149989680035
+6,"Lower secondary completion rate, total (% of relevant age group)",0.0076900157351111
+7,"Manufacturing, value added (constant 2015 US$)",0.0064690880512856
+8,"Manufacturing, value added (constant LCU)",0.0057451432897947
+9,"Number of deaths ages 5-9 years, female",0.008738926253747

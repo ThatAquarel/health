@@ -15,18 +15,18 @@ model.eval()
 # ordered_factors_2003_2022_high_countries.csv
 
 level, label = 4, "high"
-db_x_infer = torch.load("./prediction/db_x_infer.pt")
+db_x_infer = torch.load("./prediction/x_2003-2022_infer.pt")
 
-db_x_infer_cases = pd.read_csv("./prediction/db_x_infer_cases.csv")
+db_x_infer_cases = pd.read_csv("./prediction/x_2003-2022_infer_cases.csv")
 db_x_infer_cases = db_x_infer_cases[["Country Name", "Year"]]
 countries = db_x_infer_cases[["Country Name"]].drop_duplicates()["Country Name"]
-countries = countries.loc[countries != "World"]
 
-factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
-factors = factors[["Series Name", "Series Code"]]
+factors = pd.read_csv("./prediction/x_2003-2022_infer_factors.csv")
+factors = factors[["Series Name"]]
 
 ig = IntegratedGradients(model)
 
+attributions_country = np.zeros((len(factors), len(countries)), dtype=np.float32)
 for i, country in enumerate(countries):
     country_idx = db_x_infer_cases.loc[
         db_x_infer_cases["Country Name"] == country
@@ -34,8 +34,6 @@ for i, country in enumerate(countries):
 
     db_x_infer_country = db_x_infer[country_idx, :]
     baseline = torch.zeros(db_x_infer_country.shape)
-
-    ...
 
     attributions, approximation_error = ig.attribute(
         db_x_infer_country,
@@ -45,16 +43,17 @@ for i, country in enumerate(countries):
         target=level,
     )
 
-    importance = np.mean(attributions.cpu().numpy(), axis=0)
-    factors.insert(2 + i, country, list(importance), True)
+    attributions_country[:, i] = np.mean(attributions.cpu().numpy(), axis=0)
 
 categories = pd.read_csv("./data/worldbank/links/Series_Name_Category.csv")
 categories = categories[["Category", "Series Name"]]
 attributions = pd.read_csv("./prediction/results/ordered_factors_2003_2022_high.csv")
 attributions = attributions[["Series Name", "Attribution"]]
 
+attributions_df = pd.DataFrame(attributions_country, columns=countries)
+factors = pd.concat([factors, attributions_df], axis=1)
 factors = factors.merge(categories, how="inner", on="Series Name")
-factors = factors[["Category", "Series Name", "Series Code", *countries.to_list()]]
+factors = factors[["Category", "Series Name", *countries.to_list()]]
 
 positive = attributions.copy()
 negative = attributions.copy()
