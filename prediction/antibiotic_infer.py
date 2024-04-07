@@ -55,7 +55,7 @@ def infer():
     # 2002-2017 Prediction accuracy 3039.0/3060
     # 99.31373000144958%
 
-    plt.rcParams["figure.figsize"] = (8, 8)
+    plt.rcParams["figure.figsize"] = (9, 7)
     for title, (pred, real) in zip(
         [
             "2018 Penicillin Antibiotic Usage and Resistance Risk Prediction Confusion matrix",
