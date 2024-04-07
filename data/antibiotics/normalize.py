@@ -1,5 +1,4 @@
 import pandas as pd
-from tqdm import tqdm
 
 ANTIBIOTICS = "./data/antibiotics/2018-2000_antibiotic_total.csv"
 CONSUMPTION = "Antibiotic consumption (DDD/1,000/day)"
