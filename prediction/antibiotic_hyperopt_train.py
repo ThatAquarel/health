@@ -24,7 +24,7 @@ class AntibioticDataset(Dataset):
         return torch.load(full_path, map_location="cpu")
 
     def load_db(self):
-        if train:
+        if self.train:
             self.x = self._load(f"./prediction/x_2003-2017_train.pt")
             self.y = self._load(f"./prediction/y_2003-2017_train.pt")
             return
@@ -91,7 +91,7 @@ def objective(config):
             self.linear_relu_stack = nn.Sequential(
                 nn.Dropout(),
                 nn.Linear(in_features=804, out_features=config["hidden_n"]),
-                nn.ReLU(),
+                nn.Tanh(),
                 nn.Linear(in_features=config["hidden_n"], out_features=5),
             )
 
@@ -139,15 +139,4 @@ results = tune.run(
     config=search_space,
 )
 
-# tuner = tune.Tuner(
-#     objective,
-#     tune_config=tune.TuneConfig(
-#         metric="mean_accuracy",
-#         mode="max",
-#         search_alg=algo,
-#     ),
-#     run_config=train.RunConfig(stop={"training_iteration": 100, "mean_accuracy": 0.95}),
-#     param_space=search_space,
-# )
-# results = tuner.fit()
-print("Best config is:", results.best_result().config)
+results.results_df.to_csv("./prediction/antibiotic_hyperopt_train.csv")
