@@ -21,7 +21,7 @@ indicator_filter = all_indicators[
 # sort predicted categories
 predicted_categories = pd.read_csv("prediction/results/predicted_categories.csv")
 categories_idx = np.array(predicted_categories["Predicted Category"]).argsort()
-pal_category = sns.color_palette("ch:s=.25,rot=-.25", n_colors=5)
+pal_category = sns.color_palette("ch:s=.25,rot=-.25", as_cmap=True, 5)
 country_colors = [
     pal_category[i] for i in predicted_categories["Predicted Category"][categories_idx]
 ]
