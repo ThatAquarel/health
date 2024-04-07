@@ -78,3 +78,5 @@ torch.save(x[get_idx(unique_cases, 2018, 2018), :], "./prediction/x_2018_test.pt
 # x_2003-2022_infer.pt and x_2003-2022_infer_cases.csv
 torch.save(x[get_idx(unique_cases, 2003, 2022), :], "./prediction/x_2003-2022_infer.pt")
 unique_cases.to_csv("./prediction/x_2003-2022_infer_cases.csv")
+factors = pd.DataFrame({"Series Name": merged.columns.values[2:-1]})
+factors.to_csv("./prediction/x_2003-2022_infer_factors.csv")
