@@ -13,7 +13,13 @@ cases = cases[cases["Year"] == 2021]
 # indicators
 all_indicators = pd.read_csv("prediction/x_2003-2022_infer_factors.csv")
 all_indicators = all_indicators[["Series Name"]]
-top_indicators = pd.read_csv("prediction/results/top100_factors.csv")
+
+a = pd.read_csv("data/worldbank/links/environmental.csv")
+b = pd.read_csv("data/worldbank/links/climate_change.csv")
+
+top_indicators = pd.concat(
+    [a[["Category", "Series Name"]], b[["Category", "Series Name"]]]
+)
 indicator_filter = all_indicators[
     all_indicators["Series Name"].isin(top_indicators["Series Name"])
 ]
@@ -21,7 +27,7 @@ indicator_filter = all_indicators[
 # sort predicted categories
 predicted_categories = pd.read_csv("prediction/results/predicted_categories.csv")
 categories_idx = np.array(predicted_categories["Predicted Category"]).argsort()
-pal_category = sns.color_palette("ch:s=.25,rot=-.25", as_cmap=True, 5)
+pal_category = sns.color_palette("Purples", n_colors=5)
 country_colors = [
     pal_category[i] for i in predicted_categories["Predicted Category"][categories_idx]
 ]
@@ -75,7 +81,7 @@ matrix = matrix.fillna(0)
 # show heatmap
 g = sns.clustermap(
     matrix,
-    # col_colors=[continent_colors, country_colors],
+    cmap="mako",
     col_colors=pd.concat([continent_colors, country_colors], axis=1),
     col_cluster=False,
     dendrogram_ratio=(0.17, 0.1),
@@ -119,9 +125,10 @@ fig.legend(
 )
 
 fig.suptitle(
-    "Comprehensive correspondence between top significant indicators (n=100)\n and total antibiotic usage worldwide (n=145 regions), 2022",
+    f"Comprehensive correspondence between top significant environmental indicators (n={len(indicator_filter)})\n"
+    + " and total antibiotic usage worldwide (n=145 regions), 2022",
     fontsize=48,
 )
 
 plt.tight_layout()
-plt.savefig("visualizations/heatmap_top100.png")
+plt.savefig("visualizations/heatmap_env.png")
