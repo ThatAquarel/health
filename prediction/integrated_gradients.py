@@ -41,12 +41,14 @@ for input_file, output_date in {
         )
 
         importance = np.mean(attributions.cpu().numpy(), axis=0)
+        abs_importance = np.mean(np.abs(attributions.cpu().numpy()), axis=0)
 
         indices = np.argsort(importance)
         factors = pd.read_csv("./data/worldbank/links/Series_Name_Series_Code.csv")
         factors = factors[["Series Name", "Series Code"]]
 
         factors.insert(2, "Attribution", list(importance), True)
+        factors.insert(3, "Attribution Absolute", list(abs_importance), True)
 
         ordered = factors.reindex(indices)
         ordered.to_csv(

@@ -48,22 +48,20 @@ for i, country in enumerate(countries):
 categories = pd.read_csv("./data/worldbank/links/Series_Name_Category.csv")
 categories = categories[["Category", "Series Name"]]
 attributions = pd.read_csv("./prediction/results/ordered_factors_2003_2022_high.csv")
-attributions = attributions[["Series Name", "Attribution"]]
+attributions = attributions[["Series Name", "Attribution", "Attribution Absolute"]]
 
 attributions_df = pd.DataFrame(attributions_country, columns=countries)
 factors = pd.concat([factors, attributions_df], axis=1)
 factors = factors.merge(categories, how="inner", on="Series Name")
 factors = factors[["Category", "Series Name", *countries.to_list()]]
 
-positive = attributions.copy()
-negative = attributions.copy()
+positive = attributions[["Series Name", "Attribution"]].copy()
+negative = attributions[["Series Name", "Attribution"]].copy()
+abs_sort = attributions.copy()
 
 attributions["Attribution_abs"] = attributions[["Attribution"]].abs()
 attributions = attributions.sort_values(by=["Attribution_abs"])
 attributions = attributions[["Series Name", "Attribution"]]
-
-positive = positive.sort_values(by=["Attribution"])
-negative = negative.sort_values(by=["Attribution"], ascending=False)
 
 import matplotlib.pyplot as plt
 
@@ -74,6 +72,9 @@ plt.show()
 for n in [10, 25, 50, 100]:
     attributions.tail(n).to_csv(f"./prediction/results/top{n}_factors.csv")
 
+positive = positive.sort_values(by=["Attribution"])
+negative = negative.sort_values(by=["Attribution"], ascending=False)
+
 for n in [10, 20, 50, 100]:
     each = n // 2
 
@@ -83,7 +84,11 @@ for n in [10, 20, 50, 100]:
     pd.merge(top_positive, top_negative, how="outer").to_csv(
         f"./prediction/results/top{n}_balanced_factors.csv"
     )
-    ...
+
+abs_sort = abs_sort.sort_values(by=["Attribution Absolute"])
+for n in [10, 25, 50, 100]:
+    abs_sort.tail(n).to_csv(f"./prediction/results/top{n}_abs_factors.csv")
+
 
 filtered_factors = attributions.tail(100)[["Series Name"]]
 factors = factors.merge(filtered_factors, how="inner", on="Series Name")
