@@ -16,7 +16,7 @@ indicators = indicators.merge(
     top_indicators[["Series Name"]], how="inner", on="Series Name"
 )
 indicators_idx = list(indicators.index)
-del indicators_idx[25:80]
+# del indicators_idx[25:80]
 
 predicted_categories = pd.read_csv("prediction/results/predicted_categories.csv")
 assert list(cases["Country Name"]) == list(predicted_categories["Country Name"])
@@ -32,16 +32,9 @@ worldbank = worldbank[cases.index]
 worldbank = worldbank[:, indicators_idx]
 worldbank = worldbank[categories_idx]
 
-# countries =
-
 values = worldbank.cpu().numpy().astype(np.float32)
 values = (values - values.min(axis=0)) / (values.max(axis=0) - values.min(axis=0))
 values = np.nan_to_num(values)
 
-sns.clustermap(
-    values.T,
-    col_colors={"Antibiotic risk": country_colors},
-    col_cluster=False,
-    cmap="mako",
-)
+sns.clustermap(values.T, col_colors=country_colors, col_cluster=False, cmap="mako")
 plt.show()
