@@ -17,6 +17,7 @@ Combine world_dev and health
 
 Export to `2022-2003_worldbank_data.csv`
 
+
 ### `filter_factors.py`
 
 Remove unavailable factors
@@ -29,10 +30,15 @@ Export to `./data/worldbank/2022-2003_worldbank_filtered.csv`
 
 ### `normalize.py`
 
-Normalize every indicator by longitude
-
+Normalize `2022-2003_worldbank_data.csv`every indicator by longitude
 Export to `2022-2003_worldbank_normalized.csv`
 
+
+### `link_tables.py`
+
+- Export filtered link tables `./data/worldbank/links/data/*`
+- Export data link tables `./data/worldbank/links/filtered/*`
+- Export `./data/worldbank/links/category/*`
 
 ## Antibiotics
 
