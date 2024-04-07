@@ -19,7 +19,7 @@ class AntibioticDataset(Dataset):
         self.load_db()
 
     def load_db(self):
-        if train:
+        if self.train:
             self.x = torch.load(f"./prediction/x_2003-2017_train.pt")
             self.y = torch.load(f"./prediction/y_2003-2017_train.pt")
             return
