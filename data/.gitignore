@@ -1,3 +1,5 @@
-*.csv
+**/raw*/*
+worldbank/2022*.csv
+antibiotics/2018*.csv
 *.zip
 *.txt
