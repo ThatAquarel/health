@@ -24,7 +24,7 @@ categorized_countries <- read.csv("./prediction/results/predicted_categories.csv
 countries_categories <- categorized_countries[["Predicted.Category"]]
 
 # load top factors
-top_factors <- read.csv("./prediction/results/top20_balanced_factors.csv")
+top_factors <- read.csv("./prediction/results/top50_balanced_factors.csv")
 top_factors_names <- top_factors[["Series.Name"]]
 
 # load top countries
@@ -180,6 +180,8 @@ Heatmap(
   top_annotation = abr_ha,
   #bottom_annotation = important_country_marks,
   
+  cluster_rows = TRUE,
+  
   #row_split=factors_categories,
   right_annotation = factor_ha,
   row_dend_reorder = TRUE,
@@ -200,7 +202,7 @@ heatmap_lgd = Legend(
 at = seq(0,4,1)
 abr_ldg = Legend(
   at = at,
-  title = "Penicillin ABR risk and usage (DDD/1,000/day)",
+  title = "ABR risk and usage (DDD/1,000/day)",
   legend_gp = gpar(fill = abr_col_fun(at)),
   labels=c(
     "(0.67,  5.76]   Low",
@@ -213,6 +215,6 @@ abr_ldg = Legend(
 
 pd = packLegend(heatmap_lgd, abr_ldg)
 
-pushViewport(viewport(width = 1.0, height = 1.0))
-draw(pd, x = unit(0.8, "npc"), y = unit(0.56, "npc"))
-popViewport()
+#pushViewport(viewport(width = 1.0, height = 1.0))
+#draw(pd, x = unit(0.8, "npc"), y = unit(0.56, "npc"))
+#popViewport()
