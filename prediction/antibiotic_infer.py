@@ -13,11 +13,11 @@ from sklearn.model_selection import train_test_split
 
 
 def infer():
-    db_x_test = torch.load("./prediction/db_x_test.pt")
-    db_y_test = torch.load("./prediction/db_y_test.pt")
+    db_x_test = torch.load("./prediction/x_2018_test.pt")
+    db_y_test = torch.load("./prediction/y_2018_test.pt")
 
-    db_x = torch.load("./prediction/db_x.pt")
-    db_y = torch.load("./prediction/db_y.pt")
+    db_x = torch.load("./prediction/x_2003-2017_train.pt")
+    db_y = torch.load("./prediction/y_2003-2017_train.pt")
 
     model = AntibioticPredictor()
     model.load_state_dict(torch.load(MODEL))
@@ -74,8 +74,8 @@ def infer():
 
         plt.show()
 
-    db_x_infer = torch.load("./prediction/db_x_infer.pt")
-    db_x_infer_cases = pd.read_csv("./prediction/db_x_infer_cases.csv")
+    db_x_infer = torch.load("./prediction/x_2003-2022_infer.pt")
+    db_x_infer_cases = pd.read_csv("./prediction/x_2003-2022_infer_cases.csv")
     db_x_infer_cases = db_x_infer_cases[["Country Name", "Year"]]
 
     with torch.no_grad():
