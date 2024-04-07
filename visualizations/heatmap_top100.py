@@ -4,6 +4,7 @@ import pandas as pd
 
 import seaborn as sns
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 
 cases = pd.read_csv("prediction/x_2003-2022_infer_cases.csv")
 cases = cases[["Country Name", "Year"]]
@@ -50,12 +51,40 @@ matrix = matrix.sub(amin, axis=0).div(amax - amin, axis=0)
 matrix = matrix.fillna(0)
 
 # show heatmap
-sns.clustermap(
+g = sns.clustermap(
     matrix,
     col_colors=country_colors,
     col_cluster=False,
     dendrogram_ratio=(0.1, 0.1),
-    cbar_pos=(0.02, 0.05, 0.028, 0.04),
-    figsize=((40, 40)),
+    cbar_pos=(0.01, 0.05, 0.02, 0.2),
+    figsize=((45, 40)),
 )
+
+intervals = [
+    "≤ 11.42",
+    "(11.42, 20.04]",
+    "(20.04, 28.66]",
+    "(28.66, 37.28]",
+    "> 37.28",
+]
+
+levels = ["Low", "Medium-low", "Medium", "Medium-high", "High"]
+
+fig = g.figure
+fig.legend(
+    handles=[
+        *[mpatches.Patch(color=color, label=levels[i]) for i, color in enumerate(pal)],
+        *[mpatches.Patch(color="white", label=interval) for interval in intervals],
+    ],
+    ncols=2,
+    title="Total antibiotic consumption (DDD/1,000/day)",
+    loc="lower left",
+)
+
+fig.suptitle(
+    "Comprehensive correspondence between top indicators (n=100)\n and total antibiotic usage worldwide (n=145 regions), 2022",
+    fontsize=48,
+)
+
+plt.tight_layout()
 plt.savefig("visualizations/heatmap_top100.png")
