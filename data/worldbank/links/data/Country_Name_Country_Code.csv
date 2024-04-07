@@ -1,0 +1,267 @@
+,Country Name,Country Code
+0,Afghanistan,AFG
+1683,Africa Eastern and Southern,AFE
+3366,Africa Western and Central,AFW
+5049,Albania,ALB
+6732,Algeria,DZA
+8415,American Samoa,ASM
+10098,Andorra,AND
+11781,Angola,AGO
+13464,Antigua and Barbuda,ATG
+15147,Arab World,ARB
+16830,Argentina,ARG
+18513,Armenia,ARM
+20196,Aruba,ABW
+21879,Australia,AUS
+23562,Austria,AUT
+25245,Azerbaijan,AZE
+26928,"Bahamas, The",BHS
+28611,Bahrain,BHR
+30294,Bangladesh,BGD
+31977,Barbados,BRB
+33660,Belarus,BLR
+35343,Belgium,BEL
+37026,Belize,BLZ
+38709,Benin,BEN
+40392,Bermuda,BMU
+42075,Bhutan,BTN
+43758,Bolivia,BOL
+45441,Bosnia and Herzegovina,BIH
+47124,Botswana,BWA
+48807,Brazil,BRA
+50490,British Virgin Islands,VGB
+52173,Brunei Darussalam,BRN
+53856,Bulgaria,BGR
+55539,Burkina Faso,BFA
+57222,Burundi,BDI
+58905,Cabo Verde,CPV
+60588,Cambodia,KHM
+62271,Cameroon,CMR
+63954,Canada,CAN
+65637,Caribbean small states,CSS
+67320,Cayman Islands,CYM
+69003,Central African Republic,CAF
+70686,Central Europe and the Baltics,CEB
+72369,Chad,TCD
+74052,Channel Islands,CHI
+75735,Chile,CHL
+77418,China,CHN
+79101,Colombia,COL
+80784,Comoros,COM
+82467,"Congo, Dem. Rep.",COD
+84150,"Congo, Rep.",COG
+85833,Costa Rica,CRI
+87516,Cote d'Ivoire,CIV
+89199,Croatia,HRV
+90882,Cuba,CUB
+92565,Curacao,CUW
+94248,Cyprus,CYP
+95931,Czechia,CZE
+97614,Denmark,DNK
+99297,Djibouti,DJI
+100980,Dominica,DMA
+102663,Dominican Republic,DOM
+104346,Early-demographic dividend,EAR
+106029,East Asia & Pacific,EAS
+107712,East Asia & Pacific (IDA & IBRD countries),TEA
+109395,East Asia & Pacific (excluding high income),EAP
+111078,Ecuador,ECU
+112761,"Egypt, Arab Rep.",EGY
+114444,El Salvador,SLV
+116127,Equatorial Guinea,GNQ
+117810,Eritrea,ERI
+119493,Estonia,EST
+121176,Eswatini,SWZ
+122859,Ethiopia,ETH
+124542,Euro area,EMU
+126225,Europe & Central Asia,ECS
+127908,Europe & Central Asia (IDA & IBRD countries),TEC
+129591,Europe & Central Asia (excluding high income),ECA
+131274,European Union,EUU
+132957,Faroe Islands,FRO
+134640,Fiji,FJI
+136323,Finland,FIN
+138006,Fragile and conflict affected situations,FCS
+139689,France,FRA
+141372,French Polynesia,PYF
+143055,Gabon,GAB
+144738,"Gambia, The",GMB
+146421,Georgia,GEO
+148104,Germany,DEU
+149787,Ghana,GHA
+151470,Gibraltar,GIB
+153153,Greece,GRC
+154836,Greenland,GRL
+156519,Grenada,GRD
+158202,Guam,GUM
+159885,Guatemala,GTM
+161568,Guinea,GIN
+163251,Guinea-Bissau,GNB
+164934,Guyana,GUY
+166617,Haiti,HTI
+168300,Heavily indebted poor countries (HIPC),HPC
+169983,High income,HIC
+171666,Honduras,HND
+173349,"Hong Kong SAR, China",HKG
+175032,Hungary,HUN
+176715,IBRD only,IBD
+178592,IDA & IBRD total,IBT
+180275,IDA blend,IDB
+182172,IDA only,IDX
+184066,IDA total,IDA
+185960,Iceland,ISL
+187643,India,IND
+189326,Indonesia,IDN
+191009,"Iran, Islamic Rep.",IRN
+192692,Iraq,IRQ
+194375,Ireland,IRL
+196058,Isle of Man,IMN
+197741,Israel,ISR
+199424,Italy,ITA
+201107,Jamaica,JAM
+202790,Japan,JPN
+204473,Jordan,JOR
+206156,Kazakhstan,KAZ
+207839,Kenya,KEN
+209522,Kiribati,KIR
+211205,"Korea, Dem. People's Rep.",PRK
+212888,"Korea, Rep.",KOR
+214571,Kosovo,XKX
+216254,Kuwait,KWT
+217937,Kyrgyz Republic,KGZ
+219620,Lao PDR,LAO
+221303,Late-demographic dividend,LTE
+222986,Latin America & Caribbean,LCN
+224669,Latin America & Caribbean (excluding high income),LAC
+226352,Latin America & the Caribbean (IDA & IBRD countries),TLA
+228035,Latvia,LVA
+229718,Least developed countries: UN classification,LDC
+231401,Lebanon,LBN
+233084,Lesotho,LSO
+234767,Liberia,LBR
+236450,Libya,LBY
+238133,Liechtenstein,LIE
+239816,Lithuania,LTU
+241499,Low & middle income,LMY
+243182,Low income,LIC
+244865,Lower middle income,LMC
+246548,Luxembourg,LUX
+248231,"Macao SAR, China",MAC
+249914,Madagascar,MDG
+251597,Malawi,MWI
+253280,Malaysia,MYS
+254963,Maldives,MDV
+256646,Mali,MLI
+258329,Malta,MLT
+260012,Marshall Islands,MHL
+261695,Mauritania,MRT
+263378,Mauritius,MUS
+265061,Mexico,MEX
+266744,"Micronesia, Fed. Sts.",FSM
+268427,Middle East & North Africa,MEA
+270110,Middle East & North Africa (IDA & IBRD countries),TMN
+271793,Middle East & North Africa (excluding high income),MNA
+273476,Middle income,MIC
+275159,Moldova,MDA
+276842,Monaco,MCO
+278525,Mongolia,MNG
+280208,Montenegro,MNE
+281891,Morocco,MAR
+283574,Mozambique,MOZ
+285257,Myanmar,MMR
+286940,Namibia,NAM
+288623,Nauru,NRU
+290306,Nepal,NPL
+291989,Netherlands,NLD
+293672,New Caledonia,NCL
+295355,New Zealand,NZL
+297038,Nicaragua,NIC
+298721,Niger,NER
+300404,Nigeria,NGA
+302087,North America,NAC
+303770,North Macedonia,MKD
+305453,Northern Mariana Islands,MNP
+307136,Norway,NOR
+308819,Not classified,INX
+310502,OECD members,OED
+312185,Oman,OMN
+313868,Other small states,OSS
+315551,Pacific island small states,PSS
+317234,Pakistan,PAK
+318917,Palau,PLW
+320600,Panama,PAN
+322283,Papua New Guinea,PNG
+323966,Paraguay,PRY
+325649,Peru,PER
+327332,Philippines,PHL
+329015,Poland,POL
+330698,Portugal,PRT
+332381,Post-demographic dividend,PST
+334064,Pre-demographic dividend,PRE
+335747,Puerto Rico,PRI
+337430,Qatar,QAT
+339113,Romania,ROU
+340796,Russian Federation,RUS
+342479,Rwanda,RWA
+344162,Samoa,WSM
+345845,San Marino,SMR
+347528,Sao Tome and Principe,STP
+349211,Saudi Arabia,SAU
+350894,Senegal,SEN
+352577,Serbia,SRB
+354260,Seychelles,SYC
+355943,Sierra Leone,SLE
+357626,Singapore,SGP
+359309,Sint Maarten (Dutch part),SXM
+360992,Slovak Republic,SVK
+362675,Slovenia,SVN
+364358,Small states,SST
+366041,Solomon Islands,SLB
+367724,Somalia,SOM
+369407,South Africa,ZAF
+371090,South Asia,SAS
+372773,South Asia (IDA & IBRD),TSA
+374456,South Sudan,SSD
+376139,Spain,ESP
+377822,Sri Lanka,LKA
+379505,St. Kitts and Nevis,KNA
+381188,St. Lucia,LCA
+382871,St. Martin (French part),MAF
+384554,St. Vincent and the Grenadines,VCT
+386237,Sub-Saharan Africa,SSF
+387920,Sub-Saharan Africa (IDA & IBRD countries),TSS
+389603,Sub-Saharan Africa (excluding high income),SSA
+391286,Sudan,SDN
+392969,Suriname,SUR
+394652,Sweden,SWE
+396335,Switzerland,CHE
+398018,Syrian Arab Republic,SYR
+399701,Tajikistan,TJK
+401384,Tanzania,TZA
+403067,Thailand,THA
+404750,Timor-Leste,TLS
+406433,Togo,TGO
+408116,Tonga,TON
+409799,Trinidad and Tobago,TTO
+411482,Tunisia,TUN
+413165,Turkiye,TUR
+414848,Turkmenistan,TKM
+416531,Turks and Caicos Islands,TCA
+418214,Tuvalu,TUV
+419897,Uganda,UGA
+421580,Ukraine,UKR
+423263,United Arab Emirates,ARE
+424946,United Kingdom,GBR
+426629,United States,USA
+428312,Upper middle income,UMC
+429995,Uruguay,URY
+431678,Uzbekistan,UZB
+433361,Vanuatu,VUT
+435044,"Venezuela, RB",VEN
+436727,Viet Nam,VNM
+438410,Virgin Islands (U.S.),VIR
+440093,West Bank and Gaza,PSE
+441776,World,WLD
+443459,"Yemen, Rep.",YEM
+445142,Zambia,ZMB
+446825,Zimbabwe,ZWE

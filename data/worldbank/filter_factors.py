@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # determine filter merge tables
 
-data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
+data = pd.read_csv("./data/worldbank/2022-2003_worldbank_data.csv")
 YEARS = [f"{i} [YR{i}]" for i in range(2003, 2023)]
 
 data = data.copy()
@@ -63,7 +63,7 @@ display_available(filtered)
 
 # filter data and export
 
-data = pd.read_csv("./data/worldbank/2022-2000_worldbank_data.csv")
+data = pd.read_csv("./data/worldbank/2022-2003_worldbank_data.csv")
 keys = ["Country Name", "Country Code", "Series Name", "Series Code", *YEARS]
 data = data[keys]
 

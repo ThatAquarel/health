@@ -1,0 +1,62 @@
+,Category,Series Name,Series Code
+65,Aid Effectiveness,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS
+107,Aid Effectiveness,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS
+111,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD
+117,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD
+128,Aid Effectiveness,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD
+193,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD
+265,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD
+295,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",DC.DAC.CZEL.CD
+306,Aid Effectiveness,"Net official flows from UN agencies, UNWTO (current US$)",DT.NFL.UNWT.CD
+320,Aid Effectiveness,"Net official flows from UN agencies, UNPBF (current US$)",DT.NFL.UNPB.CD
+348,Aid Effectiveness,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS
+360,Aid Effectiveness,"Net official flows from UN agencies, UNRWA (current US$)",DT.NFL.UNRW.CD
+365,Aid Effectiveness,"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS
+437,Aid Effectiveness,"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD
+457,Aid Effectiveness,"Net official flows from UN agencies, UNIDIR (current US$)",DT.NFL.UNID.CD
+486,Aid Effectiveness,"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD
+492,Aid Effectiveness,"Net official flows from UN agencies, UNECE (current US$)",DT.NFL.UNEC.CD
+526,Aid Effectiveness,"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD
+579,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD
+586,Aid Effectiveness,"Net official flows from UN agencies, UNEP (current US$)",DT.NFL.UNEP.CD
+650,Aid Effectiveness,"Net official flows from UN agencies, UNTA (current US$)",DT.NFL.UNTA.CD
+670,Aid Effectiveness,"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD
+671,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD
+736,Aid Effectiveness,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS
+901,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD
+914,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD
+934,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD
+962,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD
+1037,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD
+1068,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Hungary (current US$)",DC.DAC.HUNL.CD
+1080,Aid Effectiveness,Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS
+1110,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD
+1112,Aid Effectiveness,"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD
+1172,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD
+1218,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD
+1284,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD
+1305,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD
+1343,Aid Effectiveness,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD
+1344,Aid Effectiveness,Income share held by lowest 20%,SI.DST.FRST.20
+1347,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD
+1351,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD
+1384,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD
+1415,Aid Effectiveness,"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD
+1422,Aid Effectiveness,Net official development assistance received (constant 2020 US$),DT.ODA.ODAT.KD
+1431,Aid Effectiveness,"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD
+1435,Aid Effectiveness,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD
+1446,Aid Effectiveness,"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD
+1469,Aid Effectiveness,"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD
+1482,Aid Effectiveness,"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD
+1497,Aid Effectiveness,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD
+1513,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD
+1517,Aid Effectiveness,Net official aid received (current US$),DT.ODA.OATL.CD
+1542,Aid Effectiveness,"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD
+1560,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD
+1563,Aid Effectiveness,Net official development assistance and official aid received (constant 2020 US$),DT.ODA.ALLD.KD
+1579,Aid Effectiveness,Net official aid received (constant 2020 US$),DT.ODA.OATL.KD
+1591,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD
+1603,Aid Effectiveness,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD
+1622,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD
+1627,Aid Effectiveness,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD
+1646,Aid Effectiveness,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD

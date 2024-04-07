@@ -1,0 +1,98 @@
+,Category,Series Name,Series Code
+45,Education,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD
+57,Education,"Primary education, teachers",SE.PRM.TCHR
+70,Education,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS
+88,Education,"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS
+157,Education,"Secondary education, teachers, female",SE.SEC.TCHR.FE
+221,Education,"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS
+273,Education,"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS
+290,Education,"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS
+291,Education,"Over-age students, primary, male (% of male enrollment)",SE.PRM.OENR.MA.ZS
+303,Education,Lower secondary school starting age (years),SE.SEC.AGES
+311,Education,Male primary school age children out-of-school (%),SE.LPV.PRIM.SD.MA
+322,Education,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS
+324,Education,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS
+327,Education,"Net ODA provided, total (constant 2020 US$)",DC.ODA.TOTL.KD
+330,Education,"Secondary education, teachers",SE.SEC.TCHR
+334,Education,"School enrollment, secondary (% gross)",SE.SEC.ENRR
+339,Education,"Primary education, pupils",SE.PRM.ENRL
+341,Education,"Secondary education, pupils",SE.SEC.ENRL
+343,Education,"Children out of school, primary",SE.PRM.UNER
+350,Education,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS
+408,Education,"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR
+411,Education,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA
+423,Education,"Tertiary education, academic staff (% female)",SE.TER.TCHR.FE.ZS
+444,Education,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS
+455,Education,"Preprimary education, duration (years)",SE.PRE.DURS
+456,Education,"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS
+470,Education,Number of deaths ages 10-14 years,SH.DTH.1014
+507,Education,"School enrollment, tertiary (% gross)",SE.TER.ENRR
+552,Education,Number of deaths ages 20-24 years,SH.DTH.2024
+555,Education,"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS
+564,Education,"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS
+603,Education,"Labor force, total",SL.TLF.TOTL.IN
+654,Education,"School enrollment, secondary (% net)",SE.SEC.NENR
+696,Education,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE
+728,Education,Expenditure on primary education (% of government expenditure on education),SE.XPD.PRIM.ZS
+731,Education,"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS
+732,Education,Number of deaths ages 15-19 years,SH.DTH.1519
+746,Education,"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS
+747,Education,"Government expenditure per student, primary (% of GDP per capita)",SE.XPD.PRIM.PC.ZS
+750,Education,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS
+784,Education,"Repeaters, primary, total (% of total enrollment)",SE.PRM.REPT.ZS
+789,Education,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",SE.PRM.GINT.ZS
+804,Education,"Over-age students, primary, female (% of female enrollment)",SE.PRM.OENR.FE.ZS
+812,Education,"Persistence to grade 5, total (% of cohort)",SE.PRM.PRS5.ZS
+826,Education,"Secondary education, general pupils",SE.SEC.ENRL.GC
+829,Education,Net intake rate in grade 1 (% of official school-age population),SE.PRM.NINT.ZS
+842,Education,Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS
+893,Education,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS
+898,Education,"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS
+915,Education,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS
+935,Education,"Persistence to last grade of primary, total (% of cohort)",SE.PRM.PRSL.ZS
+940,Education,"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS
+950,Education,"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509
+953,Education,"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS
+963,Education,"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS
+972,Education,Number of deaths ages 5-9 years,SH.DTH.0509
+974,Education,"Compulsory education, duration (years)",SE.COM.DURS
+1013,Education,"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS
+1017,Education,Primary school starting age (years),SE.PRM.AGES
+1019,Education,"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014
+1029,Education,"School enrollment, primary (% gross)",SE.PRM.ENRR
+1040,Education,Progression to secondary school (%),SE.SEC.PROG.ZS
+1069,Education,"Secondary education, vocational pupils",SE.SEC.ENRL.VO
+1084,Education,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS
+1090,Education,"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024
+1097,Education,"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS
+1101,Education,"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS
+1127,Education,"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS
+1129,Education,"Government expenditure per student, secondary (% of GDP per capita)",SE.XPD.SECO.PC.ZS
+1132,Education,Expenditure on secondary education (% of government expenditure on education),SE.XPD.SECO.ZS
+1161,Education,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS
+1219,Education,"Secondary education, duration (years)",SE.SEC.DURS
+1228,Education,"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS
+1252,Education,Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS
+1282,Education,Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14,SE.ENR.ORPH
+1283,Education,Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS
+1292,Education,"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS
+1300,Education,"Primary education, duration (years)",SE.PRM.DURS
+1367,Education,"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS
+1370,Education,"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS
+1382,Education,Children out of school (% of primary school age),SE.PRM.UNER.ZS
+1395,Education,"School enrollment, primary (% net)",SE.PRM.NENR
+1401,Education,"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS
+1403,Education,Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS
+1405,Education,"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS
+1413,Education,"Government expenditure per student, tertiary (% of GDP per capita)",SE.XPD.TERT.PC.ZS
+1419,Education,"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS
+1457,Education,Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS
+1465,Education,"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS
+1508,Education,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS
+1580,Education,"School enrollment, preprimary (% gross)",SE.PRE.ENRR
+1592,Education,"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS
+1629,Education,Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS
+1648,Education,"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519
+1651,Education,Primary school age children out-of-school (%),SE.LPV.PRIM.SD
+1656,Education,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS
+1673,Education,Expenditure on tertiary education (% of government expenditure on education),SE.XPD.TERT.ZS

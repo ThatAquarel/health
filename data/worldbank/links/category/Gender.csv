@@ -1,0 +1,252 @@
+,Category,Series Name,Series Code
+5,Gender,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN
+13,Gender,Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL
+23,Gender,"Age population, age 12, female, interpolated",SP.POP.AG12.FE.IN
+29,Gender,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS
+35,Gender,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS
+37,Gender,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS
+39,Gender,"Population ages 65-69, male",SP.POP.6569.MA
+44,Gender,"Age population, age 15, male, interpolated",SP.POP.AG15.MA.IN
+50,Gender,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS
+51,Gender,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN
+54,Gender,Women who believe a husband is justified in beating his wife when she burns the food (%),SG.VAW.BURN.ZS
+55,Gender,"Age population, age 11, male, interpolated",SP.POP.AG11.MA.IN
+60,Gender,"Population ages 15-19, female",SP.POP.1519.FE
+61,Gender,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS
+64,Gender,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN
+76,Gender,"Population ages 70-74, male",SP.POP.7074.MA
+79,Gender,"Population ages 75-79, male",SP.POP.7579.MA
+80,Gender,"Population ages 15-19, male",SP.POP.1519.MA
+81,Gender,"Population ages 65-69, female",SP.POP.6569.FE
+89,Gender,"Population ages 20-24, male",SP.POP.2024.MA
+94,Gender,"Population ages 55-59, male",SP.POP.5559.MA
+96,Gender,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS
+98,Gender,Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS
+99,Gender,"Population ages 45-49, male",SP.POP.4549.MA
+103,Gender,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS
+108,Gender,"Population ages 20-24, female",SP.POP.2024.FE
+115,Gender,"Age population, age 16, female, interpolated",SP.POP.AG16.FE.IN
+121,Gender,"Population ages 40-44, male",SP.POP.4044.MA
+122,Gender,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN
+129,Gender,"Population ages 25-29, female",SP.POP.2529.FE
+132,Gender,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS
+133,Gender,"Population ages 70-74, female",SP.POP.7074.FE
+143,Gender,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN
+145,Gender,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN
+148,Gender,"Number of deaths ages 5-9 years, male",SH.DTH.0509.MA
+151,Gender,Number of people who are undernourished,SN.ITK.DEFC
+152,Gender,"Age population, age 17, male, interpolated",SP.POP.AG17.MA.IN
+153,Gender,"Population ages 35-39, female",SP.POP.3539.FE
+156,Gender,"Number of deaths ages 5-9 years, female",SH.DTH.0509.FE
+158,Gender,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN
+178,Gender,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS
+195,Gender,"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS
+209,Gender,"Age population, age 11, female, interpolated",SP.POP.AG11.FE.IN
+210,Gender,"Age dependency ratio, young",SP.POP.DPND.YG
+212,Gender,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS
+215,Gender,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN
+228,Gender,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS
+230,Gender,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS
+234,Gender,"Population ages 55-59, female",SP.POP.5559.FE
+236,Gender,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN
+251,Gender,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS
+252,Gender,"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE
+254,Gender,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA
+266,Gender,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN
+267,Gender,"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA
+274,Gender,"Population ages 35-39, male",SP.POP.3539.MA
+289,Gender,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS
+298,Gender,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS
+300,Gender,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS
+307,Gender,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS
+309,Gender,"Population ages 75-79, female",SP.POP.7579.FE
+314,Gender,"Age population, age 20, male, interpolated",SP.POP.AG20.MA.IN
+319,Gender,"Population ages 80 and older, female (% of female population)",SP.POP.80UP.FE.5Y
+328,Gender,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK
+353,Gender,"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS
+355,Gender,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN
+359,Gender,"Population ages 80 and above, male",SP.POP.80UP.MA
+368,Gender,"Age population, age 16, male, interpolated",SP.POP.AG16.MA.IN
+377,Gender,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS
+384,Gender,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS
+391,Gender,"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS
+406,Gender,Ratio of young literate females to males (% ages 15-24),SE.ADT.1524.LT.FM.ZS
+415,Gender,"Population ages 45-49, female",SP.POP.4549.FE
+416,Gender,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS
+432,Gender,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS
+445,Gender,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE
+451,Gender,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS
+469,Gender,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS
+475,Gender,Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX
+478,Gender,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT
+480,Gender,"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS
+508,Gender,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS
+520,Gender,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS
+521,Gender,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS
+522,Gender,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS
+541,Gender,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS
+549,Gender,"Child employment in services, male (% of male economically active children ages 7-14)",SL.SRV.0714.MA.ZS
+554,Gender,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN
+557,Gender,"Child employment in agriculture, male (% of male economically active children ages 7-14)",SL.AGR.0714.MA.ZS
+563,Gender,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS
+566,Gender,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS
+567,Gender,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS
+574,Gender,"Persistence to grade 5, male (% of cohort)",SE.PRM.PRS5.MA.ZS
+598,Gender,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS
+604,Gender,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS
+610,Gender,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS
+619,Gender,"Population ages 60-64, male",SP.POP.6064.MA
+622,Gender,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS
+623,Gender,"Age at first marriage, female",SP.DYN.SMAM.FE
+625,Gender,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS
+636,Gender,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS
+638,Gender,"Population ages 80 and above, female",SP.POP.80UP.FE
+639,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS
+648,Gender,Women who believe a husband is justified in beating his wife (any of five reasons) (%),SG.VAW.REAS.ZS
+672,Gender,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS
+683,Gender,"Persistence to last grade of primary, female (% of cohort)",SE.PRM.PRSL.FE.ZS
+697,Gender,"Age population, age 19, male, interpolated",SP.POP.AG19.MA.IN
+702,Gender,"Age population, age 22, female, interpolated",SP.POP.AG22.FE.IN
+704,Gender,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS
+710,Gender,"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA
+724,Gender,"Age population, age 20, female, interpolated",SP.POP.AG20.FE.IN
+734,Gender,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS
+735,Gender,Women who believe a husband is justified in beating his wife when she neglects the children (%),SG.VAW.NEGL.ZS
+752,Gender,"Age population, age 25, female, interpolated",SP.POP.AG25.FE.IN
+757,Gender,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS
+763,Gender,"Persistence to grade 5, female (% of cohort)",SE.PRM.PRS5.FE.ZS
+764,Gender,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS
+773,Gender,Number of weeks of maternity leave,SH.MMR.LEVE
+774,Gender,"Age at first marriage, male",SP.DYN.SMAM.MA
+785,Gender,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA
+788,Gender,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE
+790,Gender,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS
+807,Gender,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS
+811,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS
+820,Gender,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS
+821,Gender,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS
+822,Gender,"Age population, age 23, male, interpolated",SP.POP.AG23.MA.IN
+823,Gender,"Age population, age 15, female, interpolated",SP.POP.AG15.FE.IN
+832,Gender,Wanted fertility rate (births per woman),SP.DYN.WFRT
+843,Gender,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS
+844,Gender,"Age population, age 18, female, interpolated",SP.POP.AG18.FE.IN
+849,Gender,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS
+854,Gender,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA
+878,Gender,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",SL.MNF.0714.MA.ZS
+917,Gender,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN
+925,Gender,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN
+959,Gender,Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS
+960,Gender,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE
+967,Gender,"Population ages 40-44, female",SP.POP.4044.FE
+976,Gender,"Net intake rate in grade 1, female (% of official school-age population)",SE.PRM.NINT.FE.ZS
+987,Gender,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS
+995,Gender,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS
+1001,Gender,"Persistence to last grade of primary, male (% of cohort)",SE.PRM.PRSL.MA.ZS
+1003,Gender,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS
+1020,Gender,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),SG.VAW.REFU.ZS
+1030,Gender,"Population ages 50-54, male",SP.POP.5054.MA
+1031,Gender,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
+1033,Gender,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE
+1035,Gender,"Population ages 30-34, male",SP.POP.3034.MA
+1050,Gender,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS
+1051,Gender,"Progression to secondary school, female (%)",SE.SEC.PROG.FE.ZS
+1063,Gender,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS
+1064,Gender,"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE
+1073,Gender,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE
+1079,Gender,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS
+1093,Gender,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA
+1116,Gender,"Age population, age 24, male, interpolated",SP.POP.AG24.MA.IN
+1122,Gender,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS
+1123,Gender,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS
+1141,Gender,"Population ages 60-64, female",SP.POP.6064.FE
+1147,Gender,"Age population, age 21, female, interpolated",SP.POP.AG21.FE.IN
+1148,Gender,"Child employment in services, female (% of female economically active children ages 7-14)",SL.SRV.0714.FE.ZS
+1149,Gender,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS
+1154,Gender,"Population ages 10-14, male",SP.POP.1014.MA
+1155,Gender,"Age population, age 21, male, interpolated",SP.POP.AG21.MA.IN
+1160,Gender,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS
+1184,Gender,"Age population, age 17, female, interpolated",SP.POP.AG17.FE.IN
+1187,Gender,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS
+1198,Gender,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN
+1201,Gender,"Population ages 30-34, female",SP.POP.3034.FE
+1202,Gender,Female primary school age children out-of-school (%),SE.LPV.PRIM.SD.FE
+1226,Gender,"Children out of school, primary, female",SE.PRM.UNER.FE
+1234,Gender,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN
+1239,Gender,"Population ages 25-29, male",SP.POP.2529.MA
+1241,Gender,"Net intake rate in grade 1, male (% of official school-age population)",SE.PRM.NINT.MA.ZS
+1246,Gender,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS
+1258,Gender,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN
+1260,Gender,"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE
+1263,Gender,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN
+1288,Gender,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS
+1294,Gender,"Population ages 00-04, male",SP.POP.0004.MA
+1296,Gender,"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS
+1298,Gender,"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE
+1301,Gender,"School enrollment, primary, female (% net)",SE.PRM.NENR.FE
+1303,Gender,"Age population, age 18, male, interpolated",SP.POP.AG18.MA.IN
+1307,Gender,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN
+1312,Gender,"Population ages 50-54, female",SP.POP.5054.FE
+1315,Gender,"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA
+1316,Gender,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),SG.VAW.GOES.ZS
+1328,Gender,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS
+1337,Gender,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS
+1341,Gender,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS
+1346,Gender,"Repeaters, primary, female (% of female enrollment)",SE.PRM.REPT.FE.ZS
+1350,Gender,"Population ages 05-09, male",SP.POP.0509.MA
+1352,Gender,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS
+1353,Gender,"Repeaters, primary, male (% of male enrollment)",SE.PRM.REPT.MA.ZS
+1361,Gender,"Age population, age 13, male, interpolated",SP.POP.AG13.MA.IN
+1365,Gender,"Child employment in agriculture, female (% of female economically active children ages 7-14)",SL.AGR.0714.FE.ZS
+1379,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS
+1389,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS
+1391,Gender,"School enrollment, primary, male (% net)",SE.PRM.NENR.MA
+1397,Gender,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN
+1417,Gender,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS
+1424,Gender,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS
+1451,Gender,"Age population, age 12, male, interpolated",SP.POP.AG12.MA.IN
+1455,Gender,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.MA
+1459,Gender,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS
+1463,Gender,"Population ages 00-14, total",SP.POP.0014.TO
+1464,Gender,"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS
+1466,Gender,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",SL.MNF.0714.FE.ZS
+1475,Gender,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.FE
+1478,Gender,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN
+1484,Gender,"Secondary education, vocational pupils (% female)",SE.SEC.ENRL.VO.FE.ZS
+1490,Gender,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN
+1500,Gender,"Population ages 00-04, female",SP.POP.0004.FE
+1504,Gender,"Age population, age 19, female, interpolated",SP.POP.AG19.FE.IN
+1506,Gender,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS
+1523,Gender,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",SE.PRM.GINT.MA.ZS
+1526,Gender,Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS
+1550,Gender,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS
+1551,Gender,"Population ages 05-09, female",SP.POP.0509.FE
+1552,Gender,Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS
+1557,Gender,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE
+1564,Gender,Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS
+1565,Gender,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS
+1566,Gender,"Age population, age 24, female, interpolated",SP.POP.AG24.FE.IN
+1576,Gender,"Age population, age 14, female, interpolated",SP.POP.AG14.FE.IN
+1577,Gender,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS
+1587,Gender,"Population ages 10-14, female",SP.POP.1014.FE
+1588,Gender,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA
+1589,Gender,"Age population, age 23, female, interpolated",SP.POP.AG23.FE.IN
+1590,Gender,"Age dependency ratio, old",SP.POP.DPND.OL
+1595,Gender,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS
+1596,Gender,"Age population, age 13, female, interpolated",SP.POP.AG13.FE.IN
+1601,Gender,"Children out of school, primary, male",SE.PRM.UNER.MA
+1607,Gender,"Progression to secondary school, male (%)",SE.SEC.PROG.MA.ZS
+1613,Gender,"Age population, age 25, male, interpolated",SP.POP.AG25.MA.IN
+1615,Gender,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS
+1618,Gender,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS
+1623,Gender,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS
+1628,Gender,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",SE.PRM.GINT.FE.ZS
+1630,Gender,"Age population, age 22, male, interpolated",SP.POP.AG22.MA.IN
+1633,Gender,"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS
+1637,Gender,"Age population, age 14, male, interpolated",SP.POP.AG14.MA.IN
+1638,Gender,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS
+1642,Gender,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN
+1650,Gender,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",SG.DMK.ALLD.FN.ZS
+1652,Gender,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS
+1653,Gender,"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA
+1667,Gender,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN
+1668,Gender,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS

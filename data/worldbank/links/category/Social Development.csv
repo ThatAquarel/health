@@ -1,0 +1,109 @@
+,Category,Series Name,Series Code
+4,Social Development,Child employment in agriculture (% of economically active children ages 7-14),SL.AGR.0714.ZS
+12,Social Development,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS
+21,Social Development,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS
+38,Social Development,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS
+87,Social Development,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS
+97,Social Development,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS
+127,Social Development,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS
+155,Social Development,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS
+167,Social Development,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot
+173,Social Development,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS
+187,Social Development,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",SL.SLF.0714.FE.ZS
+191,Social Development,Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot
+216,Social Development,"Children in employment, self-employed (% of children in employment, ages 7-14)",SL.SLF.0714.ZS
+232,Social Development,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS
+238,Social Development,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS
+261,Social Development,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot
+285,Social Development,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",SL.WAG.0714.FE.ZS
+304,Social Development,Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot
+374,Social Development,Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot
+389,Social Development,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS
+392,Social Development,Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot
+414,Social Development,Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot
+442,Social Development,"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS
+458,Social Development,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",SL.SLF.0714.MA.ZS
+461,Social Development,Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot
+466,Social Development,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS
+489,Social Development,Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot
+504,Social Development,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS
+513,Social Development,"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS
+515,Social Development,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot
+519,Social Development,Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot
+535,Social Development,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot
+537,Social Development,Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot
+542,Social Development,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS
+543,Social Development,Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot
+545,Social Development,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",SL.FAM.0714.ZS
+565,Social Development,Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot
+573,Social Development,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS
+575,Social Development,Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot
+590,Social Development,"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS
+597,Social Development,Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot
+602,Social Development,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS
+608,Social Development,Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot
+630,Social Development,"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS
+644,Social Development,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS
+663,Social Development,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot
+694,Social Development,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS
+698,Social Development,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot
+705,Social Development,Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS
+708,Social Development,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS
+717,Social Development,Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot
+761,Social Development,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS
+787,Social Development,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS
+796,Social Development,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS
+809,Social Development,"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS
+871,Social Development,Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot
+879,Social Development,"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS
+887,Social Development,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",SL.FAM.0714.FE.ZS
+890,Social Development,Child employment in manufacturing (% of economically active children ages 7-14),SL.MNF.0714.ZS
+896,Social Development,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS
+924,Social Development,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS
+947,Social Development,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",SL.WAG.0714.MA.ZS
+968,Social Development,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS
+977,Social Development,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot
+994,Social Development,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS
+1016,Social Development,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS
+1043,Social Development,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS
+1062,Social Development,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),per_lm_alllm.ben_q1_tot
+1070,Social Development,"Average working hours of children, working only, ages 7-14 (hours per week)",SL.TLF.0714.WK.TM
+1071,Social Development,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",SL.FAM.0714.MA.ZS
+1089,Social Development,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",SL.TLF.0714.SW.MA.TM
+1096,Social Development,"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS
+1106,Social Development,GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD
+1108,Social Development,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS
+1111,Social Development,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS
+1118,Social Development,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS
+1126,Social Development,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS
+1135,Social Development,"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS
+1150,Social Development,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS
+1152,Social Development,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",SL.TLF.0714.SW.FE.TM
+1194,Social Development,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS
+1225,Social Development,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS
+1235,Social Development,"Average working hours of children, working only, female, ages 7-14 (hours per week)",SL.TLF.0714.WK.FE.TM
+1247,Social Development,"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM
+1257,Social Development,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS
+1266,Social Development,"Average working hours of children, working only, male, ages 7-14 (hours per week)",SL.TLF.0714.WK.MA.TM
+1272,Social Development,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot
+1273,Social Development,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS
+1277,Social Development,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS
+1280,Social Development,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot
+1302,Social Development,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot
+1331,Social Development,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS
+1336,Social Development,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS
+1363,Social Development,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS
+1375,Social Development,Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS
+1410,Social Development,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS
+1421,Social Development,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS
+1432,Social Development,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS
+1448,Social Development,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS
+1479,Social Development,Child employment in services (% of economically active children ages 7-14),SL.SRV.0714.ZS
+1495,Social Development,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS
+1531,Social Development,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS
+1536,Social Development,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS
+1562,Social Development,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS
+1581,Social Development,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS
+1585,Social Development,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS
+1609,Social Development,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS
+1670,Social Development,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS

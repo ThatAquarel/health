@@ -1,0 +1,271 @@
+,Category,Series Name,Series Code
+16,Health,"Population ages 0-14, total",SP.POP.0014.TO
+17,Health,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3
+20,Health,"Infant and young child feeding practices, all 3 IYCF (% children ages 6-23 months)",SH.STA.IYCF.ZS
+28,Health,"Number of deaths ages 15-19 years, female",SH.DTH.1519.FE
+41,Health,"Incidence of HIV, ages 50+ (per 1,000 uninfected population ages 50+)",SH.HIV.INCD.50.P3
+46,Health,"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS
+47,Health,Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS
+48,Health,Intermittent preventive treatment (IPT) of malaria in pregnancy (% of pregnant women),SH.MLR.IPTP.ZS
+49,Health,"Probability of dying among adolescents ages 15-19 years, male (per 1,000)",SH.DYN.1519.MA
+52,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS
+56,Health,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS
+58,Health,Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS
+62,Health,"Immunization, measles second dose (% of children by the nationally recommended age)",SH.IMM.MEA2
+63,Health,"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS
+66,Health,"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS
+68,Health,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS
+74,Health,"Probability of dying among children ages 5-9 years, male (per 1,000)",SH.DYN.0509.MA
+82,Health,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS
+95,Health,"Number of deaths ages 10-14 years, male",SH.DTH.1014.MA
+101,Health,"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS
+102,Health,"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS
+112,Health,AIDS estimated deaths (UNAIDS estimates),SH.DYN.AIDS.DH
+120,Health,"Population, female",SP.POP.TOTL.FE.IN
+123,Health,"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS
+126,Health,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG
+130,Health,"Number of infant deaths, male",SH.DTH.IMRT.MA
+134,Health,Children (0-14) living with HIV,SH.HIV.0014
+135,Health,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS
+138,Health,"Contraceptive prevalence, any method (% of all women ages 15-49)",SP.DYN.CONU.AL.ZS
+154,Health,"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3
+161,Health,"Mortality caused by road traffic injury, male (per 100,000 male population)",SH.STA.TRAF.MA.P5
+162,Health,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS
+166,Health,Age dependency ratio (% of working-age population),SP.POP.DPND
+174,Health,"Contraceptive prevalence, any modern method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONM.SA.ZS
+176,Health,"Condom use at last high-risk sex, adult female (% ages 15-49)",SH.CON.AIDS.FE.ZS
+179,Health,Prevalence of overweight (% of children under 5),SH.STA.OWGH.ZS
+182,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.MA.ZS
+188,Health,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS
+194,Health,"Mortality caused by road traffic injury, female (per 100,000 female population)",SH.STA.TRAF.FE.P5
+197,Health,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",SH.STA.AIRP.P5
+201,Health,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS
+205,Health,Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD
+206,Health,"Treatment for hypertension, male (% of male adults ages 30-79 with hypertension)",SH.HTN.TRET.MA.ZS
+214,Health,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5
+217,Health,"Number of deaths ages 10-19 years, male",SH.DTH.1019.MA
+220,Health,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3
+222,Health,"Treatment for hypertension, female (% of female adults ages 30-79 with hypertension)",SH.HTN.TRET.FE.ZS
+223,Health,"Number of infant deaths, female",SH.DTH.IMRT.FE
+225,Health,"Tuberculosis death rate (per 100,000 people)",SH.TBS.MORT
+233,Health,Number of neonatal deaths,SH.DTH.NMRT
+237,Health,International migrant stock (% of population),SM.POP.TOTL.ZS
+239,Health,"Stillbirth rate (per 1,000 total births)",SH.DYN.STLB
+241,Health,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS
+245,Health,External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD
+255,Health,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y
+257,Health,"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD
+263,Health,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y
+280,Health,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL
+281,Health,"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS
+284,Health,"Prevalence of hypertension, female (% of female adults ages 30-79)",SH.HTN.PREV.FE.ZS
+287,Health,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS
+288,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.1524.KW.FE.ZS
+293,Health,"Probability of dying among youth ages 20-24 years, female (per 1,000)",SH.DYN.2024.FE
+294,Health,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS
+299,Health,Postnatal care coverage (% mothers),SH.STA.PNVC.ZS
+332,Health,"Prevalence of hypertension, male (% of male adults ages 30-79)",SH.HTN.PREV.MA.ZS
+333,Health,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y
+338,Health,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y
+345,Health,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS
+347,Health,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN
+354,Health,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS
+357,Health,"Population ages 65 and above, female",SP.POP.65UP.FE.IN
+361,Health,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y
+363,Health,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS
+367,Health,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y
+369,Health,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT
+371,Health,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN
+372,Health,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y
+373,Health,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y
+375,Health,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y
+379,Health,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS
+380,Health,"Population ages 65 and above, male",SP.POP.65UP.MA.IN
+393,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS
+399,Health,"Probability of dying among youth ages 20-24 years, male (per 1,000)",SH.DYN.2024.MA
+404,Health,Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS
+405,Health,Treatment for hypertension (% of adults ages 30-79 with hypertension),SH.HTN.TRET.ZS
+413,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS
+420,Health,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y
+424,Health,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y
+427,Health,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y
+430,Health,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y
+439,Health,"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS
+449,Health,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y
+481,Health,"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5
+483,Health,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS
+485,Health,"Number of under-five deaths, male",SH.DTH.MORT.MA
+488,Health,Children orphaned by HIV/AIDS,SH.HIV.ORPH
+491,Health,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF
+493,Health,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS
+500,Health,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y
+506,Health,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y
+530,Health,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y
+531,Health,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS
+533,Health,Prevalence of overweight (% of adults),SH.STA.OWAD.ZS
+534,Health,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS
+559,Health,Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS
+561,Health,"Prevalence of overweight, female (% of female adults)",SH.STA.OWAD.FE.ZS
+568,Health,"Population ages 0-14, male",SP.POP.0014.MA.IN
+569,Health,"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS
+585,Health,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y
+587,Health,Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS
+588,Health,Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH
+599,Health,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y
+606,Health,Number of infant deaths,SH.DTH.IMRT
+616,Health,"Population, male",SP.POP.TOTL.MA.IN
+629,Health,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS
+661,Health,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y
+668,Health,Malaria cases reported,SH.STA.MALR
+675,Health,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN
+679,Health,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y
+701,Health,"Mortality rate, under-5, male (per 1,000)",SH.DYN.MORT.MA
+718,Health,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5
+719,Health,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y
+726,Health,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y
+733,Health,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y
+737,Health,Number of maternal deaths,SH.MMR.DTHS
+738,Health,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI
+739,Health,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT
+740,Health,Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS
+744,Health,"Prevalence of overweight, female (% of children under 5)",SH.STA.OWGH.FE.ZS
+745,Health,Number of under-five deaths,SH.DTH.MORT
+748,Health,"Population ages 65 and above, total",SP.POP.65UP.TO
+758,Health,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD
+762,Health,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS
+767,Health,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS
+782,Health,"Population ages 15-64, total",SP.POP.1564.TO
+786,Health,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS
+792,Health,"Number of deaths ages 10-19 years, female",SH.DTH.1019.FE
+795,Health,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS
+799,Health,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y
+802,Health,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS
+814,Health,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS
+817,Health,"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS
+824,Health,"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD
+831,Health,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN
+837,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, male (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.MA.ZS
+839,Health,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS
+855,Health,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y
+856,Health,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG
+865,Health,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD
+872,Health,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL
+877,Health,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA
+880,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS
+895,Health,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS
+900,Health,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS
+904,Health,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",SP.DYN.CONM.ZS
+907,Health,Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS
+910,Health,Adults (ages 15+) living with HIV,SH.DYN.AIDS
+913,Health,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS
+921,Health,"Number of deaths ages 20-24 years, male",SH.DTH.2024.MA
+927,Health,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS
+944,Health,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y
+951,Health,Refugee population by country or territory of origin,SM.POP.REFG.OR
+952,Health,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3
+958,Health,"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS
+970,Health,"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS
+973,Health,Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS
+979,Health,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS
+984,Health,"Population ages 15-64, female",SP.POP.1564.FE.IN
+992,Health,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS
+999,Health,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS
+1000,Health,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD
+1009,Health,"Population ages 15-64, male",SP.POP.1564.MA.IN
+1021,Health,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS
+1022,Health,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN
+1026,Health,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.25.ZS
+1032,Health,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y
+1041,Health,"Probability of dying among adolescents ages 10-14 years, female (per 1,000)",SH.DYN.1014.FE
+1056,Health,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT
+1058,Health,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, female (2 prevent ways and reject 3 misconceptions)",SH.HIV.KNOW.FE.ZS
+1074,Health,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y
+1076,Health,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y
+1077,Health,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y
+1081,Health,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS
+1082,Health,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3
+1098,Health,Number of deaths ages 10-19 years,SH.DTH.1019
+1105,Health,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT2.ZS
+1107,Health,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14
+1119,Health,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y
+1120,Health,"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5
+1138,Health,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS
+1139,Health,"People using safely managed sanitation services, urban  (% of urban population)",SH.STA.SMSS.UR.ZS
+1140,Health,"Prevalence of overweight, male (% of children under 5)",SH.STA.OWGH.MA.ZS
+1145,Health,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS
+1159,Health,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5
+1165,Health,"Number of deaths ages 20-24 years, female",SH.DTH.2024.FE
+1167,Health,"Probability of dying among children ages 5-9 years, female (per 1,000)",SH.DYN.0509.FE
+1170,Health,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS
+1173,Health,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP1.ZS
+1176,Health,"Probability of dying among adolescents ages 10-14 years, male (per 1,000)",SH.DYN.1014.MA
+1179,Health,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y
+1180,Health,Completeness of birth registration (%),SP.REG.BRTH.ZS
+1185,Health,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI
+1189,Health,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS
+1197,Health,"Number of under-five deaths, female",SH.DTH.MORT.FE
+1199,Health,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5
+1205,Health,Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS
+1209,Health,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBPR.ZS
+1213,Health,Female genital mutilation prevalence (%),SH.STA.FGMS.ZS
+1216,Health,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5
+1220,Health,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI
+1223,Health,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS
+1227,Health,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD
+1271,Health,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+1276,Health,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB
+1286,Health,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS
+1287,Health,UHC service coverage index,SH.UHC.SRVS.CV.XD
+1306,Health,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS
+1317,Health,Prevalence of syphilis (% of women attending antenatal care),SH.PRG.SYPH.ZS
+1324,Health,"Mortality caused by road traffic injury (per 100,000 people)",SH.STA.TRAF.P5
+1333,Health,Number of stillbirths,SH.DTH.STLB
+1335,Health,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS
+1354,Health,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y
+1356,Health,External health expenditure channeled through government (% of external health expenditure),SH.XPD.EHEX.EH.ZS
+1364,Health,Pregnant women receiving prenatal care of at least four visits (% of pregnant women),SH.STA.ANV4.ZS
+1371,Health,"Number of deaths ages 15-19 years, male",SH.DTH.1519.MA
+1372,Health,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS
+1374,Health,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5
+1383,Health,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3
+1387,Health,"Immunization, Hib3 (% of children ages 12-23 months)",SH.IMM.HIB3
+1396,Health,"Condom use at last high-risk sex, adult male (% ages 15-49)",SH.CON.AIDS.MA.ZS
+1402,Health,Consumption of iodized salt (% of households),SN.ITK.SALT.ZS
+1416,Health,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT
+1420,Health,"Immunization, BCG (% of one-year-old children)",SH.IMM.IBCG
+1438,Health,"International migrant stock, total",SM.POP.TOTL
+1445,Health,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS
+1462,Health,"Population ages 0-14, female",SP.POP.0014.FE.IN
+1472,Health,"Probability of dying among adolescents ages 10-19 years (per 1,000)",SH.DYN.1019
+1476,Health,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD
+1480,Health,"Number of deaths ages 10-14 years, female",SH.DTH.1014.FE
+1485,Health,"Prevalence of overweight, male (% of male adults)",SH.STA.OWAD.MA.ZS
+1496,Health,"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS
+1507,Health,Refugee population by country or territory of asylum,SM.POP.REFG
+1509,Health,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+1511,Health,Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS
+1520,Health,Low-birthweight babies (% of births),SH.STA.BRTW.ZS
+1522,Health,"Probability of dying among adolescents ages 10-19 years, male (per 1,000)",SH.DYN.1019.MA
+1533,Health,Prevalence of current tobacco use (% of adults),SH.PRV.SMOK
+1583,Health,"Probability of dying among adolescents ages 15-19 years, female (per 1,000)",SH.DYN.1519.FE
+1584,Health,"People using at least basic sanitation services, urban  (% of urban population)",SH.STA.BASS.UR.ZS
+1600,Health,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5
+1602,Health,"Contraceptive prevalence, any method (% of sexually active unmarried women ages 15-49)",SP.DYN.CONU.SA.ZS
+1605,Health,"Mortality rate, under-5, female (per 1,000)",SH.DYN.MORT.FE
+1606,Health,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5
+1614,Health,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD
+1616,Health,Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD
+1617,Health,"Domestic private health expenditure per capita, PPP  (current international $)",SH.XPD.PVTD.PP.CD
+1621,Health,"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS
+1625,Health,"Contraceptive prevalence, any modern method (% of all women ages 15-49)",SP.DYN.CONM.AL.ZS
+1635,Health,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS
+1640,Health,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT
+1641,Health,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS
+1654,Health,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM
+1657,Health,"Probability of dying among adolescents ages 10-19 years, female (per 1,000)",SH.DYN.1019.FE
+1660,Health,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.FBP2.ZS
+1661,Health,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE
+1674,Health,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD
+1678,Health,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.NOPR.ZS
+1681,Health,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),SH.UHC.TOTR.ZS
+1682,Health,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.TOT1.ZS

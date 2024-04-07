@@ -1,0 +1,146 @@
+,Category,Series Name,Series Code
+3,Private Sector,Ease of doing business score (0 = lowest performance to 100 = best performance),IC.BUS.DFRN.XQ
+14,Private Sector,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS
+26,Private Sector,Power outages in firms in a typical month (number),IC.ELC.OUTG
+30,Private Sector,Firms experiencing losses due to theft and vandalism (% of firms),IC.FRM.THEV.ZS
+33,Private Sector,Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS
+71,Private Sector,Time required to enforce a contract (days),IC.LGL.DURS
+106,Private Sector,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS
+110,Private Sector,"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS
+116,Private Sector,Firms offering formal training (% of firms),IC.FRM.TRNG.ZS
+149,Private Sector,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS
+150,Private Sector,Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS
+172,Private Sector,Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN
+177,Private Sector,"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS
+199,Private Sector,"Time to import, border compliance (hours)",IC.IMP.TMBC
+218,Private Sector,"Share of tariff lines with international peaks, primary products (%)",TM.TAX.TCOM.IP.ZS
+226,Private Sector,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS
+296,Private Sector,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS
+326,Private Sector,Export volume index (2015 = 100),TX.QTY.MRCH.XD.WD
+342,Private Sector,Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD
+387,Private Sector,Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT
+407,Private Sector,Export value index (2015 = 100),TX.VAL.MRCH.XD.WD
+417,Private Sector,Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT
+441,Private Sector,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS
+459,Private Sector,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS
+460,Private Sector,"Time required to start a business, female (days)",IC.REG.DURS.FE
+467,Private Sector,Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS
+479,Private Sector,Export unit value index (2015 = 100),TX.UVI.MRCH.XD.WD
+490,Private Sector,"International tourism, number of departures",ST.INT.DPRT
+514,Private Sector,Time required to build a warehouse (days),IC.WRH.DURS
+547,Private Sector,Number of visits or required meetings with tax officials (average for affected firms),IC.TAX.METG
+551,Private Sector,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS
+560,Private Sector,"Cost to import, documentary compliance (US$)",IC.IMP.CSDC.CD
+571,Private Sector,Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT
+572,Private Sector,"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD
+589,Private Sector,"International tourism, expenditures (current US$)",ST.INT.XPND.CD
+595,Private Sector,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS
+611,Private Sector,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD
+614,Private Sector,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD
+653,Private Sector,Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ
+656,Private Sector,"Lead time to import, median case (days)",LP.IMP.DURS.MD
+689,Private Sector,Losses due to theft and vandalism (% of annual sales for affected firms),IC.FRM.CRIM.ZS
+722,Private Sector,"Cost to export, documentary compliance (US$)",IC.EXP.CSDC.CD
+751,Private Sector,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD
+769,Private Sector,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS
+778,Private Sector,"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS
+780,Private Sector,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD
+781,Private Sector,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS
+783,Private Sector,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD
+838,Private Sector,Import volume index (2015 = 100),TM.QTY.MRCH.XD.WD
+845,Private Sector,"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS
+851,Private Sector,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS
+853,Private Sector,"International tourism, receipts (current US$)",ST.INT.RCPT.CD
+875,Private Sector,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS
+876,Private Sector,"Start-up procedures to register a business, female (number)",IC.REG.PROC.FE
+883,Private Sector,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT
+888,Private Sector,"Time to export, documentary compliance (hours)",IC.EXP.TMDC
+905,Private Sector,Start-up procedures to register a business (number),IC.REG.PROC
+906,Private Sector,"International tourism, number of arrivals",ST.INT.ARVL
+916,Private Sector,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN
+920,Private Sector,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD
+955,Private Sector,Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS
+956,Private Sector,Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT
+964,Private Sector,"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS
+985,Private Sector,"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT
+991,Private Sector,"Cost of business start-up procedures, male (% of GNI per capita)",IC.REG.COST.PC.MA.ZS
+1007,Private Sector,"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS
+1024,Private Sector,"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS
+1036,Private Sector,Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS
+1054,Private Sector,"Share of tariff lines with international peaks, all products (%)",TM.TAX.MRCH.IP.ZS
+1059,Private Sector,Procedures to build a warehouse (number),IC.WRH.PROC
+1061,Private Sector,Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS
+1066,Private Sector,"Share of tariff lines with specific rates, manufactured products (%)",TM.TAX.MANF.SR.ZS
+1067,Private Sector,"Time to import, documentary compliance (hours)",IC.IMP.TMDC
+1087,Private Sector,"Share of tariff lines with specific rates, primary products (%)",TM.TAX.TCOM.SR.ZS
+1094,Private Sector,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP.LPI.TRAC.XQ
+1100,Private Sector,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS
+1131,Private Sector,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS
+1137,Private Sector,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS
+1143,Private Sector,"Share of tariff lines with international peaks, manufactured products (%)",TM.TAX.MANF.IP.ZS
+1166,Private Sector,"Share of tariff lines with specific rates, all products (%)",TM.TAX.MRCH.SR.ZS
+1169,Private Sector,Procedures to register property (number),IC.PRP.PROC
+1182,Private Sector,Commercial service exports (current US$),TX.VAL.SERV.CD.WT
+1192,Private Sector,"Cost of business start-up procedures, female (% of GNI per capita)",IC.REG.COST.PC.FE.ZS
+1232,Private Sector,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS
+1237,Private Sector,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS
+1238,Private Sector,"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT
+1245,Private Sector,Time required to obtain an operating license (days),IC.FRM.DURS
+1254,Private Sector,Average time to clear exports through customs (days),IC.CUS.DURS.EX
+1268,Private Sector,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS
+1270,Private Sector,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS
+1274,Private Sector,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP.LPI.LOGS.XQ
+1285,Private Sector,Time to resolve insolvency (years),IC.ISV.DURS
+1289,Private Sector,Firms that do not report all sales for tax purposes (% of firms),IC.FRM.INFM.ZS
+1290,Private Sector,"Lead time to export, median case (days)",LP.EXP.DURS.MD
+1291,Private Sector,Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS
+1309,Private Sector,Time to prepare and pay taxes (hours),IC.TAX.DURS
+1311,Private Sector,Tax payments (number),IC.TAX.PAYM
+1314,Private Sector,Time required to start a business (days),IC.REG.DURS
+1325,Private Sector,Import value index (2015 = 100),TM.VAL.MRCH.XD.WD
+1327,Private Sector,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS
+1332,Private Sector,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS
+1339,Private Sector,"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS
+1357,Private Sector,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS
+1360,Private Sector,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS
+1369,Private Sector,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS
+1373,Private Sector,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS
+1378,Private Sector,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS
+1386,Private Sector,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT
+1388,Private Sector,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS
+1390,Private Sector,Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN
+1393,Private Sector,Commercial service imports (current US$),TM.VAL.SERV.CD.WT
+1394,Private Sector,Time required to register property (days),IC.PRP.DURS
+1398,Private Sector,"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS
+1404,Private Sector,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS
+1418,Private Sector,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS
+1426,Private Sector,Firms experiencing electrical outages (% of firms),IC.ELC.OUTG.ZS
+1429,Private Sector,Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN
+1430,Private Sector,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS
+1450,Private Sector,"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS
+1456,Private Sector,Firms visited or required meetings with tax officials (% of firms),IC.FRM.METG.ZS
+1471,Private Sector,Firms that spend on R&D (% of firms),IC.FRM.RSDV.ZS
+1473,Private Sector,"Time required to start a business, male (days)",IC.REG.DURS.MA
+1483,Private Sector,Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS
+1486,Private Sector,"Start-up procedures to register a business, male (number)",IC.REG.PROC.MA
+1488,Private Sector,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN
+1489,Private Sector,"Time to export, border compliance (hours)",IC.EXP.TMBC
+1492,Private Sector,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS
+1499,Private Sector,"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS
+1505,Private Sector,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD
+1510,Private Sector,New businesses registered (number),IC.BUS.NREG
+1512,Private Sector,"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS
+1521,Private Sector,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS
+1527,Private Sector,High-technology exports (current US$),TX.VAL.TECH.CD
+1535,Private Sector,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS
+1547,Private Sector,Firms using banks to finance working capital (% of firms),IC.FRM.BKWC.ZS
+1554,Private Sector,Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT
+1568,Private Sector,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP.LPI.CUST.XQ
+1574,Private Sector,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP.LPI.TIME.XQ
+1578,Private Sector,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ
+1582,Private Sector,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS
+1599,Private Sector,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ
+1620,Private Sector,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD
+1634,Private Sector,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),LP.LPI.ITRN.XQ
+1643,Private Sector,Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT
+1649,Private Sector,Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS

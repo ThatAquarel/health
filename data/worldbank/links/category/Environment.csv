@@ -1,0 +1,142 @@
+,Category,Series Name,Series Code
+27,Environment,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE
+42,Environment,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA
+53,Environment,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS
+59,Environment,Access to electricity (% of population),EG.ELC.ACCS.ZS
+93,Environment,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS
+109,Environment,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2
+119,Environment,Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS
+146,Environment,Total fisheries production (metric tons),ER.FSH.PROD.MT
+163,Environment,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS
+189,Environment,Forest area (sq. km),AG.LND.FRST.K2
+190,Environment,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD
+196,Environment,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH
+207,Environment,People practicing open defecation (% of population),SH.STA.ODFC.ZS
+213,Environment,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3
+243,Environment,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS
+246,Environment,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS
+247,Environment,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS
+249,Environment,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD
+253,Environment,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE
+278,Environment,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS
+283,Environment,"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS
+302,Environment,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS
+316,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS
+317,Environment,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS
+336,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS
+337,Environment,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE
+356,Environment,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS
+364,Environment,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS
+421,Environment,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS
+429,Environment,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS
+448,Environment,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE
+450,Environment,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE
+471,Environment,Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD
+487,Environment,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS
+512,Environment,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3
+518,Environment,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS
+524,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS
+529,Environment,Capture fisheries production (metric tons),ER.FSH.CAPT.MT
+540,Environment,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS
+553,Environment,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS
+558,Environment,"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD
+577,Environment,"Bird species, threatened",EN.BIR.THRD.NO
+581,Environment,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS
+594,Environment,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS
+596,Environment,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
+600,Environment,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ
+607,Environment,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS
+632,Environment,Methane emissions (% change from 1990),EN.ATM.METH.ZG
+633,Environment,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD
+645,Environment,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS
+652,Environment,Aquaculture production (metric tons),ER.FSH.AQUA.MT
+669,Environment,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG
+692,Environment,"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS
+695,Environment,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS
+711,Environment,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD
+721,Environment,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS
+725,Environment,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE
+727,Environment,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS
+772,Environment,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS
+801,Environment,"Mammal species, threatened",EN.MAM.THRD.NO
+813,Environment,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS
+818,Environment,"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD
+830,Environment,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE
+846,Environment,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG
+852,Environment,"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS
+858,Environment,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3
+859,Environment,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS
+860,Environment,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS
+866,Environment,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE
+869,Environment,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS
+870,Environment,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE
+885,Environment,Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD
+909,Environment,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS
+912,Environment,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS
+923,Environment,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT
+939,Environment,Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD
+942,Environment,CO2 emissions (kt),EN.ATM.CO2E.KT
+943,Environment,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE
+966,Environment,"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS
+981,Environment,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS
+997,Environment,Rural land area (sq. km),AG.LND.TOTL.RU.K2
+1002,Environment,"Plant species (higher), threatened",EN.HPT.THRD.NO
+1008,Environment,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2
+1014,Environment,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS
+1046,Environment,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD
+1047,Environment,Urban land area (sq. km),AG.LND.TOTL.UR.K2
+1053,Environment,People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS
+1083,Environment,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5
+1114,Environment,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS
+1136,Environment,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS
+1146,Environment,Arable land (% of land area),AG.LND.ARBL.ZS
+1163,Environment,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS
+1168,Environment,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5
+1171,Environment,Agricultural land (% of land area),AG.LND.AGRI.ZS
+1188,Environment,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5
+1195,Environment,Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD
+1196,Environment,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS
+1200,Environment,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
+1204,Environment,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE
+1206,Environment,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD
+1212,Environment,"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS
+1224,Environment,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS
+1261,Environment,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE
+1267,Environment,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS
+1275,Environment,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS
+1278,Environment,Average precipitation in depth (mm per year),AG.LND.PRCP.MM
+1304,Environment,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS
+1326,Environment,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS
+1334,Environment,Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD
+1349,Environment,"Fish species, threatened",EN.FSH.THRD.NO
+1355,Environment,Forest area (% of land area),AG.LND.FRST.ZS
+1362,Environment,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS
+1377,Environment,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS
+1412,Environment,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS
+1414,Environment,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG
+1427,Environment,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS
+1428,Environment,Surface area (sq. km),AG.SRF.TOTL.K2
+1436,Environment,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS
+1437,Environment,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS
+1439,Environment,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC
+1447,Environment,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS
+1449,Environment,Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS
+1453,Environment,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT
+1467,Environment,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS
+1468,Environment,"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS
+1491,Environment,Land area (sq. km),AG.LND.TOTL.K2
+1494,Environment,"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS
+1498,Environment,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS
+1515,Environment,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT
+1530,Environment,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS
+1537,Environment,Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD
+1538,Environment,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS
+1541,Environment,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS
+1558,Environment,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS
+1567,Environment,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE
+1571,Environment,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS
+1573,Environment,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD
+1575,Environment,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS
+1594,Environment,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS
+1604,Environment,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS
+1659,Environment,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS

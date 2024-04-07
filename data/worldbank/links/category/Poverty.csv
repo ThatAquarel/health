@@ -1,0 +1,27 @@
+,Category,Series Name,Series Code
+10,Poverty,Income share held by third 20%,SI.DST.03RD.20
+15,Poverty,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC
+22,Poverty,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC
+131,Poverty,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA
+139,Poverty,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC
+259,Poverty,Income share held by highest 10%,SI.DST.10TH.10
+313,Poverty,Income share held by second 20%,SI.DST.02ND.20
+340,Poverty,Multidimensional poverty intensity (average share of deprivations experienced by the poor),SI.POV.MDIM.IT
+396,Poverty,Income share held by highest 20%,SI.DST.05TH.20
+613,Poverty,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP
+658,Poverty,Gini index,SI.POV.GINI
+665,Poverty,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ
+673,Poverty,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",SI.POV.MDIM.17.XQ
+779,Poverty,Income share held by fourth 20%,SI.DST.04TH.20
+816,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG
+819,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG
+884,Poverty,Income share held by lowest 10%,SI.DST.FRST.10
+903,Poverty,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40
+1133,Poverty,Proportion of people living below 50 percent of median income (%),SI.DST.50MD
+1175,Poverty,"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH
+1230,Poverty,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP
+1444,Poverty,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17
+1477,Poverty,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE
+1502,Poverty,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM
+1534,Poverty,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS
+1665,Poverty,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP

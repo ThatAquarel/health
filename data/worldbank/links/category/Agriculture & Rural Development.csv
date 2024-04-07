@@ -1,0 +1,19 @@
+,Category,Series Name,Series Code
+125,Agriculture & Rural Development,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN
+171,Agriculture & Rural Development,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS
+631,Agriculture & Rural Development,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS
+760,Agriculture & Rural Development,Rural population (% of total population),SP.RUR.TOTL.ZS
+922,Agriculture & Rural Development,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN
+965,Agriculture & Rural Development,Arable land (hectares per person),AG.LND.ARBL.HA.PC
+1011,Agriculture & Rural Development,Permanent cropland (% of land area),AG.LND.CROP.ZS
+1086,Agriculture & Rural Development,Cereal production (metric tons),AG.PRD.CREL.MT
+1088,Agriculture & Rural Development,Rural population growth (annual %),SP.RUR.TOTL.ZG
+1102,Agriculture & Rural Development,Arable land (hectares),AG.LND.ARBL.HA
+1217,Agriculture & Rural Development,Land under cereal production (hectares),AG.LND.CREL.HA
+1318,Agriculture & Rural Development,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD
+1320,Agriculture & Rural Development,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD
+1399,Agriculture & Rural Development,Rural population,SP.RUR.TOTL
+1423,Agriculture & Rural Development,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS
+1461,Agriculture & Rural Development,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD
+1474,Agriculture & Rural Development,"Agricultural machinery, tractors",AG.AGR.TRAC.NO
+1481,Agriculture & Rural Development,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS

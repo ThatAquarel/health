@@ -1,0 +1,75 @@
+,Category,Series Name,Series Code
+36,Financial Sector,Lending interest rate (%),FR.INR.LEND
+204,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS
+318,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS
+381,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS
+385,Financial Sector,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD
+403,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS
+409,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS
+410,Financial Sector,Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD
+419,Financial Sector,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS
+428,Financial Sector,Wholesale price index (2010 = 100),FP.WPI.TOTL
+452,Financial Sector,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS
+473,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS
+516,Financial Sector,"Depositors with commercial banks (per 1,000 adults)",FB.CBK.DPTR.P3
+546,Financial Sector,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS
+570,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS
+580,Financial Sector,Deposit interest rate (%),FR.INR.DPST
+591,Financial Sector,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3
+605,Financial Sector,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS
+624,Financial Sector,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD
+634,Financial Sector,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF
+674,Financial Sector,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS
+684,Financial Sector,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS
+703,Financial Sector,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT
+753,Financial Sector,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3
+755,Financial Sector,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS
+806,Financial Sector,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT
+840,Financial Sector,Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS
+881,Financial Sector,"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR
+882,Financial Sector,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP
+918,Financial Sector,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD
+941,Financial Sector,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ
+949,Financial Sector,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3
+986,Financial Sector,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS
+1012,Financial Sector,Real interest rate (%),FR.INR.RINR
+1018,Financial Sector,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG
+1038,Financial Sector,S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG
+1049,Financial Sector,"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD
+1072,Financial Sector,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS
+1125,Financial Sector,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD
+1130,Financial Sector,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD
+1134,Financial Sector,"Listed domestic companies, total",CM.MKT.LDOM.NO
+1151,Financial Sector,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS
+1156,Financial Sector,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS
+1174,Financial Sector,Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS
+1183,Financial Sector,Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS
+1211,Financial Sector,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK
+1231,Financial Sector,Net domestic credit (current LCU),FM.AST.DOMS.CN
+1242,Financial Sector,Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS
+1248,Financial Sector,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD
+1250,Financial Sector,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5
+1253,Financial Sector,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS
+1264,Financial Sector,Consumer price index (2010 = 100),FP.CPI.TOTL
+1313,Financial Sector,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS
+1321,Financial Sector,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5
+1323,Financial Sector,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS
+1338,Financial Sector,"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD
+1345,Financial Sector,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS
+1381,Financial Sector,Broad money (current LCU),FM.LBL.BMNY.CN
+1434,Financial Sector,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS
+1442,Financial Sector,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3
+1452,Financial Sector,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS
+1514,Financial Sector,Real effective exchange rate index (2010 = 100),PX.REX.REER
+1540,Financial Sector,Total reserves in months of imports,FI.RES.TOTL.MO
+1546,Financial Sector,Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS
+1559,Financial Sector,"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS
+1569,Financial Sector,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD
+1593,Financial Sector,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD
+1597,Financial Sector,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ
+1624,Financial Sector,Total reserves minus gold (current US$),FI.RES.XGLD.CD
+1645,Financial Sector,Broad money growth (annual %),FM.LBL.BMNY.ZG
+1647,Financial Sector,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS
+1655,Financial Sector,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD
+1662,Financial Sector,Net foreign assets (current LCU),FM.AST.NFRG.CN
+1669,Financial Sector,Net migration,SM.POP.NETM

@@ -1,0 +1,30 @@
+,Category,Series Name,Series Code
+73,Energy & Mining,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE
+104,Energy & Mining,GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD
+180,Energy & Mining,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS
+248,Energy & Mining,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS
+443,Energy & Mining,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP
+453,Energy & Mining,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS
+474,Energy & Mining,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS
+498,Energy & Mining,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC
+501,Energy & Mining,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS
+509,Energy & Mining,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS
+511,Energy & Mining,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS
+527,Energy & Mining,Time to obtain an electrical connection (days),IC.ELC.DURS
+536,Energy & Mining,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN
+584,Energy & Mining,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD
+641,Energy & Mining,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS
+651,Energy & Mining,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN
+659,Energy & Mining,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS
+690,Energy & Mining,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS
+808,Energy & Mining,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS
+862,Energy & Mining,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN
+873,Energy & Mining,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD
+978,Energy & Mining,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD
+1190,Energy & Mining,Time required to get electricity (days),IC.ELC.TIME
+1191,Energy & Mining,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",EG.USE.COMM.GD.PP.KD
+1249,Energy & Mining,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN
+1368,Energy & Mining,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS
+1411,Energy & Mining,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS
+1516,Energy & Mining,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS
+1663,Energy & Mining,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS

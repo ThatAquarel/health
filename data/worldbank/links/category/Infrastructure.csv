@@ -1,0 +1,31 @@
+,Category,Series Name,Series Code
+1,Infrastructure,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN
+11,Infrastructure,"Industrial design applications, nonresident, by count",IP.IDS.NRCT
+24,Infrastructure,Mobile cellular subscriptions,IT.CEL.SETS
+25,Infrastructure,Individuals using the Internet (% of population),IT.NET.USER.ZS
+136,Infrastructure,"Trademark applications, resident, by count",IP.TMK.RSCT
+160,Infrastructure,"Industrial design applications, resident, by count",IP.IDS.RSCT
+186,Infrastructure,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1
+282,Infrastructure,"Air transport, passengers carried",IS.AIR.PSGR
+325,Infrastructure,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ
+741,Infrastructure,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT
+743,Infrastructure,Secure Internet servers (per 1 million people),IT.NET.SECR.P6
+848,Infrastructure,Rail lines (total route-km),IS.RRS.TOTL.KM
+1042,Infrastructure,Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD
+1065,Infrastructure,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM
+1157,Infrastructure,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD
+1178,Infrastructure,Secure Internet servers,IT.NET.SECR
+1193,Infrastructure,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD
+1236,Infrastructure,"Trademark applications, nonresident, by count",IP.TMK.NRCT
+1240,Infrastructure,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU
+1255,Infrastructure,Fixed broadband subscriptions,IT.NET.BBND
+1376,Infrastructure,Fixed telephone subscriptions,IT.MLT.MAIN
+1407,Infrastructure,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6
+1409,Infrastructure,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2
+1425,Infrastructure,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD
+1493,Infrastructure,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN
+1525,Infrastructure,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2
+1586,Infrastructure,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD
+1608,Infrastructure,Investment in transport with private participation (current US$),IE.PPI.TRAN.CD
+1632,Infrastructure,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2
+1679,Infrastructure,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD

@@ -1,0 +1,224 @@
+,Category,Series Name,Series Code
+6,Economy & Growth,Final consumption expenditure (current US$),NE.CON.TOTL.CD
+7,Economy & Growth,Number of people pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.FBP2.TO
+8,Economy & Growth,Number of people pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.FBP1.TO
+9,Economy & Growth,Number of people pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.FBPR.TO
+19,Economy & Growth,"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD
+31,Economy & Growth,General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD
+67,Economy & Growth,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG
+69,Economy & Growth,"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS
+75,Economy & Growth,Number of people pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP1.TO
+77,Economy & Growth,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG
+78,Economy & Growth,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS
+83,Economy & Growth,"Services, value added (constant LCU)",NV.SRV.TOTL.KN
+85,Economy & Growth,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN
+86,Economy & Growth,Financial intermediary services indirectly Measured (FISIM) (current LCU),NV.FSM.TOTL.CN
+91,Economy & Growth,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS
+100,Economy & Growth,General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG
+113,Economy & Growth,"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD
+114,Economy & Growth,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS
+124,Economy & Growth,Number of people pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.NOPR.TO
+141,Economy & Growth,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN
+142,Economy & Growth,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD
+159,Economy & Growth,Number of people pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.TOT2.TO
+165,Economy & Growth,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC
+168,Economy & Growth,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS
+169,Economy & Growth,"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS
+181,Economy & Growth,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD
+183,Economy & Growth,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN
+192,Economy & Growth,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD
+198,Economy & Growth,"Manufacturing, value added (current US$)",NV.IND.MANF.CD
+208,Economy & Growth,"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD
+211,Economy & Growth,Gross domestic savings (current LCU),NY.GDS.TOTL.CN
+219,Economy & Growth,Share of women employed in the nonagricultural sector (% of total nonagricultural employment),SL.EMP.INSV.FE.ZS
+224,Economy & Growth,Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN
+227,Economy & Growth,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG
+229,Economy & Growth,Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.25.TO
+231,Economy & Growth,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS
+235,Economy & Growth,Number of people pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.TOT1.TO
+250,Economy & Growth,Imports of goods and services (current LCU),NE.IMP.GNFS.CN
+258,Economy & Growth,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS
+260,Economy & Growth,"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS
+272,Economy & Growth,Number of people pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure,SH.UHC.NOP2.TO
+275,Economy & Growth,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS
+277,Economy & Growth,"Industry (including construction), value added (constant 2015 US$)",NV.IND.TOTL.KD
+279,Economy & Growth,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD
+286,Economy & Growth,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN
+292,Economy & Growth,Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD
+297,Economy & Growth,"GDP, PPP (constant 2017 international $)",NY.GDP.MKTP.PP.KD
+301,Economy & Growth,"Net ODA provided, to the least developed countries (current US$)",DC.ODA.TLDC.CD
+308,Economy & Growth,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD
+310,Economy & Growth,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN
+312,Economy & Growth,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG
+315,Economy & Growth,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG
+321,Economy & Growth,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN
+331,Economy & Growth,"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS
+335,Economy & Growth,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN
+346,Economy & Growth,Exports of goods and services (constant 2015 US$),NE.EXP.GNFS.KD
+349,Economy & Growth,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG
+352,Economy & Growth,GNI growth (annual %),NY.GNP.MKTP.KD.ZG
+362,Economy & Growth,"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD
+370,Economy & Growth,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS
+388,Economy & Growth,"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS
+390,Economy & Growth,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS
+394,Economy & Growth,Final consumption expenditure (current LCU),NE.CON.TOTL.CN
+397,Economy & Growth,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG
+398,Economy & Growth,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD
+401,Economy & Growth,Net ODA provided to the least developed countries (% of GNI),DC.ODA.TLDC.GN.ZS
+412,Economy & Growth,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD
+422,Economy & Growth,"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS
+431,Economy & Growth,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN
+433,Economy & Growth,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN
+435,Economy & Growth,Net secondary income (Net current transfers from abroad) (constant LCU),NY.TRF.NCTR.KN
+436,Economy & Growth,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS
+438,Economy & Growth,Net primary income (Net income from abroad) (constant LCU),NY.GSR.NFCY.KN
+447,Economy & Growth,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG
+462,Economy & Growth,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD
+463,Economy & Growth,Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN
+464,Economy & Growth,Exports of goods and services (current LCU),NE.EXP.GNFS.CN
+465,Economy & Growth,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD
+472,Economy & Growth,GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD
+482,Economy & Growth,"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS
+484,Economy & Growth,GNI per capita (current LCU),NY.GNP.PCAP.CN
+494,Economy & Growth,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG
+495,Economy & Growth,Demand for family planning satisfied by any methods (% of married women with demand for family planning),SH.FPL.SATI.ZS
+497,Economy & Growth,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN
+503,Economy & Growth,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN
+505,Economy & Growth,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD
+510,Economy & Growth,Gross capital formation (constant 2015 US$),NE.GDI.TOTL.KD
+528,Economy & Growth,"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP
+538,Economy & Growth,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD
+539,Economy & Growth,Exports of goods and services (current US$),NE.EXP.GNFS.CD
+544,Economy & Growth,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG
+550,Economy & Growth,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD
+578,Economy & Growth,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN
+592,Economy & Growth,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG
+593,Economy & Growth,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD
+601,Economy & Growth,"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS
+609,Economy & Growth,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS
+612,Economy & Growth,Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure,SH.UHC.OOPC.10.TO
+620,Economy & Growth,Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN
+621,Economy & Growth,External balance on goods and services (current US$),NE.RSB.GNFS.CD
+635,Economy & Growth,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS
+643,Economy & Growth,General government final consumption expenditure (current US$),NE.CON.GOVT.CD
+655,Economy & Growth,"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP
+657,Economy & Growth,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS
+662,Economy & Growth,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC
+664,Economy & Growth,GDP (constant LCU),NY.GDP.MKTP.KN
+666,Economy & Growth,Number of people pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure,SH.UHC.TOTR.TO
+677,Economy & Growth,Gross capital formation (current LCU),NE.GDI.TOTL.CN
+681,Economy & Growth,Gross capital formation (constant LCU),NE.GDI.TOTL.KN
+688,Economy & Growth,GDP per capita (constant LCU),NY.GDP.PCAP.KN
+706,Economy & Growth,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD
+707,Economy & Growth,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN
+713,Economy & Growth,Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD
+714,Economy & Growth,"Services, value added (current US$)",NV.SRV.TOTL.CD
+720,Economy & Growth,Gross value added at basic prices (GVA) (constant 2015 US$),NY.GDP.FCST.KD
+730,Economy & Growth,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN
+742,Economy & Growth,Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN
+749,Economy & Growth,Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN
+759,Economy & Growth,Imports of goods and services (current US$),NE.IMP.GNFS.CD
+766,Economy & Growth,GNI (constant 2015 US$),NY.GNP.MKTP.KD
+771,Economy & Growth,GDP (constant 2015 US$),NY.GDP.MKTP.KD
+775,Economy & Growth,"GDP per capita, PPP (constant 2017 international $)",NY.GDP.PCAP.PP.KD
+776,Economy & Growth,Financial intermediary services indirectly Measured (FISIM) (constant LCU),NV.FSM.TOTL.KN
+777,Economy & Growth,GDP (current LCU),NY.GDP.MKTP.CN
+791,Economy & Growth,Gross savings (current LCU),NY.GNS.ICTR.CN
+794,Economy & Growth,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD
+797,Economy & Growth,"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD
+800,Economy & Growth,Taxes less subsidies on products (current US$),NY.TAX.NIND.CD
+810,Economy & Growth,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD
+815,Economy & Growth,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN
+825,Economy & Growth,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS
+828,Economy & Growth,Gross capital formation (current US$),NE.GDI.TOTL.CD
+835,Economy & Growth,GDP per capita (current US$),NY.GDP.PCAP.CD
+836,Economy & Growth,"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS
+841,Economy & Growth,Gross savings (current US$),NY.GNS.ICTR.CD
+857,Economy & Growth,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS
+864,Economy & Growth,External balance on goods and services (current LCU),NE.RSB.GNFS.CN
+867,Economy & Growth,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3
+868,Economy & Growth,GDP per capita (current LCU),NY.GDP.PCAP.CN
+886,Economy & Growth,"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD
+889,Economy & Growth,"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD
+891,Economy & Growth,Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN
+892,Economy & Growth,GDP growth (annual %),NY.GDP.MKTP.KD.ZG
+894,Economy & Growth,"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG
+899,Economy & Growth,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN
+908,Economy & Growth,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD
+911,Economy & Growth,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD
+937,Economy & Growth,Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS
+938,Economy & Growth,Gross fixed capital formation (constant 2015 US$),NE.GDI.FTOT.KD
+946,Economy & Growth,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS
+954,Economy & Growth,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN
+975,Economy & Growth,"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD
+990,Economy & Growth,Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN
+1004,Economy & Growth,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",NE.CON.PRVT.PP.KD
+1010,Economy & Growth,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD
+1015,Economy & Growth,Adjusted net national income (current US$),NY.ADJ.NNTY.CD
+1023,Economy & Growth,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN
+1025,Economy & Growth,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS
+1027,Economy & Growth,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD
+1028,Economy & Growth,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD
+1034,Economy & Growth,GNI (current LCU),NY.GNP.MKTP.CN
+1045,Economy & Growth,"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS
+1060,Economy & Growth,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD
+1075,Economy & Growth,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN
+1078,Economy & Growth,Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD
+1085,Economy & Growth,Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN
+1091,Economy & Growth,Gross national expenditure (current LCU),NE.DAB.TOTL.CN
+1092,Economy & Growth,Poverty headcount ratio at national poverty line (% of population),SI.POV.NAHC
+1095,Economy & Growth,"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD
+1109,Economy & Growth,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM
+1113,Economy & Growth,"Services, value added (current LCU)",NV.SRV.TOTL.CN
+1115,Economy & Growth,"Services, value added (constant 2015 US$)",NV.SRV.TOTL.KD
+1117,Economy & Growth,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN
+1121,Economy & Growth,Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF
+1142,Economy & Growth,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD
+1158,Economy & Growth,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS
+1181,Economy & Growth,Expense (% of GDP),GC.XPN.TOTL.GD.ZS
+1186,Economy & Growth,"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN
+1203,Economy & Growth,Trade (% of GDP),NE.TRD.GNFS.ZS
+1208,Economy & Growth,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN
+1210,Economy & Growth,"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD
+1214,Economy & Growth,Gross national expenditure (current US$),NE.DAB.TOTL.CD
+1215,Economy & Growth,"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS
+1222,Economy & Growth,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN
+1233,Economy & Growth,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD
+1256,Economy & Growth,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS
+1262,Economy & Growth,Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS
+1265,Economy & Growth,"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD
+1269,Economy & Growth,Adjusted net national income (constant 2015 US$),NY.ADJ.NNTY.KD
+1279,Economy & Growth,"Net ODA provided, total (current US$)",DC.ODA.TOTL.CD
+1281,Economy & Growth,Gross savings (% of GDP),NY.GNS.ICTR.ZS
+1297,Economy & Growth,Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD
+1322,Economy & Growth,Changes in inventories (current US$),NE.GDI.STKB.CD
+1329,Economy & Growth,Changes in inventories (current LCU),NE.GDI.STKB.CN
+1330,Economy & Growth,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD
+1340,Economy & Growth,Final consumption expenditure (constant 2015 US$),NE.CON.TOTL.KD
+1348,Economy & Growth,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD
+1359,Economy & Growth,Changes in inventories (constant LCU),NE.GDI.STKB.KN
+1366,Economy & Growth,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS
+1392,Economy & Growth,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD
+1400,Economy & Growth,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD
+1406,Economy & Growth,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG
+1443,Economy & Growth,"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD
+1460,Economy & Growth,"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD
+1501,Economy & Growth,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS
+1529,Economy & Growth,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD
+1532,Economy & Growth,GNI per capita (constant LCU),NY.GNP.PCAP.KN
+1543,Economy & Growth,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD
+1544,Economy & Growth,Gross domestic savings (current US$),NY.GDS.TOTL.CD
+1548,Economy & Growth,Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN
+1555,Economy & Growth,GDP (current US$),NY.GDP.MKTP.CD
+1556,Economy & Growth,GNI (constant LCU),NY.GNP.MKTP.KN
+1561,Economy & Growth,"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD
+1610,Economy & Growth,"Manufacturing, value added (constant 2015 US$)",NV.IND.MANF.KD
+1611,Economy & Growth,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN
+1619,Economy & Growth,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG
+1626,Economy & Growth,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN
+1639,Economy & Growth,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG
+1644,Economy & Growth,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG
+1664,Economy & Growth,"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD
+1666,Economy & Growth,"Service imports (BoP, current US$)",BM.GSR.NFSV.CD
+1671,Economy & Growth,"Service exports (BoP, current US$)",BX.GSR.NFSV.CD
+1675,Economy & Growth,Gross domestic income (constant LCU),NY.GDY.TOTL.KN

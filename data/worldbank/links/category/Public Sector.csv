@@ -1,0 +1,133 @@
+,Category,Series Name,Series Code
+0,Public Sector,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS
+2,Public Sector,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN
+18,Public Sector,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS
+34,Public Sector,Military expenditure (current USD),MS.MIL.XPND.CD
+40,Public Sector,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1
+43,Public Sector,CPIA quality of budgetary and financial management rating (1=low to 6=high),IQ.CPA.FINQ.XQ
+84,Public Sector,CPIA structural policies cluster average (1=low to 6=high),IQ.CPA.STRC.XQ
+92,Public Sector,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL
+118,Public Sector,Control of Corruption: Standard Error,CC.STD.ERR
+140,Public Sector,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ
+147,Public Sector,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL
+184,Public Sector,Government Effectiveness: Percentile Rank,GE.PER.RNK
+185,Public Sector,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",GE.PER.RNK.UPPER
+200,Public Sector,Political Stability and Absence of Violence/Terrorism: Percentile Rank,PV.PER.RNK
+242,Public Sector,Compensation of employees (% of expense),GC.XPN.COMP.ZS
+256,Public Sector,Compensation of employees (current LCU),GC.XPN.COMP.CN
+276,Public Sector,Other taxes (current LCU),GC.TAX.OTHR.CN
+305,Public Sector,Other expense (current LCU),GC.XPN.OTHR.CN
+323,Public Sector,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",CC.PER.RNK.UPPER
+344,Public Sector,Goods and services expense (current LCU),GC.XPN.GSRV.CN
+351,Public Sector,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC
+358,Public Sector,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ
+366,Public Sector,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV
+378,Public Sector,"Human capital index (HCI), female, upper bound (scale 0-1)",HD.HCI.OVRL.UB.FE
+383,Public Sector,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST
+395,Public Sector,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE
+402,Public Sector,Customs and other import duties (current LCU),GC.TAX.IMPT.CN
+426,Public Sector,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",CC.PER.RNK.LOWER
+440,Public Sector,Political Stability and Absence of Violence/Terrorism: Standard Error,PV.STD.ERR
+454,Public Sector,"Human capital index (HCI), female (scale 0-1)",HD.HCI.OVRL.FE
+476,Public Sector,CPIA equity of public resource use rating (1=low to 6=high),IQ.CPA.PRES.XQ
+477,Public Sector,"Central government debt, total (current LCU)",GC.DOD.TOTL.CN
+499,Public Sector,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5
+502,Public Sector,"Human capital index (HCI), upper bound (scale 0-1)",HD.HCI.OVRL.UB
+517,Public Sector,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS
+523,Public Sector,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS
+532,Public Sector,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS
+548,Public Sector,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ
+582,Public Sector,Taxes on international trade (current LCU),GC.TAX.INTT.CN
+583,Public Sector,Expense (current LCU),GC.XPN.TOTL.CN
+615,Public Sector,Interest payments (current LCU),GC.XPN.INTP.CN
+626,Public Sector,CPIA debt policy rating (1=low to 6=high),IQ.CPA.DEBT.XQ
+628,Public Sector,Voice and Accountability: Percentile Rank,VA.PER.RNK
+637,Public Sector,Government Effectiveness: Standard Error,GE.STD.ERR
+642,Public Sector,Rule of Law: Percentile Rank,RL.PER.RNK
+646,Public Sector,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",VA.PER.RNK.LOWER
+647,Public Sector,CPIA efficiency of revenue mobilization rating (1=low to 6=high),IQ.CPA.REVN.XQ
+649,Public Sector,Political Stability and Absence of Violence/Terrorism: Number of Sources,PV.NO.SRC
+667,Public Sector,CPIA building human resources rating (1=low to 6=high),IQ.CPA.HRES.XQ
+676,Public Sector,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ
+678,Public Sector,CPIA business regulatory environment rating (1=low to 6=high),IQ.CPA.BREG.XQ
+680,Public Sector,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ
+682,Public Sector,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS
+685,Public Sector,"Human capital index (HCI), male, lower bound (scale 0-1)",HD.HCI.OVRL.LB.MA
+691,Public Sector,"Human capital index (HCI), female, lower bound (scale 0-1)",HD.HCI.OVRL.LB.FE
+693,Public Sector,Other expense (% of expense),GC.XPN.OTHR.ZS
+712,Public Sector,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS
+715,Public Sector,Government Effectiveness: Number of Sources,GE.NO.SRC
+716,Public Sector,Regulatory Quality: Number of Sources,RQ.NO.SRC
+723,Public Sector,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ
+754,Public Sector,Social contributions (current LCU),GC.REV.SOCL.CN
+756,Public Sector,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5
+765,Public Sector,Government Effectiveness: Estimate,GE.EST
+768,Public Sector,Rule of Law: Estimate,RL.EST
+770,Public Sector,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",GE.PER.RNK.LOWER
+798,Public Sector,Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS
+805,Public Sector,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD
+833,Public Sector,"Human capital index (HCI), lower bound (scale 0-1)",HD.HCI.OVRL.LB
+834,Public Sector,Control of Corruption: Estimate,CC.EST
+850,Public Sector,Control of Corruption: Number of Sources,CC.NO.SRC
+861,Public Sector,Interest payments (% of expense),GC.XPN.INTP.ZS
+863,Public Sector,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",RQ.PER.RNK.LOWER
+874,Public Sector,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS
+902,Public Sector,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",VA.PER.RNK.UPPER
+919,Public Sector,Tax revenue (current LCU),GC.TAX.TOTL.CN
+926,Public Sector,Voice and Accountability: Number of Sources,VA.NO.SRC
+928,Public Sector,Control of Corruption: Percentile Rank,CC.PER.RNK
+929,Public Sector,Grants and other revenue (current LCU),GC.REV.GOTR.CN
+930,Public Sector,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN
+931,Public Sector,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",PV.PER.RNK.UPPER
+932,Public Sector,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN
+948,Public Sector,"Human capital index (HCI), male, upper bound (scale 0-1)",HD.HCI.OVRL.UB.MA
+957,Public Sector,Regulatory Quality: Standard Error,RQ.STD.ERR
+961,Public Sector,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS
+969,Public Sector,Military expenditure (current LCU),MS.MIL.XPND.CN
+980,Public Sector,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS
+983,Public Sector,Social contributions (% of revenue),GC.REV.SOCL.ZS
+988,Public Sector,Goods and services expense (% of expense),GC.XPN.GSRV.ZS
+993,Public Sector,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS
+996,Public Sector,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS
+1005,Public Sector,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4
+1006,Public Sector,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS
+1039,Public Sector,Voice and Accountability: Estimate,VA.EST
+1044,Public Sector,Taxes on exports (current LCU),GC.TAX.EXPT.CN
+1048,Public Sector,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS
+1052,Public Sector,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN
+1057,Public Sector,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD
+1099,Public Sector,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",IQ.CPA.TRAN.XQ
+1103,Public Sector,Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN
+1104,Public Sector,"Human capital index (HCI), male (scale 0-1)",HD.HCI.OVRL.MA
+1124,Public Sector,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",RL.PER.RNK.UPPER
+1128,Public Sector,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",PV.PER.RNK.LOWER
+1144,Public Sector,CPIA quality of public administration rating (1=low to 6=high),IQ.CPA.PADM.XQ
+1153,Public Sector,Battle-related deaths (number of people),VC.BTL.DETH
+1243,Public Sector,Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS
+1244,Public Sector,"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5
+1251,Public Sector,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS
+1259,Public Sector,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",RQ.PER.RNK.UPPER
+1293,Public Sector,Regulatory Quality: Percentile Rank,RQ.PER.RNK
+1295,Public Sector,Regulatory Quality: Estimate,RQ.EST
+1308,Public Sector,"Armed forces personnel, total",MS.MIL.TOTL.P1
+1358,Public Sector,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD
+1380,Public Sector,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV
+1385,Public Sector,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ
+1408,Public Sector,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ
+1433,Public Sector,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS
+1440,Public Sector,CPIA trade rating (1=low to 6=high),IQ.CPA.TRAD.XQ
+1441,Public Sector,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2
+1458,Public Sector,IDA resource allocation index (1=low to 6=high),IQ.CPA.IRAI.XQ
+1470,Public Sector,CPIA fiscal policy rating (1=low to 6=high),IQ.CPA.FISP.XQ
+1503,Public Sector,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN
+1518,Public Sector,Rule of Law: Number of Sources,RL.NO.SRC
+1524,Public Sector,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN
+1539,Public Sector,"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5
+1549,Public Sector,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS
+1553,Public Sector,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL
+1570,Public Sector,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",RL.PER.RNK.LOWER
+1598,Public Sector,Rule of Law: Standard Error,RL.STD.ERR
+1631,Public Sector,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS
+1636,Public Sector,Voice and Accountability: Standard Error,VA.STD.ERR
+1676,Public Sector,Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS
+1677,Public Sector,Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN

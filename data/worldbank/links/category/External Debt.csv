@@ -1,0 +1,55 @@
+,Category,Series Name,Series Code
+72,External Debt,"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD
+90,External Debt,"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD
+105,External Debt,"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD
+144,External Debt,"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD
+170,External Debt,Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS
+175,External Debt,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS
+203,External Debt,"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS
+262,External Debt,"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD
+264,External Debt,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS
+268,External Debt,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD
+270,External Debt,"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD
+271,External Debt,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD
+329,External Debt,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS
+376,External Debt,"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD
+386,External Debt,"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD
+400,External Debt,"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD
+434,External Debt,"PPG, private creditors (NFL, US$)",DT.NFL.PRVT.CD
+446,External Debt,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD
+468,External Debt,"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD
+496,External Debt,"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD
+525,External Debt,"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD
+556,External Debt,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD
+562,External Debt,"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD
+576,External Debt,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD
+618,External Debt,"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS
+627,External Debt,Short-term debt (% of total external debt),DT.DOD.DSTC.ZS
+660,External Debt,"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD
+686,External Debt,"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD
+687,External Debt,"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD
+699,External Debt,GNI (current US$),NY.GNP.MKTP.CD
+700,External Debt,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD
+709,External Debt,"PPG, official creditors (NFL, US$)",DT.NFL.OFFT.CD
+729,External Debt,"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD
+803,External Debt,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD
+827,External Debt,Present value of external debt (current US$),DT.DOD.PVLX.CD
+847,External Debt,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS
+897,External Debt,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD
+933,External Debt,Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS
+936,External Debt,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD
+971,External Debt,Total debt service (% of GNI),DT.TDS.DECT.GN.ZS
+982,External Debt,"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD
+989,External Debt,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD
+1055,External Debt,"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD
+1162,External Debt,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS
+1177,External Debt,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS
+1221,External Debt,"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD
+1229,External Debt,Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS
+1299,External Debt,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD
+1310,External Debt,"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD
+1528,External Debt,"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD
+1572,External Debt,"IFC, private nonguaranteed (NFL, US$)",DT.NFL.NIFC.CD
+1612,External Debt,"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD
+1658,External Debt,Net official development assistance received (current US$),DT.ODA.ODAT.CD
+1680,External Debt,Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS

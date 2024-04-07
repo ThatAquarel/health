@@ -1,7 +1,7 @@
 import pandas as pd
 from tqdm import tqdm
 
-WORLDBANK = "./data/worldbank/2022-2003_worldbank_filtered.csv"
+WORLDBANK = "./data/worldbank/2022-2003_worldbank_data.csv"
 
 worldbank = pd.read_csv(WORLDBANK)
 
