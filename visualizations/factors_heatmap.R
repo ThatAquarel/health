@@ -24,7 +24,7 @@ categorized_countries <- read.csv("./prediction/results/predicted_categories.csv
 countries_categories <- categorized_countries[["Predicted.Category"]]
 
 # load top factors
-top_factors <- read.csv("./prediction/results/top50_balanced_factors.csv")
+top_factors <- read.csv("./prediction/results/top50_abs_factors.csv")
 top_factors_names <- top_factors[["Series.Name"]]
 
 # load top countries
@@ -215,6 +215,6 @@ abr_ldg = Legend(
 
 pd = packLegend(heatmap_lgd, abr_ldg)
 
-#pushViewport(viewport(width = 1.0, height = 1.0))
-#draw(pd, x = unit(0.8, "npc"), y = unit(0.56, "npc"))
-#popViewport()
+pushViewport(viewport(width = 1.0, height = 1.0))
+draw(pd, x = unit(0.8, "npc"), y = unit(0.56, "npc"))
+popViewport()
