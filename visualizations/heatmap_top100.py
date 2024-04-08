@@ -54,6 +54,18 @@ matrix = matrix.rename(
     columns={a: b for a, b in zip(cases.index, cases["Country Name"])}
 )
 
+# categories
+series_category = pd.read_csv("data/worldbank/links/Series_Name_Category.csv")
+categories = indicator_filter[["Series Name"]].merge(
+    series_category[["Category", "Series Name"]], how="inner"
+)["Category"]
+
+unique_categories = categories.drop_duplicates()
+pal_series = sns.color_palette("pastel", len(unique_categories))
+series_lut = {category: pal_series[i] for i, category in enumerate(unique_categories)}
+series_colors = [series_lut[category] for category in categories]
+
+
 # filter matrix
 matrix = matrix[matrix.columns[categories_idx]]
 matrix = matrix[matrix.index.isin(indicator_filter["Series Name"])]
@@ -65,6 +77,7 @@ country_colors = pd.Series(
 continent_colors = pd.Series(
     continent_colors, index=matrix.columns, name="Country continent"
 )
+series_colors = pd.Series(series_colors, index=matrix.index, name="Category")
 
 amin = matrix.min(axis=1)
 amax = matrix.max(axis=1)
@@ -76,10 +89,11 @@ matrix = matrix.fillna(0)
 g = sns.clustermap(
     matrix,
     # col_colors=[continent_colors, country_colors],
+    row_colors=series_colors,
     col_colors=pd.concat([continent_colors, country_colors], axis=1),
     col_cluster=False,
     dendrogram_ratio=(0.17, 0.1),
-    cbar_pos=(0.02, 0.11, 0.02, 0.2),
+    cbar_pos=(0.02, 0.137, 0.02, 0.2),
     figsize=((52, 40)),
 )
 
@@ -96,6 +110,16 @@ levels = ["Low", "Medium-low", "Medium", "Medium-high", "High"]
 fig = g.figure
 fig.legend(
     handles=[
+        mpatches.Patch(color=color, label=category)
+        for category, color in series_lut.items()
+    ],
+    ncols=2,
+    title="Category",
+    loc="lower left",
+    bbox_to_anchor=(0.02, 0.02),
+)
+fig.legend(
+    handles=[
         *[
             mpatches.Patch(color=color, label=levels[i])
             for i, color in enumerate(pal_category)
@@ -105,7 +129,7 @@ fig.legend(
     ncols=2,
     title="Total antibiotic consumption (DDD/1,000/day)",
     loc="lower left",
-    bbox_to_anchor=(0.02, 0.02),
+    bbox_to_anchor=(0.02, 0.065),
 )
 fig.legend(
     handles=[
@@ -113,9 +137,9 @@ fig.legend(
         for continent, color in continent_lut.items()
     ],
     ncols=2,
-    title="Country continent",
+    title="Continent",
     loc="lower left",
-    bbox_to_anchor=(0.02, 0.065),
+    bbox_to_anchor=(0.02, 0.105),
 )
 
 fig.suptitle(
