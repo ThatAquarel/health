@@ -77,7 +77,7 @@ country_colors = pd.Series(
 continent_colors = pd.Series(
     continent_colors, index=matrix.columns, name="Country continent"
 )
-series_colors = pd.Series(series_colors, index=matrix.index, name="Category")
+series_colors = pd.Series(series_colors, index=matrix.index, name="Indicator category")
 
 amin = matrix.min(axis=1)
 amax = matrix.max(axis=1)
@@ -114,7 +114,7 @@ fig.legend(
         for category, color in series_lut.items()
     ],
     ncols=2,
-    title="Category",
+    title="Indicator category",
     loc="lower left",
     bbox_to_anchor=(0.02, 0.02),
 )
@@ -137,7 +137,7 @@ fig.legend(
         for continent, color in continent_lut.items()
     ],
     ncols=2,
-    title="Continent",
+    title="Country continent",
     loc="lower left",
     bbox_to_anchor=(0.02, 0.105),
 )
