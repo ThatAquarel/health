@@ -7,11 +7,15 @@ Analysis of 2022
 - n=100 indicators
 - n=145 countries
 
-![Clustermap of top 100 indicators](../visualizations/heatmap_top100.png)
+(Click image to enlarge)
+
+[![Clustermap of top 100 indicators](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_top100.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_top100.png)
 
 # Correspondence between top significant environmental indicators and total antibiotic usage worldwide
 Analysis of 2022
 - n=87 environmental and climate change indicators
 - n=145 countries
 
-![Clustermap of 87 environmental indicators](../visualizations/heatmap_env.png)
+(Click image to enlarge)
+
+[![Clustermap of top 100 indicators](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_env.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_env.png)
