@@ -1,49 +1,8 @@
-# Environment and Health
+# Machine Learning for Worldwide Antibiotic Usage and Resistance Prediction
 
-climate change and mental health 
+A Longitudinal Study on Effective Environmental, Economical, and Social Predictors
 
+## Authors
+Tian Yi Xia<sup>1</sup>, Vlad Marinescu<sup>1</sup>, MinSeo Hur<sup>1</sup>, Ashwini Adhikari<sup>1</sup>, Theodore Philipe<sup>2</sup>, Jessica Liddell<sup>1</sup>   
 
-https://climatedata.imf.org/pages/climatechange-data
-	use factors to estimate general physical health factors
-
-https://data.who.int/indicators
-
-genetic factors that prevent / encourage formation of lung disease
-
-
-mental health texts -> word vector -> 
-
-
-agriculture & rural development
-climate change
-environement
-health
-poverty
-social developement
-
-
-over time (<200 datapoints)
-
-	quantize, y-intercept  -> normalize -> 0-1
-	vectorize over average -> normalize -> 0-1
-
-	output var
-
-
-by year (<200 * 20 datapoints) but with dataset merge risk
-	normalize -> 0-1
-
-	output var
-
-by year (<200 * 20 datapoints)
-	pytorch mask
-	normalize -> 0-1
-
-	output var
-
-
-https://data.worldbank.org/indicator?tab=all
-
-## Neural network design
-
-https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw/1097#1097
+<sup>1</sup>Youreka Montreal, <sup>2</sup>McGill University
