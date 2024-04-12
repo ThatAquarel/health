@@ -28,5 +28,8 @@ for feature in raw_geojson["features"]:
 
     feature["properties"]["prediction"] = prediction
 
-with open("visualizations/geojson/predictions.geo.json", "w+") as f:
-    json.dump(dict(raw_geojson), f)
+out = json.dumps(dict(raw_geojson))
+js = f"let pred_geojson = {out};"
+
+with open("docs/predictions.js", "w+") as f:
+    f.write(js)
