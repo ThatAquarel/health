@@ -1,9 +1,24 @@
 ## Authors
-Tian Yi Xia<sup>1</sup>, Vlad Marinescu<sup>1</sup>, MinSeo Hur<sup>1</sup>, Ashwini Adhikari<sup>1</sup>, Theodore Philipe<sup>2</sup>, Jessica Liddell<sup>1</sup>   
+Tian Yi Xia<sup>1</sup>, Vlad Marinescu<sup>1</sup>, MinSeo Hur<sup>1</sup>, Ashwini Adhikari<sup>1</sup>, Theodore Philipe<sup>2</sup>, Jessica Liddell<sup>2</sup>   
 
 <sup>1</sup>Youreka Montreal, <sup>2</sup>McGill University
 
 ## Results
+### Confusion matrices in predicting total antibiotic usage
+#### Predicted and actual total antibiotic usage category confusion matrix for training data
+- 2003 to 2017
+
+(Click image to enlarge)
+
+[![Confusion matrix of testing prediction](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2003-2017_confusion_matrix_pred.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2003-2017_confusion_matrix_pred.png)
+
+#### Predicted and actual total antibiotic usage category confusion matrix for testing data
+- 2018
+
+(Click image to enlarge)
+
+[![Confusion matrix of testing prediction](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2018_confusion_matrix_pred.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2018_confusion_matrix_pred.png)
+
 ### Correspondence between top significant indicators and total antibiotic usage
 Worldwide analysis of 2022
 
@@ -23,17 +38,9 @@ Worldwide analysis of 2022
 
 [![Clustermap of top 100 environmental indicators](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_env.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/heatmap_env.png)
 
-### Confusion matrices in predicting total antibiotic usage
-#### Predicted and actual total antibiotic usage category confusion matrix for training data
-- 2003 to 2017
+### Prediction of total antibiotic usage and risk of resistance, category by country
+- 2022
 
-(Click image to enlarge)
+(Click image to interact)
 
-[![Confusion matrix of testing prediction](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2003-2017_confusion_matrix_pred.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2003-2017_confusion_matrix_pred.png)
-
-#### Predicted and actual total antibiotic usage category confusion matrix for testing data
-- 2018
-
-(Click image to enlarge)
-
-[![Confusion matrix of testing prediction](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2018_confusion_matrix_pred.png)](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/prediction/results/2018_confusion_matrix_pred.png)
+[![Predictions map](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/map.PNG)](https://thataquarel.github.io/health/predictions.html)
