@@ -1,3 +1,4 @@
+import copy
 import json
 import pandas as pd
 
@@ -15,6 +16,8 @@ predicted_countries = predicted_countries[[CODE, PRED]]
 with open("visualizations/geojson/countries.geo.json") as f:
     raw_geojson = json.load(f)
 
+
+out_geojson = {"type": "FeatureCollection", "features": []}
 for feature in raw_geojson["features"]:
     country_code = feature["id"]
 
@@ -23,12 +26,14 @@ for feature in raw_geojson["features"]:
             PRED
         ].values[0]
         prediction = int(prediction)
+        feature["properties"]["prediction"] = prediction
+
+        out_geojson["features"].append(feature)
     except IndexError:
         prediction = -1
 
-    feature["properties"]["prediction"] = prediction
 
-out = json.dumps(dict(raw_geojson))
+out = json.dumps(dict(out_geojson))
 js = f"let pred_geojson = {out};"
 
 with open("docs/predictions.js", "w+") as f:
