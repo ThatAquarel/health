@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Predicted antibiotic resistance risk and total antibiotic consumption, 2022</title>
+    <title>
+      Predicted antibiotic resistance risk and total antibiotic consumption,
+      2022
+    </title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -16,13 +23,16 @@
     <script src="predictions.js"></script>
   </head>
   <style>
-    #map {
-      height: 100vh;
-      width: 100vw;
-    }
-
     body {
       margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body,
+    #map {
+      height: 100%;
+      width: 100vw;
     }
 
     .info {
@@ -54,17 +64,19 @@
     <div id="map"></div>
   </body>
   <script>
-    let map = L.map("map").fitBounds([
-      [-180, 90],
-      [180, -45],
-    ]).setZoom(2);
+    let map = L.map("map")
+      .fitBounds([
+        [-180, 90],
+        [180, -45],
+      ])
+      .setZoom(2);
 
     const attributions =
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors,' +
       ' <a href="https://github.com/ThatAquarel/health">Machine Learning for Worldwide Antibiotic Usage and Resistance Prediction</a>';
 
     let tiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19,
+      maxZoom: 7,
       attribution: attributions,
     }).addTo(map);
 
