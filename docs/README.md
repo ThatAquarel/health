@@ -43,4 +43,4 @@ Worldwide analysis of 2022
 
 (Click image to interact)
 
-[![Predictions map](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/visualizations/map.PNG)](https://thataquarel.github.io/health/predictions.html)
+[![Predictions map](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/docs/map.PNG)](https://thataquarel.github.io/health/predictions.html)
