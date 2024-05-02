@@ -1,11 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1714608038 "c:/Users/xia_t/Desktop/Projects/health/visualizations/neural_net/neural_net.tex" "neural_net.pdf" "neural_net" 1714608039 0
+["pdflatex"] 1714609280 "c:/Users/xia_t/Desktop/Projects/health/visualizations/neural_net/neural_net.tex" "neural_net.pdf" "neural_net" 1714609281 0
   "C:/Users/xia_t/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713501069 279772 5e04bc6a4c0fced0159ee0a8748881b7 ""
   "C:/Users/xia_t/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1702643137 24224357 625a08d88a59885e14fdb17878104147 ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
@@ -97,8 +98,8 @@
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/tex/latex/tools/shellesc.sty" 1700599895 4121 f96144e646260251ded7f19bcb6f4e71 ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/xia_t/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/xia_t/Desktop/Projects/health/visualizations/neural_net/neural_net.tex" 1714608037 2039 411623018520bbc1097428625de615e8 ""
-  "neural_net.aux" 1714608039 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/xia_t/Desktop/Projects/health/visualizations/neural_net/neural_net.tex" 1714609279 2616 0db82247ac0bf524da9d9685ab05c3dd ""
+  "neural_net.aux" 1714609281 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "neural_net.aux"
   "neural_net.log"
