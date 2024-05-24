@@ -1,4 +1,7 @@
 ## Authors
+
+[Team](https://raw.githubusercontent.com/ThatAquarel/health/total_antibiotic_usage/docs/team.jpg)
+
 Tian Yi Xia<sup>1</sup>, Vlad Marinescu<sup>1</sup>, MinSeo Hur<sup>1</sup>, Ashwini Adhikari<sup>1</sup>, Theodore Philipe<sup>2</sup>, Jessica Liddell<sup>2</sup>   
 
 <sup>1</sup>Youreka Montreal, <sup>2</sup>McGill University
